@@ -66,10 +66,17 @@
     <e><p><l>diskisyon<s n="n"/></l><r>discussion<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>devlòpman<s n="n"/></l><r>development<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>revolisyon<s n="n"/></l><r>revolution<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>revelasyon<s n="n"/></l><r>revelation<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>pwovèb<s n="n"/></l><r>proverb<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lèt<s n="n"/></l><r>milk<s n="n"/></r></p><par n="ND"/></e>
 
-    <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/></r></p></e>
+    <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+
+    <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
 
     <e><p><l>chanje<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
+    <e><p><l>fè<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
@@ -84,13 +91,14 @@
     <e><p><l>bò<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
     <e><p><l>èvèk<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
 
-
     <e><p><l>lib<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
     <e><p><l>ayisyen<s n="adj"/></l><r>haitian<s n="adj"/></r></p></e>
     <e><p><l>prensipal<s n="adj"/></l><r>principal<s n="adj"/></r></p></e>
     <e><p><l>pèdi<s n="adj"/></l><r>lost<s n="adj"/></r></p></e>
     <e><p><l>syantifik<s n="adj"/></l><r>scientific<s n="adj"/></r></p></e>
     <e><p><l>espesyal<s n="adj"/></l><r>special<s n="adj"/></r></p></e>
+    <e><p><l>domestik<s n="adj"/></l><r>domestic<s n="adj"/></r></p></e>
+    <e><p><l>fèt<s n="adj"/></l><r>made<s n="adj"/></r></p></e>
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
 

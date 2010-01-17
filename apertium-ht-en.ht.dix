@@ -15,6 +15,8 @@
     <sdef n="ij"/>
     <sdef n="np"/>
     <sdef n="top"/>
+    <sdef n="ant"/>
+    <sdef n="m"/>
   </sdefs>
   <pardefs>
     <pardef n="liv__n">
@@ -81,6 +83,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Noe__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="ant"/><s n="m"/></r>
+        </p>
+      </e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
@@ -106,6 +116,9 @@
     <e lm="diskisyon"><i>diskisyon</i><par n="liv__n"/></e>
     <e lm="devlòpman"><i>devlòpman</i><par n="liv__n"/></e>
     <e lm="revolisyon"><i>revolisyon</i><par n="liv__n"/></e>
+    <e lm="revelasyon"><i>revelasyon</i><par n="liv__n"/></e>
+    <e lm="pwovèb"><i>pwovèb</i><par n="liv__n"/></e>
+    <e lm="lèt"><i>lèt</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -113,6 +126,11 @@
     <e lm="syantifik"><i>syantifik</i><par n="lib__adj"/></e>
     <e lm="pèdi"><i>pèdi</i><par n="lib__adj"/></e>
     <e lm="espesyal"><i>espesyal</i><par n="lib__adj"/></e>
+    <e lm="domestik"><i>domestik</i><par n="lib__adj"/></e>
+    <e lm="fèt"><i>fèt</i><par n="lib__adj"/></e>
+
+    <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
+    <e lm="fè"><i>fè</i><par n="chanje__vblex"/></e>
 
     <e lm="souple"><i>souple</i><par n="souple__ij"/></e>
     <e lm="dakò"><i>dakò</i><par n="souple__ij"/></e>
