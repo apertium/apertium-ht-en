@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet></alphabet>
+  <sdefs>
+    <sdef n="vblex"/>
+    <sdef n="vbser"/>
+    <sdef n="vbhaver"/>
+    <sdef n="vaux"/>
+    <sdef n="n"/>
+    <sdef n="adj"/>
+    <sdef n="ij"/>
+    <sdef n="adv"/>
+    <sdef n="itg"/>
+    <sdef n="pr"/>
+  </sdefs>
+  <pardefs>
+  </pardefs>
+  <section id="main" type="standard">
+    <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p></e>
+    <e><p><l>endèks<s n="n"/></l><r>index<s n="n"/></r></p></e>
+    <e><p><l>ansiklopedi<s n="n"/></l><r>encyclopaedia<s n="n"/></r></p></e>
+    <e><p><l>imaj<s n="n"/></l><r>image<s n="n"/></r></p></e>
+    <e><p><l>paj<s n="n"/></l><r>page<s n="n"/></r></p></e>
+    <e><p><l>taksi<s n="n"/></l><r>taxi<s n="n"/></r></p></e>
+    <e><p><l>ewo<s n="n"/></l><r>euro<s n="n"/></r></p></e>
+    <e><p><l>dolar<s n="n"/></l><r>dollar<s n="n"/></r></p></e>
+    <e><p><l>lib<s n="n"/></l><r>pound<s n="n"/></r></p></e>
+    <e><p><l>matematik<s n="n"/></l><r>mathematics<s n="n"/></r></p></e>
+    <e><p><l>fizik<s n="n"/></l><r>physics<s n="n"/></r></p></e>
+    <e><p><l>biyoloji<s n="n"/></l><r>biology<s n="n"/></r></p></e>
+    <e><p><l>medsin<s n="n"/></l><r>medicine<s n="n"/></r></p></e>
+    <e><p><l>istwa<s n="n"/></l><r>history<s n="n"/></r></p></e>
+    <e><p><l>sosyete<s n="n"/></l><r>society<s n="n"/></r></p></e>
+    <e><p><l>edikasyon<s n="n"/></l><r>education<s n="n"/></r></p></e>
+    <e><p><l>literati<s n="n"/></l><r>literature<s n="n"/></r></p></e>
+    <e><p><l>ekonomi<s n="n"/></l><r>economics<s n="n"/></r></p></e>
+    <e><p><l>biyografi<s n="n"/></l><r>biography<s n="n"/></r></p></e>
+    <e i="yes"><p><l>ebòch<s n="n"/></l><r><s n="n"/></r></p></e>
+    <e><p><l>kreyòl<s n="n"/></l><r>creole<s n="n"/></r></p></e>
+    <e><p><l>diskisyon<s n="n"/></l><r>discussion<s n="n"/></r></p></e>
+    <e><p><l>devlòpman<s n="n"/></l><r>development<s n="n"/></r></p></e>
+    <e><p><l>revolisyon<s n="n"/></l><r>revolution<s n="n"/></r></p></e>
+
+    <e><p><l>chanje<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
+
+    <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
+    <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>anho<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
+    <e><p><l>anlè<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
+    <e><p><l>nan<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
+    <e><p><l>dan<s n="pr"/></l><r>within<s n="pr"/></r></p></e>
+    <e><p><l>andidan<s n="pr"/></l><r>inside<s n="pr"/></r></p></e>
+    <e><p><l>ant<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
+    <e><p><l>anpami<s n="pr"/></l><r>among<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>bò<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
+    <e><p><l>bò<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
+    <e><p><l>èvèk<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+
+
+    <e><p><l>lib<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
+    <e><p><l>ayisyen<s n="adj"/></l><r>haitian<s n="adj"/></r></p></e>
+    <e><p><l>prensipal<s n="adj"/></l><r>principal<s n="adj"/></r></p></e>
+    <e><p><l>pèdi<s n="adj"/></l><r>lost<s n="adj"/></r></p></e>
+    <e><p><l>syantifik<s n="adj"/></l><r>scientific<s n="adj"/></r></p></e>
+    <e><p><l>espesyal<s n="adj"/></l><r>special<s n="adj"/></r></p></e>
+
+    <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
+
+    <e><p><l>zewo<s n="num"/></l><r>zero<s n="num"/></r></p></e>
+    <e><p><l>en<s n="num"/></l><r>one<s n="num"/></r></p></e>
+    <e><p><l>de<s n="num"/></l><r>two<s n="num"/></r></p></e>
+    <e><p><l>twa<s n="num"/></l><r>three<s n="num"/></r></p></e>
+    <e><p><l>kat<s n="num"/></l><r>four<s n="num"/></r></p></e>
+    <e><p><l>senk<s n="num"/></l><r>five<s n="num"/></r></p></e>
+    <e><p><l>sis<s n="num"/></l><r>six<s n="num"/></r></p></e>
+    <e><p><l>sèt<s n="num"/></l><r>seven<s n="num"/></r></p></e>
+    <e><p><l>wit<s n="num"/></l><r>eight<s n="num"/></r></p></e>
+    <e><p><l>nèf<s n="num"/></l><r>nine<s n="num"/></r></p></e>
+    <e><p><l>dis<s n="num"/></l><r>ten<s n="num"/></r></p></e>
+    <e><p><l>onz<s n="num"/></l><r>eleven<s n="num"/></r></p></e>
+
+    <e><p><l>souple<s n="ij"/></l><r>please<s n="ij"/></r></p></e>
+    <e><p><l>dakò<s n="ij"/></l><r>ok<s n="ij"/></r></p></e>
+  </section>
+</dictionary>
