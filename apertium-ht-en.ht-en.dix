@@ -12,34 +12,62 @@
     <sdef n="adv"/>
     <sdef n="itg"/>
     <sdef n="pr"/>
+    <sdef n="np"/>
+    <sdef n="top"/>
+    <sdef n="sg"/>
+    <sdef n="pl"/>
+    <sdef n="num"/>
+    <sdef n="ND"/>
   </sdefs>
   <pardefs>
+    <pardef n="ND">
+      <e r="RL">
+        <p>
+          <l></l>
+          <r><s n="sg"/></r>
+        </p>
+      </e>
+      <e r="RL">
+        <p>
+          <l></l>
+          <r><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l></l>
+          <r><s n="ND"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
-    <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p></e>
-    <e><p><l>endèks<s n="n"/></l><r>index<s n="n"/></r></p></e>
-    <e><p><l>ansiklopedi<s n="n"/></l><r>encyclopaedia<s n="n"/></r></p></e>
-    <e><p><l>imaj<s n="n"/></l><r>image<s n="n"/></r></p></e>
-    <e><p><l>paj<s n="n"/></l><r>page<s n="n"/></r></p></e>
-    <e><p><l>taksi<s n="n"/></l><r>taxi<s n="n"/></r></p></e>
-    <e><p><l>ewo<s n="n"/></l><r>euro<s n="n"/></r></p></e>
-    <e><p><l>dolar<s n="n"/></l><r>dollar<s n="n"/></r></p></e>
-    <e><p><l>lib<s n="n"/></l><r>pound<s n="n"/></r></p></e>
-    <e><p><l>matematik<s n="n"/></l><r>mathematics<s n="n"/></r></p></e>
-    <e><p><l>fizik<s n="n"/></l><r>physics<s n="n"/></r></p></e>
-    <e><p><l>biyoloji<s n="n"/></l><r>biology<s n="n"/></r></p></e>
-    <e><p><l>medsin<s n="n"/></l><r>medicine<s n="n"/></r></p></e>
-    <e><p><l>istwa<s n="n"/></l><r>history<s n="n"/></r></p></e>
-    <e><p><l>sosyete<s n="n"/></l><r>society<s n="n"/></r></p></e>
-    <e><p><l>edikasyon<s n="n"/></l><r>education<s n="n"/></r></p></e>
-    <e><p><l>literati<s n="n"/></l><r>literature<s n="n"/></r></p></e>
-    <e><p><l>ekonomi<s n="n"/></l><r>economics<s n="n"/></r></p></e>
-    <e><p><l>biyografi<s n="n"/></l><r>biography<s n="n"/></r></p></e>
-    <e i="yes"><p><l>ebòch<s n="n"/></l><r><s n="n"/></r></p></e>
-    <e><p><l>kreyòl<s n="n"/></l><r>creole<s n="n"/></r></p></e>
-    <e><p><l>diskisyon<s n="n"/></l><r>discussion<s n="n"/></r></p></e>
-    <e><p><l>devlòpman<s n="n"/></l><r>development<s n="n"/></r></p></e>
-    <e><p><l>revolisyon<s n="n"/></l><r>revolution<s n="n"/></r></p></e>
+    <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>endèks<s n="n"/></l><r>index<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>ansiklopedi<s n="n"/></l><r>encyclopaedia<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>imaj<s n="n"/></l><r>image<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>paj<s n="n"/></l><r>page<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>taksi<s n="n"/></l><r>taxi<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>ewo<s n="n"/></l><r>euro<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>dolar<s n="n"/></l><r>dollar<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lib<s n="n"/></l><r>pound<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>matematik<s n="n"/></l><r>mathematics<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>fizik<s n="n"/></l><r>physics<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>biyoloji<s n="n"/></l><r>biology<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>medsin<s n="n"/></l><r>medicine<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>istwa<s n="n"/></l><r>history<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>sosyete<s n="n"/></l><r>society<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>edikasyon<s n="n"/></l><r>education<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>literati<s n="n"/></l><r>literature<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>ekonomi<s n="n"/></l><r>economics<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>biyografi<s n="n"/></l><r>biography<s n="n"/></r></p><par n="ND"/></e>
+    <e i="yes"><p><l>ebòch<s n="n"/></l><r><s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kreyòl<s n="n"/></l><r>creole<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>diskisyon<s n="n"/></l><r>discussion<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>devlòpman<s n="n"/></l><r>development<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>revolisyon<s n="n"/></l><r>revolution<s n="n"/></r></p><par n="ND"/></e>
+
+    <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/></r></p></e>
 
     <e><p><l>chanje<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
 

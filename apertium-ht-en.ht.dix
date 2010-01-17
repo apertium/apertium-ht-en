@@ -13,6 +13,8 @@
     <sdef n="itg"/>
     <sdef n="num"/>
     <sdef n="ij"/>
+    <sdef n="np"/>
+    <sdef n="top"/>
   </sdefs>
   <pardefs>
     <pardef n="liv__n">
@@ -71,6 +73,15 @@
         </p>
       </e>
     </pardef>
+    <pardef n="Ayiti__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="top"/></r>
+        </p>
+      </e>
+    </pardef>
+
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
@@ -107,6 +118,9 @@
     <e lm="dakò"><i>dakò</i><par n="souple__ij"/></e>
 
     <e lm="koumon"><i>koumon</i><par n="koumon__adv"/></e>
+
+    <e lm="Ayiti"><i>Ayiti</i><par n="Ayiti__np"/></e>
+    <e lm="Azi"><i>Azi</i><par n="Ayiti__np"/></e>
 
     <e lm="an"><i>an</i><par n="an__pr"/></e>
     <e lm="asou"><i>asou</i><par n="an__pr"/></e>
