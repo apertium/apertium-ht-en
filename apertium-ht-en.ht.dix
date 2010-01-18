@@ -336,6 +336,8 @@
     <e lm="bèt"><i>bèt</i><par n="liv__n"/></e>
     <e lm="maten"><i>maten</i><par n="liv__n"/></e>
     <e lm="benediksyon"><i>benediksyon</i><par n="liv__n"/></e>
+    <e lm="latè"><i>latè</i><par n="liv__n"/></e>
+    <e lm="fòm"><i>fòm</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -389,6 +391,7 @@
     <e lm="li"><i>li</i><par n="chanje__vblex"/></e>
     <e lm="di"><i>di</i><par n="chanje__vblex"/></e>
     <e lm="ekri"><i>ekri</i><par n="chanje__vblex"/></e>
+    <e lm="kouvri"><i>kouvri</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -427,6 +430,7 @@
 
     <e lm="Ayiti"><i>Ayiti</i><par n="Ayiti__np"/></e>
     <e lm="Azi"><i>Azi</i><par n="Ayiti__np"/></e>
+    <e lm="Edenn"><i>Edenn</i><par n="Ayiti__np"/></e>
 
     <e lm="e"><i>e</i><par n="e__cnjcoo"/></e>
 
@@ -441,6 +445,7 @@
     <e lm="anpami"><i>anpami</i><par n="an__pr"/></e>
     <e lm="bò"><i>bò</i><par n="an__pr"/></e>
     <e lm="èvèk"><i>èvèk</i><par n="an__pr"/></e>
+    <e lm="pandan"><i>pandan</i><par n="an__pr"/></e>
 
     <e lm="zewo"><i>zewo</i><par n="en__num"/></e>
     <e lm="en"><i>en</i><par n="en__num"/></e>
