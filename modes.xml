@@ -19,4 +19,38 @@
       </program>
     </pipeline>
   </mode>
+  
+  <mode name="ht-en-automorf" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="ht-en.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  <mode name="ht-en-tagger" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="ht-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ht-en.prob"/>
+      </program>
+    </pipeline>
+  </mode>
+  <mode name="ht-en-transfer" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="ht-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ht-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-ht-en.ht-en.t1x"/>
+        <file name="ht-en.t1x.bin"/>
+        <file name="ht-en.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
 </modes>
