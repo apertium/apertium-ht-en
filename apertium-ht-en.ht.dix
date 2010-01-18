@@ -17,6 +17,10 @@
     <sdef n="top"/>
     <sdef n="ant"/>
     <sdef n="m"/>
+    <sdef n="det"/>
+    <sdef n="ord"/>
+    <sdef n="sp"/>
+    <sdef n="part"/>
   </sdefs>
   <pardefs>
     <pardef n="liv__n">
@@ -91,6 +95,22 @@
         </p>
       </e>
     </pardef>
+    <pardef n="premye__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="ord"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="te__part">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="part"/></r>
+        </p>
+      </e>
+    </pardef>
 
   </pardefs>
   <section id="main" type="standard">
@@ -120,6 +140,11 @@
     <e lm="pwovèb"><i>pwovèb</i><par n="liv__n"/></e>
     <e lm="lèt"><i>lèt</i><par n="liv__n"/></e>
     <e lm="lang"><i>lang</i><par n="liv__n"/></e>
+    <e lm="atansyon"><i>atansyon</i><par n="liv__n"/></e>
+    <e lm="amou"><i>amou</i><par n="liv__n"/></e>
+    <e lm="simèn"><i>simèn</i><par n="liv__n"/></e>
+    <e lm="nonm"><i>nonm</i><par n="liv__n"/></e>
+    <e lm="fanm"><i>fanm</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -136,11 +161,25 @@
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
     <e lm="fè"><i>fè</i><par n="chanje__vblex"/></e>
     <e lm="reflete"><i>reflete</i><par n="chanje__vblex"/></e>
+    <e lm="achte"><i>achte</i><par n="chanje__vblex"/></e>
+    <e lm="kreye"><i>kreye</i><par n="chanje__vblex"/></e>
+    <e lm="manje"><i>manje</i><par n="chanje__vblex"/></e>
+    <e lm="pale"><i>pale</i><par n="chanje__vblex"/></e>
+
+    <e lm="te"><i>te</i><par n="te__part"/></e>
+    <e lm="a"><i>a</i><par n="te__part"/></e>
+    <e lm="ap"><i>ap</i><par n="te__part"/></e>
+    <e lm="tap"><i>tap</i><par n="te__part"/></e>
+    <e lm="t ap"><i>t<b/>ap</i><par n="te__part"/></e>
+    <e lm="ta"><i>ta</i><par n="te__part"/></e>
+    <e lm="pral"><i>pral</i><par n="te__part"/></e>
 
     <e lm="souple"><i>souple</i><par n="souple__ij"/></e>
     <e lm="dakò"><i>dakò</i><par n="souple__ij"/></e>
 
     <e lm="koumon"><i>koumon</i><par n="koumon__adv"/></e>
+
+    <e lm="premye"><i>premye</i><par n="premye__det"/></e>
 
     <e lm="Ayiti"><i>Ayiti</i><par n="Ayiti__np"/></e>
     <e lm="Azi"><i>Azi</i><par n="Ayiti__np"/></e>
