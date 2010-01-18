@@ -34,6 +34,7 @@
     <sdef n="part"/>
     <sdef n="cnjcoo"/>
     <sdef n="cnjadv"/>
+    <sdef n="uns"/>
   </sdefs>
   <pardefs>
     <pardef n="e__cnjcoo">
@@ -104,6 +105,14 @@
         <p>
           <l></l>
           <r><s n="vbmod"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="ka__vaux">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vaux"/></r>
         </p>
       </e>
     </pardef>
@@ -191,7 +200,7 @@
       <e>
         <p>
           <l>ou</l>
-          <r>prpers<s n="prn"/><s n="ind"/><s n="p2"/><s n="mf"/><s n="sg"/></r>
+          <r>prpers<s n="prn"/><s n="ind"/><s n="p2"/><s n="mf"/><s n="sp"/></r>
         </p>
       </e>
       <e>
@@ -202,8 +211,44 @@
       </e>
       <e>
         <p>
+          <l>nou</l>
+          <r>prpers<s n="prn"/><s n="ind"/><s n="p1"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>yo</l>
+          <r>prpers<s n="prn"/><s n="ind"/><s n="p3"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
           <l>m</l>
-          <r>prpers<s n="prn"/><s n="ind"/><s n="p1"/><s n="mf"/><s n="sg"/></r>
+          <r>prpers<s n="prn"/><s n="uns"/><s n="p1"/><s n="mf"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>w</l>
+          <r>prpers<s n="prn"/><s n="uns"/><s n="p2"/><s n="mf"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>l</l>
+          <r>prpers<s n="prn"/><s n="uns"/><s n="p3"/><s n="mf"/><s n="sg"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>n</l>
+          <r>prpers<s n="prn"/><s n="uns"/><s n="p1"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>y</l>
+          <r>prpers<s n="prn"/><s n="uns"/><s n="p3"/><s n="mf"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
@@ -247,6 +292,8 @@
     <e lm="èd"><i>èd</i><par n="liv__n"/></e>
     <e lm="kay"><i>kay</i><par n="liv__n"/></e>
     <e lm="manje"><i>manje</i><par n="liv__n"/></e>
+    <e lm="ide"><i>ide</i><par n="liv__n"/></e>
+    <e lm="doktè"><i>doktè</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -263,12 +310,16 @@
     <e lm="oranj"><i>oranj</i><par n="lib__adj"/></e>
     <e lm="vèt"><i>vèt</i><par n="lib__adj"/></e>
     <e lm="wouj"><i>wouj</i><par n="lib__adj"/></e>
+    <e lm="nouvo"><i>nouvo</i><par n="lib__adj"/></e>
+    <e lm="bon"><i>bon</i><par n="lib__adj"/></e>
 
     <e lm="ki"><i>ki</i><par n="ki__rel"/></e>
 
     <e lm="si"><i>si</i><par n="si__cnjadv"/></e>
 
     <e lm="vle"><i>vle</i><par n="vle__vbmod"/></e>
+    <e lm="ka"><i>ka</i><par n="ka__vaux"/></e>
+    <e lm="kapab"><i>kapab</i><par n="ka__vaux"/></e>
 
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
     <e lm="fè"><i>fè</i><par n="chanje__vblex"/></e>

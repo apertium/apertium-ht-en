@@ -25,6 +25,7 @@
     <sdef n="pl"/>
     <sdef n="num"/>
     <sdef n="ND"/>
+    <sdef n="sint"/>
   </sdefs>
   <pardefs>
     <pardef n="ND">
@@ -94,6 +95,8 @@
     <e r="RL"><p><l>èd<s n="n"/></l><r>aid<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>kay<s n="n"/></l><r>house<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>manje<s n="n"/></l><r>food<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>ide<s n="n"/></l><r>idea<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>doktè<s n="n"/></l><r>doctor<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -105,6 +108,8 @@
     <e><p><l>si<s n="cnjadv"/></l><r>if<s n="cnjadv"/></r></p></e>
 
     <e><p><l>vle<s n="vbmod"/></l><r>want<g><b/>to</g><s n="vbmod"/></r></p></e>
+    <e><p><l>ka<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
+    <e r="LR"><p><l>kapab<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
 
     <e><p><l>chanje<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
     <e><p><l>fè<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
@@ -151,6 +156,9 @@
     <e><p><l>nwa<s n="adj"/></l><r>black<s n="adj"/></r></p></e>
     <e><p><l>wouj<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
     <e><p><l>oranj<s n="adj"/></l><r>orange<s n="adj"/></r></p></e>
+    <e><p><l>nouvo<s n="adj"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>bon<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>malad<s n="adj"/></l><r>sick<s n="adj"/></r></p></e>
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
 
