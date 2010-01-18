@@ -128,10 +128,14 @@
     <e><p><l>fòm<s n="n"/></l><r>form<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>fènwa<s n="n"/></l><r>darkness<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>lannwit<s n="n"/></l><r>night<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>larivyè<s n="n"/></l><r>river<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>manman<s n="n"/></l><r>mother<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>papa<s n="n"/></l><r>father<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Edenn<s n="np"/><s n="top"/></l><r>Eden<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Giyon<s n="np"/><s n="top"/></l><r>Gihon<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 
     <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
 
@@ -175,6 +179,10 @@
     <e><p><l>pase<s n="vblex"/></l><r>pass<s n="vblex"/></r></p></e>
     <e><p><l>rive<s n="vblex"/></l><r>arrive<s n="vblex"/></r></p></e>
     <e><p><l>gade<s n="vblex"/></l><r>look<s n="vblex"/></r></p></e>
+    <e><p><l>mouri<s n="vblex"/></l><r>die<s n="vblex"/></r></p></e>
+    <e><p><l>rele<s n="vblex"/></l><r>name<s n="vblex"/></r></p></e>
+    <e><p><l>fin<s n="vblex"/></l><r>finish<s n="vblex"/></r></p></e>
+    <e><p><l>travay<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
@@ -187,7 +195,8 @@
     <e><p><l>anpami<s n="pr"/></l><r>among<s n="pr"/></r></p></e>
     <e r="RL"><p><l>bò<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
     <e><p><l>bò<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
-    <e><p><l>èvèk<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>èvèk<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+    <e><p><l>avèk<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>pandan<s n="pr"/></l><r>during<s n="pr"/></r></p></e>
 
     <e><p><l>lib<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
