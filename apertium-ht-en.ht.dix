@@ -333,6 +333,9 @@
     <e lm="desanm"><i>desanm</i><par n="liv__n"/></e>
     <e lm="jou"><i>jou</i><par n="liv__n"/></e>
     <e lm="avètisman"><i>avètisman</i><par n="liv__n"/></e>
+    <e lm="bèt"><i>bèt</i><par n="liv__n"/></e>
+    <e lm="maten"><i>maten</i><par n="liv__n"/></e>
+    <e lm="benediksyon"><i>benediksyon</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -416,8 +419,11 @@
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
     <e lm="dezyèm"><i>dezyèm</i><par n="premye__det"/></e>
     <e lm="twazyèm"><i>twazyèm</i><par n="premye__det"/></e>
+    <e lm="katriyèm"><i>katriyèm</i><par n="premye__det"/></e>
+    <e lm="senkyèm"><i>senkyèm</i><par n="premye__det"/></e>
     <e lm="mwen"><i>mwen</i><par n="mwen__det"/></e>
     <e lm="yon"><i>yon</i><par n="yon__det"/></e>
+    <e lm="tout"><i>tout</i><par n="yon__det"/></e>
 
     <e lm="Ayiti"><i>Ayiti</i><par n="Ayiti__np"/></e>
     <e lm="Azi"><i>Azi</i><par n="Ayiti__np"/></e>

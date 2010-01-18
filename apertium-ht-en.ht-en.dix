@@ -53,6 +53,7 @@
     <e><p><l>e<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>yon<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>tout<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
     
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>chyen<s n="n"/></l><r>dog<s n="n"/></r></p><par n="ND"/></e>
@@ -119,6 +120,10 @@
     <e><p><l>novanm<s n="n"/></l><r>November<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>desanm<s n="n"/></l><r>December<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>avètisman<s n="n"/></l><r>warning<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>bèt<s n="n"/></l><r>animal<s n="n"/></r></p><par n="ND"/></e>
+    <e r="RL"><p><l>bèt<s n="n"/></l><r>beast<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>maten<s n="n"/></l><r>morning<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>benediksyon<s n="n"/></l><r>benediction<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -128,6 +133,8 @@
     <e><p><l>premye<s n="det"/></l><r>first<s n="det"/></r></p></e>
     <e><p><l>dezyèm<s n="det"/></l><r>second<s n="det"/></r></p></e>
     <e><p><l>twazyèm<s n="det"/></l><r>third<s n="det"/></r></p></e>
+    <e><p><l>katriyèm<s n="det"/></l><r>fourth<s n="det"/></r></p></e>
+    <e><p><l>senkyèm<s n="det"/></l><r>fifth<s n="det"/></r></p></e>
     <e><p><l>mwen<s n="det"/></l><r>my<s n="det"/></r></p></e>
 
     <e><p><l>si<s n="cnjadv"/></l><r>if<s n="cnjadv"/></r></p></e>
