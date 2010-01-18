@@ -332,6 +332,7 @@
     <e lm="novanm"><i>novanm</i><par n="liv__n"/></e>
     <e lm="desanm"><i>desanm</i><par n="liv__n"/></e>
     <e lm="jou"><i>jou</i><par n="liv__n"/></e>
+    <e lm="avètisman"><i>avètisman</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -384,6 +385,7 @@
     <e lm="etidye"><i>etidye</i><par n="chanje__vblex"/></e>
     <e lm="li"><i>li</i><par n="chanje__vblex"/></e>
     <e lm="di"><i>di</i><par n="chanje__vblex"/></e>
+    <e lm="ekri"><i>ekri</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -396,6 +398,9 @@
 
     <e lm="souple"><i>souple</i><par n="souple__ij"/></e>
     <e lm="dakò"><i>dakò</i><par n="souple__ij"/></e>
+    <e lm="bonjou"><i>bonjou</i><par n="souple__ij"/></e>
+    <e lm="bonswa"><i>bonswa</i><par n="souple__ij"/></e>
+    <e lm="byensi"><i>byensi</i><par n="souple__ij"/></e>
 
     <e lm="koumon"><i>koumon</i><par n="koumon__adv"/></e>
 

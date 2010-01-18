@@ -118,6 +118,7 @@
     <e><p><l>oktòb<s n="n"/></l><r>October<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>novanm<s n="n"/></l><r>November<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>desanm<s n="n"/></l><r>December<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>avètisman<s n="n"/></l><r>warning<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -156,6 +157,7 @@
     <e><p><l>etidye<s n="vblex"/></l><r>study<s n="vblex"/></r></p></e>
     <e><p><l>li<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
     <e><p><l>di<s n="vblex"/></l><r>tell<s n="vblex"/></r></p></e>
+    <e><p><l>ekri<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
@@ -234,5 +236,8 @@
 
     <e><p><l>souple<s n="ij"/></l><r>please<s n="ij"/></r></p></e>
     <e><p><l>dakò<s n="ij"/></l><r>ok<s n="ij"/></r></p></e>
+    <e><p><l>bonjou<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
+    <e><p><l>bonswa<s n="ij"/></l><r>good<b/>evening<s n="ij"/></r></p></e>
+    <e><p><l>byensi<s n="ij"/></l><r>of<b/>course<s n="ij"/></r></p></e>
   </section>
 </dictionary>
