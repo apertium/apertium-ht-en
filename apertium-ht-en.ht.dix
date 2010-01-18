@@ -239,8 +239,6 @@
     <e lm="vèt"><i>vèt</i><par n="lib__adj"/></e>
     <e lm="wouj"><i>wouj</i><par n="lib__adj"/></e>
 
-    <e lm="isit"><i>isit</i><par n="isit__adv"/></e>
-
     <e lm="ki"><i>ki</i><par n="ki__rel"/></e>
 
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
@@ -267,9 +265,11 @@
     <e lm="dakò"><i>dakò</i><par n="souple__ij"/></e>
 
     <e lm="koumon"><i>koumon</i><par n="koumon__adv"/></e>
-    <e lm="lonton"><i>lonton</i><par n="koumon__adv"/></e>
-    <e lm="yè"><i>yè</i><par n="koumon__adv"/></e>
-    <e lm="l demen"><i>l<b/>demen</i><par n="koumon__adv"/></e>
+
+    <e lm="isit"><i>isit</i><par n="isit__adv"/></e>
+    <e lm="lonton"><i>lonton</i><par n="isit__adv"/></e>
+    <e lm="yè"><i>yè</i><par n="isit__adv"/></e>
+    <e lm="l demen"><i>l<b/>demen</i><par n="isit__adv"/></e>
 
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
     <e lm="yon"><i>yon</i><par n="yon__det"/></e>
