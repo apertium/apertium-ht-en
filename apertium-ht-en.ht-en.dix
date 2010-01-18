@@ -5,8 +5,10 @@
     <sdef n="vblex"/>
     <sdef n="vbser"/>
     <sdef n="det"/>
+    <sdef n="cnjcoo"/>
     <sdef n="vbhaver"/>
     <sdef n="vaux"/>
+    <sdef n="ind"/>
     <sdef n="n"/>
     <sdef n="adj"/>
     <sdef n="ij"/>
@@ -43,7 +45,12 @@
     </pardef>
   </pardefs>
   <section id="main" type="standard">
+    <e><p><l>e<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+
+    <e><p><l>yon<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
+    
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>chyen<s n="n"/></l><r>dog<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>endèks<s n="n"/></l><r>index<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ansiklopedi<s n="n"/></l><r>encyclopaedia<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>imaj<s n="n"/></l><r>image<s n="n"/></r></p><par n="ND"/></e>

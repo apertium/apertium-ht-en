@@ -202,7 +202,7 @@
     <e lm="a"><i>a</i><par n="te__part"/></e>
     <e lm="ap"><i>ap</i><par n="te__part"/></e>
     <e lm="tap"><i>tap</i><par n="te__part"/></e>
-    <e lm="t ap"><i>t<b/>ap</i><par n="te__part"/></e>
+    <e lm="t ap" r="LR"><p><l>t<b/>ap</l><r>tap</r></p><par n="te__part"/></e>
     <e lm="ta"><i>ta</i><par n="te__part"/></e>
     <e lm="pral"><i>pral</i><par n="te__part"/></e>
     <e lm="yo"><i>yo</i><par n="te__part"/></e>

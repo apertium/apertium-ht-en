@@ -1,8 +1,10 @@
 <transfer default="chunk">
   <section-def-cats>
     <def-cat n="nom">
+      <cat-item tags="n"/>
       <cat-item tags="n.*"/>
       <cat-item tags="np.top"/>
+      <cat-item tags="np.top.*"/>
     </def-cat>
 
     <def-cat n="verb">
