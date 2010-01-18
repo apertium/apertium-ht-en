@@ -312,6 +312,25 @@
     <e lm="ide"><i>ide</i><par n="liv__n"/></e>
     <e lm="doktè"><i>doktè</i><par n="liv__n"/></e>
     <e lm="frè"><i>frè</i><par n="liv__n"/></e>
+    <e lm="lendi"><i>lendi</i><par n="liv__n"/></e>
+    <e lm="madi"><i>madi</i><par n="liv__n"/></e>
+    <e lm="mekredi"><i>mekredi</i><par n="liv__n"/></e>
+    <e lm="jedi"><i>jedi</i><par n="liv__n"/></e>
+    <e lm="vandredi"><i>vandredi</i><par n="liv__n"/></e>
+    <e lm="samdi"><i>samdi</i><par n="liv__n"/></e>
+    <e lm="dimanch"><i>dimanch</i><par n="liv__n"/></e>
+    <e lm="janvye"><i>janvye</i><par n="liv__n"/></e>
+    <e lm="fevriye"><i>fevriye</i><par n="liv__n"/></e>
+    <e lm="mas"><i>mas</i><par n="liv__n"/></e>
+    <e lm="avril"><i>avril</i><par n="liv__n"/></e>
+    <e lm="me"><i>me</i><par n="liv__n"/></e>
+    <e lm="jen"><i>jen</i><par n="liv__n"/></e>
+    <e lm="jiyè"><i>jiyè</i><par n="liv__n"/></e>
+    <e lm="dawon"><i>dawon</i><par n="liv__n"/></e>
+    <e lm="septanm"><i>septanm</i><par n="liv__n"/></e>
+    <e lm="oktòb"><i>oktòb</i><par n="liv__n"/></e>
+    <e lm="novanm"><i>novanm</i><par n="liv__n"/></e>
+    <e lm="desanm"><i>desanm</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>

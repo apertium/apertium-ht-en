@@ -98,6 +98,25 @@
     <e><p><l>ide<s n="n"/></l><r>idea<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>doktè<s n="n"/></l><r>doctor<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>frè<s n="n"/></l><r>brother<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lendi<s n="n"/></l><r>monday<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>madi<s n="n"/></l><r>tuesday<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>mekredi<s n="n"/></l><r>wednesday<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>jedi<s n="n"/></l><r>thursday<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>vandredi<s n="n"/></l><r>friday<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>samdi<s n="n"/></l><r>saturday<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>dimanch<s n="n"/></l><r>sunday<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>janvye<s n="n"/></l><r>January<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>fevriye<s n="n"/></l><r>February<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>mas<s n="n"/></l><r>March<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>avril<s n="n"/></l><r>April<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>me<s n="n"/></l><r>May<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>jen<s n="n"/></l><r>June<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>jiyè<s n="n"/></l><r>July<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>dawon<s n="n"/></l><r>August<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>septanm<s n="n"/></l><r>September<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>oktòb<s n="n"/></l><r>October<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>novanm<s n="n"/></l><r>November<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>desanm<s n="n"/></l><r>December<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
