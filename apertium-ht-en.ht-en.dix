@@ -83,6 +83,9 @@
     <e><p><l>simèn<s n="n"/></l><r>week<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>nonm<s n="n"/></l><r>man<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>fanm<s n="n"/></l><r>woman<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>an<s n="n"/></l><r>year<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>chyen<s n="n"/></l><r>dog<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>chat<s n="n"/></l><r>cat<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -90,6 +93,8 @@
     <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
 
     <e><p><l>premye<s n="det"/></l><r>first<s n="det"/></r></p></e>
+
+    <e><p><l>isit<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
 
     <e><p><l>chanje<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
     <e><p><l>fè<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
@@ -125,11 +130,17 @@
     <e><p><l>lengwistik<s n="adj"/></l><r>linguistic<s n="adj"/></r></p></e>
     <e><p><l>franse<s n="adj"/></l><r>French<s n="adj"/></r></p></e>
     <e><p><l>angle<s n="adj"/></l><r>English<s n="adj"/></r></p></e>
+    <e><p><l>vèt<s n="adj"/></l><r>green<s n="adj"/></r></p></e>
+    <e><p><l>nwa<s n="adj"/></l><r>black<s n="adj"/></r></p></e>
+    <e><p><l>wouj<s n="adj"/></l><r>red<s n="adj"/></r></p></e>
+    <e><p><l>oranj<s n="adj"/></l><r>orange<s n="adj"/></r></p></e>
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>lontan<s n="adv"/></l><r>for<b/>a<b/>long<b/>time<s n="adv"/></r></p></e>
     <e><p><l>yè<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
     <e><p><l>l<b/>demen<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
+
+    <e><p><l>ki<s n="rel"/><s n="an"/></l><r>who<s n="rel"/><s n="an"/></r></p></e>
 
     <e><p><l>zewo<s n="num"/></l><r>zero<s n="num"/></r></p></e>
     <e><p><l>en<s n="num"/></l><r>one<s n="num"/></r></p></e>
