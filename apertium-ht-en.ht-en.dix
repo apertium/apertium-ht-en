@@ -53,6 +53,20 @@
         </p>
       </e>
     </pardef>
+    <pardef n="mil">
+      <e>
+        <p>
+          <l>mil<s n="num"/></l>
+          <r><b/>thousand<s n="num"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l><s n="num"/></l>
+          <r><s n="num"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e><p><l>e<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
@@ -235,6 +249,7 @@
     <e r="LR"><p><l>ak<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>d<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
     <e><p><l>pou<s n="pr"/></l><r>in<b/>order<b/>to<s n="pr"/></r></p></e>
+    <e><p><l>sou<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
 
     <e><p><l>lib<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
     <e><p><l>ayisyen<s n="adj"/></l><r>Haitian<s n="adj"/></r></p></e>
@@ -273,37 +288,39 @@
 
     <e><p><l>ki<s n="rel"/><s n="an"/></l><r>who<s n="rel"/><s n="an"/></r></p></e>
 
-    <e><p><l>zewo<s n="num"/></l><r>zero<s n="num"/></r></p></e>
-    <e><p><l>en<s n="num"/></l><r>one<s n="num"/></r></p></e>
-    <e><p><l>de<s n="num"/></l><r>two<s n="num"/></r></p></e>
-    <e><p><l>twa<s n="num"/></l><r>three<s n="num"/></r></p></e>
-    <e><p><l>kat<s n="num"/></l><r>four<s n="num"/></r></p></e>
-    <e><p><l>senk<s n="num"/></l><r>five<s n="num"/></r></p></e>
-    <e><p><l>sis<s n="num"/></l><r>six<s n="num"/></r></p></e>
-    <e><p><l>sèt<s n="num"/></l><r>seven<s n="num"/></r></p></e>
-    <e><p><l>wit<s n="num"/></l><r>eight<s n="num"/></r></p></e>
-    <e><p><l>nèf<s n="num"/></l><r>nine<s n="num"/></r></p></e>
-    <e><p><l>dis<s n="num"/></l><r>ten<s n="num"/></r></p></e>
-    <e><p><l>onz<s n="num"/></l><r>eleven<s n="num"/></r></p></e>
-    <e><p><l>douz<s n="num"/></l><r>twelve<s n="num"/></r></p></e>
-    <e><p><l>trèz<s n="num"/></l><r>thirteen<s n="num"/></r></p></e>
-    <e><p><l>katòz<s n="num"/></l><r>fourteen<s n="num"/></r></p></e>
-    <e><p><l>kenz<s n="num"/></l><r>fifteen<s n="num"/></r></p></e>
-    <e><p><l>sèz<s n="num"/></l><r>sixteen<s n="num"/></r></p></e>
-    <e><p><l>disèt<s n="num"/></l><r>seventeen<s n="num"/></r></p></e>
-    <e><p><l>dizuit<s n="num"/></l><r>eighteen<s n="num"/></r></p></e>
-    <e><p><l>diznèf<s n="num"/></l><r>nineteen<s n="num"/></r></p></e>
-    <e><p><l>ven<s n="num"/></l><r>twenty<s n="num"/></r></p></e>
-    <e><p><l>venteyen<s n="num"/></l><r>twenty-one<s n="num"/></r></p></e>
-    <e><p><l>vennde<s n="num"/></l><r>twenty-two<s n="num"/></r></p></e>
-    <e><p><l>venntwa<s n="num"/></l><r>twenty-three<s n="num"/></r></p></e>
-    <e><p><l>vennkat<s n="num"/></l><r>twenty-four<s n="num"/></r></p></e>
-    <e><p><l>vennsenk<s n="num"/></l><r>twenty-five<s n="num"/></r></p></e>
-    <e><p><l>vennsis<s n="num"/></l><r>twenty-six<s n="num"/></r></p></e>
-    <e><p><l>vennsèt<s n="num"/></l><r>twenty-seven<s n="num"/></r></p></e>
-    <e><p><l>ventwit<s n="num"/></l><r>twenty-eight<s n="num"/></r></p></e>
-    <e><p><l>ventnèf<s n="num"/></l><r>twenty-nine<s n="num"/></r></p></e>
-    <e><p><l>trant<s n="num"/></l><r>thirty<s n="num"/></r></p></e>
+    <e><p><l>zewo</l><r>zero</r></p><par n="mil"/></e>
+    <e><p><l>en</l><r>one</r></p><par n="mil"/></e>
+    <e><p><l>de</l><r>two</r></p><par n="mil"/></e>
+    <e><p><l>twa</l><r>three</r></p><par n="mil"/></e>
+    <e><p><l>kat</l><r>four</r></p><par n="mil"/></e>
+    <e><p><l>senk</l><r>five</r></p><par n="mil"/></e>
+    <e><p><l>sis</l><r>six</r></p><par n="mil"/></e>
+    <e><p><l>sèt</l><r>seven</r></p><par n="mil"/></e>
+    <e><p><l>wit</l><r>eight</r></p><par n="mil"/></e>
+    <e><p><l>nèf</l><r>nine</r></p><par n="mil"/></e>
+    <e><p><l>dis</l><r>ten</r></p><par n="mil"/></e>
+    <e><p><l>onz</l><r>eleven</r></p><par n="mil"/></e>
+    <e><p><l>douz</l><r>twelve</r></p><par n="mil"/></e>
+    <e><p><l>trèz</l><r>thirteen</r></p><par n="mil"/></e>
+    <e><p><l>katòz</l><r>fourteen</r></p><par n="mil"/></e>
+    <e><p><l>kenz</l><r>fifteen</r></p><par n="mil"/></e>
+    <e><p><l>sèz</l><r>sixteen</r></p><par n="mil"/></e>
+    <e><p><l>disèt</l><r>seventeen</r></p><par n="mil"/></e>
+    <e><p><l>dizuit</l><r>eighteen</r></p><par n="mil"/></e>
+    <e><p><l>diznèf</l><r>nineteen</r></p><par n="mil"/></e>
+    <e><p><l>ven</l><r>twenty</r></p><par n="mil"/></e>
+    <e><p><l>venteyen</l><r>twenty-one</r></p><par n="mil"/></e>
+    <e><p><l>vennde</l><r>twenty-two</r></p><par n="mil"/></e>
+    <e><p><l>venntwa</l><r>twenty-three</r></p><par n="mil"/></e>
+    <e><p><l>vennkat</l><r>twenty-four</r></p><par n="mil"/></e>
+    <e><p><l>vennsenk</l><r>twenty-five</r></p><par n="mil"/></e>
+    <e><p><l>vennsis</l><r>twenty-six</r></p><par n="mil"/></e>
+    <e><p><l>vennsèt</l><r>twenty-seven</r></p><par n="mil"/></e>
+    <e><p><l>ventwit</l><r>twenty-eight</r></p><par n="mil"/></e>
+    <e><p><l>ventnèf</l><r>twenty-nine</r></p><par n="mil"/></e>
+    <e><p><l>trant</l><r>thirty</r></p><par n="mil"/></e>
+    <e><p><l>swasanndis</l><r>seventy</r></p><par n="mil"/></e>
+
 
     <e><p><l>souple<s n="ij"/></l><r>please<s n="ij"/></r></p></e>
     <e><p><l>dakò<s n="ij"/></l><r>ok<s n="ij"/></r></p></e>

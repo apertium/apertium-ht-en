@@ -89,6 +89,12 @@
           <r><s n="num"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l>mil</l>
+          <r>mil<s n="num"/></r>
+        </p>
+      </e>
     </pardef>
     <pardef n="souple__ij">
       <e>
@@ -445,6 +451,7 @@
     <e lm="ap"><i>ap</i><par n="te__part"/></e>
     <e lm="tap"><i>tap</i><par n="te__part"/></e>
     <e lm="t ap" r="LR"><p><l>t<b/>ap</l><r>tap</r></p><par n="te__part"/></e>
+    <e lm="t' ap" r="LR"><p><l>t'<b/>ap</l><r>tap</r></p><par n="te__part"/></e>
     <e lm="ta"><i>ta</i><par n="te__part"/></e>
     <e lm="pral"><i>pral</i><par n="te__part"/></e>
     <e lm="yo"><i>yo</i><par n="te__part"/></e>
@@ -503,6 +510,7 @@
     <e lm="pandan"><i>pandan</i><par n="an__pr"/></e>
     <e lm="d"><i>d</i><par n="an__pr"/></e>
     <e lm="pou"><i>pou</i><par n="an__pr"/></e>
+    <e lm="sou"><i>sou</i><par n="an__pr"/></e>
 
     <e lm="zewo"><i>zewo</i><par n="en__num"/></e>
     <e lm="en"><i>en</i><par n="en__num"/></e>
@@ -535,6 +543,7 @@
     <e lm="ventwit"><i>ventwit</i><par n="en__num"/></e>
     <e lm="ventnèf"><i>ventnèf</i><par n="en__num"/></e>
     <e lm="trant"><i>trant</i><par n="en__num"/></e>
+    <e lm="swasanndis"><i>swasanndis</i><par n="en__num"/></e>
   </section>
   <section id="abbreviations" type="preblank">
     <e lm="p'"><p><l>p'</l><r>pa<s n="adv"/></r></p></e>
