@@ -229,6 +229,35 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: TA + VERB">
+      <pattern>
+        <pattern-item n="ta_part"/>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="vfin" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="past"/></tag>
+            </tags>
+            <lu>
+              <lit v="would"/>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
 
 
 
