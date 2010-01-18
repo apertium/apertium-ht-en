@@ -267,6 +267,12 @@
           <r>prpers<s n="prn"/><s n="uns"/><s n="p3"/><s n="mf"/><s n="sg"/></r>
         </p>
       </e>
+      <e r="LR">
+        <p>
+          <l>l'</l>
+          <r>prpers<s n="prn"/><s n="uns"/><s n="p3"/><s n="mf"/><s n="sg"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>n</l>
@@ -376,6 +382,8 @@
     <e lm="dwa moun"><i>dwa<b/>moun</i><par n="liv__n"/></e>
     <e lm="nimewo"><i>nimewo</i><par n="liv__n"/></e>
     <e lm="tribinal"><i>tribinal</i><par n="liv__n"/></e>
+    <e lm="wa"><i>wa</i><par n="liv__n"/></e>
+    <e lm="lespri"><i>lespri</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -399,6 +407,8 @@
     <e lm="etranje"><i>etranje</i><par n="lib__adj"/></e>
     <e lm="moun"><i>moun</i><par n="lib__adj"/></e>
     <e lm="tris"><i>tris</i><par n="lib__adj"/></e>
+    <e lm="gwo"><i>gwo</i><par n="lib__adj"/></e>
+    <e lm="vivan"><i>vivan</i><par n="lib__adj"/></e>
 
     <e lm="ki"><i>ki</i><par n="ki__rel"/></e>
 
@@ -490,6 +500,20 @@
     <e lm="Oseyan Atlantik"><i>Oseyan<b/>Atlantik</i><par n="Ayiti__np"/></e>
     <e lm="Atlantik"><i>Atlantik</i><par n="Ayiti__np"/></e>
     <e lm="Repiblik d Ayiti"><i>Repiblik<b/>d<b/>Ayiti</i><par n="Ayiti__np"/></e>
+    <e lm="Sodòm"><i>Sodòm</i><par n="Ayiti__np"/></e>
+    <e lm="Damas"><i>Damas</i><par n="Ayiti__np"/></e>
+    <e lm="Oba"><i>Oba</i><par n="Ayiti__np"/></e>
+    <e lm="Gomò"><i>Gomò</i><par n="Ayiti__np"/></e>
+    <e lm="Salèm"><i>Salèm</i><par n="Ayiti__np"/></e>
+
+    <e lm="Noe"><i>Noe</i><par n="Noe__np"/></e>
+    <e lm="Bondye"><i>Bondye</i><par n="Noe__np"/></e>
+    <e lm="Abram"><i>Abram</i><par n="Noe__np"/></e>
+    <e lm="Echkòl"><i>Echkòl</i><par n="Noe__np"/></e>
+    <e lm="Ane"><i>Ane</i><par n="Noe__np"/></e>
+    <e lm="Lòt"><i>Lòt</i><par n="Noe__np"/></e>
+    <e lm="Mèlkisedèk"><i>Mèlkisedèk</i><par n="Noe__np"/></e>
+    <e lm="Kedòlaòmè"><i>Kedòlaòmè</i><par n="Noe__np"/></e>
 
     <e lm="e"><i>e</i><par n="e__cnjcoo"/></e>
     <e lm="ak"><i>ak</i><par n="e__cnjcoo"/></e>

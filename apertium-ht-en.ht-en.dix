@@ -173,6 +173,8 @@
     <e><p><l>dwa<b/>moun<s n="n"/></l><r>human<b/>right<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>nimewo<s n="n"/></l><r>number<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>tribinal<s n="n"/></l><r>tribunal<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>wa<s n="n"/></l><r>king<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lespri<s n="n"/></l><r>spirit<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -182,8 +184,20 @@
     <e><p><l>Oseyan<b/>Atlantik<s n="np"/><s n="top"/></l><r>Atlantic<b/>Ocean<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Atlantik<s n="np"/><s n="top"/></l><r>Atlantic<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Repiblik<b/>d<b/>Ayiti<s n="np"/><s n="top"/></l><r>Republic<b/>of<b/>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Sodòm<s n="np"/><s n="top"/></l><r>Sodom<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Damas<s n="np"/><s n="top"/></l><r>Damascus<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Oba<s n="np"/><s n="top"/></l><r>Hobah<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Gomò<s n="np"/><s n="top"/></l><r>Gomorrah<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Salèm<s n="np"/><s n="top"/></l><r>Salem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 
     <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
+    <e><p><l>Bondye<s n="np"/></l><r>Yahweh<s n="np"/></r></p></e>
+    <e><p><l>Abram<s n="np"/></l><r>Abram<s n="np"/></r></p></e>
+    <e><p><l>Echkòl<s n="np"/></l><r>Eshcol<s n="np"/></r></p></e>
+    <e><p><l>Ane<s n="np"/></l><r>Aner<s n="np"/></r></p></e>
+    <e><p><l>Lòt<s n="np"/></l><r>Lot<s n="np"/></r></p></e>
+    <e><p><l>Mèlkisedèk<s n="np"/></l><r>Melchizedek<s n="np"/></r></p></e>
+    <e><p><l>Kedòlaòmè<s n="np"/></l><r>Chedorlaomer<s n="np"/></r></p></e>
 
     <e><p><l>premye<s n="det"/></l><r>first<s n="det"/></r></p></e>
     <e><p><l>dezyèm<s n="det"/></l><r>second<s n="det"/></r></p></e>
@@ -274,6 +288,8 @@
     <e><p><l>etranje<s n="adj"/></l><r>foreign<s n="adj"/></r></p></e>
     <e><p><l>moun<s n="adj"/></l><r>human<s n="adj"/></r></p></e>
     <e><p><l>tris<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>gwo<s n="adj"/></l><r>large<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>vivan<s n="adj"/></l><r>living<s n="adj"/></r></p></e>
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
 
