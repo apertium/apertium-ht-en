@@ -119,6 +119,7 @@
     <e lm="revelasyon"><i>revelasyon</i><par n="liv__n"/></e>
     <e lm="pwovèb"><i>pwovèb</i><par n="liv__n"/></e>
     <e lm="lèt"><i>lèt</i><par n="liv__n"/></e>
+    <e lm="lang"><i>lang</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -128,9 +129,13 @@
     <e lm="espesyal"><i>espesyal</i><par n="lib__adj"/></e>
     <e lm="domestik"><i>domestik</i><par n="lib__adj"/></e>
     <e lm="fèt"><i>fèt</i><par n="lib__adj"/></e>
+    <e lm="lengwistik"><i>lengwistik</i><par n="lib__adj"/></e>
+    <e lm="franse"><i>franse</i><par n="lib__adj"/></e>
+    <e lm="angle"><i>angle</i><par n="lib__adj"/></e>
 
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
     <e lm="fè"><i>fè</i><par n="chanje__vblex"/></e>
+    <e lm="reflete"><i>reflete</i><par n="chanje__vblex"/></e>
 
     <e lm="souple"><i>souple</i><par n="souple__ij"/></e>
     <e lm="dakò"><i>dakò</i><par n="souple__ij"/></e>
@@ -164,5 +169,9 @@
     <e lm="nèf"><i>nèf</i><par n="en__num"/></e>
     <e lm="dis"><i>dis</i><par n="en__num"/></e>
     <e lm="onz"><i>onz</i><par n="en__num"/></e>
+    <e lm="douz"><i>douz</i><par n="en__num"/></e>
+    <e lm="trèz"><i>trèz</i><par n="en__num"/></e>
+    <e lm="katòz"><i>katòz</i><par n="en__num"/></e>
+    <e lm="kenz"><i>kenz</i><par n="en__num"/></e>
   </section>
 </dictionary>

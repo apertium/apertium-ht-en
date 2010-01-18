@@ -69,6 +69,7 @@
     <e><p><l>revelasyon<s n="n"/></l><r>revelation<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>pwovèb<s n="n"/></l><r>proverb<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>lèt<s n="n"/></l><r>milk<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lang<s n="n"/></l><r>language<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -77,6 +78,7 @@
 
     <e><p><l>chanje<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
     <e><p><l>fè<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
+    <e><p><l>reflete<s n="vblex"/></l><r>reflect<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
@@ -99,6 +101,9 @@
     <e><p><l>espesyal<s n="adj"/></l><r>special<s n="adj"/></r></p></e>
     <e><p><l>domestik<s n="adj"/></l><r>domestic<s n="adj"/></r></p></e>
     <e><p><l>fèt<s n="adj"/></l><r>made<s n="adj"/></r></p></e>
+    <e><p><l>lengwistik<s n="adj"/></l><r>linguistic<s n="adj"/></r></p></e>
+    <e><p><l>franse<s n="adj"/></l><r>french<s n="adj"/></r></p></e>
+    <e><p><l>angle<s n="adj"/></l><r>english<s n="adj"/></r></p></e>
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
 
@@ -114,6 +119,10 @@
     <e><p><l>nèf<s n="num"/></l><r>nine<s n="num"/></r></p></e>
     <e><p><l>dis<s n="num"/></l><r>ten<s n="num"/></r></p></e>
     <e><p><l>onz<s n="num"/></l><r>eleven<s n="num"/></r></p></e>
+    <e><p><l>douz<s n="num"/></l><r>twelve<s n="num"/></r></p></e>
+    <e><p><l>trèz<s n="num"/></l><r>thirteen<s n="num"/></r></p></e>
+    <e><p><l>katòz<s n="num"/></l><r>fourteen<s n="num"/></r></p></e>
+    <e><p><l>kenz<s n="num"/></l><r>fifteen<s n="num"/></r></p></e>
 
     <e><p><l>souple<s n="ij"/></l><r>please<s n="ij"/></r></p></e>
     <e><p><l>dakò<s n="ij"/></l><r>ok<s n="ij"/></r></p></e>
