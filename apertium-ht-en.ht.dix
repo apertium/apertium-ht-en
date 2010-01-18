@@ -30,6 +30,7 @@
     <sdef n="an"/>
     <sdef n="det"/>
     <sdef n="ord"/>
+    <sdef n="pos"/>
     <sdef n="sp"/>
     <sdef n="part"/>
     <sdef n="cnjcoo"/>
@@ -100,6 +101,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="se__vbser">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vbser"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="vle__vbmod">
       <e>
         <p>
@@ -153,6 +162,14 @@
         <p>
           <l></l>
           <r><s n="det"/><s n="ind"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="mwen__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="pos"/><s n="sg"/></r>
         </p>
       </e>
     </pardef>
@@ -294,6 +311,7 @@
     <e lm="manje"><i>manje</i><par n="liv__n"/></e>
     <e lm="ide"><i>ide</i><par n="liv__n"/></e>
     <e lm="doktè"><i>doktè</i><par n="liv__n"/></e>
+    <e lm="frè"><i>frè</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -317,7 +335,10 @@
 
     <e lm="si"><i>si</i><par n="si__cnjadv"/></e>
 
+    <e lm="prpers"><i></i><par n="prpers__prn"/></e>
+
     <e lm="vle"><i>vle</i><par n="vle__vbmod"/></e>
+    <e lm="se"><i>se</i><par n="se__vbser"/></e>
     <e lm="ka"><i>ka</i><par n="ka__vaux"/></e>
     <e lm="kapab"><i>kapab</i><par n="ka__vaux"/></e>
 
@@ -338,6 +359,10 @@
     <e lm="bliye"><i>bliye</i><par n="chanje__vblex"/></e>
     <e lm="jwe"><i>jwe</i><par n="chanje__vblex"/></e>
     <e lm="antre"><i>antre</i><par n="chanje__vblex"/></e>
+    <e lm="dòmi"><i>dòmi</i><par n="chanje__vblex"/></e>
+    <e lm="etidye"><i>etidye</i><par n="chanje__vblex"/></e>
+    <e lm="li"><i>li</i><par n="chanje__vblex"/></e>
+    <e lm="di"><i>di</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -360,6 +385,7 @@
     <e lm="l demen"><i>l<b/>demen</i><par n="isit__adv"/></e>
 
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
+    <e lm="mwen"><i>mwen</i><par n="mwen__det"/></e>
     <e lm="yon"><i>yon</i><par n="yon__det"/></e>
 
     <e lm="Ayiti"><i>Ayiti</i><par n="Ayiti__np"/></e>

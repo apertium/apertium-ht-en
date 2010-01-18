@@ -97,6 +97,7 @@
     <e><p><l>manje<s n="n"/></l><r>food<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ide<s n="n"/></l><r>idea<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>doktè<s n="n"/></l><r>doctor<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>frè<s n="n"/></l><r>brother<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -104,6 +105,7 @@
     <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
 
     <e><p><l>premye<s n="det"/></l><r>first<s n="det"/></r></p></e>
+    <e><p><l>mwen<s n="det"/></l><r>my<s n="det"/></r></p></e>
 
     <e><p><l>si<s n="cnjadv"/></l><r>if<s n="cnjadv"/></r></p></e>
 
@@ -127,6 +129,10 @@
     <e><p><l>bliye<s n="vblex"/></l><r>forget<s n="vblex"/></r></p></e>
     <e><p><l>jwe<s n="vblex"/></l><r>play<s n="vblex"/></r></p></e>
     <e><p><l>antre<s n="vblex"/></l><r>enter<s n="vblex"/></r></p></e>
+    <e><p><l>dòmi<s n="vblex"/></l><r>sleep<s n="vblex"/></r></p></e>
+    <e><p><l>etidye<s n="vblex"/></l><r>study<s n="vblex"/></r></p></e>
+    <e><p><l>li<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
+    <e><p><l>di<s n="vblex"/></l><r>tell<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
