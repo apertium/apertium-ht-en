@@ -4,6 +4,7 @@
   <sdefs>
     <sdef n="vblex"/>
     <sdef n="vbser"/>
+    <sdef n="det"/>
     <sdef n="vbhaver"/>
     <sdef n="vaux"/>
     <sdef n="n"/>
