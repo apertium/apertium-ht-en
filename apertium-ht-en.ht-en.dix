@@ -26,6 +26,11 @@
     <sdef n="num"/>
     <sdef n="ND"/>
     <sdef n="sint"/>
+    <sdef n="sent"/>
+    <sdef n="cm"/>
+    <sdef n="lpar"/>
+    <sdef n="rpar"/>
+    <sdef n="guio"/>
   </sdefs>
   <pardefs>
     <pardef n="ND">
@@ -51,6 +56,7 @@
   </pardefs>
   <section id="main" type="standard">
     <e><p><l>e<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>ak<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>yon<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>tout<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
@@ -146,6 +152,13 @@
     <e><p><l>peyi<s n="n"/></l><r>country<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>santim<s n="n"/></l><r>centime<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>goud<s n="n"/></l><r>gourde<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>administrasyon<s n="n"/></l><r>administration<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kondisyon<s n="n"/></l><r>condition<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>moun<s n="n"/></l><r>person<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>dwa<s n="n"/></l><r>right<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>dwa<b/>moun<s n="n"/></l><r>human<b/>right<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>nimewo<s n="n"/></l><r>number<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>tribinal<s n="n"/></l><r>tribunal<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -217,6 +230,8 @@
     <e r="LR"><p><l>èvèk<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>avèk<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>pandan<s n="pr"/></l><r>during<s n="pr"/></r></p></e>
+    <e r="LR"><p><l>ak<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+    <e><p><l>d<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
 
     <e><p><l>lib<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
     <e><p><l>ayisyen<s n="adj"/></l><r>Haitian<s n="adj"/></r></p></e>
@@ -238,6 +253,8 @@
     <e><p><l>malad<s n="adj"/></l><r>sick<s n="adj"/></r></p></e>
     <e><p><l>ofisyèl<s n="adj"/></l><r>official<s n="adj"/></r></p></e>
     <e><p><l>nasyonal<s n="adj"/></l><r>national<s n="adj"/></r></p></e>
+    <e><p><l>etranje<s n="adj"/></l><r>foreign<s n="adj"/></r></p></e>
+    <e><p><l>moun<s n="adj"/></l><r>human<s n="adj"/></r></p></e>
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
 
@@ -289,5 +306,19 @@
     <e><p><l>bonjou<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
     <e><p><l>bonswa<s n="ij"/></l><r>good<b/>evening<s n="ij"/></r></p></e>
     <e><p><l>byensi<s n="ij"/></l><r>of<b/>course<s n="ij"/></r></p></e>
+  </section>
+  <section id="punct" type="standard">
+    <e><i>.<s n="sent"/></i></e>
+    <e><i>?<s n="sent"/></i></e>
+    <e><i>:<s n="sent"/></i></e>
+    <e><i>;<s n="sent"/></i></e>
+    <e><i>!<s n="sent"/></i></e>
+    <e><i>,<s n="cm"/></i></e>
+    <e><i>(<s n="lpar"/></i></e>
+    <e><i>)<s n="rpar"/></i></e>
+    <e><i>[<s n="lpar"/></i></e>
+    <e><i>]<s n="rpar"/></i></e>
+    <e><i>-<s n="guio"/></i></e>
+    <e lm="0-9"><re>[0-9]+([.,][0-9]+)?</re><i><s n="num"/></i></e>
   </section>
 </dictionary>

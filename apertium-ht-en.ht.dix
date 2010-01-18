@@ -36,6 +36,11 @@
     <sdef n="cnjcoo"/>
     <sdef n="cnjadv"/>
     <sdef n="uns"/>
+    <sdef n="sent"/>
+    <sdef n="cm"/>
+    <sdef n="lpar"/>
+    <sdef n="rpar"/>
+    <sdef n="guio"/>
   </sdefs>
   <pardefs>
     <pardef n="e__cnjcoo">
@@ -358,6 +363,13 @@
     <e lm="peyi"><i>peyi</i><par n="liv__n"/></e>
     <e lm="santim"><i>santim</i><par n="liv__n"/></e>
     <e lm="goud"><i>goud</i><par n="liv__n"/></e>
+    <e lm="administrasyon"><i>administrasyon</i><par n="liv__n"/></e>
+    <e lm="kondisyon"><i>kondisyon</i><par n="liv__n"/></e>
+    <e lm="moun"><i>moun</i><par n="liv__n"/></e>
+    <e lm="dwa"><i>dwa</i><par n="liv__n"/></e>
+    <e lm="dwa moun"><i>dwa<b/>moun</i><par n="liv__n"/></e>
+    <e lm="nimewo"><i>nimewo</i><par n="liv__n"/></e>
+    <e lm="tribinal"><i>tribinal</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -378,6 +390,8 @@
     <e lm="bon"><i>bon</i><par n="lib__adj"/></e>
     <e lm="ofisyèl"><i>ofisyèl</i><par n="lib__adj"/></e>
     <e lm="nasyonal"><i>nasyonal</i><par n="lib__adj"/></e>
+    <e lm="etranje"><i>etranje</i><par n="lib__adj"/></e>
+    <e lm="moun"><i>moun</i><par n="lib__adj"/></e>
 
     <e lm="ki"><i>ki</i><par n="ki__rel"/></e>
 
@@ -468,6 +482,7 @@
     <e lm="Repiblik d Ayiti"><i>Repiblik<b/>d<b/>Ayiti</i><par n="Ayiti__np"/></e>
 
     <e lm="e"><i>e</i><par n="e__cnjcoo"/></e>
+    <e lm="ak"><i>ak</i><par n="e__cnjcoo"/></e>
 
     <e lm="an"><i>an</i><par n="an__pr"/></e>
     <e lm="asou"><i>asou</i><par n="an__pr"/></e>
@@ -480,8 +495,10 @@
     <e lm="anpami"><i>anpami</i><par n="an__pr"/></e>
     <e lm="bò"><i>bò</i><par n="an__pr"/></e>
     <e lm="èvèk"><i>èvèk</i><par n="an__pr"/></e>
-    <e lm="avèk"><i>èvèk</i><par n="an__pr"/></e>
+    <e lm="avèk"><i>avèk</i><par n="an__pr"/></e>
+    <e lm="ak"><i>ak</i><par n="an__pr"/></e>
     <e lm="pandan"><i>pandan</i><par n="an__pr"/></e>
+    <e lm="d"><i>d</i><par n="an__pr"/></e>
 
     <e lm="zewo"><i>zewo</i><par n="en__num"/></e>
     <e lm="en"><i>en</i><par n="en__num"/></e>
@@ -517,5 +534,20 @@
   </section>
   <section id="abbreviations" type="preblank">
     <e lm="p'"><p><l>p'</l><r>pa<s n="adv"/></r></p></e>
+  </section>
+  <section id="punct" type="inconditional">
+    <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
+    <e lm=":"><p><l>:</l><r>:<s n="sent"/></r></p></e>
+    <e lm=";"><p><l>;</l><r>;<s n="sent"/></r></p></e>
+    <e lm="?"><p><l>?</l><r>?<s n="sent"/></r></p></e>
+    <e lm="!"><p><l>!</l><r>!<s n="sent"/></r></p></e>
+    <e lm=","><p><l>,</l><r>,<s n="cm"/></r></p></e>
+    <e lm="("><p><l>(</l><r>(<s n="lpar"/></r></p></e>
+    <e lm=")"><p><l>)</l><r>)<s n="rpar"/></r></p></e>
+    <e lm="["><p><l>[</l><r>[<s n="lpar"/></r></p></e>
+    <e lm="]"><p><l>]</l><r>]<s n="rpar"/></r></p></e>
+    <e lm="-"><p><l>-</l><r>-<s n="guio"/></r></p></e>
+
+    <e lm="num"><re>[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>
   </section>
 </dictionary>
