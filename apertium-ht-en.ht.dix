@@ -264,12 +264,14 @@
     <e lm="kreye"><i>kreye</i><par n="chanje__vblex"/></e>
     <e lm="manje"><i>manje</i><par n="chanje__vblex"/></e>
     <e lm="pale"><i>pale</i><par n="chanje__vblex"/></e>
+    <e lm="parle"><i>parle</i><par n="chanje__vblex"/></e>
     <e lm="mache"><i>mache</i><par n="chanje__vblex"/></e>
     <e lm="wè"><i>wè</i><par n="chanje__vblex"/></e>
     <e lm="mete"><i>mete</i><par n="chanje__vblex"/></e>
     <e lm="egzamine"><i>egzamine</i><par n="chanje__vblex"/></e>
     <e lm="ede"><i>ede</i><par n="chanje__vblex"/></e>
     <e lm="egzale"><i>egzale</i><par n="chanje__vblex"/></e>
+    <e lm="bliye"><i>bliye</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -286,6 +288,7 @@
     <e lm="koumon"><i>koumon</i><par n="koumon__adv"/></e>
 
     <e lm="isit"><i>isit</i><par n="isit__adv"/></e>
+    <e lm="pa"><i>pa</i><par n="isit__adv"/></e>
     <e lm="lonton"><i>lonton</i><par n="isit__adv"/></e>
     <e lm="yè"><i>yè</i><par n="isit__adv"/></e>
     <e lm="l demen"><i>l<b/>demen</i><par n="isit__adv"/></e>
@@ -326,5 +329,8 @@
     <e lm="trèz"><i>trèz</i><par n="en__num"/></e>
     <e lm="katòz"><i>katòz</i><par n="en__num"/></e>
     <e lm="kenz"><i>kenz</i><par n="en__num"/></e>
+  </section>
+  <section id="abbreviations" type="preblank">
+    <e lm="p'"><p><l>p'</l><r>pa<s n="adv"/></r></p></e>
   </section>
 </dictionary>
