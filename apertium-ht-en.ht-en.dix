@@ -86,11 +86,13 @@
 
     <e><p><l>chanje<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
     <e><p><l>fè<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
+    <e><p><l>wè<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
     <e><p><l>reflete<s n="vblex"/></l><r>reflect<s n="vblex"/></r></p></e>
     <e><p><l>achte<s n="vblex"/></l><r>buy<s n="vblex"/></r></p></e>
     <e><p><l>kreye<s n="vblex"/></l><r>create<s n="vblex"/></r></p></e>
     <e><p><l>manje<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>pale<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
+    <e><p><l>mache<s n="vblex"/></l><r>walk<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
@@ -106,7 +108,7 @@
     <e><p><l>èvèk<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
 
     <e><p><l>lib<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
-    <e><p><l>ayisyen<s n="adj"/></l><r>haitian<s n="adj"/></r></p></e>
+    <e><p><l>ayisyen<s n="adj"/></l><r>Haitian<s n="adj"/></r></p></e>
     <e><p><l>prensipal<s n="adj"/></l><r>principal<s n="adj"/></r></p></e>
     <e><p><l>pèdi<s n="adj"/></l><r>lost<s n="adj"/></r></p></e>
     <e><p><l>syantifik<s n="adj"/></l><r>scientific<s n="adj"/></r></p></e>
@@ -114,10 +116,13 @@
     <e><p><l>domestik<s n="adj"/></l><r>domestic<s n="adj"/></r></p></e>
     <e><p><l>fèt<s n="adj"/></l><r>made<s n="adj"/></r></p></e>
     <e><p><l>lengwistik<s n="adj"/></l><r>linguistic<s n="adj"/></r></p></e>
-    <e><p><l>franse<s n="adj"/></l><r>french<s n="adj"/></r></p></e>
-    <e><p><l>angle<s n="adj"/></l><r>english<s n="adj"/></r></p></e>
+    <e><p><l>franse<s n="adj"/></l><r>French<s n="adj"/></r></p></e>
+    <e><p><l>angle<s n="adj"/></l><r>English<s n="adj"/></r></p></e>
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>lontan<s n="adv"/></l><r>for<b/>a<b/>long<b/>time<s n="adv"/></r></p></e>
+    <e><p><l>yè<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
+    <e><p><l>l<b/>demen<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
 
     <e><p><l>zewo<s n="num"/></l><r>zero<s n="num"/></r></p></e>
     <e><p><l>en<s n="num"/></l><r>one<s n="num"/></r></p></e>

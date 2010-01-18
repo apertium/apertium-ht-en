@@ -165,6 +165,8 @@
     <e lm="kreye"><i>kreye</i><par n="chanje__vblex"/></e>
     <e lm="manje"><i>manje</i><par n="chanje__vblex"/></e>
     <e lm="pale"><i>pale</i><par n="chanje__vblex"/></e>
+    <e lm="mache"><i>mache</i><par n="chanje__vblex"/></e>
+    <e lm="wè"><i>wè</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -178,6 +180,9 @@
     <e lm="dakò"><i>dakò</i><par n="souple__ij"/></e>
 
     <e lm="koumon"><i>koumon</i><par n="koumon__adv"/></e>
+    <e lm="lonton"><i>lonton</i><par n="koumon__adv"/></e>
+    <e lm="yè"><i>yè</i><par n="koumon__adv"/></e>
+    <e lm="l demen"><i>l<b/>demen</i><par n="koumon__adv"/></e>
 
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
 
