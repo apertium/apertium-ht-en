@@ -215,6 +215,8 @@
     <e><p><l>rele<s n="vblex"/></l><r>name<s n="vblex"/></r></p></e>
     <e><p><l>fin<s n="vblex"/></l><r>finish<s n="vblex"/></r></p></e>
     <e><p><l>travay<s n="vblex"/></l><r>work<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>trouve<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e>
+    <e><p><l>twouve<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
@@ -232,6 +234,7 @@
     <e><p><l>pandan<s n="pr"/></l><r>during<s n="pr"/></r></p></e>
     <e r="LR"><p><l>ak<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>d<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
+    <e><p><l>pou<s n="pr"/></l><r>in<b/>order<b/>to<s n="pr"/></r></p></e>
 
     <e><p><l>lib<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
     <e><p><l>ayisyen<s n="adj"/></l><r>Haitian<s n="adj"/></r></p></e>
@@ -250,11 +253,12 @@
     <e><p><l>oranj<s n="adj"/></l><r>orange<s n="adj"/></r></p></e>
     <e><p><l>nouvo<s n="adj"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>bon<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
-    <e><p><l>malad<s n="adj"/></l><r>sick<s n="adj"/></r></p></e>
+    <e><p><l>malad<s n="adj"/></l><r>sick<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>ofisyèl<s n="adj"/></l><r>official<s n="adj"/></r></p></e>
     <e><p><l>nasyonal<s n="adj"/></l><r>national<s n="adj"/></r></p></e>
     <e><p><l>etranje<s n="adj"/></l><r>foreign<s n="adj"/></r></p></e>
     <e><p><l>moun<s n="adj"/></l><r>human<s n="adj"/></r></p></e>
+    <e><p><l>tris<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
 

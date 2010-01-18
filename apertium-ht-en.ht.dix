@@ -392,6 +392,7 @@
     <e lm="nasyonal"><i>nasyonal</i><par n="lib__adj"/></e>
     <e lm="etranje"><i>etranje</i><par n="lib__adj"/></e>
     <e lm="moun"><i>moun</i><par n="lib__adj"/></e>
+    <e lm="tris"><i>tris</i><par n="lib__adj"/></e>
 
     <e lm="ki"><i>ki</i><par n="ki__rel"/></e>
 
@@ -436,6 +437,8 @@
     <e lm="rele"><i>rele</i><par n="chanje__vblex"/></e>
     <e lm="fin"><i>fin</i><par n="chanje__vblex"/></e>
     <e lm="travay"><i>travay</i><par n="chanje__vblex"/></e>
+    <e lm="twouve"><i>twouve</i><par n="chanje__vblex"/></e>
+    <e lm="trouve"><i>trouve</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -499,6 +502,7 @@
     <e lm="ak"><i>ak</i><par n="an__pr"/></e>
     <e lm="pandan"><i>pandan</i><par n="an__pr"/></e>
     <e lm="d"><i>d</i><par n="an__pr"/></e>
+    <e lm="pou"><i>pou</i><par n="an__pr"/></e>
 
     <e lm="zewo"><i>zewo</i><par n="en__num"/></e>
     <e lm="en"><i>en</i><par n="en__num"/></e>
