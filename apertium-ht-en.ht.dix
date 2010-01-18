@@ -338,6 +338,9 @@
     <e lm="benediksyon"><i>benediksyon</i><par n="liv__n"/></e>
     <e lm="latè"><i>latè</i><par n="liv__n"/></e>
     <e lm="fòm"><i>fòm</i><par n="liv__n"/></e>
+    <e lm="fènwa"><i>fènwa</i><par n="liv__n"/></e>
+    <e lm="lannwit"><i>lannwit</i><par n="liv__n"/></e>
+
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -392,6 +395,10 @@
     <e lm="di"><i>di</i><par n="chanje__vblex"/></e>
     <e lm="ekri"><i>ekri</i><par n="chanje__vblex"/></e>
     <e lm="kouvri"><i>kouvri</i><par n="chanje__vblex"/></e>
+    <e lm="separe"><i>separe</i><par n="chanje__vblex"/></e>
+    <e lm="pase"><i>pase</i><par n="chanje__vblex"/></e>
+    <e lm="rive"><i>rive</i><par n="chanje__vblex"/></e>
+    <e lm="gade"><i>gade</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>

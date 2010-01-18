@@ -126,6 +126,8 @@
     <e><p><l>benediksyon<s n="n"/></l><r>benediction<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>latè<s n="n"/></l><r>earth<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>fòm<s n="n"/></l><r>form<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>fènwa<s n="n"/></l><r>darkness<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lannwit<s n="n"/></l><r>night<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -169,6 +171,10 @@
     <e><p><l>di<s n="vblex"/></l><r>tell<s n="vblex"/></r></p></e>
     <e><p><l>ekri<s n="vblex"/></l><r>write<s n="vblex"/></r></p></e>
     <e><p><l>kouvri<s n="vblex"/></l><r>cover<s n="vblex"/></r></p></e>
+    <e><p><l>separe<s n="vblex"/></l><r>separate<s n="vblex"/></r></p></e>
+    <e><p><l>pase<s n="vblex"/></l><r>pass<s n="vblex"/></r></p></e>
+    <e><p><l>rive<s n="vblex"/></l><r>arrive<s n="vblex"/></r></p></e>
+    <e><p><l>gade<s n="vblex"/></l><r>look<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
