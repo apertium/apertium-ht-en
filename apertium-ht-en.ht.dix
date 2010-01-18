@@ -8,12 +8,15 @@
     <sdef n="vaux"/>
     <sdef n="n"/>
     <sdef n="pr"/>
+    <sdef n="pl"/>
     <sdef n="adj"/>
     <sdef n="adv"/>
     <sdef n="itg"/>
+    <sdef n="ind"/>
     <sdef n="num"/>
     <sdef n="ij"/>
     <sdef n="np"/>
+    <sdef n="sg"/>
     <sdef n="top"/>
     <sdef n="ant"/>
     <sdef n="m"/>
@@ -21,13 +24,29 @@
     <sdef n="ord"/>
     <sdef n="sp"/>
     <sdef n="part"/>
+    <sdef n="cnjcoo"/>
   </sdefs>
   <pardefs>
+    <pardef n="e__cnjcoo">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="cnjcoo"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="liv__n">
       <e>
         <p>
           <l></l>
           <r><s n="n"/></r>
+        </p>
+      </e>
+      <e c="If a noun is definite, it is pluralised by adding yo at the end. Indef nouns have no plural marker">
+        <p>
+          <l><b/>yo</l>
+          <r><s n="n"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
@@ -95,6 +114,15 @@
         </p>
       </e>
     </pardef>
+    <pardef n="yon__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="ind"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
+
     <pardef n="premye__det">
       <e>
         <p>
@@ -145,6 +173,7 @@
     <e lm="simèn"><i>simèn</i><par n="liv__n"/></e>
     <e lm="nonm"><i>nonm</i><par n="liv__n"/></e>
     <e lm="fanm"><i>fanm</i><par n="liv__n"/></e>
+    <e lm="chyen"><i>chyen</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -167,6 +196,7 @@
     <e lm="pale"><i>pale</i><par n="chanje__vblex"/></e>
     <e lm="mache"><i>mache</i><par n="chanje__vblex"/></e>
     <e lm="wè"><i>wè</i><par n="chanje__vblex"/></e>
+    <e lm="mete"><i>wè</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -175,6 +205,7 @@
     <e lm="t ap"><i>t<b/>ap</i><par n="te__part"/></e>
     <e lm="ta"><i>ta</i><par n="te__part"/></e>
     <e lm="pral"><i>pral</i><par n="te__part"/></e>
+    <e lm="yo"><i>yo</i><par n="te__part"/></e>
 
     <e lm="souple"><i>souple</i><par n="souple__ij"/></e>
     <e lm="dakò"><i>dakò</i><par n="souple__ij"/></e>
@@ -185,9 +216,12 @@
     <e lm="l demen"><i>l<b/>demen</i><par n="koumon__adv"/></e>
 
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
+    <e lm="yon"><i>yon</i><par n="yon__det"/></e>
 
     <e lm="Ayiti"><i>Ayiti</i><par n="Ayiti__np"/></e>
     <e lm="Azi"><i>Azi</i><par n="Ayiti__np"/></e>
+
+    <e lm="e"><i>e</i><par n="e__cnjcoo"/></e>
 
     <e lm="an"><i>an</i><par n="an__pr"/></e>
     <e lm="asou"><i>asou</i><par n="an__pr"/></e>
