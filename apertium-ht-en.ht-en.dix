@@ -138,11 +138,20 @@
     <e><p><l>faktori<s n="n"/></l><r>factory<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>djòb<s n="n"/></l><r>job<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>eleksyon<s n="n"/></l><r>election<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>konstitisyon<s n="n"/></l><r>constitution<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kapital<s n="n"/></l><r>capital<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>oseyan<s n="n"/></l><r>ocean<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>ayisyen<s n="n"/></l><r>haitian<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>gouvènman<s n="n"/></l><r>government<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Edenn<s n="np"/><s n="top"/></l><r>Eden<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Giyon<s n="np"/><s n="top"/></l><r>Gihon<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Pòtoprens<s n="np"/><s n="top"/></l><r>Port-au-Prince<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Oseyan<b/>Atlantik<s n="np"/><s n="top"/></l><r>Atlantic<b/>Ocean<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Atlantik<s n="np"/><s n="top"/></l><r>Atlantic<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Repiblik<b/>d<b/>Ayiti<s n="np"/><s n="top"/></l><r>Republic<b/>of<b/>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 
     <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
 
@@ -224,6 +233,8 @@
     <e><p><l>nouvo<s n="adj"/></l><r>new<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>bon<s n="adj"/></l><r>good<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>malad<s n="adj"/></l><r>sick<s n="adj"/></r></p></e>
+    <e><p><l>ofisyèl<s n="adj"/></l><r>official<s n="adj"/></r></p></e>
+    <e><p><l>nasyonal<s n="adj"/></l><r>national<s n="adj"/></r></p></e>
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
 

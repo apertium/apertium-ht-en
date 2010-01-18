@@ -350,6 +350,11 @@
     <e lm="faktori"><i>faktori</i><par n="liv__n"/></e>
     <e lm="djòb"><i>djòb</i><par n="liv__n"/></e>
     <e lm="eleksyon"><i>eleksyon</i><par n="liv__n"/></e>
+    <e lm="konstitisyon"><i>konstitisyon</i><par n="liv__n"/></e>
+    <e lm="kapital"><i>kapital</i><par n="liv__n"/></e>
+    <e lm="oseyan"><i>oseyan</i><par n="liv__n"/></e>
+    <e lm="ayisyen"><i>ayisyen</i><par n="liv__n"/></e>
+    <e lm="gouvènman"><i>gouvènman</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -368,6 +373,8 @@
     <e lm="wouj"><i>wouj</i><par n="lib__adj"/></e>
     <e lm="nouvo"><i>nouvo</i><par n="lib__adj"/></e>
     <e lm="bon"><i>bon</i><par n="lib__adj"/></e>
+    <e lm="ofisyèl"><i>ofisyèl</i><par n="lib__adj"/></e>
+    <e lm="nasyonal"><i>nasyonal</i><par n="lib__adj"/></e>
 
     <e lm="ki"><i>ki</i><par n="ki__rel"/></e>
 
@@ -452,6 +459,10 @@
     <e lm="Azi"><i>Azi</i><par n="Ayiti__np"/></e>
     <e lm="Edenn"><i>Edenn</i><par n="Ayiti__np"/></e>
     <e lm="Giyon"><i>Giyon</i><par n="Ayiti__np"/></e>
+    <e lm="Pòtoprens"><i>Pòtoprens</i><par n="Ayiti__np"/></e>
+    <e lm="Oseyan Atlantik"><i>Oseyan<b/>Atlantik</i><par n="Ayiti__np"/></e>
+    <e lm="Atlantik"><i>Atlantik</i><par n="Ayiti__np"/></e>
+    <e lm="Repiblik d Ayiti"><i>Repiblik<b/>d<b/>Ayiti</i><par n="Ayiti__np"/></e>
 
     <e lm="e"><i>e</i><par n="e__cnjcoo"/></e>
 
