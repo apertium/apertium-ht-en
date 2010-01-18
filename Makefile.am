@@ -44,9 +44,9 @@ clean-dicts:
 apertium_ht_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_ht_modesdir=$(prefix)/share/apertium/modes/
 
-apertium_ht_en_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
-                    $(PREFIX1).autobil.bin $(PREFIX2).autobil.bin \
-                    $(PREFIX1).autogen.bin $(PREFIX2).autogen.bin \
+apertium_ht_en_DATA=$(PREFIX1).automorf.bin \
+                    $(PREFIX1).autobil.bin \
+                    $(PREFIX1).autogen.bin \
                     $(PREFIX1).prob \
 		    $(PREFIX1).t1x.bin \
 	            modes/$(PREFIX1).mode modes.xml
