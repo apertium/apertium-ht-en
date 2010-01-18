@@ -331,6 +331,7 @@
     <e lm="oktòb"><i>oktòb</i><par n="liv__n"/></e>
     <e lm="novanm"><i>novanm</i><par n="liv__n"/></e>
     <e lm="desanm"><i>desanm</i><par n="liv__n"/></e>
+    <e lm="jou"><i>jou</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -403,8 +404,11 @@
     <e lm="lonton"><i>lonton</i><par n="isit__adv"/></e>
     <e lm="yè"><i>yè</i><par n="isit__adv"/></e>
     <e lm="l demen"><i>l<b/>demen</i><par n="isit__adv"/></e>
+    <e lm="nan konmansman"><i>nan<b/>konmansman</i><par n="isit__adv"/></e>
 
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
+    <e lm="dezyèm"><i>dezyèm</i><par n="premye__det"/></e>
+    <e lm="twazyèm"><i>twazyèm</i><par n="premye__det"/></e>
     <e lm="mwen"><i>mwen</i><par n="mwen__det"/></e>
     <e lm="yon"><i>yon</i><par n="yon__det"/></e>
 

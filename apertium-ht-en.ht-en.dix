@@ -85,6 +85,7 @@
     <e><p><l>lang<s n="n"/></l><r>language<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>atansyon<s n="n"/></l><r>attention<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>amou<s n="n"/></l><r>love<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>jou<s n="n"/></l><r>day<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>simèn<s n="n"/></l><r>week<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>nonm<s n="n"/></l><r>man<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>fanm<s n="n"/></l><r>woman<s n="n"/></r></p><par n="ND"/></e>
@@ -124,6 +125,8 @@
     <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
 
     <e><p><l>premye<s n="det"/></l><r>first<s n="det"/></r></p></e>
+    <e><p><l>dezyèm<s n="det"/></l><r>second<s n="det"/></r></p></e>
+    <e><p><l>twazyèm<s n="det"/></l><r>third<s n="det"/></r></p></e>
     <e><p><l>mwen<s n="det"/></l><r>my<s n="det"/></r></p></e>
 
     <e><p><l>si<s n="cnjadv"/></l><r>if<s n="cnjadv"/></r></p></e>
@@ -193,6 +196,7 @@
     <e><p><l>lontan<s n="adv"/></l><r>for<b/>a<b/>long<b/>time<s n="adv"/></r></p></e>
     <e><p><l>yè<s n="adv"/></l><r>yesterday<s n="adv"/></r></p></e>
     <e><p><l>l<b/>demen<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
+    <e><p><l>nan<b/>konmansman<s n="adv"/></l><r>in<b/>the<b/>beginning<s n="adv"/></r></p></e>
 
     <e><p><l>ki<s n="rel"/><s n="an"/></l><r>who<s n="rel"/><s n="an"/></r></p></e>
 
