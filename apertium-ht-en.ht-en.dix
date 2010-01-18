@@ -4,6 +4,7 @@
   <sdefs>
     <sdef n="vblex"/>
     <sdef n="vbser"/>
+    <sdef n="vbmod"/>
     <sdef n="det"/>
     <sdef n="cnjcoo"/>
     <sdef n="rel"/>
@@ -91,6 +92,8 @@
     <e><p><l>chat<s n="n"/></l><r>cat<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>èd<s n="n"/></l><r>help<s n="n"/></r></p><par n="ND"/></e>
     <e r="RL"><p><l>èd<s n="n"/></l><r>aid<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kay<s n="n"/></l><r>house<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>manje<s n="n"/></l><r>food<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -100,6 +103,8 @@
     <e><p><l>premye<s n="det"/></l><r>first<s n="det"/></r></p></e>
 
     <e><p><l>si<s n="cnjadv"/></l><r>if<s n="cnjadv"/></r></p></e>
+
+    <e><p><l>vle<s n="vbmod"/></l><r>want<g><b/>to</g><s n="vbmod"/></r></p></e>
 
     <e><p><l>chanje<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
     <e><p><l>fè<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
@@ -115,6 +120,8 @@
     <e><p><l>egzamine<s n="vblex"/></l><r>examine<s n="vblex"/></r></p></e>
     <e><p><l>egzale<s n="vblex"/></l><r>exhale<s n="vblex"/></r></p></e>
     <e><p><l>bliye<s n="vblex"/></l><r>forget<s n="vblex"/></r></p></e>
+    <e><p><l>jwe<s n="vblex"/></l><r>play<s n="vblex"/></r></p></e>
+    <e><p><l>antre<s n="vblex"/></l><r>enter<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>

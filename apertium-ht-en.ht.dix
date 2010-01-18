@@ -5,6 +5,7 @@
     <sdef n="vblex"/>
     <sdef n="vbser"/>
     <sdef n="vbhaver"/>
+    <sdef n="vbmod"/>
     <sdef n="vaux"/>
     <sdef n="n"/>
     <sdef n="pr"/>
@@ -95,6 +96,14 @@
         <p>
           <l></l>
           <r><s n="adv"/><s n="itg"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="vle__vbmod">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vbmod"/></r>
         </p>
       </e>
     </pardef>
@@ -236,6 +245,8 @@
     <e lm="chyen"><i>chyen</i><par n="liv__n"/></e>
     <e lm="chat"><i>chat</i><par n="liv__n"/></e>
     <e lm="èd"><i>èd</i><par n="liv__n"/></e>
+    <e lm="kay"><i>kay</i><par n="liv__n"/></e>
+    <e lm="manje"><i>manje</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -257,6 +268,8 @@
 
     <e lm="si"><i>si</i><par n="si__cnjadv"/></e>
 
+    <e lm="vle"><i>vle</i><par n="vle__vbmod"/></e>
+
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
     <e lm="fè"><i>fè</i><par n="chanje__vblex"/></e>
     <e lm="reflete"><i>reflete</i><par n="chanje__vblex"/></e>
@@ -272,6 +285,8 @@
     <e lm="ede"><i>ede</i><par n="chanje__vblex"/></e>
     <e lm="egzale"><i>egzale</i><par n="chanje__vblex"/></e>
     <e lm="bliye"><i>bliye</i><par n="chanje__vblex"/></e>
+    <e lm="jwe"><i>jwe</i><par n="chanje__vblex"/></e>
+    <e lm="antre"><i>antre</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
