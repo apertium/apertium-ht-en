@@ -108,6 +108,7 @@
     <e><p><l>mwen<s n="det"/></l><r>my<s n="det"/></r></p></e>
 
     <e><p><l>si<s n="cnjadv"/></l><r>if<s n="cnjadv"/></r></p></e>
+    <e><p><l>lè<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
 
     <e><p><l>vle<s n="vbmod"/></l><r>want<g><b/>to</g><s n="vbmod"/></r></p></e>
     <e><p><l>ka<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
@@ -192,6 +193,21 @@
     <e><p><l>trèz<s n="num"/></l><r>thirteen<s n="num"/></r></p></e>
     <e><p><l>katòz<s n="num"/></l><r>fourteen<s n="num"/></r></p></e>
     <e><p><l>kenz<s n="num"/></l><r>fifteen<s n="num"/></r></p></e>
+    <e><p><l>sèz<s n="num"/></l><r>sixteen<s n="num"/></r></p></e>
+    <e><p><l>disèt<s n="num"/></l><r>seventeen<s n="num"/></r></p></e>
+    <e><p><l>dizuit<s n="num"/></l><r>eighteen<s n="num"/></r></p></e>
+    <e><p><l>diznèf<s n="num"/></l><r>nineteen<s n="num"/></r></p></e>
+    <e><p><l>ven<s n="num"/></l><r>twenty<s n="num"/></r></p></e>
+    <e><p><l>venteyen<s n="num"/></l><r>twenty-one<s n="num"/></r></p></e>
+    <e><p><l>vennde<s n="num"/></l><r>twenty-two<s n="num"/></r></p></e>
+    <e><p><l>venntwa<s n="num"/></l><r>twenty-three<s n="num"/></r></p></e>
+    <e><p><l>vennkat<s n="num"/></l><r>twenty-four<s n="num"/></r></p></e>
+    <e><p><l>vennsenk<s n="num"/></l><r>twenty-five<s n="num"/></r></p></e>
+    <e><p><l>vennsis<s n="num"/></l><r>twenty-six<s n="num"/></r></p></e>
+    <e><p><l>vennsèt<s n="num"/></l><r>twenty-seven<s n="num"/></r></p></e>
+    <e><p><l>ventwit<s n="num"/></l><r>twenty-eight<s n="num"/></r></p></e>
+    <e><p><l>ventnèf<s n="num"/></l><r>twenty-nine<s n="num"/></r></p></e>
+    <e><p><l>trant<s n="num"/></l><r>thirty<s n="num"/></r></p></e>
 
     <e><p><l>souple<s n="ij"/></l><r>please<s n="ij"/></r></p></e>
     <e><p><l>dakò<s n="ij"/></l><r>ok<s n="ij"/></r></p></e>

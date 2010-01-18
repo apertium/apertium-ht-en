@@ -334,6 +334,7 @@
     <e lm="ki"><i>ki</i><par n="ki__rel"/></e>
 
     <e lm="si"><i>si</i><par n="si__cnjadv"/></e>
+    <e lm="lè"><i>lè</i><par n="si__cnjadv"/></e>
 
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
 
@@ -421,6 +422,21 @@
     <e lm="trèz"><i>trèz</i><par n="en__num"/></e>
     <e lm="katòz"><i>katòz</i><par n="en__num"/></e>
     <e lm="kenz"><i>kenz</i><par n="en__num"/></e>
+    <e lm="sèz"><i>sèz</i><par n="en__num"/></e>
+    <e lm="disèt"><i>disèt</i><par n="en__num"/></e>
+    <e lm="dizuit"><i>dizuit</i><par n="en__num"/></e>
+    <e lm="diznèf"><i>diznèf</i><par n="en__num"/></e>
+    <e lm="ven"><i>ven</i><par n="en__num"/></e>
+    <e lm="venteyen"><i>venteyen</i><par n="en__num"/></e>
+    <e lm="vennde"><i>vennde</i><par n="en__num"/></e>
+    <e lm="venntwa"><i>venntwa</i><par n="en__num"/></e>
+    <e lm="vennkat"><i>vennkat</i><par n="en__num"/></e>
+    <e lm="vennsenk"><i>vennsenk</i><par n="en__num"/></e>
+    <e lm="vennsis"><i>vennsis</i><par n="en__num"/></e>
+    <e lm="vennsèt"><i>vennsèt</i><par n="en__num"/></e>
+    <e lm="ventwit"><i>ventwit</i><par n="en__num"/></e>
+    <e lm="ventnèf"><i>ventnèf</i><par n="en__num"/></e>
+    <e lm="trant"><i>trant</i><par n="en__num"/></e>
   </section>
   <section id="abbreviations" type="preblank">
     <e lm="p'"><p><l>p'</l><r>pa<s n="adv"/></r></p></e>
