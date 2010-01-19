@@ -420,6 +420,42 @@
     <e lm="grip pòsin"><i>grip<b/>pòsin</i><par n="liv__n"/></e>
     <e lm="viris"><i>viris</i><par n="liv__n"/></e>
     <e lm="bakteri"><i>bakteri</i><par n="liv__n"/></e>
+    <e lm="bagay"><i>bagay</i><par n="liv__n"/></e>
+    <e lm="bannann"><i>bannann</i><par n="liv__n"/></e>
+    <e lm="fig"><i>fig</i><par n="liv__n"/></e>
+    <e lm="bekàn"><i>bekàn</i><par n="liv__n"/></e>
+    <e lm="diri"><i>diri</i><par n="liv__n"/></e>
+    <e lm="lakay"><i>lakay</i><par n="liv__n"/></e>
+    <e lm="kiyèz"><i>kiyèz</i><par n="liv__n"/></e>
+    <e lm="tchòk"><i>tchòk</i><par n="liv__n"/></e>
+    <e lm="poban"><i>poban</i><par n="liv__n"/></e>
+    <e lm="kle"><i>kle</i><par n="liv__n"/></e>
+    <e lm="kle kola"><i>kle<b/>kola</i><par n="liv__n"/></e>
+    <e lm="konnfleks"><i>konnfleks</i><par n="liv__n"/></e>
+    <e lm="kawoutchou"><i>kawoutchou</i><par n="liv__n"/></e>
+    <e lm="lin"><i>lin</i><par n="liv__n"/></e>
+    <e lm="makak"><i>makak</i><par n="liv__n"/></e>
+    <e lm="matant"><i>matant</i><par n="liv__n"/></e>
+    <e lm="pwa"><i>pwa</i><par n="liv__n"/></e>
+    <e lm="piman"><i>piman</i><par n="liv__n"/></e>
+    <e lm="chenèt"><i>chenèt</i><par n="liv__n"/></e>
+    <e lm="tonton"><i>tonton</i><par n="liv__n"/></e>
+    <e lm="vwazen"><i>vwazen</i><par n="liv__n"/></e>
+    <e lm="zwazo"><i>zwazo</i><par n="liv__n"/></e>
+    <e lm="je"><i>je</i><par n="liv__n"/></e>
+    <e lm="kòlgat"><i>kòlgat</i><par n="liv__n"/></e>
+    <e lm="pat"><i>pat</i><par n="liv__n"/></e>
+    <e lm="jilèt"><i>jilèt</i><par n="liv__n"/></e>
+    <e lm="panpèz"><i>panpèz</i><par n="liv__n"/></e>
+    <e lm="kouchèt"><i>kouchèt</i><par n="liv__n"/></e>
+    <e lm="kodak"><i>kodak</i><par n="liv__n"/></e>
+    <e lm="frijidè"><i>frijidè</i><par n="liv__n"/></e>
+    <e lm="dèlko"><i>dèlko</i><par n="liv__n"/></e>
+    <e lm="iglou"><i>iglou</i><par n="liv__n"/></e>
+    <e lm="tèmòs"><i>tèmòs</i><par n="liv__n"/></e>
+    <e lm="chiklèt"><i>chiklèt</i><par n="liv__n"/></e>
+    <e lm="kitèks"><i>kitèks</i><par n="liv__n"/></e>
+    <e lm="djip"><i>djip</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -492,6 +528,7 @@
     <e lm="travay"><i>travay</i><par n="chanje__vblex"/></e>
     <e lm="twouve"><i>twouve</i><par n="chanje__vblex"/></e>
     <e lm="trouve"><i>trouve</i><par n="chanje__vblex"/></e>
+    <e lm="pann"><i>pann</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -548,6 +585,7 @@
     <e lm="Gomò"><i>Gomò</i><par n="Ayiti__np"/></e>
     <e lm="Salèm"><i>Salèm</i><par n="Ayiti__np"/></e>
     <e lm="Izrayèl"><i>Izrayèl</i><par n="Ayiti__np"/></e>
+    <e lm="Etazini"><i>Etazini</i><par n="Ayiti__np"/></e>
 
     <e lm="Noe"><i>Noe</i><par n="Noe__np"/></e>
     <e lm="Bondye"><i>Bondye</i><par n="Noe__np"/></e>
@@ -567,6 +605,7 @@
     <e lm="anlè"><i>anlè</i><par n="an__pr"/></e>
     <e lm="nan"><i>nan</i><par n="an__pr"/></e>
     <e lm="dan"><i>dan</i><par n="an__pr"/></e>
+    <e lm="dèyè"><i>dèyè</i><par n="an__pr"/></e>
     <e lm="andidan"><i>andidan</i><par n="an__pr"/></e>
     <e lm="ant"><i>ant</i><par n="an__pr"/></e>
     <e lm="anpami"><i>anpami</i><par n="an__pr"/></e>

@@ -21,6 +21,7 @@
     <sdef n="pr"/>
     <sdef n="np"/>
     <sdef n="top"/>
+    <sdef n="loc"/>
     <sdef n="sg"/>
     <sdef n="pl"/>
     <sdef n="num"/>
@@ -206,6 +207,45 @@
     <e><p><l>grip<b/>pòsin<s n="n"/></l><r>swine<b/>flu<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>viris<s n="n"/></l><r>virus<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>bakteri<s n="n"/></l><r>bacterium<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>bagay<s n="n"/></l><r>thing<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>bannann<s n="n"/></l><r>banana<s n="n"/></r></p><par n="ND"/></e>
+    <e r="LR"><p><l>fig<s n="n"/></l><r>banana<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>bekàn<s n="n"/></l><r>bicycle<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>diri<s n="n"/></l><r>rice<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lakay<s n="n"/></l><r>house<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kiyèz<s n="n"/></l><r>hog<b/>banana<s n="n"/></r></p><par n="ND"/></e>
+    <e r="LR"><p><l>tchòk<s n="n"/></l><r>hog<b/>banana<s n="n"/></r></p><par n="ND"/></e>
+    <e r="LR"><p><l>poban<s n="n"/></l><r>hog<b/>banana<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kle<s n="n"/></l><r>key<s n="n"/></r></p><par n="ND"/></e>
+    <e r="RL"><p><l>kle<s n="n"/></l><r>wrench<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kle<b/>kola<s n="n"/></l><r>bottle<b/>opener<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>konnfleks<s n="n"/></l><r>breakfast<b/>cereal<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kawoutchou<s n="n"/></l><r>tire<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lin<s n="n"/></l><r>moon<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>makak<s n="n"/></l><r>monkey<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>matant<s n="n"/></l><r>aunt<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>pwa<s n="n"/></l><r>bean<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>piman<s n="n"/></l><r>chili<b/>pepper<s n="n"/></r></p><par n="ND"/></e> <!--"a very hot pepper"-->
+    <e><p><l>chenèt<s n="n"/></l><r>mamoncillo<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>chenèt<s n="n"/></l><r>gap<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>tonton<s n="n"/></l><r>uncle<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>vwazen<s n="n"/></l><r>neighbor<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>zwazo<s n="n"/></l><r>bird<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>je<s n="n"/></l><r>eye<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kòlgat<s n="n"/></l><r>toothpaste<s n="n"/></r></p><par n="ND"/></e>
+    <e r="LR"><p><l>pat<s n="n"/></l><r>toothpaste<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>jilèt<s n="n"/></l><r>razor<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>panpèz<s n="n"/></l><r>nappy<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kouchèt<s n="n"/></l><r>nappy<s n="n"/></r></p><par n="ND"/></e>
+    <e r="RL"><p><l>kouchèt<s n="n"/></l><r>diaper<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kodak<s n="n"/></l><r>camera<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>frijidè<s n="n"/></l><r>refrigerator<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>dèlko<s n="n"/></l><r>generator<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>iglou<s n="n"/></l><r>cooler<s n="n"/></r></p><par n="ND"/></e>
+    <e r="LR"><p><l>tèmòs<s n="n"/></l><r>cooler<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>chiklèt<s n="n"/></l><r>gum<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kitèks<s n="n"/></l><r>nail<b/>polish<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>djip<s n="n"/></l><r>SUV<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -221,6 +261,7 @@
     <e><p><l>Gomò<s n="np"/><s n="top"/></l><r>Gomorrah<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Salèm<s n="np"/><s n="top"/></l><r>Salem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Izrayèl<s n="np"/><s n="top"/></l><r>Israel<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Etazini<s n="np"/><s n="loc"/></l><r>United<b/>States<s n="np"/><s n="loc"/><s n="pl"/></r></p></e>
 
     <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
     <e><p><l>Bondye<s n="np"/></l><r>Yahweh<s n="np"/></r></p></e>
@@ -246,6 +287,7 @@
     <e r="LR"><p><l>kapab<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>dwe<s n="vaux"/></l><r>must<s n="vaux"/></r></p></e>
 
+    <e><p><l>pann<s n="vblex"/></l><r>hang<s n="vblex"/></r></p></e>
     <e><p><l>chanje<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
     <e><p><l>fè<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
     <e><p><l>wè<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
@@ -285,6 +327,7 @@
     <e><p><l>anlè<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
     <e><p><l>nan<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
     <e><p><l>dan<s n="pr"/></l><r>within<s n="pr"/></r></p></e>
+    <e><p><l>dèyè<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
     <e><p><l>andidan<s n="pr"/></l><r>inside<s n="pr"/></r></p></e>
     <e><p><l>ant<s n="pr"/></l><r>between<s n="pr"/></r></p></e>
     <e><p><l>anpami<s n="pr"/></l><r>among<s n="pr"/></r></p></e>
