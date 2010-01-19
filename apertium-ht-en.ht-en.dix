@@ -19,6 +19,7 @@
     <sdef n="adv"/>
     <sdef n="itg"/>
     <sdef n="pr"/>
+    <sdef n="prn"/>
     <sdef n="np"/>
     <sdef n="top"/>
     <sdef n="loc"/>
@@ -253,6 +254,11 @@
     <e><p><l>fi<s n="n"/></l><r>girl<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>wòb<s n="n"/></l><r>dress<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>machin<s n="n"/></l><r>car<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kouto<s n="n"/></l><r>knife<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kravat<s n="n"/></l><r>necktie<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lajan<s n="n"/></l><r>money<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>fanmi<s n="n"/></l><r>family<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>chèz<s n="n"/></l><r>chair<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
