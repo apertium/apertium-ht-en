@@ -31,6 +31,7 @@
     <sdef n="lpar"/>
     <sdef n="rpar"/>
     <sdef n="guio"/>
+    <sdef n="preadv"/>
   </sdefs>
   <pardefs>
     <pardef n="ND">
