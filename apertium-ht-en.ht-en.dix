@@ -74,6 +74,7 @@
 
     <e><p><l>yon<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>tout<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>chak<s n="det"/><s n="ind"/></l><r>each<s n="det"/><s n="ind"/></r></p></e>
     
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>chyen<s n="n"/></l><r>dog<s n="n"/></r></p><par n="ND"/></e>
@@ -175,6 +176,15 @@
     <e><p><l>tribinal<s n="n"/></l><r>tribunal<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>wa<s n="n"/></l><r>king<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>lespri<s n="n"/></l><r>spirit<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>limyè<s n="n"/></l><r>light<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>syèl<s n="n"/></l><r>sky<s n="n"/></r></p><par n="ND"/></e>
+    <e r="RL"><p><l>syèl<s n="n"/></l><r>heaven<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>politisyen<s n="n"/></l><r>politician<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>powèt<s n="n"/></l><r>poet<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>ekriven<s n="n"/></l><r>writer<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>mouvman<s n="n"/></l><r>movement<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kreyatè<s n="n"/></l><r>creator<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lidè<s n="n"/></l><r>leader<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -189,6 +199,7 @@
     <e><p><l>Oba<s n="np"/><s n="top"/></l><r>Hobah<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Gomò<s n="np"/><s n="top"/></l><r>Gomorrah<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Salèm<s n="np"/><s n="top"/></l><r>Salem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Izrayèl<s n="np"/><s n="top"/></l><r>Israel<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 
     <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
     <e><p><l>Bondye<s n="np"/></l><r>Yahweh<s n="np"/></r></p></e>
@@ -212,6 +223,7 @@
     <e><p><l>vle<s n="vbmod"/></l><r>want<g><b/>to</g><s n="vbmod"/></r></p></e>
     <e><p><l>ka<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e r="LR"><p><l>kapab<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
+    <e><p><l>dwe<s n="vaux"/></l><r>must<s n="vaux"/></r></p></e>
 
     <e><p><l>chanje<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
     <e><p><l>fè<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
@@ -293,6 +305,10 @@
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
 
+    <e r="LR"><p><l>pi<s n="preadv"/></l><r>most<s n="preadv"/></r></p></e>
+    <e><p><l>plis<s n="preadv"/></l><r>most<s n="preadv"/></r></p></e>
+    <e><p><l>trè<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
+
     <e><p><l>isit<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
     <e><p><l>pa<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
     <e><p><l>lontan<s n="adv"/></l><r>for<b/>a<b/>long<b/>time<s n="adv"/></r></p></e>
@@ -301,6 +317,7 @@
     <e><p><l>nan<b/>konmansman<s n="adv"/></l><r>in<b/>the<b/>beginning<s n="adv"/></r></p></e>
     <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
     <e><p><l>wi<s n="adv"/></l><r>yes<s n="adv"/></r></p></e>
+    <e><p><l>every<b/>time<s n="adv"/></l><r>chak<b/>fwa<s n="adv"/></r></p></e>
 
     <e><p><l>ki<s n="rel"/><s n="an"/></l><r>who<s n="rel"/><s n="an"/></r></p></e>
 
