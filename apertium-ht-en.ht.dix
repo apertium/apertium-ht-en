@@ -401,6 +401,25 @@
     <e lm="mouvman"><i>mouvman</i><par n="liv__n"/></e>
     <e lm="kreyatè"><i>kreyatè</i><par n="liv__n"/></e>
     <e lm="lidè"><i>lidè</i><par n="liv__n"/></e>
+    <e lm="pozisyon"><i>pozisyon</i><par n="liv__n"/></e>
+    <e lm="inivèsite"><i>inivèsite</i><par n="liv__n"/></e>
+    <e lm="kolèj"><i>kolèj</i><par n="liv__n"/></e>
+    <e lm="endepandans"><i>endepandans</i><par n="liv__n"/></e>
+    <e lm="jistis"><i>jistis</i><par n="liv__n"/></e>
+    <e lm="kategori"><i>kategori</i><par n="liv__n"/></e>
+    <e lm="definisyon"><i>definisyon</i><par n="liv__n"/></e>
+    <e lm="antrepriz"><i>antrepriz</i><par n="liv__n"/></e>
+    <e lm="finans"><i>finans</i><par n="liv__n"/></e>
+    <e lm="anviwonman"><i>anviwonman</i><par n="liv__n"/></e>
+    <e lm="defans"><i>defans</i><par n="liv__n"/></e>
+    <e lm="plant"><i>plant</i><par n="liv__n"/></e>
+    <e lm="anatomi"><i>anatomi</i><par n="liv__n"/></e>
+    <e lm="obsèvasyon"><i>obsèvasyon</i><par n="liv__n"/></e>
+    <e lm="eksperyans"><i>eksperyans</i><par n="liv__n"/></e>
+    <e lm="grip"><i>grip</i><par n="liv__n"/></e>
+    <e lm="grip pòsin"><i>grip<b/>pòsin</i><par n="liv__n"/></e>
+    <e lm="viris"><i>viris</i><par n="liv__n"/></e>
+    <e lm="bakteri"><i>bakteri</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
