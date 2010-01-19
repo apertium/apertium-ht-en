@@ -72,6 +72,8 @@
     </pardef>
   </pardefs>
   <section id="main" type="standard">
+    <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
+
     <e><p><l>e<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>ak<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
 
