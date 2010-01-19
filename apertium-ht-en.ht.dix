@@ -456,6 +456,10 @@
     <e lm="chiklèt"><i>chiklèt</i><par n="liv__n"/></e>
     <e lm="kitèks"><i>kitèks</i><par n="liv__n"/></e>
     <e lm="djip"><i>djip</i><par n="liv__n"/></e>
+    <e lm="tòchon"><i>tòchon</i><par n="liv__n"/></e>
+    <e lm="napkin"><i>napkin</i><par n="liv__n"/></e>
+    <e lm="nèg"><i>nèg</i><par n="liv__n"/></e>
+    <e lm="blan"><i>blan</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -497,6 +501,8 @@
 
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
     <e lm="fè"><i>fè</i><par n="chanje__vblex"/></e>
+    <e lm="fè bak"><i>fè<b/>bak</i><par n="chanje__vblex"/></e>
+    <e lm="rekile"><i>rekile</i><par n="chanje__vblex"/></e>
     <e lm="reflete"><i>reflete</i><par n="chanje__vblex"/></e>
     <e lm="achte"><i>achte</i><par n="chanje__vblex"/></e>
     <e lm="kreye"><i>kreye</i><par n="chanje__vblex"/></e>
