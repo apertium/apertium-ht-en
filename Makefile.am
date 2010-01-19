@@ -6,7 +6,7 @@ PREFIX2=$(LANG2)-$(LANG1)
 
 BASENAME=apertium-$(PREFIX1)
 
-TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).t1x.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin 
+TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin 
 
 modes/$(PREFIX1).mode: modes.xml
 	apertium-gen-modes modes.xml
@@ -28,10 +28,20 @@ $(PREFIX1).t1x.bin: $(BASENAME).$(PREFIX1).t1x
 	apertium-validate-transfer $(BASENAME).$(PREFIX1).t1x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t1x $@
 
+$(PREFIX1).t2x.bin: $(BASENAME).$(PREFIX1).t2x
+	apertium-validate-interchunk $(BASENAME).$(PREFIX1).t2x
+	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t2x $@
+
+$(PREFIX1).t3x.bin: $(BASENAME).$(PREFIX1).t3x
+	apertium-validate-postchunk $(BASENAME).$(PREFIX1).t3x
+	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t3x $@
+
 EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(LANG2).dix \
            $(PREFIX1).prob \
 	   $(BASENAME).$(PREFIX1).t1x \
+	   $(BASENAME).$(PREFIX1).t2x \
+	   $(BASENAME).$(PREFIX1).t3x \
 	   $(BASENAME).$(LANG1).tsx \
 	   $(BASENAME).$(LANG2).tsx modes.xml
 
@@ -49,6 +59,8 @@ apertium_ht_en_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).autogen.bin \
                     $(PREFIX1).prob \
 		    $(PREFIX1).t1x.bin \
+		    $(PREFIX1).t2x.bin \
+		    $(PREFIX1).t3x.bin \
 	            modes/$(PREFIX1).mode modes.xml
 
 install-data-local:
@@ -60,5 +72,7 @@ install-data-local:
 	$(INSTALL_DATA) $(PREFIX1).mode $(apertium_ht_modesdir)
 	rm $(PREFIX1).mode 
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(apertium_ht_endir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(apertium_ht_endir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(apertium_ht_endir)
 
 CLEANFILES = -rf $(TARGETS_COMMON) modes

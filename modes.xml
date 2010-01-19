@@ -14,6 +14,14 @@
         <file name="ht-en.t1x.bin"/>
         <file name="ht-en.autobil.bin"/>
       </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-ht-en.ht-en.t2x"/>
+        <file name="ht-en.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-ht-en.ht-en.t3x"/>
+        <file name="ht-en.t3x.bin"/>
+      </program>
       <program name="lt-proc $1">
         <file name="ht-en.autogen.bin"/>
       </program>
@@ -50,6 +58,50 @@
         <file name="apertium-ht-en.ht-en.t1x"/>
         <file name="ht-en.t1x.bin"/>
         <file name="ht-en.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  <mode name="ht-en-interchunk" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="ht-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ht-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-ht-en.ht-en.t1x"/>
+        <file name="ht-en.t1x.bin"/>
+        <file name="ht-en.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-ht-en.ht-en.t2x"/>
+        <file name="ht-en.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  <mode name="ht-en-postchunk" install="no">
+    <pipeline>
+      <program name="lt-proc">
+        <file name="ht-en.automorf.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="ht-en.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="apertium-transfer">
+        <file name="apertium-ht-en.ht-en.t1x"/>
+        <file name="ht-en.t1x.bin"/>
+        <file name="ht-en.autobil.bin"/>
+      </program>
+      <program name="apertium-interchunk">
+        <file name="apertium-ht-en.ht-en.t2x"/>
+        <file name="ht-en.t2x.bin"/>
+      </program>
+      <program name="apertium-postchunk">
+        <file name="apertium-ht-en.ht-en.t3x"/>
+        <file name="ht-en.t3x.bin"/>
       </program>
     </pipeline>
   </mode>
