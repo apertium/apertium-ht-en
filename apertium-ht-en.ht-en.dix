@@ -250,6 +250,9 @@
     <e><p><l>napkin<s n="n"/></l><r>napkin<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>nèg<s n="n"/></l><r>guy<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>blan<s n="n"/></l><r>foreigner<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>fi<s n="n"/></l><r>girl<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>wòb<s n="n"/></l><r>dress<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>machin<s n="n"/></l><r>car<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -303,6 +306,7 @@
     <e><p><l>pale<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>parle<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
     <e><p><l>mache<s n="vblex"/></l><r>walk<s n="vblex"/></r></p></e>
+    <e><p><l>mete<s n="vblex"/></l><r>put<b/>on<s n="vblex"/></r></p></e>
     <e><p><l>ede<s n="vblex"/></l><r>help<s n="vblex"/></r></p></e>
     <e><p><l>egzamine<s n="vblex"/></l><r>examine<s n="vblex"/></r></p></e>
     <e><p><l>egzale<s n="vblex"/></l><r>exhale<s n="vblex"/></r></p></e>
