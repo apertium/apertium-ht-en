@@ -25,6 +25,9 @@
       <program name="lt-proc $1">
         <file name="ht-en.autogen.bin"/>
       </program>
+      <program name="lt-proc -p">
+        <file name="ht-en.autopgen.bin"/>
+      </program>
     </pipeline>
   </mode>
   

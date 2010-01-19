@@ -6,7 +6,7 @@ PREFIX2=$(LANG2)-$(LANG1)
 
 BASENAME=apertium-$(PREFIX1)
 
-TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin 
+TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin $(PREFIX1).autopgen.bin 
 
 modes/$(PREFIX1).mode: modes.xml
 	apertium-gen-modes modes.xml
@@ -36,8 +36,13 @@ $(PREFIX1).t3x.bin: $(BASENAME).$(PREFIX1).t3x
 	apertium-validate-postchunk $(BASENAME).$(PREFIX1).t3x
 	apertium-preprocess-transfer $(BASENAME).$(PREFIX1).t3x $@
 
+$(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
+	apertium-validate-dictionary $(BASENAME).post-$(LANG2).dix
+	lt-comp lr $(BASENAME).post-$(LANG2).dix $@
+
 EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(LANG2).dix \
+	   $(BASENAME).post-$(LANG2).dix \
            $(PREFIX1).prob \
 	   $(BASENAME).$(PREFIX1).t1x \
 	   $(BASENAME).$(PREFIX1).t2x \
@@ -46,10 +51,11 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(LANG2).tsx modes.xml
 
 clean-dicts:
-	touch $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG2).dix $(BASENAME).$(PREFIX1).dix
+	touch $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG2).dix $(BASENAME).$(PREFIX1).dix $(BASENAME).post-$(LANG2).dix
 	rm $(BASENAME).$(LANG1).dix
 	rm $(BASENAME).$(LANG2).dix
 	rm $(BASENAME).$(PREFIX1).dix
+	rm $(BASENAME).post-$(LANG2).dix
 
 apertium_ht_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_ht_modesdir=$(prefix)/share/apertium/modes/
@@ -57,6 +63,7 @@ apertium_ht_modesdir=$(prefix)/share/apertium/modes/
 apertium_ht_en_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).autobil.bin \
                     $(PREFIX1).autogen.bin \
+                    $(PREFIX1).autopgen.bin \
                     $(PREFIX1).prob \
 		    $(PREFIX1).t1x.bin \
 		    $(PREFIX1).t2x.bin \

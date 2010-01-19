@@ -9,6 +9,7 @@
 /apertium-ht-en.ht-en.t2x -text
 /apertium-ht-en.ht-en.t3x -text
 /apertium-ht-en.ht.dix -text
+/apertium-ht-en.post-en.dix -text
 /autogen.sh -text
 /configure.ac -text
 /ht-en.prob -text svneol=unset#unset
