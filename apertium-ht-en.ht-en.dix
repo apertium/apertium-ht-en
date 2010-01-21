@@ -977,6 +977,107 @@
     <e c="AutoCog"><p><l>verasite<s n="n"/></l><r>veracity<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>verite<s n="n"/></l><r>verity<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>vorasite<s n="n"/></l><r>voracity<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>adaptatif<s n="n"/></l><r>adaptative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>aditif<s n="n"/></l><r>additive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>adjektif<s n="n"/></l><r>adjective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>administratif<s n="n"/></l><r>administrative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>adoptif<s n="n"/></l><r>adoptive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>adoptiv<s n="n"/></l><r>adoptive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>afektif<s n="n"/></l><r>affective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>afimatif<s n="n"/></l><r>affirmative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>ajektif<s n="n"/></l><r>adjective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>aktif<s n="n"/></l><r>active<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>altènatif<s n="n"/></l><r>alternative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>altènativ<s n="n"/></l><r>alternative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>apwoksimatif<s n="n"/></l><r>approximative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>apwoksimativ<s n="n"/></l><r>approximative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>asistif<s n="n"/></l><r>assistive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>atantif<s n="n"/></l><r>attentive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>definitif<s n="n"/></l><r>definitive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>definitiv<s n="n"/></l><r>definitive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>dekoratif<s n="n"/></l><r>decorative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>dekorativ<s n="n"/></l><r>decorative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>demonstratif<s n="n"/></l><r>demonstrative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>deskriptif<s n="n"/></l><r>descriptive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>destriktif<s n="n"/></l><r>destructive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>detektif<s n="n"/></l><r>detective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>detektiv<s n="n"/></l><r>detective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>dijestif<s n="n"/></l><r>digestive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>direktif<s n="n"/></l><r>directive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>direktiv<s n="n"/></l><r>directive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>distribitif<s n="n"/></l><r>distributive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>efektif<s n="n"/></l><r>effective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>efektiv<s n="n"/></l><r>effective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>egzekitif<s n="n"/></l><r>executive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>egzòstif<s n="n"/></l><r>exhaustive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>ekzekitif<s n="n"/></l><r>executive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>elektif<s n="n"/></l><r>elective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>endikatif<s n="n"/></l><r>indicative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>enperatif<s n="n"/></l><r>imperative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>enstriktif<s n="n"/></l><r>instructive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>entwospektiv<s n="n"/></l><r>introspective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>entèaktif<s n="n"/></l><r>interactive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>entèraktif<s n="n"/></l><r>interactive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>entèwogatif<s n="n"/></l><r>interrogative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>esplikatif<s n="n"/></l><r>explicative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>fijitif<s n="n"/></l><r>fugitive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>inisyatif<s n="n"/></l><r>initiative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>inisyativ<s n="n"/></l><r>initiative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>inovativ<s n="n"/></l><r>innovative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>kalitatif<s n="n"/></l><r>qualitative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>kantitatif<s n="n"/></l><r>quantitative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>kaptif<s n="n"/></l><r>captive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>kimilatif<s n="n"/></l><r>cumulative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>kolaboratif<s n="n"/></l><r>collaborative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>kolektif<s n="n"/></l><r>collective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>kominikatif<s n="n"/></l><r>communicative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>komitatif<s n="n"/></l><r>commutative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>konbatif<s n="n"/></l><r>combative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>kondiktif<s n="n"/></l><r>conductive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>konparatif<s n="n"/></l><r>comparative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>konpetitif<s n="n"/></l><r>competitive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>konpetitiv<s n="n"/></l><r>competitive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>konsiltatif<s n="n"/></l><r>consultative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>konstriktif<s n="n"/></l><r>constrictive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>kontraseptif<s n="n"/></l><r>contraceptive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>koperatif<s n="n"/></l><r>cooperative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>koperativ<s n="n"/></l><r>cooperative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>korektif<s n="n"/></l><r>corrective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>kreyatif<s n="n"/></l><r>creative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>lejislatif<s n="n"/></l><r>legislative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>lejislativ<s n="n"/></l><r>legislative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>likratif<s n="n"/></l><r>lucrative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>lokatif<s n="n"/></l><r>locative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>lokomotiv<s n="n"/></l><r>locomotive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>motif<s n="n"/></l><r>motive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>natif<s n="n"/></l><r>native<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>negatif<s n="n"/></l><r>negative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>negativ<s n="n"/></l><r>negative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>nòmatif<s n="n"/></l><r>normative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>objektif<s n="n"/></l><r>objective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>patisipativ<s n="n"/></l><r>participative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>patitif<s n="n"/></l><r>partitive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>positif<s n="n"/></l><r>positive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>pozitif<s n="n"/></l><r>positive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>pozitiv<s n="n"/></l><r>positive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>prevantif<s n="n"/></l><r>preventive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>prevantiv<s n="n"/></l><r>preventive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>prezèvatif<s n="n"/></l><r>preservative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>pwodiktif<s n="n"/></l><r>productive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>pèspektiv<s n="n"/></l><r>perspective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>radyoaktif<s n="n"/></l><r>radioactive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>relativ<s n="n"/></l><r>relative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>repetitif<s n="n"/></l><r>repetitive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>reprezantatif<s n="n"/></l><r>representative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>repwodiktif<s n="n"/></l><r>reproductive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>repwodiktiv<s n="n"/></l><r>reproductive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>reseptif<s n="n"/></l><r>receptive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>respektif<s n="n"/></l><r>respective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>retwoaktif<s n="n"/></l><r>retroactive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>reyaktiv<s n="n"/></l><r>reactive<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>selektif<s n="n"/></l><r>selective<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>tantativ<s n="n"/></l><r>tentative<s n="n"/></r></p><par n="ND"/></e>
+    <e c="AutoCog"><p><l>vendikatif<s n="n"/></l><r>vindicative<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -1121,6 +1222,107 @@
     <e c="AutoCog"><p><l>miltirasyal<s n="adj"/></l><r>multiracial<s n="adj"/></r></p></e>
     <e c="AutoCog"><p><l>rasyal<s n="adj"/></l><r>racial<s n="adj"/></r></p></e>
     <e c="AutoCog"><p><l>sosyal<s n="adj"/></l><r>social<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>adaptatif<s n="adj"/></l><r>adaptative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>aditif<s n="adj"/></l><r>additive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>adjektif<s n="adj"/></l><r>adjective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>administratif<s n="adj"/></l><r>administrative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>adoptif<s n="adj"/></l><r>adoptive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>adoptiv<s n="adj"/></l><r>adoptive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>afektif<s n="adj"/></l><r>affective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>afimatif<s n="adj"/></l><r>affirmative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>ajektif<s n="adj"/></l><r>adjective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>aktif<s n="adj"/></l><r>active<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>altènatif<s n="adj"/></l><r>alternative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>altènativ<s n="adj"/></l><r>alternative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>apwoksimatif<s n="adj"/></l><r>approximative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>apwoksimativ<s n="adj"/></l><r>approximative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>asistif<s n="adj"/></l><r>assistive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>atantif<s n="adj"/></l><r>attentive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>definitif<s n="adj"/></l><r>definitive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>definitiv<s n="adj"/></l><r>definitive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>dekoratif<s n="adj"/></l><r>decorative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>dekorativ<s n="adj"/></l><r>decorative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>demonstratif<s n="adj"/></l><r>demonstrative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>deskriptif<s n="adj"/></l><r>descriptive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>destriktif<s n="adj"/></l><r>destructive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>detektif<s n="adj"/></l><r>detective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>detektiv<s n="adj"/></l><r>detective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>dijestif<s n="adj"/></l><r>digestive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>direktif<s n="adj"/></l><r>directive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>direktiv<s n="adj"/></l><r>directive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>distribitif<s n="adj"/></l><r>distributive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>efektif<s n="adj"/></l><r>effective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>efektiv<s n="adj"/></l><r>effective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>egzekitif<s n="adj"/></l><r>executive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>egzòstif<s n="adj"/></l><r>exhaustive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>ekzekitif<s n="adj"/></l><r>executive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>elektif<s n="adj"/></l><r>elective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>endikatif<s n="adj"/></l><r>indicative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>enperatif<s n="adj"/></l><r>imperative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>enstriktif<s n="adj"/></l><r>instructive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>entwospektiv<s n="adj"/></l><r>introspective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>entèaktif<s n="adj"/></l><r>interactive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>entèraktif<s n="adj"/></l><r>interactive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>entèwogatif<s n="adj"/></l><r>interrogative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>esplikatif<s n="adj"/></l><r>explicative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>fijitif<s n="adj"/></l><r>fugitive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>inisyatif<s n="adj"/></l><r>initiative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>inisyativ<s n="adj"/></l><r>initiative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>inovativ<s n="adj"/></l><r>innovative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>kalitatif<s n="adj"/></l><r>qualitative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>kantitatif<s n="adj"/></l><r>quantitative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>kaptif<s n="adj"/></l><r>captive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>kimilatif<s n="adj"/></l><r>cumulative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>kolaboratif<s n="adj"/></l><r>collaborative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>kolektif<s n="adj"/></l><r>collective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>kominikatif<s n="adj"/></l><r>communicative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>komitatif<s n="adj"/></l><r>commutative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>konbatif<s n="adj"/></l><r>combative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>kondiktif<s n="adj"/></l><r>conductive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>konparatif<s n="adj"/></l><r>comparative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>konpetitif<s n="adj"/></l><r>competitive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>konpetitiv<s n="adj"/></l><r>competitive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>konsiltatif<s n="adj"/></l><r>consultative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>konstriktif<s n="adj"/></l><r>constrictive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>kontraseptif<s n="adj"/></l><r>contraceptive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>koperatif<s n="adj"/></l><r>cooperative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>koperativ<s n="adj"/></l><r>cooperative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>korektif<s n="adj"/></l><r>corrective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>kreyatif<s n="adj"/></l><r>creative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>lejislatif<s n="adj"/></l><r>legislative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>lejislativ<s n="adj"/></l><r>legislative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>likratif<s n="adj"/></l><r>lucrative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>lokatif<s n="adj"/></l><r>locative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>lokomotiv<s n="adj"/></l><r>locomotive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>motif<s n="adj"/></l><r>motive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>natif<s n="adj"/></l><r>native<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>negatif<s n="adj"/></l><r>negative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>negativ<s n="adj"/></l><r>negative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>nòmatif<s n="adj"/></l><r>normative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>objektif<s n="adj"/></l><r>objective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>patisipativ<s n="adj"/></l><r>participative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>patitif<s n="adj"/></l><r>partitive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>positif<s n="adj"/></l><r>positive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>pozitif<s n="adj"/></l><r>positive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>pozitiv<s n="adj"/></l><r>positive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>prevantif<s n="adj"/></l><r>preventive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>prevantiv<s n="adj"/></l><r>preventive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>prezèvatif<s n="adj"/></l><r>preservative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>pwodiktif<s n="adj"/></l><r>productive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>pèspektiv<s n="adj"/></l><r>perspective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>radyoaktif<s n="adj"/></l><r>radioactive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>relativ<s n="adj"/></l><r>relative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>repetitif<s n="adj"/></l><r>repetitive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>reprezantatif<s n="adj"/></l><r>representative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>repwodiktif<s n="adj"/></l><r>reproductive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>repwodiktiv<s n="adj"/></l><r>reproductive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>reseptif<s n="adj"/></l><r>receptive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>respektif<s n="adj"/></l><r>respective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>retwoaktif<s n="adj"/></l><r>retroactive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>reyaktiv<s n="adj"/></l><r>reactive<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>selektif<s n="adj"/></l><r>selective<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>tantativ<s n="adj"/></l><r>tentative<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>vendikatif<s n="adj"/></l><r>vindicative<s n="adj"/></r></p></e>
     <e c="AutoCog"><p><l>analoji<s n="n"/></l><r>analogy<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>antoloji<s n="n"/></l><r>anthology<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>antwopoloji<s n="n"/></l><r>anthropology<s n="n"/></r></p><par n="ND"/></e>
