@@ -1100,6 +1100,27 @@
     <e><p><l>tris<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>gwo<s n="adj"/></l><r>large<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>vivan<s n="adj"/></l><r>living<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>atifisyèl<s n="adj"/></l><r>artificial<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>biseksyèl<s n="adj"/></l><r>bisexual<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>egzistansyèl<s n="adj"/></l><r>existential<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>ekzistensyèl<s n="adj"/></l><r>existential<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>etewoseksyèl<s n="adj"/></l><r>heterosexual<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>konfidansyèl<s n="adj"/></l><r>confidential<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>ofisyèl<s n="adj"/></l><r>official<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>omoseksyèl<s n="adj"/></l><r>homosexual<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>potansyèl<s n="adj"/></l><r>potential<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>preferansyèl<s n="adj"/></l><r>preferential<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>prezidansyèl<s n="adj"/></l><r>presidential<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>pwovidansyèl<s n="adj"/></l><r>providential<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>rezidansyèl<s n="adj"/></l><r>residential<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>seksyèl<s n="adj"/></l><r>sexual<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>sibstansyèl<s n="adj"/></l><r>substantial<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>inisyal<s n="adj"/></l><r>initial<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>komèsyal<s n="adj"/></l><r>commercial<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>krisyal<s n="adj"/></l><r>crucial<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>miltirasyal<s n="adj"/></l><r>multiracial<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>rasyal<s n="adj"/></l><r>racial<s n="adj"/></r></p></e>
+    <e c="AutoCog"><p><l>sosyal<s n="adj"/></l><r>social<s n="adj"/></r></p></e>
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
 

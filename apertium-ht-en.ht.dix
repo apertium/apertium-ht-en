@@ -1209,6 +1209,27 @@
     <e lm="tris"><i>tris</i><par n="lib__adj"/></e>
     <e lm="gwo"><i>gwo</i><par n="lib__adj"/></e>
     <e lm="vivan"><i>vivan</i><par n="lib__adj"/></e>
+    <e lm="atifisyèl"><i>atifisyèl</i><par n="lib__adj"/></e>
+    <e lm="biseksyèl"><i>biseksyèl</i><par n="lib__adj"/></e>
+    <e lm="egzistansyèl"><i>egzistansyèl</i><par n="lib__adj"/></e>
+    <e lm="ekzistensyèl"><i>ekzistensyèl</i><par n="lib__adj"/></e>
+    <e lm="etewoseksyèl"><i>etewoseksyèl</i><par n="lib__adj"/></e>
+    <e lm="konfidansyèl"><i>konfidansyèl</i><par n="lib__adj"/></e>
+    <e lm="ofisyèl"><i>ofisyèl</i><par n="lib__adj"/></e>
+    <e lm="omoseksyèl"><i>omoseksyèl</i><par n="lib__adj"/></e>
+    <e lm="potansyèl"><i>potansyèl</i><par n="lib__adj"/></e>
+    <e lm="preferansyèl"><i>preferansyèl</i><par n="lib__adj"/></e>
+    <e lm="prezidansyèl"><i>prezidansyèl</i><par n="lib__adj"/></e>
+    <e lm="pwovidansyèl"><i>pwovidansyèl</i><par n="lib__adj"/></e>
+    <e lm="rezidansyèl"><i>rezidansyèl</i><par n="lib__adj"/></e>
+    <e lm="seksyèl"><i>seksyèl</i><par n="lib__adj"/></e>
+    <e lm="sibstansyèl"><i>sibstansyèl</i><par n="lib__adj"/></e>
+    <e lm="inisyal"><i>inisyal</i><par n="lib__adj"/></e>
+    <e lm="komèsyal"><i>komèsyal</i><par n="lib__adj"/></e>
+    <e lm="krisyal"><i>krisyal</i><par n="lib__adj"/></e>
+    <e lm="miltirasyal"><i>miltirasyal</i><par n="lib__adj"/></e>
+    <e lm="rasyal"><i>rasyal</i><par n="lib__adj"/></e>
+    <e lm="sosyal"><i>sosyal</i><par n="lib__adj"/></e>
 
     <e lm="ki"><i>ki</i><par n="ki__rel"/></e>
 
