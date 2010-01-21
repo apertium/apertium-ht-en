@@ -76,6 +76,7 @@
 
     <e><p><l>e<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>ak<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e r="LR"><p><l>epi<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>yon<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>tout<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
@@ -247,6 +248,7 @@
     <e><p><l>iglou<s n="n"/></l><r>cooler<s n="n"/></r></p><par n="ND"/></e>
     <e r="LR"><p><l>tèmòs<s n="n"/></l><r>cooler<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>chiklèt<s n="n"/></l><r>gum<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>farawon<s n="n"/></l><r>pharoah<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>kitèks<s n="n"/></l><r>nail<b/>polish<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>djip<s n="n"/></l><r>SUV<s n="n"/></r></p><par n="ND"/></e>
     <e r="LR"><p><l>tòchon<s n="n"/></l><r>napkin<s n="n"/></r></p><par n="ND"/></e>
@@ -1093,7 +1095,8 @@
     <e><p><l>Gomò<s n="np"/><s n="top"/></l><r>Gomorrah<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Salèm<s n="np"/><s n="top"/></l><r>Salem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Izrayèl<s n="np"/><s n="top"/></l><r>Israel<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Etazini<s n="np"/><s n="loc"/></l><r>United<b/>States<s n="np"/><s n="loc"/><s n="pl"/></r></p></e>
+    <e><p><l>Etazini<s n="np"/><s n="top"/></l><r>United<b/>States<s n="np"/><s n="top"/><s n="pl"/></r></p></e>
+    <e><p><l>Lejip<s n="np"/><s n="top"/></l><r>Egypt<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 
     <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
     <e><p><l>Bondye<s n="np"/></l><r>Yahweh<s n="np"/></r></p></e>
@@ -1103,6 +1106,39 @@
     <e><p><l>Lòt<s n="np"/></l><r>Lot<s n="np"/></r></p></e>
     <e><p><l>Mèlkisedèk<s n="np"/></l><r>Melchizedek<s n="np"/></r></p></e>
     <e><p><l>Kedòlaòmè<s n="np"/></l><r>Chedorlaomer<s n="np"/></r></p></e>
+    <e><p><l>Adan<s n="np"/></l><r>Adam<s n="np"/></r></p></e>
+    <e><p><l>Ev<s n="np"/></l><r>Eve<s n="np"/></r></p></e>
+    <e><p><l>Chifra<s n="np"/></l><r>Shiphrah<s n="np"/></r></p></e>
+    <e><p><l>Pwa<s n="np"/></l><r>Puah<s n="np"/></r></p></e>
+    <e><p><l>Tant<b/>Randevou<s n="np"/></l><r>Tent<b/>of<b/>Meeting<s n="np"/></r></p></e>
+    <e><p><l>Bwat<b/>Kontra<s n="np"/></l><r>Tabernacle<b/>of<b/>the<b/>Testimony<s n="np"/></r></p></e>
+    <e><p><l>Woubenn<s n="np"/></l><r>Reuben<s n="np"/></r></p></e>
+    <e><p><l>Simeyon<s n="np"/></l><r>Simeon<s n="np"/></r></p></e>
+    <e><p><l>Levi<s n="np"/></l><r>Levi<s n="np"/></r></p></e>
+    <e><p><l>Jida<s n="np"/></l><r>Judah<s n="np"/></r></p></e>
+    <e><p><l>Isaka<s n="np"/></l><r>Issachar<s n="np"/></r></p></e>
+    <e><p><l>Zabilon<s n="np"/></l><r>Zebulun<s n="np"/></r></p></e>
+    <e><p><l>Benjamen<s n="np"/></l><r>Benjamin<s n="np"/></r></p></e>
+    <e><p><l>Dann<s n="np"/></l><r>Dan<s n="np"/></r></p></e>
+    <e><p><l>Nèftali<s n="np"/></l><r>Naphtali<s n="np"/></r></p></e>
+    <e><p><l>Gad<s n="np"/></l><r>Gad<s n="np"/></r></p></e>
+    <e><p><l>Asè<s n="np"/></l><r>Asher<s n="np"/></r></p></e>
+    <e><p><l>Jakòb<s n="np"/></l><r>Jacob<s n="np"/></r></p></e>
+    <e><p><l>Jozèf<s n="np"/></l><r>Joseph<s n="np"/></r></p></e>
+    <e><p><l>Piton<s n="np"/></l><r>Pithom<s n="np"/></r></p></e>
+    <e><p><l>Ranmsès<s n="np"/></l><r>Raamses<s n="np"/></r></p></e>
+    <e><p><l>Moyiz<s n="np"/></l><r>Moses<s n="np"/></r></p></e>
+    <e><p><l>Abraram<s n="np"/></l><r>Abraham<s n="np"/></r></p></e>
+    <e><p><l>Izarak<s n="np"/></l><r>Isaac<s n="np"/></r></p></e>
+    <e><p><l>Arawon<s n="np"/></l><r>Aaron<s n="np"/></r></p></e>
+    <e><p><l>Ayisamak<s n="np"/></l><r>Ahisamach<s n="np"/></r></p></e>
+    <e><p><l>Bezaleyèl<s n="np"/></l><r>Bezalel<s n="np"/></r></p></e>
+    <e><p><l>Ouri<s n="np"/></l><r>Uri<s n="np"/></r></p></e>
+    <e><p><l>Our<s n="np"/></l><r>Hur<s n="np"/></r></p></e>
+    <e><p><l>Jetwo<s n="np"/></l><r>Jethro<s n="np"/></r></p></e>
+    <e><p><l>Abèl<s n="np"/></l><r>Abel<s n="np"/></r></p></e>
+    <e><p><l>Kayen<s n="np"/></l><r>Cain<s n="np"/></r></p></e>
+    <e><p><l>Enòk<s n="np"/></l><r>Enoch<s n="np"/></r></p></e>
 
     <e><p><l>premye<s n="det"/></l><r>first<s n="det"/></r></p></e>
     <e><p><l>dezyèm<s n="det"/></l><r>second<s n="det"/></r></p></e>

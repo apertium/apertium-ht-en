@@ -24,6 +24,7 @@
     <sdef n="sg"/>
     <sdef n="top"/>
     <sdef n="ant"/>
+    <sdef n="al"/>
     <sdef n="m"/>
     <sdef n="mf"/>
     <sdef n="rel"/>
@@ -165,7 +166,23 @@
       <e>
         <p>
           <l></l>
-          <r><s n="np"/><s n="ant"/><s n="m"/></r>
+          <r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Ev__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Linux__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="al"/><s n="sg"/></r>
         </p>
       </e>
     </pardef>
@@ -1318,6 +1335,7 @@
     <e lm="selektif"><i>selektif</i><par n="liv__n"/></e>
     <e lm="tantativ"><i>tantativ</i><par n="liv__n"/></e>
     <e lm="vendikatif"><i>vendikatif</i><par n="liv__n"/></e>
+    <e lm="farawon"><i>farawon</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -1572,6 +1590,7 @@
     <e lm="Salèm"><i>Salèm</i><par n="Ayiti__np"/></e>
     <e lm="Izrayèl"><i>Izrayèl</i><par n="Ayiti__np"/></e>
     <e lm="Etazini"><i>Etazini</i><par n="Ayiti__np"/></e>
+    <e lm="Lejip"><i>Lejip</i><par n="Ayiti__np"/></e>
 
     <e lm="Noe"><i>Noe</i><par n="Noe__np"/></e>
     <e lm="Bondye"><i>Bondye</i><par n="Noe__np"/></e>
@@ -1581,9 +1600,43 @@
     <e lm="Lòt"><i>Lòt</i><par n="Noe__np"/></e>
     <e lm="Mèlkisedèk"><i>Mèlkisedèk</i><par n="Noe__np"/></e>
     <e lm="Kedòlaòmè"><i>Kedòlaòmè</i><par n="Noe__np"/></e>
+    <e lm="Adan"><i>Adan</i><par n="Noe__np"/></e>
+    <e lm="Chifra"><i>Chifra</i><par n="Ev__np"/></e>
+    <e lm="Pwa"><i>Pwa</i><par n="Ev__np"/></e>
+    <e lm="Ev"><i>Ev</i><par n="Ev__np"/></e>
+    <e lm="Woubenn"><i>Woubenn</i><par n="Noe__np"/></e>
+    <e lm="Simeyon"><i>Simeyon</i><par n="Noe__np"/></e>
+    <e lm="Levi"><i>Levi</i><par n="Noe__np"/></e>
+    <e lm="Jida"><i>Jida</i><par n="Noe__np"/></e>
+    <e lm="Isaka"><i>Isaka</i><par n="Noe__np"/></e>
+    <e lm="Zabilon"><i>Zabilon</i><par n="Noe__np"/></e>
+    <e lm="Benjamen"><i>Benjamen</i><par n="Noe__np"/></e>
+    <e lm="Dann"><i>Dann</i><par n="Noe__np"/></e>
+    <e lm="Nèftali"><i>Nèftali</i><par n="Noe__np"/></e>
+    <e lm="Gad"><i>Gad</i><par n="Noe__np"/></e>
+    <e lm="Asè"><i>Asè</i><par n="Noe__np"/></e>
+    <e lm="Jakòb"><i>Jakòb</i><par n="Noe__np"/></e>
+    <e lm="Jozèf"><i>Jozèf</i><par n="Noe__np"/></e>
+    <e lm="Piton"><i>Piton</i><par n="Noe__np"/></e>
+    <e lm="Ranmsès"><i>Ranmsès</i><par n="Noe__np"/></e>
+    <e lm="Moyiz"><i>Moyiz</i><par n="Noe__np"/></e>
+    <e lm="Abraram"><i>Abraram</i><par n="Noe__np"/></e>
+    <e lm="Izarak"><i>Izarak</i><par n="Noe__np"/></e>
+    <e lm="Arawon"><i>Arawon</i><par n="Noe__np"/></e>
+    <e lm="Ayisamak"><i>Ayisamak</i><par n="Noe__np"/></e>
+    <e lm="Bezaleyèl"><i>Bezaleyèl</i><par n="Noe__np"/></e>
+    <e lm="Ouri"><i>Ouri</i><par n="Noe__np"/></e>
+    <e lm="Our"><i>Our</i><par n="Noe__np"/></e>
+    <e lm="Jetwo"><i>Jetwo</i><par n="Noe__np"/></e>
+    <e lm="Abèl"><i>Abèl</i><par n="Noe__np"/></e>
+    <e lm="Kayen"><i>Kayen</i><par n="Noe__np"/></e>
+    <e lm="Enòk"><i>Enòk</i><par n="Noe__np"/></e>
+    <e lm="Tant Randevou"><i>Tant<b/>Randevou</i><par n="Linux__np"/></e>
+    <e lm="Bwat Kontra"><i>Bwat<b/>Kontra</i><par n="Linux__np"/></e>
 
     <e lm="e"><i>e</i><par n="e__cnjcoo"/></e>
     <e lm="ak"><i>ak</i><par n="e__cnjcoo"/></e>
+    <e lm="epi"><i>epi</i><par n="e__cnjcoo"/></e>
 
     <e lm="an"><i>an</i><par n="an__pr"/></e>
     <e lm="asou"><i>asou</i><par n="an__pr"/></e>
