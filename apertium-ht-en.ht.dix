@@ -1689,6 +1689,9 @@
     <e lm="ventnèf"><i>ventnèf</i><par n="en__num"/></e>
     <e lm="trant"><i>trant</i><par n="en__num"/></e>
     <e lm="swasanndis"><i>swasanndis</i><par n="en__num"/></e>
+
+    <e><p><l>1e</l><r>1<s n="num"/><s n="ord"/></r></p></e>
+    <e><re>[0-9]+</re><p><l>èm</l><r><s n="num"/><s n="ord"/></r></p></e>
   </section>
   <section id="abbreviations" type="preblank">
     <e lm="p'"><p><l>p'</l><r>pa<s n="adv"/></r></p></e>
