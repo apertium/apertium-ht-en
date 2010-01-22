@@ -1196,6 +1196,8 @@
     <e><p><l>ka<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e r="LR"><p><l>kapab<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>dwe<s n="vaux"/></l><r>must<s n="vaux"/></r></p></e>
+    <e><p><l>gen<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
+    <e r="LR"><p><l>genyen<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
 
     <e><p><l>chanje<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
     <e><p><l>fè<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
@@ -1236,6 +1238,7 @@
     <e r="RL"><p><l>itilize<s n="vblex"/></l><r>utilise<s n="vblex"/></r></p></e>
     <e><p><l>itilize<s n="vblex"/></l><r>use<s n="vblex"/></r></p></e>
     <e><p><l>santi<s n="vblex"/></l><r>feel<s n="vblex"/></r></p></e>
+    <e><p><l>bwè<s n="vblex"/></l><r>drink<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
@@ -1455,7 +1458,10 @@
     <e><p><l>nan<b/>konmansman<s n="adv"/></l><r>in<b/>the<b/>beginning<s n="adv"/></r></p></e>
     <e><p><l>non<s n="adv"/></l><r>no<s n="adv"/></r></p></e>
     <e><p><l>wi<s n="adv"/></l><r>yes<s n="adv"/></r></p></e>
-    <e><p><l>every<b/>time<s n="adv"/></l><r>chak<b/>fwa<s n="adv"/></r></p></e>
+    <e><p><l>chak<b/>fwa<s n="adv"/></l><r>every<b/>time<s n="adv"/></r></p></e>
+    <e><p><l>chak<b/>jou<s n="adv"/></l><r>every<b/>day<s n="adv"/></r></p></e>
+    <e><p><l>espesyalman<s n="adv"/></l><r>specially<s n="adv"/></r></p></e>
+    <e><p><l>la<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
 
     <e><p><l>ki<s n="rel"/><s n="an"/></l><r>who<s n="rel"/><s n="an"/></r></p></e>
 
@@ -1490,11 +1496,13 @@
     <e><p><l>ventwit</l><r>twenty-eight</r></p><par n="mil"/></e>
     <e><p><l>ventnèf</l><r>twenty-nine</r></p><par n="mil"/></e>
     <e><p><l>trant</l><r>thirty</r></p><par n="mil"/></e>
+    <e><p><l>san</l><r>hundred</r></p><par n="mil"/></e>
     <e><p><l>swasanndis</l><r>seventy</r></p><par n="mil"/></e>
 
 
     <e><p><l>souple<s n="ij"/></l><r>please<s n="ij"/></r></p></e>
     <e><p><l>dakò<s n="ij"/></l><r>ok<s n="ij"/></r></p></e>
+    <e r="LR"><p><l>oke<s n="ij"/></l><r>ok<s n="ij"/></r></p></e>
     <e><p><l>bonjou<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
     <e><p><l>bonswa<s n="ij"/></l><r>good<b/>evening<s n="ij"/></r></p></e>
     <e><p><l>byensi<s n="ij"/></l><r>of<b/>course<s n="ij"/></r></p></e>

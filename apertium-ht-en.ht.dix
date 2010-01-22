@@ -1565,6 +1565,7 @@
     <e lm="vle"><i>vle</i><par n="vle__vbmod"/></e>
     <e lm="se"><i>se</i><par n="se__vbser"/></e>
     <e lm="gen"><i>gen</i><par n="gen__vbhaver"/></e>
+    <e lm="genyen"><i>genyen</i><par n="gen__vbhaver"/></e>
     <e lm="ka"><i>ka</i><par n="ka__vaux"/></e>
     <e lm="kapab"><i>kapab</i><par n="ka__vaux"/></e>
     <e lm="dwe"><i>dwe</i><par n="ka__vaux"/></e>
@@ -1607,6 +1608,7 @@
     <e lm="pann"><i>pann</i><par n="chanje__vblex"/></e>
     <e lm="santi"><i>santi</i><par n="chanje__vblex"/></e>
     <e lm="itilize"><i>itilize</i><par n="chanje__vblex"/></e>
+    <e lm="bwè"><i>bwè</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -1623,6 +1625,7 @@
     <e lm="bonjou"><i>bonjou</i><par n="souple__ij"/></e>
     <e lm="bonswa"><i>bonswa</i><par n="souple__ij"/></e>
     <e lm="byensi"><i>byensi</i><par n="souple__ij"/></e>
+    <e lm="oke"><i>oke</i><par n="souple__ij"/></e>
 
     <e lm="koumon"><i>koumon</i><par n="koumon__adv"/></e>
     <e lm="èske"><i>èske</i><par n="koumon__adv"/></e>
@@ -1640,6 +1643,9 @@
     <e lm="wi"><i>wi</i><par n="isit__adv"/></e>
     <e lm="non"><i>non</i><par n="isit__adv"/></e>
     <e lm="chak fwa"><i>chak<b/>fwa</i><par n="isit__adv"/></e>
+    <e lm="chak jou"><i>chak<b/>jou</i><par n="isit__adv"/></e>
+    <e lm="espesyalman"><i>espesyalman</i><par n="isit__adv"/></e>
+    <e lm="la"><i>la</i><par n="isit__adv"/></e>
 
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
     <e lm="dezyèm"><i>dezyèm</i><par n="premye__det"/></e>
@@ -1784,6 +1790,7 @@
     <e lm="ventwit"><i>ventwit</i><par n="en__num"/></e>
     <e lm="ventnèf"><i>ventnèf</i><par n="en__num"/></e>
     <e lm="trant"><i>trant</i><par n="en__num"/></e>
+    <e lm="san"><i>san</i><par n="en__num"/></e>
     <e lm="swasanndis"><i>swasanndis</i><par n="en__num"/></e>
 
     <e><p><l>1e</l><r>1<s n="num"/><s n="ord"/></r></p></e>
