@@ -1461,6 +1461,7 @@
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>èske<s n="adv"/><s n="itg"/></l><r>do<s n="vbdo"/></r></p></e>
+    <e r="LR"><p><l>èkse<s n="adv"/><s n="itg"/></l><r>do<s n="vbdo"/></r></p></e>
 
     <e r="LR"><p><l>pi<s n="preadv"/></l><r>most<s n="preadv"/></r></p></e>
     <e><p><l>plis<s n="preadv"/></l><r>most<s n="preadv"/></r></p></e>
@@ -1478,6 +1479,38 @@
     <e><p><l>chak<b/>jou<s n="adv"/></l><r>every<b/>day<s n="adv"/></r></p></e>
     <e><p><l>espesyalman<s n="adv"/></l><r>specially<s n="adv"/></r></p></e>
     <e><p><l>la<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>deja<s n="adv"/></l><r>already<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>dyagonalman<s n="adv"/></l><r>diagonally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>egalman<s n="adv"/></l><r>equally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>entegralman<s n="adv"/></l><r>integrally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>entènasyonalman<s n="adv"/></l><r>intentionally<s n="adv"/></r></p></e>
+    <e c="AutoCog" r="RL"><p><l>espesyalman<s n="adv"/></l><r>especially<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>finalman<s n="adv"/></l><r>finally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>fondamantalman<s n="adv"/></l><r>fundamentally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>globalman<s n="adv"/></l><r>globally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>ilegalman<s n="adv"/></l><r>illegally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>jeneralman<s n="adv"/></l><r>generally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>legalman<s n="adv"/></l><r>legally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>literalman<s n="adv"/></l><r>literally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>lokalman<s n="adv"/></l><r>locally<s n="adv"/></r></p></e>
+    <e c="AutoCog" c="legally?"><p><l>lwayalman<s n="adv"/></l><r>loyally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>mantalman<s n="adv"/></l><r>mentally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>medikalman<s n="adv"/></l><r>medically<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>mizikalman<s n="adv"/></l><r>musically<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>mondyalman<s n="adv"/></l><r>globally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>moralman<s n="adv"/></l><r>morally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>nasyonalman<s n="adv"/></l><r>nationally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>nòmalman<s n="adv"/></l><r>normally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>oralman<s n="adv"/></l><r>orally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>orijinalman<s n="adv"/></l><r>originally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>orizontalman<s n="adv"/></l><r>horizontally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>prensipalman<s n="adv"/></l><r>principally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>radikalman<s n="adv"/></l><r>radically<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>santralman<s n="adv"/></l><r>centrally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>sosyalman<s n="adv"/></l><r>socially<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>totalman<s n="adv"/></l><r>totally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>vèbalman<s n="adv"/></l><r>verbally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>vètikalman<s n="adv"/></l><r>vertically<s n="adv"/></r></p></e>
 
     <e><p><l>ki<s n="rel"/><s n="an"/></l><r>who<s n="rel"/><s n="an"/></r></p></e>
 
