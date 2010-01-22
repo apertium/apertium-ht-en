@@ -26,6 +26,7 @@
     <sdef n="ant"/>
     <sdef n="al"/>
     <sdef n="m"/>
+    <sdef n="f"/>
     <sdef n="mf"/>
     <sdef n="rel"/>
     <sdef n="an"/>
@@ -44,6 +45,7 @@
     <sdef n="rpar"/>
     <sdef n="guio"/>
     <sdef n="preadv"/>
+    <sdef n="def"/>
   </sdefs>
   <pardefs>
     <pardef n="e__cnjcoo">
@@ -1584,6 +1586,8 @@
     <e lm="twouve"><i>twouve</i><par n="chanje__vblex"/></e>
     <e lm="trouve"><i>trouve</i><par n="chanje__vblex"/></e>
     <e lm="pann"><i>pann</i><par n="chanje__vblex"/></e>
+    <e lm="santi"><i>santi</i><par n="chanje__vblex"/></e>
+    <e lm="itilize"><i>itilize</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -1623,11 +1627,13 @@
     <e lm="senkyèm"><i>senkyèm</i><par n="premye__det"/></e>
     <e lm="mwen"><i>mwen</i><par n="mwen__det"/></e>
     <e lm="ou"><i>ou</i><par n="mwen__det"/></e>
+    <e lm="w"><i>w</i><par n="mwen__det"/></e>
     <e lm="yon"><i>yon</i><par n="yon__det"/></e>
     <e lm="an"><i>an</i><par n="yon__det"/></e>
     <e lm="sé"><i>sé</i><par n="sé__det"/></e>
     <e lm="tout"><i>tout</i><par n="yon__det"/></e>
     <e lm="chak"><i>chak</i><par n="yon__det"/></e>
+    <e lm="lòt"><i>lòt</i><par n="yon__det"/></e>
 
     <e lm="la"><i>la</i><par n="la__postdet"/></e>
     <e lm="a"><i>a</i><par n="la__postdet"/></e>
@@ -1652,6 +1658,8 @@
     <e lm="Izrayèl"><i>Izrayèl</i><par n="Ayiti__np"/></e>
     <e lm="Etazini"><i>Etazini</i><par n="Ayiti__np"/></e>
     <e lm="Lejip"><i>Lejip</i><par n="Ayiti__np"/></e>
+    <e lm="Bètleyèm"><i>Bètleyèm</i><par n="Ayiti__np"/></e>
+    <e lm="Jerizalèm"><i>Jerizalèm</i><par n="Ayiti__np"/></e>
 
     <e lm="Noe"><i>Noe</i><par n="Noe__np"/></e>
     <e lm="Bondye"><i>Bondye</i><par n="Noe__np"/></e>

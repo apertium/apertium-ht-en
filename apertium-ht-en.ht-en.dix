@@ -84,6 +84,7 @@
     <e r="LR"><p><l>an<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>tout<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>chak<s n="det"/><s n="ind"/></l><r>each<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>lòt<s n="det"/><s n="ind"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>yo<s n="postdet"/><s n="def"/><s n="pl"/></l><r></r></p></e>
     <e r="LR"><p><l>la<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>a<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
@@ -278,6 +279,12 @@
     <e><p><l>koko<s n="n"/></l><r>coconut<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>machin<s n="n"/></l><r>machine<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>pen<s n="n"/></l><r>bread<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>enèji<s n="n"/></l><r>energy<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>elektwonik<s n="n"/></l><r>electronics<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kouran<s n="n"/></l><r>current<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kouran<b/>elektrik<s n="n"/></l><r>electrical<b/>current<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>òdinatè<s n="n"/></l><r>computer<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>pwojè<s n="n"/></l><r>project<s n="n"/></r></p><par n="ND"/></e>
 
     <e c="AutoCog"><p><l>aberasyon<s n="n"/></l><r>aberration<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>abitasyon<s n="n"/></l><r>habitation<s n="n"/></r></p><par n="ND"/></e>
@@ -1111,6 +1118,8 @@
     <e><p><l>Izrayèl<s n="np"/><s n="top"/></l><r>Israel<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Etazini<s n="np"/><s n="top"/></l><r>United<b/>States<s n="np"/><s n="top"/><s n="pl"/></r></p></e>
     <e><p><l>Lejip<s n="np"/><s n="top"/></l><r>Egypt<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Bètleyèm<s n="np"/><s n="top"/></l><r>Bethlehem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Jerizalèm<s n="np"/><s n="top"/></l><r>Jerusalem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 
     <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
     <e><p><l>Bondye<s n="np"/></l><r>Yahweh<s n="np"/></r></p></e>
@@ -1157,9 +1166,14 @@
     <e><p><l>premye<s n="det"/></l><r>first<s n="det"/></r></p></e>
     <e><p><l>dezyèm<s n="det"/></l><r>second<s n="det"/></r></p></e>
     <e><p><l>twazyèm<s n="det"/></l><r>third<s n="det"/></r></p></e>
+    <e r="LR"><p><l>trwazyèm<s n="det"/></l><r>third<s n="det"/></r></p></e>
     <e><p><l>katriyèm<s n="det"/></l><r>fourth<s n="det"/></r></p></e>
     <e><p><l>senkyèm<s n="det"/></l><r>fifth<s n="det"/></r></p></e>
+    <e><p><l>sèzyèm<s n="det"/></l><r>sixth<s n="det"/></r></p></e>
+    <e><p><l>trantyèm<s n="det"/></l><r>thirtieth<s n="det"/></r></p></e>
     <e><p><l>mwen<s n="det"/></l><r>my<s n="det"/></r></p></e>
+    <e><p><l>ou<s n="det"/></l><r>your<s n="det"/></r></p></e>
+    <e r="LR"><p><l>w<s n="det"/></l><r>your<s n="det"/></r></p></e>
 
     <e><p><l>si<s n="cnjadv"/></l><r>if<s n="cnjadv"/></r></p></e>
     <e><p><l>lè<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
@@ -1205,6 +1219,9 @@
     <e r="LR"><p><l>trouve<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e>
     <e><p><l>twouve<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e>
     <e><p><l>pann<s n="vblex"/></l><r>hang<s n="vblex"/></r></p></e>
+    <e r="RL"><p><l>itilize<s n="vblex"/></l><r>utilise<s n="vblex"/></r></p></e>
+    <e><p><l>itilize<s n="vblex"/></l><r>use<s n="vblex"/></r></p></e>
+    <e><p><l>santi<s n="vblex"/></l><r>feel<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
