@@ -30,6 +30,7 @@
     <sdef n="rel"/>
     <sdef n="an"/>
     <sdef n="det"/>
+    <sdef n="postdet"/>
     <sdef n="ord"/>
     <sdef n="pos"/>
     <sdef n="sp"/>
@@ -67,12 +68,6 @@
         <p>
           <l></l>
           <r><s n="n"/></r>
-        </p>
-      </e>
-      <e c="If a noun is definite, it is pluralised by adding yo at the end. Indef nouns have no plural marker">
-        <p>
-          <l><b/>yo</l>
-          <r><s n="n"/><s n="pl"/></r>
         </p>
       </e>
     </pardef>
@@ -194,6 +189,30 @@
         </p>
       </e>
     </pardef>
+    <pardef n="sé__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="def"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="la__postdet">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="postdet"/><s n="ind"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="yo__postdet">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="postdet"/><s n="def"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="mwen__det">
       <e>
         <p>
@@ -281,6 +300,12 @@
           <r>prpers<s n="prn"/><s n="uns"/><s n="p1"/><s n="mf"/><s n="sg"/></r>
         </p>
       </e>
+      <e r="LR">
+        <p>
+          <l>m'</l>
+          <r>prpers<s n="prn"/><s n="uns"/><s n="p1"/><s n="mf"/><s n="sg"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>w</l>
@@ -305,9 +330,21 @@
           <r>prpers<s n="prn"/><s n="uns"/><s n="p1"/><s n="mf"/><s n="pl"/></r>
         </p>
       </e>
+      <e r="LR">
+        <p>
+          <l>n'</l>
+          <r>prpers<s n="prn"/><s n="uns"/><s n="p1"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
       <e>
         <p>
           <l>y</l>
+          <r>prpers<s n="prn"/><s n="uns"/><s n="p3"/><s n="mf"/><s n="pl"/></r>
+        </p>
+      </e>
+      <er="LR">
+        <p>
+          <l>y'</l>
           <r>prpers<s n="prn"/><s n="uns"/><s n="p3"/><s n="mf"/><s n="pl"/></r>
         </p>
       </e>
@@ -1201,6 +1238,11 @@
     <e lm="verasite"><i>verasite</i><par n="liv__n"/></e>
     <e lm="verite"><i>verite</i><par n="liv__n"/></e>
     <e lm="vorasite"><i>vorasite</i><par n="liv__n"/></e>
+    <e lm="kouch"><i>kouch</i><par n="liv__n"/></e>
+    <e lm="bouch"><i>bouch</i><par n="liv__n"/></e>
+    <e lm="koko"><i>koko</i><par n="liv__n"/></e>
+    <e lm="machin"><i>machin</i><par n="liv__n"/></e>
+    <e lm="pen"><i>pen</i><par n="liv__n"/></e>
     <e lm="analoji"><i>analoji</i><par n="liv__n"/></e>
     <e lm="antoloji"><i>antoloji</i><par n="liv__n"/></e>
     <e lm="antwopoloji"><i>antwopoloji</i><par n="liv__n"/></e>
@@ -1572,8 +1614,17 @@
     <e lm="senkyèm"><i>senkyèm</i><par n="premye__det"/></e>
     <e lm="mwen"><i>mwen</i><par n="mwen__det"/></e>
     <e lm="yon"><i>yon</i><par n="yon__det"/></e>
+    <e lm="an"><i>an</i><par n="yon__det"/></e>
+    <e lm="sé"><i>sé</i><par n="sé__det"/></e>
     <e lm="tout"><i>tout</i><par n="yon__det"/></e>
     <e lm="chak"><i>chak</i><par n="yon__det"/></e>
+
+    <e lm="la"><i>la</i><par n="la__postdet"/></e>
+    <e lm="a"><i>a</i><par n="la__postdet"/></e>
+    <e lm="lan"><i>lan</i><par n="la__postdet"/></e>
+    <e lm="an"><i>an</i><par n="la__postdet"/></e>
+    <e lm="nan"><i>nan</i><par n="la__postdet"/></e>
+    <e lm="yo"><i>yo</i><par n="yo__postdet"/></e>
 
     <e lm="Ayiti"><i>Ayiti</i><par n="Ayiti__np"/></e>
     <e lm="Azi"><i>Azi</i><par n="Ayiti__np"/></e>
@@ -1693,7 +1744,7 @@
     <e><p><l>1e</l><r>1<s n="num"/><s n="ord"/></r></p></e>
     <e><re>[0-9]+</re><p><l>èm</l><r><s n="num"/><s n="ord"/></r></p></e>
   </section>
-  <section id="abbreviations" type="preblank">
+  <section id="abbreviations" type="postblank">
     <e lm="p'"><p><l>p'</l><r>pa<s n="adv"/></r></p></e>
   </section>
   <section id="punct" type="inconditional">
@@ -1710,5 +1761,12 @@
     <e lm="-"><p><l>-</l><r>-<s n="guio"/></r></p></e>
 
     <e lm="num"><re>[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>
+  </section>
+  <section id="postdets" type="preblank">
+    <e lm="-la" r="LR"><p><l>-la</l><r>la</r></p><par n="la__postdet"/></e>
+    <e lm="-a" r="LR"><p><l>-a</l><r>a</r></p><par n="la__postdet"/></e>
+    <e lm="-lan" r="LR"><p><l>-lan</l><r>lan</r></p><par n="la__postdet"/></e>
+    <e lm="-an" r="LR"><p><l>-an</l><r>an</r></p><par n="la__postdet"/></e>
+    <e lm="-nan" r="LR"><p><l>-nan</l><r>nan</r></p><par n="la__postdet"/></e>
   </section>
 </dictionary>

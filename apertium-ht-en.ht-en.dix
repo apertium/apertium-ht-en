@@ -34,6 +34,7 @@
     <sdef n="rpar"/>
     <sdef n="guio"/>
     <sdef n="preadv"/>
+    <sdef n="postdet"/>
   </sdefs>
   <pardefs>
     <pardef n="ND">
@@ -79,9 +80,16 @@
     <e r="LR"><p><l>epi<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>yon<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
+    <e r="LR"><p><l>an<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>tout<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>chak<s n="det"/><s n="ind"/></l><r>each<s n="det"/><s n="ind"/></r></p></e>
-    
+    <e r="LR"><p><l>yo<s n="postdet"/><s n="def"/><s n="pl"/></l><r></r></p></e>
+    <e r="LR"><p><l>la<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>a<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>lan<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>nan<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+    <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
+
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>chyen<s n="n"/></l><r>dog<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>endèks<s n="n"/></l><r>index<s n="n"/></r></p><par n="ND"/></e>
@@ -264,6 +272,11 @@
     <e><p><l>fanmi<s n="n"/></l><r>family<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>chèz<s n="n"/></l><r>chair<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>zanmi<s n="n"/></l><r>friend<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kouch<s n="n"/></l><r>bed<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>bouch<s n="n"/></l><r>mouth<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>koko<s n="n"/></l><r>coconut<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>machin<s n="n"/></l><r>machine<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>pen<s n="n"/></l><r>bread<s n="n"/></r></p><par n="ND"/></e>
 
     <e c="AutoCog"><p><l>aberasyon<s n="n"/></l><r>aberration<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>abitasyon<s n="n"/></l><r>habitation<s n="n"/></r></p><par n="ND"/></e>
