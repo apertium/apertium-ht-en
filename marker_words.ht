@@ -128,3 +128,7 @@ ventwitmil:Q:Card_NUM
 wit:Q:Card_NUM
 witmil:Q:Card_NUM
 zewo:Q:Card_NUM
+ak:C:Cor_C
+e:C:Cor_C
+epi:C:Cor_C
+epi ak:C:Cor_C
