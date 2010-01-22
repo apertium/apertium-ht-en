@@ -117,6 +117,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="gen__vbhaver">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="vbhaver"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="vle__vbmod">
       <e>
         <p>
@@ -342,7 +350,7 @@
           <r>prpers<s n="prn"/><s n="uns"/><s n="p3"/><s n="mf"/><s n="pl"/></r>
         </p>
       </e>
-      <er="LR">
+      <e r="LR">
         <p>
           <l>y'</l>
           <r>prpers<s n="prn"/><s n="uns"/><s n="p3"/><s n="mf"/><s n="pl"/></r>
@@ -1535,6 +1543,7 @@
 
     <e lm="vle"><i>vle</i><par n="vle__vbmod"/></e>
     <e lm="se"><i>se</i><par n="se__vbser"/></e>
+    <e lm="gen"><i>gen</i><par n="gen__vbhaver"/></e>
     <e lm="ka"><i>ka</i><par n="ka__vaux"/></e>
     <e lm="kapab"><i>kapab</i><par n="ka__vaux"/></e>
     <e lm="dwe"><i>dwe</i><par n="ka__vaux"/></e>
@@ -1613,6 +1622,7 @@
     <e lm="katriyèm"><i>katriyèm</i><par n="premye__det"/></e>
     <e lm="senkyèm"><i>senkyèm</i><par n="premye__det"/></e>
     <e lm="mwen"><i>mwen</i><par n="mwen__det"/></e>
+    <e lm="ou"><i>ou</i><par n="mwen__det"/></e>
     <e lm="yon"><i>yon</i><par n="yon__det"/></e>
     <e lm="an"><i>an</i><par n="yon__det"/></e>
     <e lm="sé"><i>sé</i><par n="sé__det"/></e>
