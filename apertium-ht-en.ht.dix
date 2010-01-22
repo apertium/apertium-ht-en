@@ -1396,7 +1396,18 @@
     <e lm="pwojè"><i>pwojè</i><par n="liv__n"/></e>
     <e lm="doulè"><i>doulè</i><par n="liv__n"/></e>
     <e lm="bra"><i>bra</i><par n="liv__n"/></e>
+    <e lm="dyare"><i>dyare</i><par n="liv__n"/></e>
+    <e lm="pwatrin"><i>pwatrin</i><par n="liv__n"/></e>
+    <e lm="alèji"><i>alèji</i><par n="liv__n"/></e>
+    <e lm="anbilans"><i>anbilans</i><par n="liv__n"/></e>
+    <e lm="aksidan"><i>aksidan</i><par n="liv__n"/></e>
+    <e lm="apremidi"><i>apremidi</i><par n="liv__n"/></e>
+    <e lm="aspirin"><i>aspirin</i><par n="liv__n"/></e>
+    <e lm="dyabetik"><i>dyabetik</i><par n="liv__n"/></e>
 
+    <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
+    <e lm="alèjik"><i>alèjik</i><par n="lib__adj"/></e>
+    <e lm="dyabetik"><i>dyabetik</i><par n="lib__adj"/></e>
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
     <e lm="prensipal"><i>prensipal</i><par n="lib__adj"/></e>
@@ -1715,6 +1726,8 @@
     <e lm="Enòk"><i>Enòk</i><par n="Noe__np"/></e>
     <e lm="Tant Randevou"><i>Tant<b/>Randevou</i><par n="Linux__np"/></e>
     <e lm="Bwat Kontra"><i>Bwat<b/>Kontra</i><par n="Linux__np"/></e>
+    <e lm="Walmart"><i>Walmart</i><par n="Linux__np"/></e>
+    <e lm="Linux"><i>Linux</i><par n="Linux__np"/></e>
 
     <e lm="e"><i>e</i><par n="e__cnjcoo"/></e>
     <e lm="ak"><i>ak</i><par n="e__cnjcoo"/></e>

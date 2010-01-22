@@ -1103,6 +1103,15 @@
     <e c="AutoCog"><p><l>vendikatif<s n="n"/></l><r>vindicative<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>doulè<s n="n"/></l><r>pain<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>bra<s n="n"/></l><r>arm<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>dyare<s n="n"/></l><r>diarrhoea<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>pwatrin<s n="n"/></l><r>chest<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>alèji<s n="n"/></l><r>allergy<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>aksidan<s n="n"/></l><r>accident<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>anbilans<s n="n"/></l><r>ambulance<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>apremidi<s n="n"/></l><r>afternoon<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>aspirin<s n="n"/></l><r>aspirin<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>dyabetik<s n="n"/></l><r>diabetic<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>dyabetik<s n="adj"/></l><r>diabetic<s n="adj"/></r></p></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -1137,6 +1146,9 @@
     <e><p><l>Pwa<s n="np"/></l><r>Puah<s n="np"/></r></p></e>
     <e><p><l>Tant<b/>Randevou<s n="np"/></l><r>Tent<b/>of<b/>Meeting<s n="np"/></r></p></e>
     <e><p><l>Bwat<b/>Kontra<s n="np"/></l><r>Tabernacle<b/>of<b/>the<b/>Testimony<s n="np"/></r></p></e>
+    <e><p><l>Walmart<s n="np"/></l><r>Walmart<s n="np"/></r></p></e>
+    <e><p><l>Linux<s n="np"/></l><r>Linux<s n="np"/></r></p></e>
+
     <e><p><l>Woubenn<s n="np"/></l><r>Reuben<s n="np"/></r></p></e>
     <e><p><l>Simeyon<s n="np"/></l><r>Simeon<s n="np"/></r></p></e>
     <e><p><l>Levi<s n="np"/></l><r>Levi<s n="np"/></r></p></e>
@@ -1246,6 +1258,7 @@
     <e><p><l>sou<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
 
     <e><p><l>lib<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
+    <e><p><l>alèjik<s n="adj"/></l><r>allergic<s n="adj"/></r></p></e>
     <e><p><l>ayisyen<s n="adj"/></l><r>Haitian<s n="adj"/></r></p></e>
     <e><p><l>prensipal<s n="adj"/></l><r>principal<s n="adj"/></r></p></e>
     <e><p><l>pèdi<s n="adj"/></l><r>lost<s n="adj"/></r></p></e>
@@ -1270,6 +1283,7 @@
     <e><p><l>tris<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>gwo<s n="adj"/></l><r>large<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>vivan<s n="adj"/></l><r>living<s n="adj"/></r></p></e>
+    <e><p><l>viral<s n="adj"/></l><r>viral<s n="adj"/></r></p></e>
     <e c="AutoCog"><p><l>atifisyèl<s n="adj"/></l><r>artificial<s n="adj"/></r></p></e>
     <e c="AutoCog"><p><l>biseksyèl<s n="adj"/></l><r>bisexual<s n="adj"/></r></p></e>
     <e c="AutoCog"><p><l>egzistansyèl<s n="adj"/></l><r>existential<s n="adj"/></r></p></e>
