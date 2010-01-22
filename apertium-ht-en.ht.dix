@@ -1394,6 +1394,8 @@
     <e lm="kouran elektrik"><i>kouran<b/>elektrik</i><par n="liv__n"/></e>
     <e lm="òdinatè"><i>òdinatè</i><par n="liv__n"/></e>
     <e lm="pwojè"><i>pwojè</i><par n="liv__n"/></e>
+    <e lm="doulè"><i>doulè</i><par n="liv__n"/></e>
+    <e lm="bra"><i>bra</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -1612,6 +1614,8 @@
     <e lm="byensi"><i>byensi</i><par n="souple__ij"/></e>
 
     <e lm="koumon"><i>koumon</i><par n="koumon__adv"/></e>
+    <e lm="èske"><i>èske</i><par n="koumon__adv"/></e>
+
     <e lm="pi"><i>pi</i><par n="pi__preadv"/></e>
     <e lm="plis"><i>plis</i><par n="pi__preadv"/></e>
     <e lm="trè"><i>trè</i><par n="pi__preadv"/></e>

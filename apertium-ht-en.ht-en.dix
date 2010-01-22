@@ -1101,6 +1101,8 @@
     <e c="AutoCog"><p><l>selektif<s n="n"/></l><r>selective<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>tantativ<s n="n"/></l><r>tentative<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>vendikatif<s n="n"/></l><r>vindicative<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>doulè<s n="n"/></l><r>pain<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>bra<s n="n"/></l><r>arm<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -1425,6 +1427,7 @@
     <e c="AutoCog"><p><l>tèminoloji<s n="n"/></l><r>terminology<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
+    <e><p><l>èske<s n="adv"/><s n="itg"/></l><r>do<s n="vbdo"/></r></p></e>
 
     <e r="LR"><p><l>pi<s n="preadv"/></l><r>most<s n="preadv"/></r></p></e>
     <e><p><l>plis<s n="preadv"/></l><r>most<s n="preadv"/></r></p></e>
