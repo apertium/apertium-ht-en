@@ -1458,6 +1458,13 @@
     <e c="AutoCog"><p><l>teyoloji<s n="n"/></l><r>theology<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>tipoloji<s n="n"/></l><r>typology<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>tèminoloji<s n="n"/></l><r>terminology<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>atis<s n="n"/></l><r>artist<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>mizisyen<s n="n"/></l><r>musician<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>chantè<s n="n"/></l><r>singer<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>dat<s n="n"/></l><r>date<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>nasans<s n="n"/></l><r>birth<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>dat<b/>nasans<s n="n"/></l><r>date<g><b/>of<b/>birth</g><s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>peyi<b/>nasans<s n="n"/></l><r>country<g><b/>of<b/>birth</g><s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>èske<s n="adv"/><s n="itg"/></l><r>do<s n="vbdo"/></r></p></e>

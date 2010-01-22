@@ -1414,6 +1414,13 @@
     <e lm="pwoblèm"><i>pwoblèm</i><par n="liv__n"/></e>
     <e lm="pwoblèm sante"><i>pwoblèm<b/>sante</i><par n="liv__n"/></e>
     <e lm="medikaman"><i>medikaman</i><par n="liv__n"/></e>
+    <e lm="atis"><i>atis</i><par n="liv__n"/></e>
+    <e lm="mizisyen"><i>mizisyen</i><par n="liv__n"/></e>
+    <e lm="chantè"><i>chantè</i><par n="liv__n"/></e>
+    <e lm="dat"><i>dat</i><par n="liv__n"/></e>
+    <e lm="nasans"><i>nasans</i><par n="liv__n"/></e>
+    <e lm="dat nasans"><i>dat<b/>nasans</i><par n="liv__n"/></e>
+    <e lm="peyi nasans"><i>peyi<b/>nasans</i><par n="liv__n"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
     <e lm="alèjik"><i>alèjik</i><par n="lib__adj"/></e>
