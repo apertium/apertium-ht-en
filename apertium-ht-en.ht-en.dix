@@ -79,6 +79,7 @@
     <e r="LR"><p><l>ak<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>epi<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>epi<b/>ak<s n="cnjcoo"/></l><r>as<b/>well<b/>as<s n="cnjcoo"/></r></p></e>
+    <e><p><l>oswa<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>yon<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>an<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
@@ -1112,6 +1113,21 @@
     <e><p><l>aspirin<s n="n"/></l><r>aspirin<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>dyabetik<s n="n"/></l><r>diabetic<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>dyabetik<s n="adj"/></l><r>diabetic<s n="adj"/></r></p></e>
+    <e><p><l>men<s n="n"/></l><r>hand<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>alkòl<s n="n"/></l><r>alcohol<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>degre<s n="n"/></l><r>degree<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lafyèv<s n="n"/></l><r>fever<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>maladi<s n="n"/></l><r>illness<s n="n"/></r></p><par n="ND"/></e>
+    <e r="RL"><p><l>maladi<s n="n"/></l><r>sickness<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>mesye<s n="n"/></l><r>mister<s n="n"/></r></p><par n="ND"/></e>
+    <e r="RL"><p><l>mesye<s n="n"/></l><r>sir<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kolestewòl<s n="n"/></l><r>cholesterol<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>pwoblèm<s n="n"/></l><r>problem<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>pwoblèm<b/>sante<s n="n"/></l><r>health<b/>problem<s n="n"/></r></p><par n="ND"/></e>
+    <e r="RL"><p><l>sante<s n="adj"/></l><r>health<s n="adj"/></r></p></e>
+    <e><p><l>sante<s n="adj"/></l><r>healthy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>medikaman<s n="n"/></l><r>medicine<s n="n"/></r></p><par n="ND"/></e>
+    <e r="RL"><p><l>medikaman<s n="n"/></l><r>medication<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>

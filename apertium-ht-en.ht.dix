@@ -1404,10 +1404,21 @@
     <e lm="apremidi"><i>apremidi</i><par n="liv__n"/></e>
     <e lm="aspirin"><i>aspirin</i><par n="liv__n"/></e>
     <e lm="dyabetik"><i>dyabetik</i><par n="liv__n"/></e>
+    <e lm="men"><i>men</i><par n="liv__n"/></e>
+    <e lm="alkòl"><i>alkòl</i><par n="liv__n"/></e>
+    <e lm="degre"><i>degre</i><par n="liv__n"/></e>
+    <e lm="lafyèv"><i>lafyèv</i><par n="liv__n"/></e>
+    <e lm="maladi"><i>maladi</i><par n="liv__n"/></e>
+    <e lm="mesye"><i>mesye</i><par n="liv__n"/></e>
+    <e lm="kolestewòl"><i>kolestewòl</i><par n="liv__n"/></e>
+    <e lm="pwoblèm"><i>pwoblèm</i><par n="liv__n"/></e>
+    <e lm="pwoblèm sante"><i>pwoblèm<b/>sante</i><par n="liv__n"/></e>
+    <e lm="medikaman"><i>medikaman</i><par n="liv__n"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
     <e lm="alèjik"><i>alèjik</i><par n="lib__adj"/></e>
     <e lm="dyabetik"><i>dyabetik</i><par n="lib__adj"/></e>
+    <e lm="sante"><i>sante</i><par n="lib__adj"/></e>
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
     <e lm="prensipal"><i>prensipal</i><par n="lib__adj"/></e>
@@ -1739,6 +1750,7 @@
     <e lm="ak"><i>ak</i><par n="e__cnjcoo"/></e>
     <e lm="epi"><i>epi</i><par n="e__cnjcoo"/></e>
     <e lm="epi ak"><i>epi<b/>ak</i><par n="e__cnjcoo"/></e>
+    <e lm="oswa"><i>oswa</i><par n="e__cnjcoo"/></e>
 
     <e lm="an"><i>an</i><par n="an__pr"/></e>
     <e lm="asou"><i>asou</i><par n="an__pr"/></e>
