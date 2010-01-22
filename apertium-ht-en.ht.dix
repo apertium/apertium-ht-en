@@ -1388,6 +1388,12 @@
     <e lm="tantativ"><i>tantativ</i><par n="liv__n"/></e>
     <e lm="vendikatif"><i>vendikatif</i><par n="liv__n"/></e>
     <e lm="farawon"><i>farawon</i><par n="liv__n"/></e>
+    <e lm="enèji"><i>enèji</i><par n="liv__n"/></e>
+    <e lm="elektwonik"><i>elektwonik</i><par n="liv__n"/></e>
+    <e lm="kouran"><i>kouran</i><par n="liv__n"/></e>
+    <e lm="kouran elektrik"><i>kouran<b/>elektrik</i><par n="liv__n"/></e>
+    <e lm="òdinatè"><i>òdinatè</i><par n="liv__n"/></e>
+    <e lm="pwojè"><i>pwojè</i><par n="liv__n"/></e>
 
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
@@ -1623,8 +1629,11 @@
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
     <e lm="dezyèm"><i>dezyèm</i><par n="premye__det"/></e>
     <e lm="twazyèm"><i>twazyèm</i><par n="premye__det"/></e>
+    <e lm="trwazyèm"><i>trwazyèm</i><par n="premye__det"/></e>
     <e lm="katriyèm"><i>katriyèm</i><par n="premye__det"/></e>
     <e lm="senkyèm"><i>senkyèm</i><par n="premye__det"/></e>
+    <e lm="sèzyèm"><i>sèzyèm</i><par n="premye__det"/></e>
+    <e lm="trantyèm"><i>trantyèm</i><par n="premye__det"/></e>
     <e lm="mwen"><i>mwen</i><par n="mwen__det"/></e>
     <e lm="ou"><i>ou</i><par n="mwen__det"/></e>
     <e lm="w"><i>w</i><par n="mwen__det"/></e>
