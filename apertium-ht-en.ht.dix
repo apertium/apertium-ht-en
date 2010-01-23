@@ -657,6 +657,7 @@
     <e lm="vil"><i>vil</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="lib__adj"/></e>
+    <e lm="chè"><i>chè</i><par n="lib__adj"/></e>
     <e lm="disponib"><i>disponib</i><par n="lib__adj"/></e>
     <e lm="teknik"><i>teknik</i><par n="lib__adj"/></e>
     <e lm="sivil"><i>sivil</i><par n="lib__adj"/></e>
@@ -1726,6 +1727,7 @@
     <e lm="sante"><i>sante</i><par n="lib__adj"/></e>
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
+    <e lm="ayisyèn" r="LR"><p><l>ayisyèn</l><r>ayisyen</r></p><par n="lib__adj"/></e>
     <e lm="prensipal"><i>prensipal</i><par n="lib__adj"/></e>
     <e lm="prive"><i>prive</i><par n="lib__adj"/></e>
     <e lm="syantifik"><i>syantifik</i><par n="lib__adj"/></e>
@@ -2080,6 +2082,8 @@
     <e lm="Kiba"><i>Kiba</i><par n="Ayiti__np"/></e>
     <e lm="Edenn"><i>Edenn</i><par n="Ayiti__np"/></e>
     <e lm="Giyon"><i>Giyon</i><par n="Ayiti__np"/></e>
+    <e lm="New York"><p><l>New<b/>York</l><r>Nouyók</r></p><par n="Ayiti__np"/></e>
+    <e lm="Nouyòk"><i>Nouyók</i><par n="Ayiti__np"/></e>
     <e lm="Pòtoprens"><i>Pòtoprens</i><par n="Ayiti__np"/></e>
     <e lm="Potoprens" r="LR"><p><l>Potoprens</l><r>Pòtoprens</r></p><par n="Ayiti__np"/></e>
     <e lm="Oseyan Atlantik"><i>Oseyan<b/>Atlantik</i><par n="Ayiti__np"/></e>
