@@ -213,7 +213,7 @@
             <var n="determiner"/>
             <concat>
               <lit v="the"/>
-              <lit-tag v="det.def.sp"/>
+              <lit-tag v="det.def.2"/>
             </concat>
           </let>
         </when>
