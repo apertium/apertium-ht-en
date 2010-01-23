@@ -1619,6 +1619,7 @@
     <e lm="general"><i>general</i><par n="liv__n"/></e>
     <e lm="koloni"><i>koloni</i><par n="liv__n"/></e>
     <e lm="kolizyon"><i>kolizyon</i><par n="liv__n"/></e>
+    <e lm="kote"><i>kote</i><par n="liv__n"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
     <e lm="alèjik"><i>alèjik</i><par n="lib__adj"/></e>
@@ -1877,6 +1878,9 @@
     <e lm="non"><i>non</i><par n="isit__adv"/></e>
     <e lm="chak fwa"><i>chak<b/>fwa</i><par n="isit__adv"/></e>
     <e lm="chak jou"><i>chak<b/>jou</i><par n="isit__adv"/></e>
+    <e lm="okenn kote"><i>okenn<b/>kote</i><par n="isit__adv"/></e>
+    <e lm="tou patou"><i>tou<b/>patou</i><par n="isit__adv"/></e>
+    <e lm="tou"><i>tou</i><par n="isit__adv"/></e>
     <e lm="espesyalman"><i>espesyalman</i><par n="isit__adv"/></e>
     <e lm="la"><i>la</i><par n="isit__adv"/></e>
     <e lm="byen"><i>byen</i><par n="isit__adv"/></e>
@@ -2023,6 +2027,7 @@
     <e lm="anho"><i>anho</i><par n="an__pr"/></e>
     <e lm="anlè"><i>anlè</i><par n="an__pr"/></e>
     <e lm="nan"><i>nan</i><par n="an__pr"/></e>
+    <e lm="akote"><i>akote</i><par n="an__pr"/></e>
     <e lm="dan"><i>dan</i><par n="an__pr"/></e>
     <e lm="dèyè"><i>dèyè</i><par n="an__pr"/></e>
     <e lm="andidan"><i>andidan</i><par n="an__pr"/></e>
