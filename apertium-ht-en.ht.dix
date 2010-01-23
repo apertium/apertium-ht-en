@@ -406,6 +406,7 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="sekretè"><i>sekretè</i><par n="liv__n"/></e>
     <e lm="omaj"><i>omaj</i><par n="liv__n"/></e>
     <e lm="avyon"><i>avyon</i><par n="liv__n"/></e>
     <e lm="konsèy"><i>konsèy</i><par n="liv__n"/></e>
@@ -473,6 +474,7 @@
     <e lm="kontribitè"><i>kontribitè</i><par n="liv__n"/></e>
     <e lm="ide"><i>ide</i><par n="liv__n"/></e>
     <e lm="doktè"><i>doktè</i><par n="liv__n"/></e>
+    <e lm="dokte" r="LR"><p><l>dokte</l><r>doktè</r></p><par n="liv__n"/></e>
     <e lm="frè"><i>frè</i><par n="liv__n"/></e>
     <e lm="lendi"><i>lendi</i><par n="liv__n"/></e>
     <e lm="madi"><i>madi</i><par n="liv__n"/></e>
@@ -1842,6 +1844,7 @@
     <e lm="sèvi"><i>sèvi</i><par n="chanje__vblex"/></e>
     <e lm="soufri"><i>soufri</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
+    <e lm="eksplike"><i>eksplike</i><par n="chanje__vblex"/></e>
     <e lm="kowòdone"><i>kowòdone</i><par n="chanje__vblex"/></e>
     <e lm="pwoteje"><i>pwoteje</i><par n="chanje__vblex"/></e>
     <e lm="etabli"><i>etabli</i><par n="chanje__vblex"/></e>
@@ -2011,6 +2014,8 @@
     <e lm="Gomò"><i>Gomò</i><par n="Ayiti__np"/></e>
     <e lm="Salèm"><i>Salèm</i><par n="Ayiti__np"/></e>
     <e lm="Izrayèl"><i>Izrayèl</i><par n="Ayiti__np"/></e>
+    <e lm="Kanada"><i>Kanada</i><par n="Ayiti__np"/></e>
+    <e lm="Montreal"><i>Montreal</i><par n="Ayiti__np"/></e>
     <e lm="Lèzetazini" r="LR"><p><l>Lèzetazini</l><r>Etazini</r></p><par n="Ayiti__np"/></e>
     <e lm="Lezetazini" r="LR"><p><l>Lezetazini</l><r>Etazini</r></p><par n="Ayiti__np"/></e>
     <e lm="Etazini"><i>Etazini</i><par n="Ayiti__np"/></e>

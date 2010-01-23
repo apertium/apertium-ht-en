@@ -107,6 +107,7 @@
     <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>sekretè<s n="n"/></l><r>secretary<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>omaj<s n="n"/></l><r>homage<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>avyon<s n="n"/></l><r>aeroplane<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>konsèy<s n="n"/></l><r>council<s n="n"/></r></p><par n="ND"/></e>
@@ -1213,6 +1214,8 @@
     <e><p><l>Izrayèl<s n="np"/><s n="top"/></l><r>Israel<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Etazini<s n="np"/><s n="top"/></l><r>United<b/>States<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Lejip<s n="np"/><s n="top"/></l><r>Egypt<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Montreal<s n="np"/><s n="top"/></l><r>Montreal<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Kanada<s n="np"/><s n="top"/></l><r>Canada<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bètleyèm<s n="np"/><s n="top"/></l><r>Bethlehem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Jerizalèm<s n="np"/><s n="top"/></l><r>Jerusalem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 
@@ -1302,6 +1305,7 @@
     <e><p><l>manje<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>deside<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
     <e><p><l>ale<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+    <e><p><l>eksplike<s n="vblex"/></l><r>explain<s n="vblex"/></r></p></e>
     <e><p><l>kowòdone<s n="vblex"/></l><r>coordinate<s n="vblex"/></r></p></e>
     <e><p><l>pwoteje<s n="vblex"/></l><r>protect<s n="vblex"/></r></p></e>
     <e><p><l>obsève<s n="vblex"/></l><r>observe<s n="vblex"/></r></p></e>
