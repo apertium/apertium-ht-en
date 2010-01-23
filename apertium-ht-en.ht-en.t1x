@@ -10,7 +10,11 @@
       <cat-item tags="np.top"/>
       <cat-item tags="np.top.*"/>
     </def-cat>
-    <def-cat n="adj">
+    <def-cat n="det">
+      <cat-item tags="det"/>
+      <cat-item tags="det.*"/>
+    </def-cat>
+     <def-cat n="adj">
       <cat-item tags="adj"/>
       <cat-item tags="adj.*"/>
       <cat-item tags="adj.sint"/>
@@ -78,6 +82,11 @@
       <attr-item tags="n.unc"/>
       <attr-item tags="np.top"/>
       <attr-item tags="np.ant"/>
+    </def-attr>
+    <def-attr n="a_det">
+      <attr-item tags="det.ind"/>
+      <attr-item tags="det.def"/>
+      <attr-item tags="det.pos"/>
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
@@ -525,6 +534,36 @@
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: DET NOM">
+      <pattern>
+        <pattern-item n="det"/>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="det_nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_det"/>
+              <clip pos="1" side="tl" part="nbr" link-to="2"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="nbr" link-to="2"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: NOM ADJ">
       <pattern>
         <pattern-item n="nom"/>

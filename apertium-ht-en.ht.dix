@@ -211,6 +211,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="divès__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="ind"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="yon__det">
       <e>
         <p>
@@ -1751,6 +1759,9 @@
     <e lm="kreye"><i>kreye</i><par n="chanje__vblex"/></e>
     <e lm="manje"><i>manje</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
+    <e lm="òganize"><i>òganize</i><par n="chanje__vblex"/></e>
+    <e lm="patisipe"><i>patisipe</i><par n="chanje__vblex"/></e>
+    <e lm="koute"><i>koute</i><par n="chanje__vblex"/></e>
     <e lm="vini"><i>vini</i><par n="chanje__vblex"/></e>
     <e lm="egziste"><i>egziste</i><par n="chanje__vblex"/></e>
     <e lm="pale"><i>pale</i><par n="chanje__vblex"/></e>
@@ -1871,6 +1882,7 @@
     <e lm="ou"><i>ou</i><par n="mwen__det"/></e>
     <e lm="w"><i>w</i><par n="mwen__det"/></e>
     <e lm="yon"><i>yon</i><par n="yon__det"/></e>
+    <e lm="divès"><i>divès</i><par n="divès__det"/></e>
     <e lm="an"><i>an</i><par n="yon__det"/></e>
     <e lm="sé"><i>sé</i><par n="sé__det"/></e>
     <e lm="tout"><i>tout</i><par n="yon__det"/></e>

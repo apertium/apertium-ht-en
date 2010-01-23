@@ -1205,6 +1205,7 @@
     <e><p><l>Kayen<s n="np"/></l><r>Cain<s n="np"/></r></p></e>
     <e><p><l>Enòk<s n="np"/></l><r>Enoch<s n="np"/></r></p></e>
 
+    <e><p><l>divès<s n="det"/><s n="ind"/></l><r>various<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>premye<s n="det"/></l><r>first<s n="det"/></r></p></e>
     <e><p><l>dezyèm<s n="det"/></l><r>second<s n="det"/></r></p></e>
     <e><p><l>twazyèm<s n="det"/></l><r>third<s n="det"/></r></p></e>
@@ -1237,6 +1238,8 @@
     <e><p><l>kreye<s n="vblex"/></l><r>create<s n="vblex"/></r></p></e>
     <e><p><l>manje<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>ale<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+    <e><p><l>òganize<s n="vblex"/></l><r>organise<s n="vblex"/></r></p></e>
+    <e><p><l>patisipe<s n="vblex"/></l><r>participate<s n="vblex"/></r></p></e>
     <e><p><l>vini<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>egziste<s n="vblex"/></l><r>exist<s n="vblex"/></r></p></e>
     <e><p><l>pale<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
@@ -1250,6 +1253,7 @@
     <e><p><l>jwe<s n="vblex"/></l><r>play<s n="vblex"/></r></p></e>
     <e><p><l>antre<s n="vblex"/></l><r>enter<s n="vblex"/></r></p></e>
     <e><p><l>dòmi<s n="vblex"/></l><r>sleep<s n="vblex"/></r></p></e>
+    <e><p><l>koute<s n="vblex"/></l><r>cost<s n="vblex"/></r></p></e>
     <e><p><l>etidye<s n="vblex"/></l><r>study<s n="vblex"/></r></p></e>
     <e><p><l>li<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
     <e><p><l>di<s n="vblex"/></l><r>tell<s n="vblex"/></r></p></e>

@@ -16,3 +16,4 @@
 /ht-en.prob -text svneol=unset#unset
 /marker_words.ht -text
 /modes.xml -text
+/pending-tests.sh -text
