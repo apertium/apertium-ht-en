@@ -9,8 +9,10 @@
     <sdef n="det"/>
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
+    <sdef n="mf"/>
     <sdef n="rel"/>
     <sdef n="an"/>
+    <sdef n="nn"/>
     <sdef n="cnjadv"/>
     <sdef n="vbhaver"/>
     <sdef n="vaux"/>
@@ -1723,6 +1725,7 @@
     <e c="AutoCog"><p><l>vètikalman<s n="adv"/></l><r>vertically<s n="adv"/></r></p></e>
 
     <e><p><l>ki<s n="rel"/><s n="an"/></l><r>who<s n="rel"/><s n="an"/></r></p></e>
+    <e><p><l>kisa<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></l><r>what<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></r></p></e>
 
     <e><p><l>zewo</l><r>zero</r></p><par n="mil"/></e>
     <e><p><l>en</l><r>one</r></p><par n="mil"/></e>
