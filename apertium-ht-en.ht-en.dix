@@ -1397,7 +1397,8 @@
     <e><p><l>pandan<s n="pr"/></l><r>during<s n="pr"/></r></p></e>
     <e r="LR"><p><l>ak<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>d<s n="pr"/></l><r>of<s n="pr"/></r></p></e>
-    <e><p><l>pou<s n="pr"/></l><r>in<b/>order<b/>to<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>pou<s n="pr"/></l><r>in<b/>order<b/>to<s n="pr"/></r></p></e>
+    <e><p><l>pou<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
     <e><p><l>sou<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
 
     <e><p><l>lib<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
