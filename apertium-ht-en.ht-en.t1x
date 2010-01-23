@@ -59,6 +59,10 @@
     </def-attr>
     <def-attr n="a_prn">
       <attr-item tags="prn"/>
+      <attr-item tags="prn.uns"/>
+      <attr-item tags="prn.ind"/>
+      <attr-item tags="prn.obj"/>
+      <attr-item tags="prn.subj"/>
     </def-attr>
     <def-attr n="a_nom">
       <attr-item tags="n"/>
@@ -117,6 +121,32 @@
     </def-list>
   </section-def-lists>
   <section-def-macros>
+    <def-macro n="set_prn_type" npar="1">
+
+      <choose>
+        <when>
+          <test>
+            <or>
+            <equal>
+              <clip pos="1" side="sl" part="a_prn"/>
+              <lit-tag v="prn.uns"/>
+            </equal>
+            <equal>
+              <clip pos="1" side="sl" part="a_prn"/>
+              <lit-tag v="prn.ind"/>
+            </equal>
+
+            </or>
+          </test>
+          <let>
+              <clip pos="1" side="tl" part="a_prn"/>
+              <lit-tag v="prn.subj"/>
+          </let>
+        </when>
+      </choose>
+
+  
+    </def-macro>
     
 
     <def-macro n="f_bcond" npar="1"><!--Per mirar si el blanc conté o no format. Cal posar aquesta funció en les regles en què desaparegui alguna paraula, per tal de decidir si el blanc de la paraula eliminada s'ha d'eliminar o conservar. Si conté format cal conservar-la, si no en conté cal eliminar-la perquè no apareguin dos espais seguits. -->
@@ -442,6 +472,9 @@
         <pattern-item n="prn"/>
       </pattern>
       <action>
+        <call-macro n="set_prn_type">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="prn" case="caseFirstWord">
             <tags>
