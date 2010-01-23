@@ -107,6 +107,7 @@
     <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>viktim<s n="n"/></l><r>victim<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>bato<s n="n"/></l><r>boat<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>elikoptè<s n="n"/></l><r>helicopter<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>moman<s n="n"/></l><r>moment<s n="n"/></r></p><par n="ND"/></e>
@@ -331,8 +332,10 @@
     <e r="RL"><p><l>vil<s n="n"/></l><r>town<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="n"/></l><r>american<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
+    <e><p><l>medikal<s n="adj"/></l><r>medical<s n="adj"/></r></p></e>
     <e><p><l>diplomatik<s n="adj"/></l><r>diplomatic<s n="adj"/></r></p></e>
     <e><p><l>rejyonal<s n="adj"/></l><r>regional<s n="adj"/></r></p></e>
+    <e><p><l>mondyal<s n="adj"/></l><r>global<s n="adj"/></r></p></e>
     <e><p><l>masif<s n="adj"/></l><r>massive<s n="adj"/></r></p></e>
     <e><p><l>legal<s n="adj"/></l><r>legal<s n="adj"/></r></p></e>
     <e><p><l>tanporè<s n="adj"/></l><r>temporary<s n="adj"/></r></p></e>
@@ -1296,6 +1299,7 @@
     <e><p><l>manje<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>deside<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
     <e><p><l>ale<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+    <e><p><l>kowòdone<s n="vblex"/></l><r>coordinate<s n="vblex"/></r></p></e>
     <e><p><l>pwoteje<s n="vblex"/></l><r>protect<s n="vblex"/></r></p></e>
     <e><p><l>obsève<s n="vblex"/></l><r>observe<s n="vblex"/></r></p></e>
     <e><p><l>sèvi<s n="vblex"/></l><r>serve<s n="vblex"/></r></p></e>
