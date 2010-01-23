@@ -476,6 +476,8 @@
     <e lm="nonm"><i>nonm</i><par n="liv__n"/></e>
     <e lm="fanm"><i>fanm</i><par n="liv__n"/></e>
     <e lm="mwa"><i>mwa</i><par n="liv__n"/></e>
+    <e lm="politik"><i>politik</i><par n="liv__n"/></e>
+    <e lm="pati politik"><i>pati<b/>politik</i><par n="liv__n"/></e>
     <e lm="an"><i>an</i><par n="liv__n"/></e>
     <e lm="ane" r="LR"><p><l>ane</l><r>an</r></p><par n="liv__n"/></e>
     <e lm="lane" r="LR"><p><l>lane</l><r>an</r></p><par n="liv__n"/></e>
@@ -2040,6 +2042,7 @@
     <e lm="yo"><i>yo</i><par n="yo__postdet"/></e>
 
     <e lm="Ayiti"><i>Ayiti</i><par n="Ayiti__np"/></e>
+    <e lm="Miyami"><i>Miyami</i><par n="Ayiti__np"/></e>
     <e lm="Azi"><i>Azi</i><par n="Ayiti__np"/></e>
     <e lm="Kiba"><i>Kiba</i><par n="Ayiti__np"/></e>
     <e lm="Edenn"><i>Edenn</i><par n="Ayiti__np"/></e>
