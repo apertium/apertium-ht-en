@@ -1362,6 +1362,7 @@
     <e><p><l>manje<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>deside<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
     <e><p><l>ale<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+    <e><p><l>reyuni<s n="vblex"/></l><r>meet<s n="vblex"/></r></p></e>
     <e><p><l>tradui<s n="vblex"/></l><r>translate<s n="vblex"/></r></p></e>
     <e><p><l>eksplike<s n="vblex"/></l><r>explain<s n="vblex"/></r></p></e>
     <e><p><l>kowòdone<s n="vblex"/></l><r>coordinate<s n="vblex"/></r></p></e>
@@ -1419,6 +1420,7 @@
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     <e><p><l>a<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
+    <e><p><l>apre<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
     <e><p><l>anho<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
     <e><p><l>anlè<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
     <e><p><l>nan<s n="pr"/></l><r>in<s n="pr"/></r></p></e> <!-- into -->
