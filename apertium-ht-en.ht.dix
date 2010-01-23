@@ -1112,6 +1112,13 @@
     <e lm="tansyon"><i>tansyon</i><par n="liv__n"/></e>
     <e lm="telekominikasyon"><i>telekominikasyon</i><par n="liv__n"/></e>
     <e lm="televisyon"><i>televisyon</i><par n="liv__n"/></e>
+
+    <e lm="tranbleman'd tè" r="LR"><p><l>tranbleman'd<b/>tè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
+    <e lm="tranbleman de te" r="LR"><p><l>tranbleman<b/>de<b/>te</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
+    <e lm="tranbleman de te" r="LR"><p><l>tranbleman<b/>de<b/>tè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
+    <e lm="tranbleman d tè"><i>tranbleman<b/>d<b/>tè</i><par n="liv__n"/></e>
+
+    <e lm="tranbleman"><i>tranbleman</i><par n="liv__n"/></e>
     <e lm="tradisyon"><i>tradisyon</i><par n="liv__n"/></e>
     <e lm="traksyon"><i>traksyon</i><par n="liv__n"/></e>
     <e lm="transaksyon"><i>transaksyon</i><par n="liv__n"/></e>
