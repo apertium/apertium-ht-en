@@ -23,7 +23,9 @@
 
     <def-cat n="verb">
       <cat-item tags="vblex"/>
+      <cat-item tags="vbmod"/>
       <cat-item tags="vblex.*"/>
+      <cat-item tags="vbmod.*"/>
     </def-cat>
 
 

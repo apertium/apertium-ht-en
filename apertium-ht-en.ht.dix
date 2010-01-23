@@ -1727,6 +1727,7 @@
     <e lm="achte"><i>achte</i><par n="chanje__vblex"/></e>
     <e lm="kreye"><i>kreye</i><par n="chanje__vblex"/></e>
     <e lm="manje"><i>manje</i><par n="chanje__vblex"/></e>
+    <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
     <e lm="egziste"><i>egziste</i><par n="chanje__vblex"/></e>
     <e lm="pale"><i>pale</i><par n="chanje__vblex"/></e>
     <e lm="parle"><i>parle</i><par n="chanje__vblex"/></e>
@@ -1888,6 +1889,7 @@
     <e lm="Kedòlaòmè"><i>Kedòlaòmè</i><par n="Noe__np"/></e>
     <e lm="Adan"><i>Adan</i><par n="Noe__np"/></e>
     <e lm="Chifra"><i>Chifra</i><par n="Ev__np"/></e>
+    <e lm="Woz"><i>Woz</i><par n="Ev__np"/></e>
     <e lm="Pwa"><i>Pwa</i><par n="Ev__np"/></e>
     <e lm="Ev"><i>Ev</i><par n="Ev__np"/></e>
     <e lm="Woubenn"><i>Woubenn</i><par n="Noe__np"/></e>

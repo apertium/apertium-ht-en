@@ -1166,6 +1166,7 @@
     <e><p><l>Adan<s n="np"/></l><r>Adam<s n="np"/></r></p></e>
     <e><p><l>Ev<s n="np"/></l><r>Eve<s n="np"/></r></p></e>
     <e><p><l>Chifra<s n="np"/></l><r>Shiphrah<s n="np"/></r></p></e>
+    <e><p><l>Woz<s n="np"/></l><r>Woz<s n="np"/></r></p></e>
     <e><p><l>Pwa<s n="np"/></l><r>Puah<s n="np"/></r></p></e>
     <e><p><l>Tant<b/>Randevou<s n="np"/></l><r>Tent<b/>of<b/>Meeting<s n="np"/></r></p></e>
     <e><p><l>Bwat<b/>Kontra<s n="np"/></l><r>Tabernacle<b/>of<b/>the<b/>Testimony<s n="np"/></r></p></e>
@@ -1231,6 +1232,7 @@
     <e><p><l>achte<s n="vblex"/></l><r>buy<s n="vblex"/></r></p></e>
     <e><p><l>kreye<s n="vblex"/></l><r>create<s n="vblex"/></r></p></e>
     <e><p><l>manje<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
+    <e><p><l>ale<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
     <e><p><l>egziste<s n="vblex"/></l><r>exist<s n="vblex"/></r></p></e>
     <e><p><l>pale<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>parle<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
