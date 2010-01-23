@@ -174,6 +174,245 @@
       </let>
     </def-macro>
 
+    <def-macro n="adv_adj" npar="2"><!-- (per a fer el comparatiu si cal: 'més fosc' = darker; i també per a canviar 'well' per 'very' davant adjectius )". En les regles, és obligatori que s'executi després de la macro 'f_superlatiu1' aplicada a l'adjectiu. -->
+	<choose>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="pi"/>
+		</equal>
+		<equal>
+		  <clip pos="2" side="tl" part="a_adj"/> 
+		  <lit-tag v="adj.sint"/>
+		</equal>
+	      </and>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		  <lit-tag v="comp"/>
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/> 
+		  <lit v="molt més"/> <!-- FIXME -->
+		</equal>
+		<equal>
+		  <clip pos="2" side="tl" part="a_adj"/> 
+		  <lit-tag v="adj.sint"/>
+		</equal>
+	      </and>
+	    </test>
+	    <let>	      
+	      <clip pos="1" side="tl" part="lem"/> 
+	      <get-case-from pos="1">
+	      <lit v="much"/>
+	      </get-case-from>
+	    </let>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="1" side="tl" part="whole"/> 
+		  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		  <lit-tag v="comp"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+		<equal caseless="yes">
+		  <clip pos="1" side="sl" part="lem"/>
+		  <lit v="byen"/>
+		</equal>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <get-case-from pos="1">
+		    <lit v="very"/>
+		  </get-case-from>
+		  <lit-tag v="preadv"/> 
+		  <lit v="$ ^"/>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <otherwise>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="1" side="tl" part="whole"/> 
+		  <lit v="$ ^"/>
+		  <var n="superlatiu1"/>
+		  <clip pos="2" side="tl" part="lemh"/> 
+		  <clip pos="2" side="tl" part="a_adj"/>
+		  <clip pos="2" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </otherwise>
+	</choose>
+		
+</def-macro>
+
+<def-macro n="det_adv_adj" npar="3"><!-- (per a fer el comparatiu i superlatiu si cal: 'més fosc' = 'darker'; 'el més fosc' = 'the darkest')" . En les regles, és obligatori que s'executi després de la macro 'f_superlatiu1' aplicada a l'adjectiu. -->
+	<choose>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="2" side="sl" part="lem"/> 
+		  <lit v="pi"/>
+		</equal>
+		<equal>
+		  <clip pos="3" side="tl" part="a_adj"/> 
+		  <lit-tag v="adj.sint"/>
+		</equal>
+	      </and>
+	    </test>
+	    <choose>
+	      <when>
+		<test>
+		  <equal>
+		    <clip pos="1" side="sl" part="a_det"/>
+		    <lit-tag v="det.def"/>
+		  </equal>
+		</test>		  
+		<let>
+		  <var n="adv_adjectiu"/>
+		  <concat>
+		    <clip pos="3" side="tl" part="lemh"/> 
+		    <clip pos="3" side="tl" part="a_adj"/>
+		    <lit-tag v="sup"/>
+		    <clip pos="3" side="tl" part="lemq"/> 
+		  </concat>
+		</let>
+	      </when>
+	      <otherwise>	  
+		<let>
+		  <var n="adv_adjectiu"/>
+		  <concat>
+		    <clip pos="3" side="tl" part="lemh"/> 
+		    <clip pos="3" side="tl" part="a_adj"/>
+		    <lit-tag v="comp"/>
+		    <clip pos="3" side="tl" part="lemq"/> 
+		  </concat>
+		</let>
+	      </otherwise>
+	    </choose>
+	  </when>
+
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="2" side="sl" part="lem"/> 
+		  <lit v="molt més"/> <!-- FIXME -->
+		</equal>
+		<equal>
+		  <clip pos="3" side="tl" part="a_adj"/> 
+		  <lit-tag v="adj.sint"/>
+		</equal>
+	      </and>
+	    </test>
+	    <let>	      
+	      <clip pos="2" side="tl" part="lem"/> 
+	      <get-case-from pos="2">
+		<lit v="much"/>
+	      </get-case-from>
+	    </let>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="2" side="tl" part="whole"/> 
+		  <lit v="$ ^"/>
+		  <clip pos="3" side="tl" part="lemh"/> 
+		  <clip pos="3" side="tl" part="a_adj"/>
+		  <lit-tag v="comp"/>
+		  <clip pos="3" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+	      <and>
+		<equal caseless="yes">
+		  <clip pos="2" side="sl" part="lem"/> 
+		  <lit v="pi"/>
+		</equal>
+		<equal>
+		  <clip pos="1" side="sl" part="a_det"/>
+		  <lit-tag v="det.def"/>
+		</equal>
+	      </and>
+	    </test>	
+	    <let>  
+	      <clip pos="2" side="tl" part="lem"/>
+	      <get-case-from pos="2"> 
+		<lit v="most"/>
+	      </get-case-from>
+	    </let>		    
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="2" side="tl" part="whole"/> 
+		  <lit v="$ ^"/>
+		  <clip pos="3" side="tl" part="lemh"/> 
+		  <clip pos="3" side="tl" part="a_adj"/>
+		  <clip pos="3" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <when>
+	    <test>
+		<equal caseless="yes">
+		  <clip pos="2" side="sl" part="lem"/>
+		  <lit v="byen"/>
+		</equal>
+	    </test>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <get-case-from pos="2">
+		    <lit v="very"/>
+		  </get-case-from>
+		  <lit-tag v="preadv"/> 
+		  <lit v="$ ^"/>
+		  <clip pos="3" side="tl" part="lemh"/> 
+		  <clip pos="3" side="tl" part="a_adj"/>
+		  <clip pos="3" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </when>
+	  <otherwise>
+	    <let>
+	      <var n="adv_adjectiu"/>
+		<concat>
+		  <clip pos="2" side="tl" part="whole"/> 
+		  <lit v="$ ^"/>
+		  <var n="superlatiu1"/>
+		  <clip pos="3" side="tl" part="lemh"/> 
+		  <clip pos="3" side="tl" part="a_adj"/>
+		  <clip pos="3" side="tl" part="lemq"/> 
+		</concat>
+	    </let>
+	  </otherwise>
+	</choose>
+</def-macro>
+
   </section-def-macros>
 
   <section-rules>
