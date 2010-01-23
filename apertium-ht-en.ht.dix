@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-  <alphabet>·ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzŀl</alphabet>
+  <alphabet>·ÀÁÂÄÇÈÉÊËÌÍÎÏÑÒÓÔÖÙÚÛÜàáâäçèéêëìíîïñòóôöùúûüABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzŀlò</alphabet>
   <sdefs>
     <sdef n="vblex"/>
     <sdef n="vbser"/>
@@ -406,6 +406,11 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="moman"><i>moman</i><par n="liv__n"/></e>
+    <e lm="misyon"><i>misyon</i><par n="liv__n"/></e>
+    <e lm="trajedi"><i>trajedi</i><par n="liv__n"/></e>
+    <e lm="gwoup"><i>gwoup</i><par n="liv__n"/></e>
+    <e lm="populasyon"><i>populasyon</i><par n="liv__n"/></e>
     <e lm="stati"><i>stati</i><par n="liv__n"/></e>
     <e lm="entèvyou"><i>entèvyou</i><par n="liv__n"/></e>
     <e lm="palè"><i>palè</i><par n="liv__n"/></e>
@@ -960,6 +965,7 @@
     <e lm="obligasyon"><i>obligasyon</i><par n="liv__n"/></e>
     <e lm="obsèvasyon"><i>obsèvasyon</i><par n="liv__n"/></e>
     <e lm="ogmantasyon"><i>ogmantasyon</i><par n="liv__n"/></e>
+    <e lm="òganizasyon"><i>òganizasyon</i><par n="liv__n"/></e>
     <e lm="okasyon"><i>okasyon</i><par n="liv__n"/></e>
     <e lm="omisyon"><i>omisyon</i><par n="liv__n"/></e>
     <e lm="onksyon"><i>onksyon</i><par n="liv__n"/></e>
@@ -1472,6 +1478,7 @@
     <e lm="anbilans"><i>anbilans</i><par n="liv__n"/></e>
     <e lm="aksidan"><i>aksidan</i><par n="liv__n"/></e>
     <e lm="apremidi"><i>apremidi</i><par n="liv__n"/></e>
+    <e lm="aprè midi" r="LR"><p><l>aprè<b/>midi</l><r>apremidi</r></p><par n="liv__n"/></e>
     <e lm="aspirin"><i>aspirin</i><par n="liv__n"/></e>
     <e lm="dyabetik"><i>dyabetik</i><par n="liv__n"/></e>
     <e lm="men"><i>men</i><par n="liv__n"/></e>
@@ -1631,6 +1638,8 @@
     <e lm="kote"><i>kote</i><par n="liv__n"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
+    <e lm="rejyonal"><i>rejyonal</i><par n="lib__adj"/></e>
+    <e lm="masif"><i>masif</i><par n="lib__adj"/></e>
     <e lm="legal"><i>legal</i><par n="lib__adj"/></e>
     <e lm="tanporè"><i>tanporè</i><par n="lib__adj"/></e>
     <e lm="alèjik"><i>alèjik</i><par n="lib__adj"/></e>
@@ -1813,8 +1822,10 @@
     <e lm="achte"><i>achte</i><par n="chanje__vblex"/></e>
     <e lm="kreye"><i>kreye</i><par n="chanje__vblex"/></e>
     <e lm="manje"><i>manje</i><par n="chanje__vblex"/></e>
+    <e lm="konsidere"><i>konsidere</i><par n="chanje__vblex"/></e>
     <e lm="deside"><i>deside</i><par n="chanje__vblex"/></e>
     <e lm="ofri"><i>ofri</i><par n="chanje__vblex"/></e>
+    <e lm="soufri"><i>soufri</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
     <e lm="etabli"><i>etabli</i><par n="chanje__vblex"/></e>
     <e lm="kòmanse"><i>kòmanse</i><par n="chanje__vblex"/></e>
@@ -1886,7 +1897,11 @@
     <e lm="isit"><i>isit</i><par n="isit__adv"/></e>
     <e lm="pa"><i>pa</i><par n="isit__adv"/></e>
     <e lm="egzakteman"><i>egzakteman</i><par n="isit__adv"/></e>
+    <e lm="direkteman"><i>direkteman</i><par n="isit__adv"/></e>
+    <e lm="egzatteman" r="LR"><p><l>egzatteman</l><r>egzakteman</r></p><par n="isit__adv"/></e>
     <e lm="lonton"><i>lonton</i><par n="isit__adv"/></e>
+    <e lm="nan apremidi"><i>nan<b/>apremidi</i><par n="isit__adv"/></e>
+    <e lm="nan aprè midi" r="LR"><p><l>nan<b/>aprè<b/>midi</l><r>nan<b/>apremidi</r></p><par n="isit__adv"/></e>
     <e lm="yè"><i>yè</i><par n="isit__adv"/></e>
     <e lm="l demen"><i>l<b/>demen</i><par n="isit__adv"/></e>
     <e lm="nan konmansman"><i>nan<b/>konmansman</i><par n="isit__adv"/></e>
@@ -1969,6 +1984,7 @@
     <e lm="Edenn"><i>Edenn</i><par n="Ayiti__np"/></e>
     <e lm="Giyon"><i>Giyon</i><par n="Ayiti__np"/></e>
     <e lm="Pòtoprens"><i>Pòtoprens</i><par n="Ayiti__np"/></e>
+    <e lm="Potoprens" r="LR"><p><l>Potoprens</l><r>Pòtoprens</r></p><par n="Ayiti__np"/></e>
     <e lm="Oseyan Atlantik"><i>Oseyan<b/>Atlantik</i><par n="Ayiti__np"/></e>
     <e lm="Atlantik"><i>Atlantik</i><par n="Ayiti__np"/></e>
     <e lm="Repiblik d Ayiti"><i>Repiblik<b/>d<b/>Ayiti</i><par n="Ayiti__np"/></e>
@@ -2028,6 +2044,8 @@
     <e lm="Abèl"><i>Abèl</i><par n="Noe__np"/></e>
     <e lm="Kayen"><i>Kayen</i><par n="Noe__np"/></e>
     <e lm="Enòk"><i>Enòk</i><par n="Noe__np"/></e>
+
+    <e lm="Nasyon Zuni"><i>Nasyon<b/>Zuni</i><par n="Linux__np"/></e>
     <e lm="Tant Randevou"><i>Tant<b/>Randevou</i><par n="Linux__np"/></e>
     <e lm="Bwat Kontra"><i>Bwat<b/>Kontra</i><par n="Linux__np"/></e>
     <e lm="Walmart"><i>Walmart</i><par n="Linux__np"/></e>
@@ -2046,6 +2064,7 @@
     <e lm="anho"><i>anho</i><par n="an__pr"/></e>
     <e lm="anlè"><i>anlè</i><par n="an__pr"/></e>
     <e lm="nan"><i>nan</i><par n="an__pr"/></e>
+    <e lm="a"><i>a</i><par n="an__pr"/></e>
     <e lm="akote"><i>akote</i><par n="an__pr"/></e>
     <e lm="dan"><i>dan</i><par n="an__pr"/></e>
     <e lm="dèyè"><i>dèyè</i><par n="an__pr"/></e>

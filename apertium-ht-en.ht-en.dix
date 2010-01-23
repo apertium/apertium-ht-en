@@ -28,6 +28,8 @@
     <sdef n="pr"/>
     <sdef n="prn"/>
     <sdef n="np"/>
+    <sdef n="al"/>
+    <sdef n="org"/>
     <sdef n="top"/>
     <sdef n="loc"/>
     <sdef n="sg"/>
@@ -105,6 +107,8 @@
     <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>moman<s n="n"/></l><r>moment<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>misyon<s n="n"/></l><r>mission<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>stati<s n="n"/></l><r>status<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>entèvyou<s n="n"/></l><r>interview<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>palè<s n="n"/></l><r>palace<s n="n"/></r></p><par n="ND"/></e>
@@ -129,6 +133,10 @@
     <e><p><l>istwa<s n="n"/></l><r>history<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>sosyete<s n="n"/></l><r>society<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>edikasyon<s n="n"/></l><r>education<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>populasyon<s n="n"/></l><r>population<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>trajedi<s n="n"/></l><r>tragedy<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>gwoup<s n="n"/></l><r>group<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>òganizasyon<s n="n"/></l><r>organisation<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>disparisyon<s n="n"/></l><r>disappearance<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>proteksyon<s n="n"/></l><r>protection<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>literati<s n="n"/></l><r>literature<s n="n"/></r></p><par n="ND"/></e>
@@ -320,6 +328,8 @@
     <e r="RL"><p><l>vil<s n="n"/></l><r>town<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="n"/></l><r>american<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
+    <e><p><l>rejyonal<s n="adj"/></l><r>regional<s n="adj"/></r></p></e>
+    <e><p><l>masif<s n="adj"/></l><r>massive<s n="adj"/></r></p></e>
     <e><p><l>legal<s n="adj"/></l><r>legal<s n="adj"/></r></p></e>
     <e><p><l>tanporè<s n="adj"/></l><r>temporary<s n="adj"/></r></p></e>
     <e><p><l>sòs<s n="n"/></l><r>sauce<s n="n"/></r></p><par n="ND"/></e>
@@ -1217,6 +1227,7 @@
     <e><p><l>Bwat<b/>Kontra<s n="np"/></l><r>Tabernacle<b/>of<b/>the<b/>Testimony<s n="np"/></r></p></e>
     <e><p><l>Walmart<s n="np"/></l><r>Walmart<s n="np"/></r></p></e>
     <e><p><l>Linux<s n="np"/></l><r>Linux<s n="np"/></r></p></e>
+    <e><p><l>Nasyon<b/>Zuni<s n="np"/><s n="al"/><s n="sg"/></l><r>United<b/>Nations<s n="np"/><s n="org"/><s n="pl"/></r></p></e>
 
     <e><p><l>Woubenn<s n="np"/></l><r>Reuben<s n="np"/></r></p></e>
     <e><p><l>Simeyon<s n="np"/></l><r>Simeon<s n="np"/></r></p></e>
@@ -1281,8 +1292,10 @@
     <e><p><l>manje<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>deside<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
     <e><p><l>ale<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+    <e><p><l>konsidere<s n="vblex"/></l><r>consider<s n="vblex"/></r></p></e>
     <e><p><l>etabli<s n="vblex"/></l><r>establish<s n="vblex"/></r></p></e>
     <e><p><l>ofri<s n="vblex"/></l><r>offer<s n="vblex"/></r></p></e>
+    <e><p><l>soufri<s n="vblex"/></l><r>suffer<s n="vblex"/></r></p></e>
     <e><p><l>fonde<s n="vblex"/></l><r>found<s n="vblex"/></r></p></e>
     <e><p><l>kòmanse<s n="vblex"/></l><r>start<s n="vblex"/></r></p></e>
     <e><p><l>òganize<s n="vblex"/></l><r>organise<s n="vblex"/></r></p></e>
@@ -1324,6 +1337,7 @@
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>a<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
     <e><p><l>anho<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
     <e><p><l>anlè<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
     <e><p><l>nan<s n="pr"/></l><r>in<s n="pr"/></r></p></e> <!-- into -->
@@ -1672,6 +1686,8 @@
 
     <e><p><l>isit<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
     <e><p><l>egzakteman<s n="adv"/></l><r>exactly<s n="adv"/></r></p></e>
+    <e><p><l>direkteman<s n="adv"/></l><r>directly<s n="adv"/></r></p></e>
+    <e><p><l>nan<b/>apremidi<s n="adv"/></l><r>in<b/>the<b/>afternoon<s n="adv"/></r></p></e>
     <e><p><l>kounye<b/>a<s n="adv"/></l><r>right<b/>now<s n="adv"/></r></p></e>
     <e><p><l>bokou<b/>pli<s n="adv"/></l><r>much<b/>more<s n="adv"/></r></p></e>
     <e><p><l>pa<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
