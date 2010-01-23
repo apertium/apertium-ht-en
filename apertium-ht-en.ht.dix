@@ -628,6 +628,10 @@
     <e lm="militè"><i>militè</i><par n="lib__adj"/></e>
     <e lm="pwal"><i>pwal</i><par n="liv__n"/></e>
     <e lm="kont"><i>kont</i><par n="liv__n"/></e>
+    <e lm="sèks"><i>sèks</i><par n="liv__n"/></e>
+    <e lm="kondanasyon"><i>kondanasyon</i><par n="liv__n"/></e>
+    <e lm="asosyasyon"><i>asosyasyon</i><par n="liv__n"/></e>
+    <e lm="ekstradisyon"><i>ekstradisyon</i><par n="liv__n"/></e>
 
     <e lm="aberasyon"><i>aberasyon</i><par n="liv__n"/></e>
     <e lm="abitasyon"><i>abitasyon</i><par n="liv__n"/></e>
