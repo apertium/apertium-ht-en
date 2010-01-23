@@ -79,12 +79,6 @@
           <r><s n="n"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l>-yo</l>
-          <r><s n="n"/><j/>yo<s n="postdet"/><s n="def"/><s n="pl"/></r>
-        </p>
-      </e>
     </pardef>
     <pardef n="lib__adj">
       <e>
@@ -2199,6 +2193,7 @@
     <e lm="Kayen"><i>Kayen</i><par n="Noe__np"/></e>
     <e lm="Barack"><i>Kayen</i><par n="Noe__np"/></e>
     <e lm="Enòk"><i>Enòk</i><par n="Noe__np"/></e>
+    <e lm="George W. Bush"><i>George<b/>W.<b/>Bush</i><par n="Noe__np"/></e>
 
     <e lm="Obama"><i>Obama</i><par n="Obama__np"/></e>
     <e lm="Gates"><i>Gates</i><par n="Obama__np"/></e>
@@ -2287,6 +2282,14 @@
     <e lm="d'"><p><l>d'</l><r>d<s n="pr"/></r></p></e>
     <e lm="an'"><p><l>an'</l><r>an<s n="pr"/></r></p></e>
   </section>
+  <section id="postdets" type="preblank">
+    <e lm="-la" r="LR"><p><l>-la</l><r>la</r></p><par n="la__postdet"/></e>
+    <e lm="-a" r="LR"><p><l>-a</l><r>a</r></p><par n="la__postdet"/></e>
+    <e lm="-lan" r="LR"><p><l>-lan</l><r>lan</r></p><par n="la__postdet"/></e>
+    <e lm="-an" r="LR"><p><l>-an</l><r>an</r></p><par n="la__postdet"/></e>
+    <e lm="-nan" r="LR"><p><l>-nan</l><r>nan</r></p><par n="la__postdet"/></e>
+    <e lm="-yo" r="LR"><p><l>-yo</l><r>yo</r></p><par n="yo__postdet"/></e>
+  </section>
   <section id="punct" type="inconditional">
     <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
     <e lm=":"><p><l>:</l><r>:<s n="sent"/></r></p></e>
@@ -2301,12 +2304,5 @@
     <e lm="-"><p><l>-</l><r>-<s n="guio"/></r></p></e>
 
     <e lm="num"><re>[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>
-  </section>
-  <section id="postdets" type="preblank">
-    <e lm="-la" r="LR"><p><l>-la</l><r>la</r></p><par n="la__postdet"/></e>
-    <e lm="-a" r="LR"><p><l>-a</l><r>a</r></p><par n="la__postdet"/></e>
-    <e lm="-lan" r="LR"><p><l>-lan</l><r>lan</r></p><par n="la__postdet"/></e>
-    <e lm="-an" r="LR"><p><l>-an</l><r>an</r></p><par n="la__postdet"/></e>
-    <e lm="-nan" r="LR"><p><l>-nan</l><r>nan</r></p><par n="la__postdet"/></e>
   </section>
 </dictionary>
