@@ -1915,6 +1915,10 @@
     <e lm="santi"><i>santi</i><par n="chanje__vblex"/></e>
     <e lm="itilize"><i>itilize</i><par n="chanje__vblex"/></e>
     <e lm="bwè"><i>bwè</i><par n="chanje__vblex"/></e>
+    <e lm="pati"><i>pati</i><par n="chanje__vblex"/></e>
+    <e lm="konnen"><i>konnen</i><par n="chanje__vblex"/></e>
+    <e lm="negosye"><i>negosye</i><par n="chanje__vblex"/></e>
+    <e lm="garanti"><i>garanti</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -2129,6 +2133,7 @@
     <e lm="anpami"><i>anpami</i><par n="an__pr"/></e>
     <e lm="bò"><i>bò</i><par n="an__pr"/></e>
     <e lm="apre"><i>apre</i><par n="an__pr"/></e>
+    <e lm="apwè" r="LR"><p><l>apwè</l><r>apre</r></p><par n="an__pr"/></e>
     <e lm="aprè" r="LR"><p><l>aprè</l><r>apre</r></p><par n="an__pr"/></e>
     <e lm="èvèk"><i>èvèk</i><par n="an__pr"/></e>
     <e lm="avek" r="LR"><p><l>avek</l><r>avèk</r></p><par n="an__pr"/></e>
