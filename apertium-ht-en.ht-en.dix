@@ -318,6 +318,7 @@
     <e r="RL"><p><l>vil<s n="n"/></l><r>town<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="n"/></l><r>american<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
+    <e><p><l>legal<s n="adj"/></l><r>legal<s n="adj"/></r></p></e>
     <e><p><l>tanporè<s n="adj"/></l><r>temporary<s n="adj"/></r></p></e>
     <e><p><l>sòs<s n="n"/></l><r>sauce<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>pwason<s n="n"/></l><r>fish<s n="n"/></r></p><par n="ND"/></e>
@@ -1323,7 +1324,7 @@
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     <e><p><l>anho<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
     <e><p><l>anlè<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
-    <e><p><l>nan<s n="pr"/></l><r>into<s n="pr"/></r></p></e>
+    <e><p><l>nan<s n="pr"/></l><r>in<s n="pr"/></r></p></e> <!-- into -->
     <e><p><l>dan<s n="pr"/></l><r>within<s n="pr"/></r></p></e>
     <e><p><l>dèyè<s n="pr"/></l><r>behind<s n="pr"/></r></p></e>
     <e><p><l>akote<s n="pr"/></l><r>beside<s n="pr"/></r></p></e>
@@ -1668,6 +1669,7 @@
     <e><p><l>trè<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
     <e><p><l>isit<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>egzakteman<s n="adv"/></l><r>exactly<s n="adv"/></r></p></e>
     <e><p><l>kounye<b/>a<s n="adv"/></l><r>right<b/>now<s n="adv"/></r></p></e>
     <e><p><l>bokou<b/>pli<s n="adv"/></l><r>much<b/>more<s n="adv"/></r></p></e>
     <e><p><l>pa<s n="adv"/></l><r>not<s n="adv"/></r></p></e>

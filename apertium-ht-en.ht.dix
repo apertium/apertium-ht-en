@@ -1631,6 +1631,7 @@
     <e lm="kote"><i>kote</i><par n="liv__n"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
+    <e lm="legal"><i>legal</i><par n="lib__adj"/></e>
     <e lm="tanporè"><i>tanporè</i><par n="lib__adj"/></e>
     <e lm="alèjik"><i>alèjik</i><par n="lib__adj"/></e>
     <e lm="bwitich"><i>bwitich</i><par n="lib__adj"/></e>
@@ -1883,6 +1884,7 @@
 
     <e lm="isit"><i>isit</i><par n="isit__adv"/></e>
     <e lm="pa"><i>pa</i><par n="isit__adv"/></e>
+    <e lm="egzakteman"><i>egzakteman</i><par n="isit__adv"/></e>
     <e lm="lonton"><i>lonton</i><par n="isit__adv"/></e>
     <e lm="yè"><i>yè</i><par n="isit__adv"/></e>
     <e lm="l demen"><i>l<b/>demen</i><par n="isit__adv"/></e>
