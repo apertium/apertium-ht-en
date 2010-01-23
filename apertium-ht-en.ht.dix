@@ -415,6 +415,7 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="vizit"><i>vizit</i><par n="liv__n"/></e>
     <e lm="komunike"><i>komunike</i><par n="liv__n"/></e>
     <e lm="komunikasyon"><i>komunikasyon</i><par n="liv__n"/></e>
     <e lm="ko-òdinasyon"><i>ko-òdinasyon</i><par n="liv__n"/></e>
@@ -1166,9 +1167,10 @@
     <e lm="televisyon"><i>televisyon</i><par n="liv__n"/></e>
 
     <e lm="tranblemann'tè" r="LR"><p><l>tranblemann'tè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
+    <e lm="tranbleman detè" r="LR"><p><l>tranbleman<b/>detè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
     <e lm="tranbleman'd tè" r="LR"><p><l>tranbleman'd<b/>tè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
     <e lm="tranbleman de te" r="LR"><p><l>tranbleman<b/>de<b/>te</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
-    <e lm="tranbleman de te" r="LR"><p><l>tranbleman<b/>de<b/>tè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
+    <e lm="tranbleman de tè" r="LR"><p><l>tranbleman<b/>de<b/>tè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
     <e lm="tranbleman d tè"><i>tranbleman<b/>d<b/>tè</i><par n="liv__n"/></e>
 
     <e lm="tranbleman"><i>tranbleman</i><par n="liv__n"/></e>
