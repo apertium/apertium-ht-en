@@ -446,6 +446,7 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="televizyon"><i>televizyon</i><par n="liv__n"/></e>
     <e lm="ekip"><i>ekip</i><par n="liv__n"/></e>
     <e lm="fraz"><i>fraz</i><par n="liv__n"/></e>
     <e lm="konvwa"><i>konvwa</i><par n="liv__n"/></e>
@@ -583,6 +584,7 @@
     <e lm="oseyan"><i>oseyan</i><par n="liv__n"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="liv__n"/></e>
     <e lm="gouvènman"><i>gouvènman</i><par n="liv__n"/></e>
+    <e lm="gouvenman" r="LR"><p><l>gouvenman</l><r>gouvènman</r></p><par n="liv__n"/></e>
     <e lm="peyi"><i>peyi</i><par n="liv__n"/></e>
     <e lm="santim"><i>santim</i><par n="liv__n"/></e>
     <e lm="goud"><i>goud</i><par n="liv__n"/></e>

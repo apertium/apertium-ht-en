@@ -23718,6 +23718,7 @@
     <e lm="preserve"><i>preserve</i><par n="house__n"/></e>
     <e lm="presidency"><i>presidenc</i><par n="bab/y__n"/></e>
     <e lm="president"><i>president</i><par n="house__n"/></e>
+    <e lm="ex-president"><i>ex-president</i><par n="house__n"/></e>
     <e lm="American president"><i>American<b/>president</i><par n="house__n"/></e>
     <e lm="French president"><i>French<b/>president</i><par n="house__n"/></e>
     <e lm="press"><i>press</i><par n="politics__n"/></e>
