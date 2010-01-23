@@ -663,6 +663,12 @@
     <e lm="vil"><i>vil</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="lib__adj"/></e>
+    <e lm="entènasyonal"><i>entènasyonal</i><par n="lib__adj"/></e>
+    <e lm="miltinasyonal"><i>miltinasyonal</i><par n="lib__adj"/></e>
+    <e lm="antinasyonal"><i>antinasyonal</i><par n="lib__adj"/></e>
+    <e lm="transnasyonal"><i>transnasyonal</i><par n="lib__adj"/></e>
+    <e lm="konstitisyonal"><i>konstitisyonal</i><par n="lib__adj"/></e>
+    <e lm="nasyonal"><i>nasyonal</i><par n="lib__adj"/></e>
     <e lm="menm"><i>menm</i><par n="lib__adj"/></e>
     <e lm="umanitè"><i>umanitè</i><par n="lib__adj"/></e>
     <e lm="enpotan"><i>enpotan</i><par n="lib__adj"/></e>
