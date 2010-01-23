@@ -442,6 +442,7 @@
     <e lm="komunike"><i>komunike</i><par n="liv__n"/></e>
     <e lm="komunikasyon"><i>komunikasyon</i><par n="liv__n"/></e>
     <e lm="rotasyon"><i>rotasyon</i><par n="liv__n"/></e>
+    <e lm="situyasyon"><i>situyasyon</i><par n="liv__n"/></e>
     <e lm="ko-òdinasyon"><i>ko-òdinasyon</i><par n="liv__n"/></e>
     <e lm="konpreyensyon"><i>konpreyensyon</i><par n="liv__n"/></e>
     <e lm="sòlda"><i>sòlda</i><par n="liv__n"/></e>
@@ -558,6 +559,7 @@
     <e lm="manman"><i>manman</i><par n="liv__n"/></e>
     <e lm="papa"><i>papa</i><par n="liv__n"/></e>
     <e lm="prezidan"><i>prezidan</i><par n="liv__n"/></e>
+    <e lm="ansyen prezidan"><i>ansyen<b/>prezidan</i><par n="liv__n"/></e>
     <e lm="repiblik"><i>repiblik</i><par n="liv__n"/></e>
     <e lm="stabilite"><i>stabilite</i><par n="liv__n"/></e>
     <e lm="sekirite"><i>sekirite</i><par n="liv__n"/></e>
@@ -1924,6 +1926,7 @@
     <e lm="sèvi"><i>sèvi</i><par n="chanje__vblex"/></e>
     <e lm="soufri"><i>soufri</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
+    <e lm="evalye"><i>evalye</i><par n="chanje__vblex"/></e>
     <e lm="reyuni"><i>reyuni</i><par n="chanje__vblex"/></e>
     <e lm="tradui"><i>tradui</i><par n="chanje__vblex"/></e>
     <e lm="tradwi" r="LR"><p><l>tradwi</l><r>tradui</r></p><par n="chanje__vblex"/></e>
