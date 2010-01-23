@@ -13,6 +13,10 @@
       <cat-item tags="adj.sint"/>
       <cat-item tags="adj.sint.*"/>
     </def-cat>
+    <def-cat n="adv">
+      <cat-item tags="adv"/>
+      <cat-item tags="preadv"/>
+    </def-cat>
 
     <def-cat n="verb">
       <cat-item tags="vblex"/>
@@ -23,9 +27,6 @@
     <!-- Lexicalised categories -->
     <def-cat n="pa">
       <cat-item lemma="pa" tags="adv"/>
-    </def-cat>
-    <def-cat n="pi">
-      <cat-item lemma="pi" tags="preadv"/>
     </def-cat>
 
     <def-cat n="te_part">
@@ -84,6 +85,9 @@
     <def-var n="numero"/>
     <def-var n="caseFirstWord"/>
     <def-var n="EOS" v="true"/>
+    <def-var n="caseFirstWord"/>
+    <def-var n="adv_adjectiu"/>
+    <def-var n="superlatiu1"/>
   </section-def-vars>
   <section-def-lists>
     <def-list n="en_majuscules">
@@ -531,6 +535,74 @@
               <clip pos="2" side="tl" part="a_nom"/>
               <clip pos="2" side="tl" part="nbr" link-to="2"/>
               <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: ADV ADJ NOM">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="adv"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+	<call-macro n="firstWord">
+	  <with-param pos="1"/>
+	</call-macro>	
+	<call-macro n="adv_adj">
+	  <with-param pos="1"/>
+	  <with-param pos="2"/>
+	</call-macro>
+        <out>
+          <chunk name="adv_adj_nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="3" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="adv_adjectiu"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_nom"/>
+              <clip pos="3" side="tl" part="nbr" link-to="2"/>
+              <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: NOM ADV ADJ">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="adv"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+	<call-macro n="firstWord">
+	  <with-param pos="1"/>
+	</call-macro>	
+	<call-macro n="adv_adj">
+	  <with-param pos="2"/>
+	  <with-param pos="3"/>
+	</call-macro>
+        <out>
+          <chunk name="adv_adj_nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="tl" part="nbr"/></tag>
+            </tags>
+            <lu>
+              <var n="adv_adjectiu"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="nbr" link-to="2"/>
+              <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
