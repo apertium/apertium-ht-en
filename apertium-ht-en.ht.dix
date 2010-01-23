@@ -680,6 +680,10 @@
     <e lm="pitit fis"><i>pitit<b/>fis</i><par n="liv__n"/></e>
     <e lm="gason"><i>gason</i><par n="liv__n"/></e>
     <e lm="pèp"><i>pèp</i><par n="liv__n"/></e>
+    <e lm="unyon"><i>unyon</i><par n="liv__n"/></e>
+    <e lm="ansyen prezidan ameriken"><i>ansyen<b/>prezidan<b/>ameriken</i><par n="liv__n"/></e>
+    <e lm="ansyen prezidan"><i>ansyen<b/>prezidan</i><par n="liv__n"/></e>
+    <e lm="ansyen"><i>ansyen</i><par n="lib__adj"/></e>
 
     <e lm="aberasyon"><i>aberasyon</i><par n="liv__n"/></e>
     <e lm="abitasyon"><i>abitasyon</i><par n="liv__n"/></e>
@@ -2092,6 +2096,10 @@
 
     <e lm="Ayiti"><i>Ayiti</i><par n="Ayiti__np"/></e>
     <e lm="Miyami"><i>Miyami</i><par n="Ayiti__np"/></e>
+    <e lm="Unyon Ewòp"><i>Unyon<b/>Ewòp</i><par n="Ayiti__np"/></e>
+    <e lm="Ewòp"><i>Ewòp</i><par n="Ayiti__np"/></e>
+    <e lm="Unyon Ewòp"><p><l>Unyon<b/>Ewòp</l><r>Unyon<b/>Ewòp</r></p><par n="Ayiti__np"/></e>
+    <e lm="Ewòp"><p><l>Ewòp</l><r>Ewòp</r></p><par n="Ayiti__np"/></e>
     <e lm="Azi"><i>Azi</i><par n="Ayiti__np"/></e>
     <e lm="Kiba"><i>Kiba</i><par n="Ayiti__np"/></e>
     <e lm="Edenn"><i>Edenn</i><par n="Ayiti__np"/></e>
