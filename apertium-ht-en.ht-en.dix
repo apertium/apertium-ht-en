@@ -3,6 +3,7 @@
   <alphabet></alphabet>
   <sdefs>
     <sdef n="vblex"/>
+    <sdef n="vbdo"/>
     <sdef n="vbser"/>
     <sdef n="vbmod"/>
     <sdef n="det"/>
@@ -13,7 +14,9 @@
     <sdef n="vbhaver"/>
     <sdef n="vaux"/>
     <sdef n="ind"/>
+    <sdef n="def"/>
     <sdef n="n"/>
+    <sdef n="sp"/>
     <sdef n="adj"/>
     <sdef n="ij"/>
     <sdef n="adv"/>
@@ -1630,7 +1633,7 @@
     <e c="AutoCog"><p><l>legalman<s n="adv"/></l><r>legally<s n="adv"/></r></p></e>
     <e c="AutoCog"><p><l>literalman<s n="adv"/></l><r>literally<s n="adv"/></r></p></e>
     <e c="AutoCog"><p><l>lokalman<s n="adv"/></l><r>locally<s n="adv"/></r></p></e>
-    <e c="AutoCog" c="legally?"><p><l>lwayalman<s n="adv"/></l><r>loyally<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>lwayalman<s n="adv"/></l><r>loyally<s n="adv"/></r></p></e>
     <e c="AutoCog"><p><l>mantalman<s n="adv"/></l><r>mentally<s n="adv"/></r></p></e>
     <e c="AutoCog"><p><l>medikalman<s n="adv"/></l><r>medically<s n="adv"/></r></p></e>
     <e c="AutoCog"><p><l>mizikalman<s n="adv"/></l><r>musically<s n="adv"/></r></p></e>
