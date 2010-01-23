@@ -103,6 +103,8 @@
     <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>stati<s n="n"/></l><r>status<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>entèvyou<s n="n"/></l><r>interview<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>palè<s n="n"/></l><r>palace<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>tranbleman<b/>d<b/>tè<s n="n"/></l><r>earthquake<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>lopital<s n="n"/></l><r>hospital<s n="n"/></r></p><par n="ND"/></e>
@@ -316,6 +318,7 @@
     <e r="RL"><p><l>vil<s n="n"/></l><r>town<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="n"/></l><r>american<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
+    <e><p><l>tanporè<s n="adj"/></l><r>temporary<s n="adj"/></r></p></e>
     <e><p><l>sòs<s n="n"/></l><r>sauce<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>pwason<s n="n"/></l><r>fish<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>jeneral<s n="n"/></l><r>general<s n="n"/></r></p><par n="ND"/></e>
@@ -1185,7 +1188,7 @@
     <e><p><l>Gomò<s n="np"/><s n="top"/></l><r>Gomorrah<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Salèm<s n="np"/><s n="top"/></l><r>Salem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Izrayèl<s n="np"/><s n="top"/></l><r>Israel<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Etazini<s n="np"/><s n="top"/></l><r>United<b/>States<s n="np"/><s n="top"/><s n="pl"/></r></p></e>
+    <e><p><l>Etazini<s n="np"/><s n="top"/></l><r>United<b/>States<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Lejip<s n="np"/><s n="top"/></l><r>Egypt<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Bètleyèm<s n="np"/><s n="top"/></l><r>Bethlehem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Jerizalèm<s n="np"/><s n="top"/></l><r>Jerusalem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -1200,6 +1203,7 @@
     <e><p><l>Kedòlaòmè<s n="np"/></l><r>Chedorlaomer<s n="np"/></r></p></e>
     <e><p><l>Adan<s n="np"/></l><r>Adam<s n="np"/></r></p></e>
     <e><p><l>Pyè<s n="np"/></l><r>Pyè<s n="np"/></r></p></e>
+    <e><p><l>Pierre<s n="np"/></l><r>Pierre<s n="np"/></r></p></e>
     <e><p><l>Jan<s n="np"/></l><r>Jan<s n="np"/></r></p></e>
     <e><p><l>Ev<s n="np"/></l><r>Eve<s n="np"/></r></p></e>
     <e><p><l>Chifra<s n="np"/></l><r>Shiphrah<s n="np"/></r></p></e>
@@ -1272,8 +1276,10 @@
     <e><p><l>achte<s n="vblex"/></l><r>buy<s n="vblex"/></r></p></e>
     <e><p><l>kreye<s n="vblex"/></l><r>create<s n="vblex"/></r></p></e>
     <e><p><l>manje<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
+    <e><p><l>deside<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
     <e><p><l>ale<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
     <e><p><l>etabli<s n="vblex"/></l><r>establish<s n="vblex"/></r></p></e>
+    <e><p><l>ofri<s n="vblex"/></l><r>offer<s n="vblex"/></r></p></e>
     <e><p><l>fonde<s n="vblex"/></l><r>found<s n="vblex"/></r></p></e>
     <e><p><l>kòmanse<s n="vblex"/></l><r>start<s n="vblex"/></r></p></e>
     <e><p><l>òganize<s n="vblex"/></l><r>organise<s n="vblex"/></r></p></e>

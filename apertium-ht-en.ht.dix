@@ -406,6 +406,8 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="stati"><i>stati</i><par n="liv__n"/></e>
+    <e lm="entèvyou"><i>entèvyou</i><par n="liv__n"/></e>
     <e lm="palè"><i>palè</i><par n="liv__n"/></e>
     <e lm="lopital"><i>lopital</i><par n="liv__n"/></e>
     <e lm="patnè"><i>patnè</i><par n="liv__n"/></e>
@@ -1629,6 +1631,7 @@
     <e lm="kote"><i>kote</i><par n="liv__n"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
+    <e lm="tanporè"><i>tanporè</i><par n="lib__adj"/></e>
     <e lm="alèjik"><i>alèjik</i><par n="lib__adj"/></e>
     <e lm="bwitich"><i>bwitich</i><par n="lib__adj"/></e>
     <e lm="bankwout"><i>bankwout</i><par n="lib__adj"/></e>
@@ -1808,6 +1811,8 @@
     <e lm="achte"><i>achte</i><par n="chanje__vblex"/></e>
     <e lm="kreye"><i>kreye</i><par n="chanje__vblex"/></e>
     <e lm="manje"><i>manje</i><par n="chanje__vblex"/></e>
+    <e lm="deside"><i>deside</i><par n="chanje__vblex"/></e>
+    <e lm="ofri"><i>ofri</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
     <e lm="etabli"><i>etabli</i><par n="chanje__vblex"/></e>
     <e lm="kòmanse"><i>kòmanse</i><par n="chanje__vblex"/></e>
@@ -1970,6 +1975,7 @@
     <e lm="Gomò"><i>Gomò</i><par n="Ayiti__np"/></e>
     <e lm="Salèm"><i>Salèm</i><par n="Ayiti__np"/></e>
     <e lm="Izrayèl"><i>Izrayèl</i><par n="Ayiti__np"/></e>
+    <e lm="Lezetazini" r="LR"><p><l>Lezetazini</l><r>Etazini</r></p><par n="Ayiti__np"/></e>
     <e lm="Etazini"><i>Etazini</i><par n="Ayiti__np"/></e>
     <e lm="Lejip"><i>Lejip</i><par n="Ayiti__np"/></e>
     <e lm="Bètleyèm"><i>Bètleyèm</i><par n="Ayiti__np"/></e>
@@ -1977,6 +1983,7 @@
 
     <e lm="Noe"><i>Noe</i><par n="Noe__np"/></e>
     <e lm="Pyè"><i>Pyè</i><par n="Noe__np"/></e>
+    <e lm="Pierre"><i>Pierre</i><par n="Noe__np"/></e>
     <e lm="Jan"><i>Jan</i><par n="Noe__np"/></e>
     <e lm="Bondye"><i>Bondye</i><par n="Noe__np"/></e>
     <e lm="Abram"><i>Abram</i><par n="Noe__np"/></e>
