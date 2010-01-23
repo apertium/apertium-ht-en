@@ -8,6 +8,7 @@
     <sdef n="vbmod"/>
     <sdef n="det"/>
     <sdef n="cnjcoo"/>
+    <sdef n="cnjsub"/>
     <sdef n="rel"/>
     <sdef n="an"/>
     <sdef n="cnjadv"/>
@@ -1216,7 +1217,7 @@
     <e><p><l>ou<s n="det"/></l><r>your<s n="det"/></r></p></e>
     <e r="LR"><p><l>w<s n="det"/></l><r>your<s n="det"/></r></p></e>
 
-    <e><p><l>si<s n="cnjadv"/></l><r>if<s n="cnjadv"/></r></p></e>
+    <e><p><l>si<s n="cnjadv"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>lè<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
 
     <e><p><l>vle<s n="vbmod"/></l><r>want<g><b/>to</g><s n="vbmod"/></r></p></e>
@@ -1236,6 +1237,7 @@
     <e><p><l>kreye<s n="vblex"/></l><r>create<s n="vblex"/></r></p></e>
     <e><p><l>manje<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>ale<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+    <e><p><l>vini<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
     <e><p><l>egziste<s n="vblex"/></l><r>exist<s n="vblex"/></r></p></e>
     <e><p><l>pale<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>parle<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
