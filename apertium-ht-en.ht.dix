@@ -364,6 +364,7 @@
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
     <e lm="endèks"><i>endèks</i><par n="liv__n"/></e>
+    <e lm="atik"><i>atik</i><par n="liv__n"/></e>
     <e lm="ansiklopedi"><i>ansiklopedi</i><par n="liv__n"/></e>
     <e lm="imaj"><i>imaj</i><par n="liv__n"/></e>
     <e lm="paj"><i>paj</i><par n="liv__n"/></e>
