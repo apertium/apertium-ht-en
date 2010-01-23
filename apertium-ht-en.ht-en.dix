@@ -1253,6 +1253,7 @@
 
     <e><p><l>si<s n="cnjadv"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>lè<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
+    <e><p><l>pouri<b/>ke<s n="cnjadv"/></l><r>provided<b/>that<s n="cnjadv"/></r></p></e>
 
     <e><p><l>vle<s n="vbmod"/></l><r>want<g><b/>to</g><s n="vbmod"/></r></p></e>
     <e><p><l>ka<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
@@ -1678,6 +1679,8 @@
     <e><p><l>okenn<b/>kote<s n="adv"/></l><r>nowhere<s n="adv"/></r></p></e>
     <e><p><l>tou<b/>patou<s n="adv"/></l><r>anywhere<s n="adv"/></r></p></e>
     <e><p><l>tou<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
+    <e><p><l>sètadi<s n="adv"/></l><r>that<b/>is<b/>to<b/>say<s n="adv"/></r></p></e>
+
     <e c="AutoCog"><p><l>dyagonalman<s n="adv"/></l><r>diagonally<s n="adv"/></r></p></e>
     <e c="AutoCog"><p><l>egalman<s n="adv"/></l><r>equally<s n="adv"/></r></p></e>
     <e c="AutoCog"><p><l>entegralman<s n="adv"/></l><r>integrally<s n="adv"/></r></p></e>

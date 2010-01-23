@@ -1781,6 +1781,7 @@
 
     <e lm="si"><i>si</i><par n="si__cnjadv"/></e>
     <e lm="lè"><i>lè</i><par n="si__cnjadv"/></e>
+    <e lm="pouri ke"><i>pouri<b/>ke</i><par n="si__cnjadv"/></e>
 
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
 
@@ -1879,6 +1880,7 @@
     <e lm="chak fwa"><i>chak<b/>fwa</i><par n="isit__adv"/></e>
     <e lm="chak jou"><i>chak<b/>jou</i><par n="isit__adv"/></e>
     <e lm="okenn kote"><i>okenn<b/>kote</i><par n="isit__adv"/></e>
+    <e lm="sètadi"><i>sètadi</i><par n="isit__adv"/></e>
     <e lm="tou patou"><i>tou<b/>patou</i><par n="isit__adv"/></e>
     <e lm="tou"><i>tou</i><par n="isit__adv"/></e>
     <e lm="espesyalman"><i>espesyalman</i><par n="isit__adv"/></e>
