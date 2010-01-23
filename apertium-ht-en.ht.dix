@@ -46,6 +46,7 @@
     <sdef n="guio"/>
     <sdef n="preadv"/>
     <sdef n="def"/>
+    <sdef n="qnt"/>
     <sdef n="past"/>
     <sdef n="pres"/>
   </sdefs>
@@ -222,6 +223,14 @@
         <p>
           <l></l>
           <r><s n="det"/><s n="ind"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="anpil__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="qnt"/><s n="sp"/></r>
         </p>
       </e>
     </pardef>
@@ -1924,6 +1933,7 @@
     <e lm="tout"><i>tout</i><par n="yon__det"/></e>
     <e lm="chak"><i>chak</i><par n="yon__det"/></e>
     <e lm="lòt"><i>lòt</i><par n="yon__det"/></e>
+    <e lm="anpil"><i>anpil</i><par n="anpil__det"/></e>
 
     <e lm="la"><i>la</i><par n="la__postdet"/></e>
     <e lm="a"><i>a</i><par n="la__postdet"/></e>
