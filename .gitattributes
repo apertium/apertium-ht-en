@@ -15,6 +15,7 @@
 /apertium-ht-en.post-en.dix -text
 /autogen.sh -text
 /configure.ac -text
+dev/calc-coverage.sh -text
 /ht-en.prob -text svneol=unset#unset
 /marker_words.ht -text
 /modes.xml -text
