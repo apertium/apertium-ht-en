@@ -397,6 +397,8 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="patnè"><i>patnè</i><par n="liv__n"/></e>
+    <e lm="systèm"><i>systèm</i><par n="liv__n"/></e>
     <e lm="endèks"><i>endèks</i><par n="liv__n"/></e>
     <e lm="atik"><i>atik</i><par n="liv__n"/></e>
     <e lm="ansiklopedi"><i>ansiklopedi</i><par n="liv__n"/></e>
@@ -412,6 +414,8 @@
     <e lm="istwa"><i>istwa</i><par n="liv__n"/></e>
     <e lm="sosyete"><i>sosyete</i><par n="liv__n"/></e>
     <e lm="edikasyon"><i>edikasyon</i><par n="liv__n"/></e>
+    <e lm="disparisyon"><i>disparisyon</i><par n="liv__n"/></e>
+    <e lm="proteksyon"><i>proteksyon</i><par n="liv__n"/></e>
     <e lm="literati"><i>literati</i><par n="liv__n"/></e>
     <e lm="ekonomi"><i>ekonomi</i><par n="liv__n"/></e>
     <e lm="biyografi"><i>biyografi</i><par n="liv__n"/></e>
@@ -574,6 +578,7 @@
     <e lm="kravat"><i>kravat</i><par n="liv__n"/></e>
     <e lm="chèz"><i>chèz</i><par n="liv__n"/></e>
     <e lm="fanmi"><i>fanmi</i><par n="liv__n"/></e>
+    <e lm="fanmiy" r="LR"><p><l>fanmiy</l><r>fanmi</r></p><par n="liv__n"/></e>
     <e lm="lajan"><i>lajan</i><par n="liv__n"/></e>
     <e lm="zanmi"><i>zanmi</i><par n="liv__n"/></e>
     <e lm="vil"><i>vil</i><par n="liv__n"/></e>

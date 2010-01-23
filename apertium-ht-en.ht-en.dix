@@ -100,6 +100,8 @@
     <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>patnè<s n="n"/></l><r>partner<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>systèm<s n="n"/></l><r>system<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>chyen<s n="n"/></l><r>dog<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>endèks<s n="n"/></l><r>index<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ansiklopedi<s n="n"/></l><r>encyclopaedia<s n="n"/></r></p><par n="ND"/></e>
@@ -116,6 +118,8 @@
     <e><p><l>istwa<s n="n"/></l><r>history<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>sosyete<s n="n"/></l><r>society<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>edikasyon<s n="n"/></l><r>education<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>disparisyon<s n="n"/></l><r>disappearance<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>proteksyon<s n="n"/></l><r>protection<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>literati<s n="n"/></l><r>literature<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ekonomi<s n="n"/></l><r>economics<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>biyografi<s n="n"/></l><r>biography<s n="n"/></r></p><par n="ND"/></e>
