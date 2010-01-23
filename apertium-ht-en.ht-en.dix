@@ -102,6 +102,7 @@
     <e><p><l>tout<s n="det"/><s n="ind"/></l><r>every<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>chak<s n="det"/><s n="ind"/></l><r>each<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>lòt<s n="det"/><s n="ind"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
+    <e><p><l>menm<s n="det"/><s n="ind"/></l><r>the<b/>same<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>anpil<s n="det"/><s n="qnt"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>kont<s n="det"/><s n="qnt"/></l><r>enough<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>sa<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
@@ -352,6 +353,7 @@
     <e r="RL"><p><l>vil<s n="n"/></l><r>town<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="n"/></l><r>american<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
+    <e><p><l>menm<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
     <e><p><l>umanitè<s n="adj"/></l><r>humanitarian<s n="adj"/></r></p></e>
     <e><p><l>enpotan<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
     <e><p><l>sekirite<s n="adj"/></l><r>security<s n="adj"/></r></p></e>
@@ -1335,6 +1337,7 @@
     <e><p><l>vle<s n="vbmod"/></l><r>want<g><b/>to</g><s n="vbmod"/></r></p></e>
     <e><p><l>ka<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e r="LR"><p><l>kapab<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
+    <e r="LR"><p><l>kap<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>dwe<s n="vaux"/></l><r>must<s n="vaux"/></r></p></e>
     <e><p><l>gen<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
     <e r="LR"><p><l>genyen<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>

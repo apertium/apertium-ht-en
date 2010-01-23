@@ -659,6 +659,7 @@
     <e lm="vil"><i>vil</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="lib__adj"/></e>
+    <e lm="menm"><i>menm</i><par n="lib__adj"/></e>
     <e lm="umanitè"><i>umanitè</i><par n="lib__adj"/></e>
     <e lm="enpotan"><i>enpotan</i><par n="lib__adj"/></e>
     <e lm="sekirite"><i>sekirite</i><par n="lib__adj"/></e>
@@ -1897,6 +1898,7 @@
     <e lm="genyen"><i>genyen</i><par n="gen__vbhaver"/></e>
     <e lm="ka"><i>ka</i><par n="ka__vaux"/></e>
     <e lm="kapab"><i>kapab</i><par n="ka__vaux"/></e>
+    <e lm="kap"><i>kap</i><par n="ka__vaux"/></e>
     <e lm="dwe"><i>dwe</i><par n="ka__vaux"/></e>
 
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
@@ -1973,6 +1975,7 @@
     <e lm="t' ap" r="LR"><p><l>t'<b/>ap</l><r>tap</r></p><par n="te__part"/></e>
     <e lm="ta"><i>ta</i><par n="te__part"/></e>
     <e lm="pral"><i>pral</i><par n="te__part"/></e>
+    <e lm="pwal" r="LR"><p><l>pwal</l><r>pral</r></p><par n="te__part"/></e>
     <e lm="yo"><i>yo</i><par n="te__part"/></e>
     <e lm="fèk"><i>fèk</i><par n="te__part"/></e>
     <e lm="sòt"><i>sòt</i><par n="te__part"/></e>
@@ -2069,6 +2072,7 @@
     <e lm="sé"><i>sé</i><par n="sé__det"/></e>
     <e lm="tout"><i>tout</i><par n="yon__det"/></e>
     <e lm="chak"><i>chak</i><par n="yon__det"/></e>
+    <e lm="menm"><i>menm</i><par n="yon__det"/></e>
     <e lm="lòt"><i>lòt</i><par n="yon__det"/></e>
     <e lm="anpil"><i>anpil</i><par n="anpil__det"/></e>
     <e lm="kont"><i>kont</i><par n="anpil__det"/></e>
