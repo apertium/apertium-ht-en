@@ -415,7 +415,9 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="komunike"><i>komunike</i><par n="liv__n"/></e>
     <e lm="komunikasyon"><i>komunikasyon</i><par n="liv__n"/></e>
+    <e lm="ko-òdinasyon"><i>ko-òdinasyon</i><par n="liv__n"/></e>
     <e lm="konpreyensyon"><i>konpreyensyon</i><par n="liv__n"/></e>
     <e lm="sòlda"><i>sòlda</i><par n="liv__n"/></e>
     <e lm="bezwen"><i>bezwen</i><par n="liv__n"/></e>
@@ -438,6 +440,7 @@
     <e lm="lopital"><i>lopital</i><par n="liv__n"/></e>
     <e lm="patnè"><i>patnè</i><par n="liv__n"/></e>
     <e lm="systèm"><i>systèm</i><par n="liv__n"/></e>
+    <e lm="sistèm" r="LR"><p><l>sistèm</l><r>systèm</r></p><par n="liv__n"/></e>
     <e lm="endèks"><i>endèks</i><par n="liv__n"/></e>
     <e lm="atik"><i>atik</i><par n="liv__n"/></e>
     <e lm="ansiklopedi"><i>ansiklopedi</i><par n="liv__n"/></e>
@@ -491,6 +494,7 @@
     <e lm="dokte" r="LR"><p><l>dokte</l><r>doktè</r></p><par n="liv__n"/></e>
     <e lm="frè"><i>frè</i><par n="liv__n"/></e>
     <e lm="lendi"><i>lendi</i><par n="liv__n"/></e>
+    <e lm="lundi" r="LR"><p><l>lundi</l><r>lendi</r></p><par n="liv__n"/></e>
     <e lm="madi"><i>madi</i><par n="liv__n"/></e>
     <e lm="mekredi"><i>mekredi</i><par n="liv__n"/></e>
     <e lm="mèkredi" r="LR"><p><l>mèkredi</l><r>mekredi</r></p><par n="liv__n"/></e>
@@ -626,6 +630,8 @@
     <e lm="vil"><i>vil</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="lib__adj"/></e>
+    <e lm="disponib"><i>disponib</i><par n="lib__adj"/></e>
+    <e lm="sivil"><i>sivil</i><par n="lib__adj"/></e>
     <e lm="pwal"><i>pwal</i><par n="liv__n"/></e>
     <e lm="kont"><i>kont</i><par n="liv__n"/></e>
     <e lm="sèks"><i>sèks</i><par n="liv__n"/></e>
@@ -1868,6 +1874,7 @@
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
     <e lm="eksplike"><i>eksplike</i><par n="chanje__vblex"/></e>
     <e lm="kowòdone"><i>kowòdone</i><par n="chanje__vblex"/></e>
+    <e lm="ko-òdone" r="LR"><p><l>ko-òdone</l><r>kowòdone</r></p><par n="chanje__vblex"/></e>
     <e lm="pwoteje"><i>pwoteje</i><par n="chanje__vblex"/></e>
     <e lm="etabli"><i>etabli</i><par n="chanje__vblex"/></e>
     <e lm="kòmanse"><i>kòmanse</i><par n="chanje__vblex"/></e>

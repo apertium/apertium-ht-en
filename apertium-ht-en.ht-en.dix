@@ -110,7 +110,9 @@
     <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>komunike<s n="n"/></l><r>communiqué<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>konpreyensyon<s n="n"/></l><r>comprehension<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>ko-òdinasyon<s n="n"/></l><r>co-ordination<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>komunikasyon<s n="n"/></l><r>communication<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>sòlda<s n="n"/></l><r>soldier<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>bezwen<s n="n"/></l><r>need<s n="n"/></r></p><par n="ND"/></e>
@@ -343,6 +345,8 @@
     <e r="RL"><p><l>vil<s n="n"/></l><r>town<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="n"/></l><r>american<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
+    <e><p><l>disponib<s n="adj"/></l><r>available<s n="adj"/></r></p></e>
+    <e><p><l>sivil<s n="adj"/></l><r>civil<s n="adj"/></r></p></e>
     <e><p><l>medikal<s n="adj"/></l><r>medical<s n="adj"/></r></p></e>
     <e><p><l>diplomatik<s n="adj"/></l><r>diplomatic<s n="adj"/></r></p></e>
     <e><p><l>rejyonal<s n="adj"/></l><r>regional<s n="adj"/></r></p></e>
