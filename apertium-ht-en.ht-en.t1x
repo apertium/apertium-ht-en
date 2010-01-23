@@ -658,6 +658,39 @@
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: PA TAP VERB">
+      <pattern>
+        <pattern-item n="pa"/>
+        <pattern-item n="tap_part"/>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="vfin" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="past"/></tag>
+            </tags>
+            <lu>
+              <lit v="be"/>
+              <lit-tag v="vbser.past"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="not"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_verb"/>
+              <lit-tag v="ger"/>
+              <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: AP + VERB">
       <pattern>
@@ -686,6 +719,39 @@
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: PA AP VERB">
+      <pattern>
+        <pattern-item n="pa"/>
+        <pattern-item n="ap_part"/>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="vfin" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="past"/></tag>
+            </tags>
+            <lu>
+              <lit v="be"/>
+              <lit-tag v="vbser.pres"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="not"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_verb"/>
+              <lit-tag v="ger"/>
+              <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: A + VERB">
       <pattern>
@@ -709,6 +775,39 @@
               <clip pos="2" side="tl" part="a_verb"/>
               <lit-tag v="ger"/>
               <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: PA A + VERB">
+      <pattern>
+        <pattern-item n="pa"/>
+        <pattern-item n="a_part"/>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="vfin" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="past"/></tag>
+            </tags>
+            <lu>
+              <lit v="will"/>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="not"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_verb"/>
+              <lit-tag v="ger"/>
+              <clip pos="3" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -752,6 +851,49 @@
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: PA PRAL + VERB">
+      <pattern>
+        <pattern-item n="pa"/>
+        <pattern-item n="pral_part"/>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="vfin" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="past"/></tag>
+            </tags>
+            <lu>
+              <lit v="be"/>
+              <lit-tag v="vbser.pres"/>
+            </lu>
+            <b/>
+            <lu>
+              <lit v="not"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="go"/>
+              <lit-tag v="vblex.ger"/>
+            </lu>
+            <b/>  
+            <lu>
+              <lit v="to"/>
+              <lit-tag v="pr"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+              <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
     <rule comment="REGLA: TA + VERB">
       <pattern>
@@ -775,6 +917,39 @@
               <clip pos="2" side="tl" part="a_verb"/>
               <lit-tag v="inf"/>
               <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: PA TA + VERB">
+      <pattern>
+        <pattern-item n="pa"/>
+        <pattern-item n="ta_part"/>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="vfin" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="past"/></tag>
+            </tags>
+            <lu>
+              <lit v="would"/>
+              <lit-tag v="vaux.inf"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="not"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+              <clip pos="3" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
