@@ -541,9 +541,9 @@
     </rule>
     <rule comment="REGLA: ADV ADJ NOM">
       <pattern>
-        <pattern-item n="nom"/>
         <pattern-item n="adv"/>
         <pattern-item n="adj"/>
+        <pattern-item n="nom"/>
       </pattern>
       <action>
 	<call-macro n="firstWord">
