@@ -225,7 +225,7 @@
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="1" side="sl" part="lem"/> 
-		  <lit v="molt més"/> <!-- FIXME -->
+		  <lit v="bokou pli"/>
 		</equal>
 		<equal>
 		  <clip pos="2" side="tl" part="a_adj"/> 
@@ -341,7 +341,7 @@
 	      <and>
 		<equal caseless="yes">
 		  <clip pos="2" side="sl" part="lem"/> 
-		  <lit v="molt més"/> <!-- FIXME -->
+		  <lit v="bokou pli"/>
 		</equal>
 		<equal>
 		  <clip pos="3" side="tl" part="a_adj"/> 
