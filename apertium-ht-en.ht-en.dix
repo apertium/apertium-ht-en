@@ -1215,6 +1215,7 @@
     <e r="RL"><p><l>medikaman<s n="n"/></l><r>medication<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>akizasyon<s n="n"/></l><r>accusation<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>jijman<s n="n"/></l><r>judgement<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>mwa<s n="n"/></l><r>month<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Kiba<s n="np"/><s n="top"/></l><r>Cuba<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
@@ -1375,6 +1376,7 @@
     <e><p><l>konnen<s n="vblex"/></l><r>know<s n="vblex"/></r></p></e>
     <e><p><l>negosye<s n="vblex"/></l><r>negotiate<s n="vblex"/></r></p></e>
     <e><p><l>garanti<s n="vblex"/></l><r>guarantee<s n="vblex"/></r></p></e>
+    <e><p><l>jwenn<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>

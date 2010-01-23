@@ -475,8 +475,12 @@
     <e lm="simèn"><i>simèn</i><par n="liv__n"/></e>
     <e lm="nonm"><i>nonm</i><par n="liv__n"/></e>
     <e lm="fanm"><i>fanm</i><par n="liv__n"/></e>
+    <e lm="mwa"><i>mwa</i><par n="liv__n"/></e>
     <e lm="an"><i>an</i><par n="liv__n"/></e>
+    <e lm="ane" r="LR"><p><l>ane</l><r>an</r></p><par n="liv__n"/></e>
+    <e lm="lane" r="LR"><p><l>lane</l><r>an</r></p><par n="liv__n"/></e>
     <e lm="chyen"><i>chyen</i><par n="liv__n"/></e>
+    <e lm="chien" r="LR"><p><l>chien</l><r>chyen</r></p><par n="liv__n"/></e>
     <e lm="chat"><i>chat</i><par n="liv__n"/></e>
     <e lm="èd"><i>èd</i><par n="liv__n"/></e>
     <e lm="kay"><i>kay</i><par n="liv__n"/></e>
@@ -1919,6 +1923,7 @@
     <e lm="konnen"><i>konnen</i><par n="chanje__vblex"/></e>
     <e lm="negosye"><i>negosye</i><par n="chanje__vblex"/></e>
     <e lm="garanti"><i>garanti</i><par n="chanje__vblex"/></e>
+    <e lm="jwenn"><i>jwenn</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
