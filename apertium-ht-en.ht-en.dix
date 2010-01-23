@@ -83,6 +83,7 @@
     <e r="LR"><p><l>epi<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e><p><l>epi<b/>ak<s n="cnjcoo"/></l><r>as<b/>well<b/>as<s n="cnjcoo"/></r></p></e>
     <e><p><l>oswa<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
+    <e><p><l>&amp;<s n="cnjcoo"/></l><r>&amp;<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>yon<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>an<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
@@ -1136,6 +1137,7 @@
     <e><p><l>medikaman<s n="n"/></l><r>medicine<s n="n"/></r></p><par n="ND"/></e>
     <e r="RL"><p><l>medikaman<s n="n"/></l><r>medication<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>akizasyon<s n="n"/></l><r>accusation<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>jijman<s n="n"/></l><r>judgement<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>

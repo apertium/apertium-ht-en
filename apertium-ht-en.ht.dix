@@ -1573,6 +1573,7 @@
     <e lm="vyolans"><i>vyolans</i><par n="liv__n"/></e>
     <e lm="womans"><i>womans</i><par n="liv__n"/></e>
     <e lm="akizasyon"><i>akizasyon</i><par n="liv__n"/></e>
+    <e lm="jijman"><i>jijman</i><par n="liv__n"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
     <e lm="alèjik"><i>alèjik</i><par n="lib__adj"/></e>
@@ -1951,6 +1952,7 @@
     <e lm="epi"><i>epi</i><par n="e__cnjcoo"/></e>
     <e lm="epi ak"><i>epi<b/>ak</i><par n="e__cnjcoo"/></e>
     <e lm="oswa"><i>oswa</i><par n="e__cnjcoo"/></e>
+    <e lm="&amp;"><i>&amp;</i><par n="e__cnjcoo"/></e>
 
     <e lm="an"><i>an</i><par n="an__pr"/></e>
     <e lm="asou"><i>asou</i><par n="an__pr"/></e>
