@@ -55,6 +55,27 @@
     <sdef n="pres"/>
   </sdefs>
   <pardefs>
+    <pardef n="S__yo">
+      <e>
+        <p>
+          <l>-yo</l>
+          <r><j/>yo<s n="postdet"/><s n="def"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>'yo</l>
+          <r><j/>yo<s n="postdet"/><s n="def"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l><b/>yo</l>
+          <r><j/>yo<s n="postdet"/><s n="def"/><s n="pl"/></r>
+        </p>
+      </e>
+
+    </pardef>   
     <pardef n="e__cnjcoo">
       <e>
         <p>
@@ -79,6 +100,13 @@
           <r><s n="n"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="n"/></r>
+        </p>
+        <par n="S__yo"/>
+      </e>
     </pardef>
     <pardef n="lib__adj">
       <e>
@@ -86,6 +114,13 @@
           <l></l>
           <r><s n="adj"/></r>
         </p>
+      </e>
+      <e>
+        <p>
+          <l></l>
+          <r><s n="adj"/></r>
+        </p>
+        <par n="S__yo"/> 
       </e>
     </pardef>
     <pardef n="en__num">
@@ -199,9 +234,10 @@
       </e>
       <e>
         <p>
-          <l>-yo</l>
-          <r><s n="np"/><s n="top"/><j/>yo<s n="postdet"/><s n="def"/><s n="pl"/></r>
+          <l></l>
+          <r><s n="np"/><s n="top"/></r>
         </p>
+        <par n="S__yo"/>
       </e>
     </pardef>
     <pardef n="Obama__np">
