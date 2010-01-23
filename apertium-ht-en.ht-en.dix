@@ -1265,6 +1265,9 @@
     <e><p><l>Jerizalèm<s n="np"/><s n="top"/></l><r>Jerusalem<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
 
     <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
+    <e><p><l>Robert<s n="np"/></l><r>Robert<s n="np"/></r></p></e>
+    <e><p><l>Mark<s n="np"/></l><r>Mark<s n="np"/></r></p></e>
+    <e><p><l>Barack<s n="np"/></l><r>Barack<s n="np"/></r></p></e>
     <e><p><l>Bondye<s n="np"/></l><r>Yahweh<s n="np"/></r></p></e>
     <e><p><l>Abram<s n="np"/></l><r>Abram<s n="np"/></r></p></e>
     <e><p><l>Echkòl<s n="np"/></l><r>Eshcol<s n="np"/></r></p></e>
@@ -1282,6 +1285,8 @@
     <e><p><l>Mari<s n="np"/></l><r>Mari<s n="np"/></r></p></e>
     <e><p><l>Pwa<s n="np"/></l><r>Puah<s n="np"/></r></p></e>
     <e><p><l>Obama<s n="np"/><s n="cog"/><s n="mf"/></l><r>Obama<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Marino<s n="np"/><s n="cog"/><s n="mf"/></l><r>Marino<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Gates<s n="np"/><s n="cog"/><s n="mf"/></l><r>Gates<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Ki-moon<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ki-moon<s n="np"/><s n="cog"/></r></p></e>
 
     <e><p><l>Tant<b/>Randevou<s n="np"/></l><r>Tent<b/>of<b/>Meeting<s n="np"/></r></p></e>

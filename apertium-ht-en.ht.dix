@@ -2119,6 +2119,8 @@
     <e lm="Jerizalèm"><i>Jerizalèm</i><par n="Ayiti__np"/></e>
 
     <e lm="Noe"><i>Noe</i><par n="Noe__np"/></e>
+    <e lm="Mark"><i>Mark</i><par n="Noe__np"/></e>
+    <e lm="Robert"><i>Robert</i><par n="Noe__np"/></e>
     <e lm="Pyè"><i>Pyè</i><par n="Noe__np"/></e>
     <e lm="Pierre"><i>Pierre</i><par n="Noe__np"/></e>
     <e lm="Jan"><i>Jan</i><par n="Noe__np"/></e>
@@ -2161,9 +2163,12 @@
     <e lm="Jetwo"><i>Jetwo</i><par n="Noe__np"/></e>
     <e lm="Abèl"><i>Abèl</i><par n="Noe__np"/></e>
     <e lm="Kayen"><i>Kayen</i><par n="Noe__np"/></e>
+    <e lm="Barack"><i>Kayen</i><par n="Noe__np"/></e>
     <e lm="Enòk"><i>Enòk</i><par n="Noe__np"/></e>
 
     <e lm="Obama"><i>Obama</i><par n="Obama__np"/></e>
+    <e lm="Gates"><i>Gates</i><par n="Obama__np"/></e>
+    <e lm="Marino"><i>Marino</i><par n="Obama__np"/></e>
     <e lm="Ki-moon"><i>Ki-moon</i><par n="Obama__np"/></e>
 
     <e lm="Nasyon Zuni"><i>Nasyon<b/>Zuni</i><par n="Linux__np"/></e>
