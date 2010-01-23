@@ -406,6 +406,9 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="omaj"><i>omaj</i><par n="liv__n"/></e>
+    <e lm="avyon"><i>avyon</i><par n="liv__n"/></e>
+    <e lm="konsèy"><i>konsèy</i><par n="liv__n"/></e>
     <e lm="viktim"><i>viktim</i><par n="liv__n"/></e>
     <e lm="bato"><i>bato</i><par n="liv__n"/></e>
     <e lm="pwovizyon"><i>pwovizyon</i><par n="liv__n"/></e>
@@ -2061,6 +2064,7 @@
     <e lm="Enòk"><i>Enòk</i><par n="Noe__np"/></e>
 
     <e lm="Nasyon Zuni"><i>Nasyon<b/>Zuni</i><par n="Linux__np"/></e>
+    <e lm="Nasyonzuni" r="LR"><p><l>Nasyonzuni</l><r>Nasyon<b/>Zuni</r></p><par n="Linux__np"/></e>
     <e lm="Tant Randevou"><i>Tant<b/>Randevou</i><par n="Linux__np"/></e>
     <e lm="Bwat Kontra"><i>Bwat<b/>Kontra</i><par n="Linux__np"/></e>
     <e lm="Walmart"><i>Walmart</i><par n="Linux__np"/></e>
