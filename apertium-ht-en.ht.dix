@@ -434,6 +434,13 @@
     <e lm="èd"><i>èd</i><par n="liv__n"/></e>
     <e lm="kay"><i>kay</i><par n="liv__n"/></e>
     <e lm="manje"><i>manje</i><par n="liv__n"/></e>
+    <e lm="lanp"><i>lanp</i><par n="liv__n"/></e>
+    <e lm="bank"><i>bank</i><par n="liv__n"/></e>
+    <e lm="mi"><i>mi</i><par n="liv__n"/></e>
+    <e lm="chien"><i>chien</i><par n="liv__n"/></e>
+    <e lm="pon"><i>pon</i><par n="liv__n"/></e>
+    <e lm="telefòn"><i>telefòn</i><par n="liv__n"/></e>
+    <e lm="madanm"><i>madanm</i><par n="liv__n"/></e>
     <e lm="kontribitè"><i>kontribitè</i><par n="liv__n"/></e>
     <e lm="ide"><i>ide</i><par n="liv__n"/></e>
     <e lm="doktè"><i>doktè</i><par n="liv__n"/></e>
@@ -1929,6 +1936,8 @@
     <e lm="Jerizalèm"><i>Jerizalèm</i><par n="Ayiti__np"/></e>
 
     <e lm="Noe"><i>Noe</i><par n="Noe__np"/></e>
+    <e lm="Pyè"><i>Pyè</i><par n="Noe__np"/></e>
+    <e lm="Jan"><i>Jan</i><par n="Noe__np"/></e>
     <e lm="Bondye"><i>Bondye</i><par n="Noe__np"/></e>
     <e lm="Abram"><i>Abram</i><par n="Noe__np"/></e>
     <e lm="Echkòl"><i>Echkòl</i><par n="Noe__np"/></e>
@@ -1939,6 +1948,7 @@
     <e lm="Adan"><i>Adan</i><par n="Noe__np"/></e>
     <e lm="Chifra"><i>Chifra</i><par n="Ev__np"/></e>
     <e lm="Woz"><i>Woz</i><par n="Ev__np"/></e>
+    <e lm="Mari"><i>Mari</i><par n="Ev__np"/></e>
     <e lm="Pwa"><i>Pwa</i><par n="Ev__np"/></e>
     <e lm="Ev"><i>Ev</i><par n="Ev__np"/></e>
     <e lm="Woubenn"><i>Woubenn</i><par n="Noe__np"/></e>
