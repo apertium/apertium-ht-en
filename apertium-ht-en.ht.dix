@@ -1776,6 +1776,7 @@
     <e lm="kreye"><i>kreye</i><par n="chanje__vblex"/></e>
     <e lm="manje"><i>manje</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
+    <e lm="etabli"><i>etabli</i><par n="chanje__vblex"/></e>
     <e lm="kòmanse"><i>kòmanse</i><par n="chanje__vblex"/></e>
     <e lm="fonde"><i>fonde</i><par n="chanje__vblex"/></e>
     <e lm="òganize"><i>òganize</i><par n="chanje__vblex"/></e>
@@ -2002,6 +2003,7 @@
     <e lm="anpami"><i>anpami</i><par n="an__pr"/></e>
     <e lm="bò"><i>bò</i><par n="an__pr"/></e>
     <e lm="èvèk"><i>èvèk</i><par n="an__pr"/></e>
+    <e lm="avek" r="LR"><p><l>avek</l><r>avèk</r></p><par n="an__pr"/></e>
     <e lm="avèk"><i>avèk</i><par n="an__pr"/></e>
     <e lm="ak"><i>ak</i><par n="an__pr"/></e>
     <e lm="pandan"><i>pandan</i><par n="an__pr"/></e>
