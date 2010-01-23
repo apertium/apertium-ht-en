@@ -406,6 +406,8 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="bato"><i>bato</i><par n="liv__n"/></e>
+    <e lm="pwovizyon"><i>pwovizyon</i><par n="liv__n"/></e>
     <e lm="elikoptè"><i>elikoptè</i><par n="liv__n"/></e>
     <e lm="moman"><i>moman</i><par n="liv__n"/></e>
     <e lm="misyon"><i>misyon</i><par n="liv__n"/></e>
@@ -471,6 +473,7 @@
     <e lm="lendi"><i>lendi</i><par n="liv__n"/></e>
     <e lm="madi"><i>madi</i><par n="liv__n"/></e>
     <e lm="mekredi"><i>mekredi</i><par n="liv__n"/></e>
+    <e lm="mèkredi" r="LR"><p><l>mèkredi</l><r>mekredi</r></p><par n="liv__n"/></e>
     <e lm="jedi"><i>jedi</i><par n="liv__n"/></e>
     <e lm="vandredi"><i>vandredi</i><par n="liv__n"/></e>
     <e lm="samdi"><i>samdi</i><par n="liv__n"/></e>
@@ -1122,6 +1125,7 @@
     <e lm="telekominikasyon"><i>telekominikasyon</i><par n="liv__n"/></e>
     <e lm="televisyon"><i>televisyon</i><par n="liv__n"/></e>
 
+    <e lm="tranblemann'tè" r="LR"><p><l>tranblemann'tè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
     <e lm="tranbleman'd tè" r="LR"><p><l>tranbleman'd<b/>tè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
     <e lm="tranbleman de te" r="LR"><p><l>tranbleman<b/>de<b/>te</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
     <e lm="tranbleman de te" r="LR"><p><l>tranbleman<b/>de<b/>tè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
@@ -1630,6 +1634,7 @@
     <e lm="akizasyon"><i>akizasyon</i><par n="liv__n"/></e>
     <e lm="jijman"><i>jijman</i><par n="liv__n"/></e>
     <e lm="ameriken"><i>ameriken</i><par n="liv__n"/></e>
+    <e lm="amerikèn" r="LR"><p><l>amerikèn</l><r>ameriken</r></p><par n="liv__n"/></e>
     <e lm="sòs"><i>sòs</i><par n="liv__n"/></e>
     <e lm="pwason"><i>pwason</i><par n="liv__n"/></e>
     <e lm="jeneral"><i>jeneral</i><par n="liv__n"/></e>
@@ -1831,6 +1836,7 @@
     <e lm="sèvi"><i>sèvi</i><par n="chanje__vblex"/></e>
     <e lm="soufri"><i>soufri</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
+    <e lm="pwoteje"><i>pwoteje</i><par n="chanje__vblex"/></e>
     <e lm="etabli"><i>etabli</i><par n="chanje__vblex"/></e>
     <e lm="kòmanse"><i>kòmanse</i><par n="chanje__vblex"/></e>
     <e lm="fonde"><i>fonde</i><par n="chanje__vblex"/></e>
@@ -1998,6 +2004,7 @@
     <e lm="Gomò"><i>Gomò</i><par n="Ayiti__np"/></e>
     <e lm="Salèm"><i>Salèm</i><par n="Ayiti__np"/></e>
     <e lm="Izrayèl"><i>Izrayèl</i><par n="Ayiti__np"/></e>
+    <e lm="Lèzetazini" r="LR"><p><l>Lèzetazini</l><r>Etazini</r></p><par n="Ayiti__np"/></e>
     <e lm="Lezetazini" r="LR"><p><l>Lezetazini</l><r>Etazini</r></p><par n="Ayiti__np"/></e>
     <e lm="Etazini"><i>Etazini</i><par n="Ayiti__np"/></e>
     <e lm="Lejip"><i>Lejip</i><par n="Ayiti__np"/></e>
@@ -2076,6 +2083,8 @@
     <e lm="ant"><i>ant</i><par n="an__pr"/></e>
     <e lm="anpami"><i>anpami</i><par n="an__pr"/></e>
     <e lm="bò"><i>bò</i><par n="an__pr"/></e>
+    <e lm="apre"><i>apre</i><par n="an__pr"/></e>
+    <e lm="aprè" r="LR"><p><l>aprè</l><r>apre</r></p><par n="an__pr"/></e>
     <e lm="èvèk"><i>èvèk</i><par n="an__pr"/></e>
     <e lm="avek" r="LR"><p><l>avek</l><r>avèk</r></p><par n="an__pr"/></e>
     <e lm="avèk"><i>avèk</i><par n="an__pr"/></e>
