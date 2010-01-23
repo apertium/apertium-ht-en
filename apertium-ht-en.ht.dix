@@ -1769,6 +1769,8 @@
     <e lm="ta"><i>ta</i><par n="te__part"/></e>
     <e lm="pral"><i>pral</i><par n="te__part"/></e>
     <e lm="yo"><i>yo</i><par n="te__part"/></e>
+    <e lm="fèk"><i>fèk</i><par n="te__part"/></e>
+    <e lm="sòt"><i>sòt</i><par n="te__part"/></e>
 
     <e lm="souple"><i>souple</i><par n="souple__ij"/></e>
     <e lm="dakò"><i>dakò</i><par n="souple__ij"/></e>
@@ -1830,6 +1832,7 @@
     <e lm="totalman"><i>totalman</i><par n="isit__adv"/></e>
     <e lm="vèbalman"><i>vèbalman</i><par n="isit__adv"/></e>
     <e lm="vètikalman"><i>vètikalman</i><par n="isit__adv"/></e>
+    <e lm="kounye a"><i>kounye<b/>a</i><par n="isit__adv"/></e>
 
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
     <e lm="dezyèm"><i>dezyèm</i><par n="premye__det"/></e>
