@@ -12,6 +12,7 @@
     <sdef n="mf"/>
     <sdef n="rel"/>
     <sdef n="an"/>
+    <sdef n="cog"/>
     <sdef n="nn"/>
     <sdef n="cnjadv"/>
     <sdef n="vbhaver"/>
@@ -110,6 +111,7 @@
     <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>reyinyon<s n="n"/></l><r>meeting<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>vizit<s n="n"/></l><r>vizit<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>komunike<s n="n"/></l><r>communiqué<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>konpreyensyon<s n="n"/></l><r>comprehension<s n="n"/></r></p><par n="ND"/></e>
@@ -346,6 +348,7 @@
     <e r="RL"><p><l>vil<s n="n"/></l><r>town<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="n"/></l><r>american<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
+    <e><p><l>teknik<s n="adj"/></l><r>technical<s n="adj"/></r></p></e>
     <e><p><l>disponib<s n="adj"/></l><r>available<s n="adj"/></r></p></e>
     <e><p><l>sivil<s n="adj"/></l><r>civil<s n="adj"/></r></p></e>
     <e><p><l>medikal<s n="adj"/></l><r>medical<s n="adj"/></r></p></e>
@@ -1265,6 +1268,9 @@
     <e><p><l>Woz<s n="np"/></l><r>Woz<s n="np"/></r></p></e>
     <e><p><l>Mari<s n="np"/></l><r>Mari<s n="np"/></r></p></e>
     <e><p><l>Pwa<s n="np"/></l><r>Puah<s n="np"/></r></p></e>
+    <e><p><l>Obama<s n="np"/><s n="cog"/><s n="mf"/></l><r>Obama<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Ki-moon<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ki-moon<s n="np"/><s n="cog"/></r></p></e>
+
     <e><p><l>Tant<b/>Randevou<s n="np"/></l><r>Tent<b/>of<b/>Meeting<s n="np"/></r></p></e>
     <e><p><l>Bwat<b/>Kontra<s n="np"/></l><r>Tabernacle<b/>of<b/>the<b/>Testimony<s n="np"/></r></p></e>
     <e><p><l>Walmart<s n="np"/></l><r>Walmart<s n="np"/></r></p></e>
@@ -1740,6 +1746,7 @@
     <e><p><l>trè<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
     <e><p><l>isit<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>prese-prese<s n="adv"/></l><r>quickly<s n="adv"/></r></p></e>
     <e><p><l>egzakteman<s n="adv"/></l><r>exactly<s n="adv"/></r></p></e>
     <e><p><l>direkteman<s n="adv"/></l><r>directly<s n="adv"/></r></p></e>
     <e><p><l>nan<b/>apremidi<s n="adv"/></l><r>in<b/>the<b/>afternoon<s n="adv"/></r></p></e>

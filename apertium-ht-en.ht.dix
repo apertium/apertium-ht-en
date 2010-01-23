@@ -9,6 +9,7 @@
     <sdef n="vaux"/>
     <sdef n="n"/>
     <sdef n="pr"/>
+    <sdef n="cog"/>
     <sdef n="prn"/>
     <sdef n="p1"/>
     <sdef n="p2"/>
@@ -192,6 +193,14 @@
         <p>
           <l></l>
           <r><s n="np"/><s n="top"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="Obama__np">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="np"/><s n="cog"/><s n="mf"/><s n="sg"/></r>
         </p>
       </e>
     </pardef>
@@ -415,6 +424,7 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="reyinyon"><i>reyinyon</i><par n="liv__n"/></e>
     <e lm="vizit"><i>vizit</i><par n="liv__n"/></e>
     <e lm="komunike"><i>komunike</i><par n="liv__n"/></e>
     <e lm="komunikasyon"><i>komunikasyon</i><par n="liv__n"/></e>
@@ -638,6 +648,7 @@
     <e lm="militè"><i>militè</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="lib__adj"/></e>
     <e lm="disponib"><i>disponib</i><par n="lib__adj"/></e>
+    <e lm="teknik"><i>teknik</i><par n="lib__adj"/></e>
     <e lm="sivil"><i>sivil</i><par n="lib__adj"/></e>
     <e lm="pwal"><i>pwal</i><par n="liv__n"/></e>
     <e lm="kont"><i>kont</i><par n="liv__n"/></e>
@@ -1967,6 +1978,7 @@
     <e lm="pa"><i>pa</i><par n="isit__adv"/></e>
     <e lm="kont"><i>kont</i><par n="isit__adv"/></e>
     <e lm="egzakteman"><i>egzakteman</i><par n="isit__adv"/></e>
+    <e lm="prese-prese"><i>prese-prese</i><par n="isit__adv"/></e>
     <e lm="direkteman"><i>direkteman</i><par n="isit__adv"/></e>
     <e lm="egzatteman" r="LR"><p><l>egzatteman</l><r>egzakteman</r></p><par n="isit__adv"/></e>
     <e lm="lonton"><i>lonton</i><par n="isit__adv"/></e>
@@ -2121,6 +2133,9 @@
     <e lm="Kayen"><i>Kayen</i><par n="Noe__np"/></e>
     <e lm="Enòk"><i>Enòk</i><par n="Noe__np"/></e>
 
+    <e lm="Obama"><i>Obama</i><par n="Obama__np"/></e>
+    <e lm="Ki-moon"><i>Ki-moon</i><par n="Obama__np"/></e>
+
     <e lm="Nasyon Zuni"><i>Nasyon<b/>Zuni</i><par n="Linux__np"/></e>
     <e lm="Nasyonzuni" r="LR"><p><l>Nasyonzuni</l><r>Nasyon<b/>Zuni</r></p><par n="Linux__np"/></e>
     <e lm="Tant Randevou"><i>Tant<b/>Randevou</i><par n="Linux__np"/></e>
@@ -2201,6 +2216,7 @@
   <section id="abbreviations" type="postblank">
     <e lm="p'"><p><l>p'</l><r>pa<s n="adv"/></r></p></e>
     <e lm="d'"><p><l>d'</l><r>d<s n="pr"/></r></p></e>
+    <e lm="an'"><p><l>an'</l><r>an<s n="pr"/></r></p></e>
   </section>
   <section id="punct" type="inconditional">
     <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
