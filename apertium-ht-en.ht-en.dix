@@ -286,6 +286,8 @@
     <e><p><l>kouran<b/>elektrik<s n="n"/></l><r>electrical<b/>current<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>òdinatè<s n="n"/></l><r>computer<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>pwojè<s n="n"/></l><r>project<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>vil<s n="n"/></l><r>city<s n="n"/></r></p><par n="ND"/></e>
+    <e r="RL"><p><l>vil<s n="n"/></l><r>town<s n="n"/></r></p><par n="ND"/></e>
 
     <e c="AutoCog"><p><l>aberasyon<s n="n"/></l><r>aberration<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>abitasyon<s n="n"/></l><r>habitation<s n="n"/></r></p><par n="ND"/></e>
