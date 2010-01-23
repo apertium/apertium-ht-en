@@ -31,6 +31,7 @@
     <sdef n="rel"/>
     <sdef n="an"/>
     <sdef n="det"/>
+    <sdef n="dem"/>
     <sdef n="postdet"/>
     <sdef n="ord"/>
     <sdef n="pos"/>
@@ -231,6 +232,14 @@
         <p>
           <l></l>
           <r><s n="det"/><s n="qnt"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="sa__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="dem"/><s n="sg"/></r>
         </p>
       </e>
     </pardef>
@@ -610,6 +619,10 @@
     <e lm="lajan"><i>lajan</i><par n="liv__n"/></e>
     <e lm="zanmi"><i>zanmi</i><par n="liv__n"/></e>
     <e lm="vil"><i>vil</i><par n="liv__n"/></e>
+    <e lm="militè"><i>militè</i><par n="liv__n"/></e>
+    <e lm="militè"><i>militè</i><par n="lib__adj"/></e>
+    <e lm="pwal"><i>pwal</i><par n="liv__n"/></e>
+    <e lm="kont"><i>kont</i><par n="liv__n"/></e>
 
     <e lm="aberasyon"><i>aberasyon</i><par n="liv__n"/></e>
     <e lm="abitasyon"><i>abitasyon</i><par n="liv__n"/></e>
@@ -1916,6 +1929,7 @@
 
     <e lm="isit"><i>isit</i><par n="isit__adv"/></e>
     <e lm="pa"><i>pa</i><par n="isit__adv"/></e>
+    <e lm="kont"><i>kont</i><par n="isit__adv"/></e>
     <e lm="egzakteman"><i>egzakteman</i><par n="isit__adv"/></e>
     <e lm="direkteman"><i>direkteman</i><par n="isit__adv"/></e>
     <e lm="egzatteman" r="LR"><p><l>egzatteman</l><r>egzakteman</r></p><par n="isit__adv"/></e>
@@ -1990,6 +2004,7 @@
     <e lm="chak"><i>chak</i><par n="yon__det"/></e>
     <e lm="lòt"><i>lòt</i><par n="yon__det"/></e>
     <e lm="anpil"><i>anpil</i><par n="anpil__det"/></e>
+    <e lm="kont"><i>kont</i><par n="anpil__det"/></e>
 
     <e lm="la"><i>la</i><par n="la__postdet"/></e>
     <e lm="a"><i>a</i><par n="la__postdet"/></e>

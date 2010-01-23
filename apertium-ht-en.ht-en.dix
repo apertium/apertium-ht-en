@@ -18,6 +18,7 @@
     <sdef n="vaux"/>
     <sdef n="ind"/>
     <sdef n="qnt"/>
+    <sdef n="dem"/>
     <sdef n="def"/>
     <sdef n="n"/>
     <sdef n="sp"/>
@@ -99,6 +100,8 @@
     <e><p><l>chak<s n="det"/><s n="ind"/></l><r>each<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>lòt<s n="det"/><s n="ind"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>anpil<s n="det"/><s n="qnt"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>kont<s n="det"/><s n="qnt"/></l><r>enough<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>sa<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>yo<s n="postdet"/><s n="def"/><s n="pl"/></l><r></r></p></e>
     <e r="LR"><p><l>la<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>a<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
@@ -351,6 +354,10 @@
     <e><p><l>bwitich<s n="adj"/></l><r>british<s n="adj"/></r></p></e>
     <e><p><l>kolizyon<s n="n"/></l><r>collision<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>kote<s n="n"/></l><r>side<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>militè<s n="n"/></l><r>military<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>militè<s n="adj"/></l><r>military<s n="adj"/></r></p></e>
+    <e><p><l>pwal<s n="n"/></l><r>hair<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kont<s n="n"/></l><r>story<s n="n"/></r></p><par n="ND"/></e>
 
     <e c="AutoCog"><p><l>aberasyon<s n="n"/></l><r>aberration<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>abitasyon<s n="n"/></l><r>habitation<s n="n"/></r></p><par n="ND"/></e>
@@ -1725,6 +1732,7 @@
     <e><p><l>tou<b/>patou<s n="adv"/></l><r>anywhere<s n="adv"/></r></p></e>
     <e><p><l>tou<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
     <e><p><l>sètadi<s n="adv"/></l><r>that<b/>is<b/>to<b/>say<s n="adv"/></r></p></e>
+    <e><p><l>kont<s n="adv"/></l><r>enough<s n="adv"/></r></p></e>
 
     <e c="AutoCog"><p><l>dyagonalman<s n="adv"/></l><r>diagonally<s n="adv"/></r></p></e>
     <e c="AutoCog"><p><l>egalman<s n="adv"/></l><r>equally<s n="adv"/></r></p></e>
