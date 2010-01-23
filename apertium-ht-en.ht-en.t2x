@@ -2,6 +2,13 @@
 <interchunk>
 
   <section-def-cats>
+    <def-cat n="PRNPERS">
+      <cat-item tags="SN.subj.*"/>
+      <cat-item tags="SN.obj.*"/>
+    </def-cat>
+    <def-cat n="PREP">
+      <cat-item tags="PREP"/>
+    </def-cat>
     <def-cat n="SN">
       <cat-item tags="SN"/>
       <cat-item tags="SN.*"/>
@@ -23,6 +30,10 @@
       <attr-item tags="n.unc"/>
       <attr-item tags="np.top"/>
       <attr-item tags="np.ant"/>
+    </def-attr>
+    <def-attr n="tipus_prn">
+      <attr-item tags="subj"/>
+      <attr-item tags="obj"/>
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
@@ -69,7 +80,7 @@
 
   <section-rules>
 
-    <rule>
+    <rule comment="REGLA: SN">
       <pattern>
         <pattern-item n="SN"/>
       </pattern>
@@ -87,5 +98,33 @@
         </out>
       </action>
     </rule>
+    <rule comment="REGLA: PREP PRNPERS">
+      <pattern>
+        <pattern-item n="PREP"/>
+        <pattern-item n="PRNPERS"/>
+      </pattern>
+      <action>
+        <let>
+          <clip pos="2" part="tipus_prn"/>
+          <lit-tag v="obj"/>
+        </let>
+        <out>
+          <chunk>
+            <clip pos="1" part="lemh"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+            <clip pos="1" part="lemq"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lemh"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+            <clip pos="2" part="lemq"/>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
   </section-rules>
 </interchunk>

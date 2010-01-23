@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="prep">
+      <cat-item tags="pr"/>
+      <cat-item tags="pr.*"/>
+    </def-cat>
     <def-cat n="prn">
       <cat-item tags="prn.*"/>
     </def-cat>
@@ -101,6 +105,9 @@
       <attr-item tags="vbhaver"/>
       <attr-item tags="vaux"/>
     </def-attr>
+    <def-attr n="a_prep">
+      <attr-item tags="pr"/>
+    </def-attr>
     <def-attr n="a_prn">
       <attr-item tags="prn"/>
       <attr-item tags="prn.uns"/>
@@ -157,6 +164,7 @@
   </section-def-attrs>
   <section-def-vars>
     <def-var n="numero"/>
+    <def-var n="prep_cur_lem"/>
     <def-var n="caseFirstWord"/>
     <def-var n="EOS" v="true"/>
     <def-var n="adv_adjectiu"/>
@@ -883,6 +891,32 @@
   </section-def-macros>
 
   <section-rules>
+
+    <rule comment="REGLA: PREP">
+      <pattern>
+        <pattern-item n="prep"/>
+      </pattern>
+      <action>
+        <let>
+          <var n="prep_cur_lem"/>
+          <clip pos="1" side="sl" part="lem"/>
+        </let>
+        <out>
+          <chunk namefrom="prep_cur_lem" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="PREP"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_prep"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
     <rule comment="REGLA: PRN">
       <pattern>
         <pattern-item n="prn"/>
@@ -898,16 +932,17 @@
           <chunk name="prn" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SN"/></tag>
+              <tag><lit-tag v="subj"/></tag>
               <tag><clip pos="1" side="tl" part="pers"/></tag>
               <tag><clip pos="1" side="tl" part="gen"/></tag>
               <tag><clip pos="1" side="tl" part="nbr"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
-              <clip pos="1" side="tl" part="a_prn"/>
-              <clip pos="1" side="tl" part="pers" link-to="2"/>
-              <clip pos="1" side="tl" part="gen" link-to="3"/>
-              <clip pos="1" side="tl" part="nbr" link-to="4"/>
+              <lit-tag v="prn.2"/>
+              <clip pos="1" side="tl" part="pers" link-to="3"/>
+              <clip pos="1" side="tl" part="gen" link-to="4"/>
+              <clip pos="1" side="tl" part="nbr" link-to="5"/>
               <clip pos="1" side="tl" part="lemq"/>
             </lu>
           </chunk>
