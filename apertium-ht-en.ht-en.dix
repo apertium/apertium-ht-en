@@ -1135,6 +1135,7 @@
     <e><p><l>sante<s n="adj"/></l><r>healthy<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>medikaman<s n="n"/></l><r>medicine<s n="n"/></r></p><par n="ND"/></e>
     <e r="RL"><p><l>medikaman<s n="n"/></l><r>medication<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>akizasyon<s n="n"/></l><r>accusation<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>

@@ -1572,9 +1572,11 @@
     <e lm="vijilans"><i>vijilans</i><par n="liv__n"/></e>
     <e lm="vyolans"><i>vyolans</i><par n="liv__n"/></e>
     <e lm="womans"><i>womans</i><par n="liv__n"/></e>
+    <e lm="akizasyon"><i>akizasyon</i><par n="liv__n"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
     <e lm="alèjik"><i>alèjik</i><par n="lib__adj"/></e>
+    <e lm="bankwout"><i>bankwout</i><par n="lib__adj"/></e>
     <e lm="dyabetik"><i>dyabetik</i><par n="lib__adj"/></e>
     <e lm="sante"><i>sante</i><par n="lib__adj"/></e>
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
