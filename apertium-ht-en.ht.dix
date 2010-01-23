@@ -406,6 +406,7 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="elikoptè"><i>elikoptè</i><par n="liv__n"/></e>
     <e lm="moman"><i>moman</i><par n="liv__n"/></e>
     <e lm="misyon"><i>misyon</i><par n="liv__n"/></e>
     <e lm="trajedi"><i>trajedi</i><par n="liv__n"/></e>
@@ -1827,6 +1828,7 @@
     <e lm="konsidere"><i>konsidere</i><par n="chanje__vblex"/></e>
     <e lm="deside"><i>deside</i><par n="chanje__vblex"/></e>
     <e lm="ofri"><i>ofri</i><par n="chanje__vblex"/></e>
+    <e lm="sèvi"><i>sèvi</i><par n="chanje__vblex"/></e>
     <e lm="soufri"><i>soufri</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
     <e lm="etabli"><i>etabli</i><par n="chanje__vblex"/></e>

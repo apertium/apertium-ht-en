@@ -107,6 +107,7 @@
     <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>elikoptè<s n="n"/></l><r>helicopter<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>moman<s n="n"/></l><r>moment<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>misyon<s n="n"/></l><r>mission<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>stati<s n="n"/></l><r>status<s n="n"/></r></p><par n="ND"/></e>
@@ -1294,6 +1295,7 @@
     <e><p><l>deside<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
     <e><p><l>ale<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
     <e><p><l>obsève<s n="vblex"/></l><r>observe<s n="vblex"/></r></p></e>
+    <e><p><l>sèvi<s n="vblex"/></l><r>serve<s n="vblex"/></r></p></e>
     <e><p><l>konsidere<s n="vblex"/></l><r>consider<s n="vblex"/></r></p></e>
     <e><p><l>etabli<s n="vblex"/></l><r>establish<s n="vblex"/></r></p></e>
     <e><p><l>ofri<s n="vblex"/></l><r>offer<s n="vblex"/></r></p></e>
