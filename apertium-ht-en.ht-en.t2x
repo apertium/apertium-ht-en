@@ -48,6 +48,25 @@
     <def-var n="numero"/>
   </section-def-vars>
 
+  <section-def-macros>
+    <def-macro n="set_number" npar="1">
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" part="nbr"/>
+              <lit-tag v="ND"/>
+            </equal>
+          </test> 
+          <let>
+              <clip pos="1" part="nbr"/>
+              <lit-tag v="sg"/>
+          </let>
+        </when>
+      </choose>
+    </def-macro>
+  </section-def-macros>
+
   <section-rules>
 
     <rule>
@@ -55,6 +74,9 @@
         <pattern-item n="SN"/>
       </pattern>
       <action>
+        <call-macro n="set_number">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk>
             <clip pos="1" part="lemh"/>
