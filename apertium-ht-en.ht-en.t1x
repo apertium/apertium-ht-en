@@ -82,6 +82,7 @@
   </section-def-attrs>
   <section-def-vars>
     <def-var n="numero"/>
+    <def-var n="caseFirstWord"/>
     <def-var n="EOS" v="true"/>
   </section-def-vars>
   <section-def-lists>
@@ -94,7 +95,7 @@
       <list-item v="Saturday"/>
       <list-item v="Sunday"/>
     </def-list>
-  <section-def-lists>
+  </section-def-lists>
   <section-def-macros>
     
 
@@ -708,13 +709,6 @@
         </out>
       </action>
     </rule>
-
-
-
-
-
-
-
 
   </section-rules>
 </transfer>
