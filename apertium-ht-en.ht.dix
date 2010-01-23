@@ -645,6 +645,11 @@
     <e lm="kondanasyon"><i>kondanasyon</i><par n="liv__n"/></e>
     <e lm="asosyasyon"><i>asosyasyon</i><par n="liv__n"/></e>
     <e lm="ekstradisyon"><i>ekstradisyon</i><par n="liv__n"/></e>
+    <e lm="pitit"><i>pitit</i><par n="liv__n"/></e>
+    <e lm="pitit fi"><i>pitit<b/>fi</i><par n="liv__n"/></e>
+    <e lm="pitit fis"><i>pitit<b/>fis</i><par n="liv__n"/></e>
+    <e lm="gason"><i>gason</i><par n="liv__n"/></e>
+    <e lm="pèp"><i>pèp</i><par n="liv__n"/></e>
 
     <e lm="aberasyon"><i>aberasyon</i><par n="liv__n"/></e>
     <e lm="abitasyon"><i>abitasyon</i><par n="liv__n"/></e>
@@ -1866,6 +1871,8 @@
     <e lm="dwe"><i>dwe</i><par n="ka__vaux"/></e>
 
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
+    <e lm="pran"><i>pran</i><par n="chanje__vblex"/></e>
+    <e lm="bay"><i>bay</i><par n="chanje__vblex"/></e>
     <e lm="fè"><i>fè</i><par n="chanje__vblex"/></e>
     <e lm="fè bak"><i>fè<b/>bak</i><par n="chanje__vblex"/></e>
     <e lm="rekile"><i>rekile</i><par n="chanje__vblex"/></e>
