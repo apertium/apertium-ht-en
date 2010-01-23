@@ -1599,6 +1599,7 @@
     <e lm="lengwistik"><i>lengwistik</i><par n="lib__adj"/></e>
     <e lm="franse"><i>franse</i><par n="lib__adj"/></e>
     <e lm="angle"><i>angle</i><par n="lib__adj"/></e>
+    <e lm="anglè" r="LR"><p><l>anglè</l><r>angle</r></p><par n="lib__adj"/></e>
     <e lm="nwa"><i>nwa</i><par n="lib__adj"/></e>
     <e lm="oranj"><i>oranj</i><par n="lib__adj"/></e>
     <e lm="vèt"><i>vèt</i><par n="lib__adj"/></e>
@@ -1736,6 +1737,9 @@
     <e lm="vendikatif"><i>vendikatif</i><par n="lib__adj"/></e>
 
     <e lm="ki"><i>ki</i><par n="ki__rel"/></e>
+<!-- tag this right
+    <e lm="ke" r="LR"><p><l>ke</l><r>ki</r></p><par n="ki__rel"/></e>
+-->
 
     <e lm="si"><i>si</i><par n="si__cnjadv"/></e>
     <e lm="lè"><i>lè</i><par n="si__cnjadv"/></e>
@@ -1759,6 +1763,8 @@
     <e lm="kreye"><i>kreye</i><par n="chanje__vblex"/></e>
     <e lm="manje"><i>manje</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
+    <e lm="kòmanse"><i>kòmanse</i><par n="chanje__vblex"/></e>
+    <e lm="fonde"><i>fonde</i><par n="chanje__vblex"/></e>
     <e lm="òganize"><i>òganize</i><par n="chanje__vblex"/></e>
     <e lm="patisipe"><i>patisipe</i><par n="chanje__vblex"/></e>
     <e lm="koute"><i>koute</i><par n="chanje__vblex"/></e>
