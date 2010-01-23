@@ -97,6 +97,8 @@
       <attr-item tags="n.acr"/>
       <attr-item tags="n.unc"/>
       <attr-item tags="np.top"/>
+      <attr-item tags="np.al"/>
+      <attr-item tags="np.org"/>
       <attr-item tags="np.ant"/>
     </def-attr>
     <def-attr n="a_det">
