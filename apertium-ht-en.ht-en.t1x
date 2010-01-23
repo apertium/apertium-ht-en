@@ -37,6 +37,14 @@
       <cat-item tags="vbmod.*"/>
       <cat-item tags="vbhaver.*"/>
     </def-cat>
+    <def-cat n="part">
+      <cat-item lemma="te" tags="part"/>
+      <cat-item lemma="tap" tags="part"/>
+      <cat-item lemma="ap" tags="part"/>
+      <cat-item lemma="a" tags="part"/>
+      <cat-item lemma="pral" tags="part"/>
+      <cat-item lemma="ta" tags="part"/>
+    </def-cat>
 
 
     <!-- Lexicalised categories -->
@@ -129,6 +137,10 @@
     <def-var n="EOS" v="true"/>
     <def-var n="adv_adjectiu"/>
     <def-var n="superlatiu1"/>
+    <def-var n="aux_verb"/>
+    <def-var n="not_adv"/>
+    <def-var n="temps_chunk"/>
+    <def-var n="lema_chunk"/>
   </section-def-vars>
   <section-def-lists>
     <def-list n="en_majuscules">
@@ -165,10 +177,172 @@
           </let>
         </when>
       </choose>
-
-  
     </def-macro>
     
+    <def-macro n="pa_aux" npar="2">
+	<choose>
+	  <when>
+	    <test>
+              <equal caseless="yes">
+	        <clip pos="2" side="sl" part="lem"/> 
+		<lit v="pa"/>
+	      </equal>
+	    </test>
+	    <let>
+	      <var n="not_adv"/>
+		<concat>
+                  <lit v="$ ^"/>
+                  <lit v="not"/>
+                  <lit-tag v="adv"/>
+		</concat>
+	    </let>
+	  </when>
+	  <otherwise>
+            <let>
+              <var n="not_adv"/>
+              <lit v=""/>
+            </let>
+          </otherwise>
+        </choose>
+	<choose>
+	  <when>
+	    <test>
+              <equal caseless="yes">
+	        <clip pos="1" side="sl" part="lem"/> 
+		<lit v="ta"/>
+	      </equal>
+	    </test>
+	    <let>
+	      <var n="aux_verb"/>
+	      <concat>
+                <lit v="would"/>
+                <lit-tag v="vaux.inf"/>
+                <var n="not_adv"/>
+	      </concat>
+	    </let>
+	    <let>
+	      <var n="temps_chunk"/>
+              <lit-tag v="inf"/>
+	    </let>
+	  </when>
+        </choose>
+	<choose>
+	  <when>
+	    <test>
+              <equal caseless="yes">
+	        <clip pos="1" side="sl" part="lem"/> 
+		<lit v="pral"/>
+	      </equal>
+	    </test>
+	    <let>
+	      <var n="aux_verb"/>
+	      <concat>
+                <lit v="be"/>
+                <lit-tag v="vbser.pres"/>
+                <var n="not_adv"/>
+                <lit v="$ ^"/>
+                <lit v="go"/>
+                <lit-tag v="vblex.ger"/>
+                <lit v="$ ^"/>
+                <lit v="to"/>
+                <lit-tag v="pr"/>
+	      </concat>
+	    </let>
+	    <let>
+	      <var n="temps_chunk"/>
+               <lit-tag v="inf"/>
+	    </let>
+	  </when>
+        </choose>
+	<choose>
+	  <when>
+	    <test>
+              <equal caseless="yes">
+	        <clip pos="1" side="sl" part="lem"/> 
+		<lit v="a"/>
+	      </equal>
+	    </test>
+	    <let>
+	      <var n="aux_verb"/>
+	      <concat>
+                <lit v="will"/>
+                <lit-tag v="vaux.inf"/>
+                <var n="not_adv"/>
+	      </concat>
+	    </let>
+	    <let>
+	      <var n="temps_chunk"/>
+               <lit-tag v="ger"/>
+	    </let>
+	  </when>
+        </choose>
+	<choose>
+	  <when>
+	    <test>
+              <equal caseless="yes">
+	        <clip pos="1" side="sl" part="lem"/> 
+		<lit v="ap"/>
+	      </equal>
+	    </test>
+	    <let>
+	      <var n="aux_verb"/>
+	      <concat>
+                <lit v="be"/>
+                <lit-tag v="vbser.pres"/>
+                <var n="not_adv"/>
+	      </concat>
+	    </let>
+	    <let>
+	      <var n="temps_chunk"/>
+               <lit-tag v="ger"/>
+	    </let>
+	  </when>
+        </choose>
+	<choose>
+	  <when>
+	    <test>
+              <equal caseless="yes">
+	        <clip pos="1" side="sl" part="lem"/> 
+		<lit v="tap"/>
+	      </equal>
+	    </test>
+	    <let>
+	      <var n="aux_verb"/>
+	      <concat>
+                <lit v="be"/>
+                <lit-tag v="vbser.past"/>
+                <var n="not_adv"/>
+	      </concat>
+	    </let>
+	    <let>
+	      <var n="temps_chunk"/>
+               <lit-tag v="ger"/>
+	    </let>
+	  </when>
+        </choose>
+	<choose>
+	  <when>
+	    <test>
+              <equal caseless="yes">
+	        <clip pos="1" side="sl" part="lem"/> 
+		<lit v="te"/>
+	      </equal>
+	    </test>
+	    <let>
+	      <var n="aux_verb"/>
+	      <concat>
+                <lit v="do"/>
+                <lit-tag v="vbdo.past"/>
+                <var n="not_adv"/>
+	      </concat>
+	    </let>
+	    <let>
+	      <var n="temps_chunk"/>
+               <lit-tag v="inf"/>
+	    </let>
+	  </when>
+        </choose>
+    </def-macro>
 
     <def-macro n="f_bcond" npar="1"><!--Per mirar si el blanc conté o no format. Cal posar aquesta funció en les regles en què desaparegui alguna paraula, per tal de decidir si el blanc de la paraula eliminada s'ha d'eliminar o conservar. Si conté format cal conservar-la, si no en conté cal eliminar-la perquè no apareguin dos espais seguits. -->
       <choose>
@@ -883,39 +1057,6 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: PA TAP VERB">
-      <pattern>
-        <pattern-item n="pa"/>
-        <pattern-item n="tap_part"/>
-        <pattern-item n="verb"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="vfin" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-              <tag><lit-tag v="past"/></tag>
-            </tags>
-            <lu>
-              <lit v="be"/>
-              <lit-tag v="vbser.past"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <lit v="not"/>
-              <lit-tag v="adv"/>
-            </lu>
-            <b pos="2"/>
-            <lu>
-              <clip pos="3" side="tl" part="lemh"/>
-              <clip pos="3" side="tl" part="a_verb"/>
-              <lit-tag v="ger"/>
-              <clip pos="3" side="tl" part="lemq"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
 
     <rule comment="REGLA: AP + VERB">
       <pattern>
@@ -939,39 +1080,6 @@
               <clip pos="2" side="tl" part="a_verb"/>
               <lit-tag v="ger"/>
               <clip pos="2" side="tl" part="lemq"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-    <rule comment="REGLA: PA AP VERB">
-      <pattern>
-        <pattern-item n="pa"/>
-        <pattern-item n="ap_part"/>
-        <pattern-item n="verb"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="vfin" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-              <tag><lit-tag v="past"/></tag>
-            </tags>
-            <lu>
-              <lit v="be"/>
-              <lit-tag v="vbser.pres"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <lit v="not"/>
-              <lit-tag v="adv"/>
-            </lu>
-            <b pos="2"/>
-            <lu>
-              <clip pos="3" side="tl" part="lemh"/>
-              <clip pos="3" side="tl" part="a_verb"/>
-              <lit-tag v="ger"/>
-              <clip pos="3" side="tl" part="lemq"/>
             </lu>
           </chunk>
         </out>
@@ -1005,40 +1113,6 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: PA A + VERB">
-      <pattern>
-        <pattern-item n="pa"/>
-        <pattern-item n="a_part"/>
-        <pattern-item n="verb"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="vfin" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-              <tag><lit-tag v="past"/></tag>
-            </tags>
-            <lu>
-              <lit v="will"/>
-              <lit-tag v="vaux.inf"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <lit v="not"/>
-              <lit-tag v="adv"/>
-            </lu>
-            <b pos="2"/>
-            <lu>
-              <clip pos="3" side="tl" part="lemh"/>
-              <clip pos="3" side="tl" part="a_verb"/>
-              <lit-tag v="ger"/>
-              <clip pos="3" side="tl" part="lemq"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
-
     <rule comment="REGLA: PRAL + VERB">
       <pattern>
         <pattern-item n="pral_part"/>
@@ -1076,49 +1150,6 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: PA PRAL + VERB">
-      <pattern>
-        <pattern-item n="pa"/>
-        <pattern-item n="pral_part"/>
-        <pattern-item n="verb"/>
-      </pattern>
-      <action>
-        <out>
-          <chunk name="vfin" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-              <tag><lit-tag v="past"/></tag>
-            </tags>
-            <lu>
-              <lit v="be"/>
-              <lit-tag v="vbser.pres"/>
-            </lu>
-            <b/>
-            <lu>
-              <lit v="not"/>
-              <lit-tag v="adv"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <lit v="go"/>
-              <lit-tag v="vblex.ger"/>
-            </lu>
-            <b/>  
-            <lu>
-              <lit v="to"/>
-              <lit-tag v="pr"/>
-            </lu>
-            <b pos="2"/>
-            <lu>
-              <clip pos="3" side="tl" part="lemh"/>
-              <clip pos="3" side="tl" part="a_verb"/>
-              <lit-tag v="inf"/>
-              <clip pos="3" side="tl" part="lemq"/>
-            </lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
 
     <rule comment="REGLA: TA + VERB">
       <pattern>
@@ -1147,33 +1178,31 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: PA TA + VERB">
+    <rule comment="REGLA: PA + AUX + VERB">
       <pattern>
         <pattern-item n="pa"/>
-        <pattern-item n="ta_part"/>
+        <pattern-item n="part"/>
         <pattern-item n="verb"/>
       </pattern>
       <action>
+        <call-macro n="pa_aux">
+          <with-param pos="2"/>
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="vfin" case="caseFirstWord">
             <tags>
               <tag><lit-tag v="SV"/></tag>
-              <tag><lit-tag v="past"/></tag>
+              <tag><var n="temps_chunk"/></tag>
             </tags>
             <lu>
-              <lit v="would"/>
-              <lit-tag v="vaux.inf"/>
-            </lu>
-            <b pos="1"/>
-            <lu>
-              <lit v="not"/>
-              <lit-tag v="adv"/>
+              <var n="aux_verb"/>
             </lu>
             <b pos="2"/>
             <lu>
               <clip pos="3" side="tl" part="lemh"/>
               <clip pos="3" side="tl" part="a_verb"/>
-              <lit-tag v="inf"/>
+              <lit-tag v="2"/>
               <clip pos="3" side="tl" part="lemq"/>
             </lu>
           </chunk>
