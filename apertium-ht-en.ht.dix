@@ -1603,9 +1603,17 @@
     <e lm="womans"><i>womans</i><par n="liv__n"/></e>
     <e lm="akizasyon"><i>akizasyon</i><par n="liv__n"/></e>
     <e lm="jijman"><i>jijman</i><par n="liv__n"/></e>
+    <e lm="ameriken"><i>ameriken</i><par n="liv__n"/></e>
+    <e lm="sòs"><i>sòs</i><par n="liv__n"/></e>
+    <e lm="pwason"><i>pwason</i><par n="liv__n"/></e>
+    <e lm="jeneral"><i>jeneral</i><par n="liv__n"/></e>
+    <e lm="general"><i>general</i><par n="liv__n"/></e>
+    <e lm="koloni"><i>koloni</i><par n="liv__n"/></e>
+    <e lm="kolizyon"><i>kolizyon</i><par n="liv__n"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
     <e lm="alèjik"><i>alèjik</i><par n="lib__adj"/></e>
+    <e lm="bwitich"><i>bwitich</i><par n="lib__adj"/></e>
     <e lm="bankwout"><i>bankwout</i><par n="lib__adj"/></e>
     <e lm="dyabetik"><i>dyabetik</i><par n="lib__adj"/></e>
     <e lm="sante"><i>sante</i><par n="lib__adj"/></e>
@@ -1757,11 +1765,9 @@
     <e lm="selektif"><i>selektif</i><par n="lib__adj"/></e>
     <e lm="tantativ"><i>tantativ</i><par n="lib__adj"/></e>
     <e lm="vendikatif"><i>vendikatif</i><par n="lib__adj"/></e>
+    <e lm="ameriken"><i>ameriken</i><par n="lib__adj"/></e>
 
     <e lm="ki"><i>ki</i><par n="ki__rel"/></e>
-<!-- tag this right
-    <e lm="ke" r="LR"><p><l>ke</l><r>ki</r></p><par n="ki__rel"/></e>
--->
 
     <e lm="si"><i>si</i><par n="si__cnjadv"/></e>
     <e lm="lè"><i>lè</i><par n="si__cnjadv"/></e>
@@ -1928,6 +1934,7 @@
 
     <e lm="Ayiti"><i>Ayiti</i><par n="Ayiti__np"/></e>
     <e lm="Azi"><i>Azi</i><par n="Ayiti__np"/></e>
+    <e lm="Kiba"><i>Kiba</i><par n="Ayiti__np"/></e>
     <e lm="Edenn"><i>Edenn</i><par n="Ayiti__np"/></e>
     <e lm="Giyon"><i>Giyon</i><par n="Ayiti__np"/></e>
     <e lm="Pòtoprens"><i>Pòtoprens</i><par n="Ayiti__np"/></e>
@@ -1999,6 +2006,7 @@
     <e lm="epi ak"><i>epi<b/>ak</i><par n="e__cnjcoo"/></e>
     <e lm="oswa"><i>oswa</i><par n="e__cnjcoo"/></e>
     <e lm="&amp;"><i>&amp;</i><par n="e__cnjcoo"/></e>
+    <e lm="ke"><i>ke</i><par n="e__cnjcoo"/></e>
 
     <e lm="an"><i>an</i><par n="an__pr"/></e>
     <e lm="asou"><i>asou</i><par n="an__pr"/></e>

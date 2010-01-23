@@ -85,6 +85,7 @@
     <e><p><l>epi<b/>ak<s n="cnjcoo"/></l><r>as<b/>well<b/>as<s n="cnjcoo"/></r></p></e>
     <e><p><l>oswa<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
     <e><p><l>&amp;<s n="cnjcoo"/></l><r>&amp;<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ke<s n="cnjcoo"/></l><r>than<s n="cnjcoo"/></r></p></e>
 
     <e><p><l>yon<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
     <e r="LR"><p><l>an<s n="det"/><s n="ind"/></l><r>a<s n="det"/><s n="ind"/></r></p></e>
@@ -270,9 +271,9 @@
     <e><p><l>zwazo<s n="n"/></l><r>bird<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>je<s n="n"/></l><r>eye<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>kòlgat<s n="n"/></l><r>toothpaste<s n="n"/></r></p><par n="ND"/></e>
-    <e r="LR"><p><l>pat<s n="n"/></l><r>toothpaste<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>pat<s n="n"/></l><r>paste<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>jilèt<s n="n"/></l><r>razor<s n="n"/></r></p><par n="ND"/></e>
-    <e><p><l>panpèz<s n="n"/></l><r>nappy<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>panpèz<s n="n"/></l><r>pamper<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>kouchèt<s n="n"/></l><r>nappy<s n="n"/></r></p><par n="ND"/></e>
     <e r="RL"><p><l>kouchèt<s n="n"/></l><r>diaper<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>kodak<s n="n"/></l><r>camera<s n="n"/></r></p><par n="ND"/></e>
@@ -283,7 +284,7 @@
     <e><p><l>chiklèt<s n="n"/></l><r>gum<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>farawon<s n="n"/></l><r>pharoah<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>kitèks<s n="n"/></l><r>nail<b/>polish<s n="n"/></r></p><par n="ND"/></e>
-    <e><p><l>djip<s n="n"/></l><r>SUV<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>djip<s n="n"/></l><r>jeep<s n="n"/></r></p><par n="ND"/></e>
     <e r="LR"><p><l>tòchon<s n="n"/></l><r>napkin<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>napkin<s n="n"/></l><r>napkin<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>nèg<s n="n"/></l><r>guy<s n="n"/></r></p><par n="ND"/></e>
@@ -310,6 +311,15 @@
     <e><p><l>pwojè<s n="n"/></l><r>project<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>vil<s n="n"/></l><r>city<s n="n"/></r></p><par n="ND"/></e>
     <e r="RL"><p><l>vil<s n="n"/></l><r>town<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>ameriken<s n="n"/></l><r>american<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>ameriken<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
+    <e><p><l>sòs<s n="n"/></l><r>sauce<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>pwason<s n="n"/></l><r>fish<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>jeneral<s n="n"/></l><r>general<s n="n"/></r></p><par n="ND"/></e>
+    <e r="LR"><p><l>general<s n="n"/></l><r>general<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>koloni<s n="n"/></l><r>colony<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>bwitich<s n="adj"/></l><r>british<s n="adj"/></r></p></e>
+    <e><p><l>kolizyon<s n="n"/></l><r>collision<s n="n"/></r></p><par n="ND"/></e>
 
     <e c="AutoCog"><p><l>aberasyon<s n="n"/></l><r>aberration<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>abitasyon<s n="n"/></l><r>habitation<s n="n"/></r></p><par n="ND"/></e>
@@ -1157,6 +1167,7 @@
     <e><p><l>jijman<s n="n"/></l><r>judgement<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Kiba<s n="np"/><s n="top"/></l><r>Cuba<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Edenn<s n="np"/><s n="top"/></l><r>Eden<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Giyon<s n="np"/><s n="top"/></l><r>Gihon<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
