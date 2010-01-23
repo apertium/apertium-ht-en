@@ -46,6 +46,8 @@
     <sdef n="guio"/>
     <sdef n="preadv"/>
     <sdef n="def"/>
+    <sdef n="past"/>
+    <sdef n="pres"/>
   </sdefs>
   <pardefs>
     <pardef n="e__cnjcoo">
@@ -111,11 +113,29 @@
         </p>
       </e>
     </pardef>
-    <pardef n="se__vbser">
+    <pardef n="s/e__vbser">
       <e>
         <p>
-          <l></l>
-          <r><s n="vbser"/></r>
+          <l>e</l>
+          <r>e<s n="vbser"/><s n="pres"/></r>
+        </p>
+      </e>
+      <e>
+        <p>
+          <l>ete</l>
+          <r>e<s n="vbser"/><s n="past"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>é</l>
+          <r>e<s n="vbser"/><s n="pres"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>été</l>
+          <r>e<s n="vbser"/><s n="past"/></r>
         </p>
       </e>
     </pardef>
@@ -1712,7 +1732,7 @@
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
 
     <e lm="vle"><i>vle</i><par n="vle__vbmod"/></e>
-    <e lm="se"><i>se</i><par n="se__vbser"/></e>
+    <e lm="se"><i>s</i><par n="s/e__vbser"/></e>
     <e lm="gen"><i>gen</i><par n="gen__vbhaver"/></e>
     <e lm="genyen"><i>genyen</i><par n="gen__vbhaver"/></e>
     <e lm="ka"><i>ka</i><par n="ka__vaux"/></e>
