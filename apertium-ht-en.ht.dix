@@ -126,6 +126,12 @@
           <r>e<s n="vbser"/><s n="past"/></r>
         </p>
       </e>
+      <e r="LR" c="Unverified">
+        <p>
+          <l>e<b/>te</l>
+          <r>e<s n="vbser"/><s n="past"/></r>
+        </p>
+      </e>
       <e r="LR">
         <p>
           <l>é</l>
@@ -1888,6 +1894,7 @@
     <e lm="ou"><i>ou</i><par n="mwen__det"/></e>
     <e lm="w"><i>w</i><par n="mwen__det"/></e>
     <e lm="yon"><i>yon</i><par n="yon__det"/></e>
+    <e lm="yon lòt"><i>yon<b/>lòt</i><par n="yon__det"/></e>
     <e lm="divès"><i>divès</i><par n="divès__det"/></e>
     <e lm="an"><i>an</i><par n="yon__det"/></e>
     <e lm="sé"><i>sé</i><par n="sé__det"/></e>
