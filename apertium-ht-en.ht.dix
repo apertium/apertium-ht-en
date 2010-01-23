@@ -421,6 +421,14 @@
       </e>
     </pardef>
 
+   <pardef n="okenn__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="tn"/><s n="nt"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
@@ -1872,6 +1880,7 @@
     <e lm="pouri ke"><i>pouri<b/>ke</i><par n="si__cnjadv"/></e>
 
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
+    <e lm="okenn"><i>okenn</i><par n="okenn__prn"/></e>
 
     <e lm="vle"><i>vle</i><par n="vle__vbmod"/></e>
     <e lm="se"><i>s</i><par n="s/e__vbser"/></e>
@@ -2033,6 +2042,7 @@
     <e lm="kounye a"><i>kounye<b/>a</i><par n="isit__adv"/></e>
 
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
+    <e lm="dènye"><i>dènye</i><par n="premye__det"/></e>
     <e lm="dezyèm"><i>dezyèm</i><par n="premye__det"/></e>
     <e lm="twazyèm"><i>twazyèm</i><par n="premye__det"/></e>
     <e lm="trwazyèm"><i>trwazyèm</i><par n="premye__det"/></e>

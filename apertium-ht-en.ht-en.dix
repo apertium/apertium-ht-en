@@ -86,6 +86,8 @@
   <section id="main" type="standard">
     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
 
+    <e><p><l>okenn<s n="prn"/></l><r>none<s n="prn"/></r></p></e>
+
     <e><p><l>e<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>ak<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>epi<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
@@ -1307,6 +1309,7 @@
 
     <e><p><l>divès<s n="det"/><s n="ind"/></l><r>various<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>premye<s n="det"/></l><r>first<s n="det"/></r></p></e>
+    <e><p><l>dènye<s n="det"/></l><r>last<s n="det"/></r></p></e>
     <e><p><l>dezyèm<s n="det"/></l><r>second<s n="det"/></r></p></e>
     <e><p><l>twazyèm<s n="det"/></l><r>third<s n="det"/></r></p></e>
     <e r="LR"><p><l>trwazyèm<s n="det"/></l><r>third<s n="det"/></r></p></e>
