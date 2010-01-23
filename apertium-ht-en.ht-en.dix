@@ -100,6 +100,9 @@
     <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>palè<s n="n"/></l><r>palace<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lopital<s n="n"/></l><r>hospital<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lekòl<s n="n"/></l><r>school<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>patnè<s n="n"/></l><r>partner<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>systèm<s n="n"/></l><r>system<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>chyen<s n="n"/></l><r>dog<s n="n"/></r></p><par n="ND"/></e>
@@ -1134,6 +1137,7 @@
     <e><p><l>aspirin<s n="n"/></l><r>aspirin<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>dyabetik<s n="n"/></l><r>diabetic<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>dyabetik<s n="adj"/></l><r>diabetic<s n="adj"/></r></p></e>
+    <e><p><l>prive<s n="adj"/></l><r>private<s n="adj"/></r></p></e>
     <e><p><l>men<s n="n"/></l><r>hand<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>alkòl<s n="n"/></l><r>alcohol<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>degre<s n="n"/></l><r>degree<s n="n"/></r></p><par n="ND"/></e>

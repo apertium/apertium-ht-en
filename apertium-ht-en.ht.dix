@@ -397,6 +397,8 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="palè"><i>palè</i><par n="liv__n"/></e>
+    <e lm="lopital"><i>lopital</i><par n="liv__n"/></e>
     <e lm="patnè"><i>patnè</i><par n="liv__n"/></e>
     <e lm="systèm"><i>systèm</i><par n="liv__n"/></e>
     <e lm="endèks"><i>endèks</i><par n="liv__n"/></e>
@@ -1301,6 +1303,7 @@
     <e lm="bouch"><i>bouch</i><par n="liv__n"/></e>
     <e lm="koko"><i>koko</i><par n="liv__n"/></e>
     <e lm="machin"><i>machin</i><par n="liv__n"/></e>
+    <e lm="lekòl"><i>lekòl</i><par n="liv__n"/></e>
     <e lm="pen"><i>pen</i><par n="liv__n"/></e>
     <e lm="analoji"><i>analoji</i><par n="liv__n"/></e>
     <e lm="antoloji"><i>antoloji</i><par n="liv__n"/></e>
@@ -1609,6 +1612,7 @@
     <e lm="lib"><i>lib</i><par n="lib__adj"/></e>
     <e lm="ayisyen"><i>ayisyen</i><par n="lib__adj"/></e>
     <e lm="prensipal"><i>prensipal</i><par n="lib__adj"/></e>
+    <e lm="prive"><i>prive</i><par n="lib__adj"/></e>
     <e lm="syantifik"><i>syantifik</i><par n="lib__adj"/></e>
     <e lm="pèdi"><i>pèdi</i><par n="lib__adj"/></e>
     <e lm="espesyal"><i>espesyal</i><par n="lib__adj"/></e>
@@ -2055,6 +2059,7 @@
   </section>
   <section id="abbreviations" type="postblank">
     <e lm="p'"><p><l>p'</l><r>pa<s n="adv"/></r></p></e>
+    <e lm="d'"><p><l>d'</l><r>d<s n="pr"/></r></p></e>
   </section>
   <section id="punct" type="inconditional">
     <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
