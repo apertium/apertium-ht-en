@@ -15,6 +15,7 @@
     <sdef n="vbhaver"/>
     <sdef n="vaux"/>
     <sdef n="ind"/>
+    <sdef n="qnt"/>
     <sdef n="def"/>
     <sdef n="n"/>
     <sdef n="sp"/>
@@ -294,7 +295,7 @@
     <e><p><l>wòb<s n="n"/></l><r>dress<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>machin<s n="n"/></l><r>car<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>kouto<s n="n"/></l><r>knife<s n="n"/></r></p><par n="ND"/></e>
-    <e><p><l>kravat<s n="n"/></l><r>necktie<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kravat<s n="n"/></l><r>tie<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>lajan<s n="n"/></l><r>money<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>fanmi<s n="n"/></l><r>family<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>chèz<s n="n"/></l><r>chair<s n="n"/></r></p><par n="ND"/></e>
