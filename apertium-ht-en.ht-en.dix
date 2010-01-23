@@ -350,6 +350,7 @@
     <e r="RL"><p><l>vil<s n="n"/></l><r>town<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="n"/></l><r>american<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
+    <e><p><l>sekirite<s n="adj"/></l><r>security<s n="adj"/></r></p></e>
     <e><p><l>chè<s n="adj"/></l><r>dear<s n="adj"/></r></p></e>
     <e><p><l>teknik<s n="adj"/></l><r>technical<s n="adj"/></r></p></e>
     <e><p><l>disponib<s n="adj"/></l><r>available<s n="adj"/></r></p></e>
@@ -1232,7 +1233,7 @@
     <e><p><l>pati<b/>politik<s n="n"/></l><r>political<b/>party<s n="n"/></r></p><par n="ND"/></e>
 
     <e><p><l>Ayiti<s n="np"/><s n="top"/></l><r>Haiti<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
-    <e><p><l>Nouyók<s n="np"/><s n="top"/></l><r>New<b/>York<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+    <e><p><l>Nouyòk<s n="np"/><s n="top"/></l><r>New<b/>York<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Kiba<s n="np"/><s n="top"/></l><r>Cuba<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Miyami<s n="np"/><s n="top"/></l><r>Miami<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
     <e><p><l>Azi<s n="np"/><s n="top"/></l><r>Asia<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
