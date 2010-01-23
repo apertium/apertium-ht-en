@@ -114,6 +114,8 @@
     <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>ekip<s n="n"/></l><r>team<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>fraz<s n="n"/></l><r>phrase<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>konvwa<s n="n"/></l><r>convoy<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>reyinyon<s n="n"/></l><r>meeting<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>vizit<s n="n"/></l><r>vizit<s n="n"/></r></p><par n="ND"/></e>
@@ -1355,6 +1357,7 @@
     <e><p><l>manje<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>deside<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
     <e><p><l>ale<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+    <e><p><l>tradui<s n="vblex"/></l><r>translate<s n="vblex"/></r></p></e>
     <e><p><l>eksplike<s n="vblex"/></l><r>explain<s n="vblex"/></r></p></e>
     <e><p><l>kowòdone<s n="vblex"/></l><r>coordinate<s n="vblex"/></r></p></e>
     <e><p><l>pwoteje<s n="vblex"/></l><r>protect<s n="vblex"/></r></p></e>

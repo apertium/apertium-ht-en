@@ -434,6 +434,8 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="ekip"><i>ekip</i><par n="liv__n"/></e>
+    <e lm="fraz"><i>fraz</i><par n="liv__n"/></e>
     <e lm="konvwa"><i>konvwa</i><par n="liv__n"/></e>
     <e lm="reyinyon"><i>reyinyon</i><par n="liv__n"/></e>
     <e lm="vizit"><i>vizit</i><par n="liv__n"/></e>
@@ -1918,6 +1920,8 @@
     <e lm="sèvi"><i>sèvi</i><par n="chanje__vblex"/></e>
     <e lm="soufri"><i>soufri</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
+    <e lm="tradui"><i>tradui</i><par n="chanje__vblex"/></e>
+    <e lm="tradwi" r="LR"><p><l>tradwi</l><r>tradui</r></p><par n="chanje__vblex"/></e>
     <e lm="eksplike"><i>eksplike</i><par n="chanje__vblex"/></e>
     <e lm="kowòdone"><i>kowòdone</i><par n="chanje__vblex"/></e>
     <e lm="ko-òdone" r="LR"><p><l>ko-òdone</l><r>kowòdone</r></p><par n="chanje__vblex"/></e>
@@ -2108,6 +2112,7 @@
     <e lm="Montreal"><i>Montreal</i><par n="Ayiti__np"/></e>
     <e lm="Lèzetazini" r="LR"><p><l>Lèzetazini</l><r>Etazini</r></p><par n="Ayiti__np"/></e>
     <e lm="Lezetazini" r="LR"><p><l>Lezetazini</l><r>Etazini</r></p><par n="Ayiti__np"/></e>
+    <e lm="Lezetazuni" r="LR"><p><l>Lezetazuni</l><r>Etazini</r></p><par n="Ayiti__np"/></e>
     <e lm="Etazini"><i>Etazini</i><par n="Ayiti__np"/></e>
     <e lm="Lejip"><i>Lejip</i><par n="Ayiti__np"/></e>
     <e lm="Bètleyèm"><i>Bètleyèm</i><par n="Ayiti__np"/></e>
