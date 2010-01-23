@@ -1399,6 +1399,65 @@
         </let>
       </action>
     </rule>
+    <rule comment="REGLA: PA + AUX + ADV + ADJ">
+      <pattern>
+        <pattern-item n="pa"/>
+        <pattern-item n="part"/>
+        <pattern-item n="adv"/>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>   
+        <call-macro n="adv_adj">
+          <with-param pos="3"/>
+          <with-param pos="4"/>
+        </call-macro>
+        <call-macro n="pa_aux">
+          <with-param pos="2"/>
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="aux_be" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><var n="temps_chunk"/></tag>
+            </tags>
+            <lu>
+              <var n="aux_verb"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="be"/>
+              <lit-tag v="vbser"/>
+              <lit-tag v="2"/>
+            </lu>
+          </chunk>
+          <b pos="2"/>
+          <chunk name="adv_adj">
+            <tags>
+              <tag><lit-tag v="SA"/></tag>
+            </tags>
+            <lu>
+              <var n="adv_adjectiu"/>
+            </lu>
+          </chunk>
+        </out>
+        <let>
+          <var n="temps_chunk"/>
+          <lit v=""/>
+        </let>
+        <let>
+          <var n="aux_verb"/>
+          <lit v=""/>
+        </let>
+        <let>
+          <var n="adv_adjectiu"/>
+          <lit v=""/>
+        </let>
+      </action>
+    </rule>
 
   </section-rules>
 </transfer>
