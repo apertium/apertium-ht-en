@@ -85,7 +85,6 @@
     <def-var n="numero"/>
     <def-var n="caseFirstWord"/>
     <def-var n="EOS" v="true"/>
-    <def-var n="caseFirstWord"/>
     <def-var n="adv_adjectiu"/>
     <def-var n="superlatiu1"/>
   </section-def-vars>
