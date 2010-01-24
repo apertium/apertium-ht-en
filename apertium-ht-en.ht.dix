@@ -288,6 +288,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="kèk__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="qnt"/><s n="pl"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="sa__det">
       <e>
         <p>
@@ -1998,6 +2006,7 @@
 
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
     <e lm="pran"><i>pran</i><par n="chanje__vblex"/></e>
+    <e lm="pwan" r="LR"><p><l>pwan</l><r>pran</r></p><par n="chanje__vblex"/></e>
     <e lm="bay"><i>bay</i><par n="chanje__vblex"/></e>
     <e lm="fè"><i>fè</i><par n="chanje__vblex"/></e>
     <e lm="fè bak"><i>fè<b/>bak</i><par n="chanje__vblex"/></e>
@@ -2182,6 +2191,7 @@
     <e lm="menm"><i>menm</i><par n="yon__det"/></e>
     <e lm="lòt"><i>lòt</i><par n="yon__det"/></e>
     <e lm="anpil"><i>anpil</i><par n="anpil__det"/></e>
+    <e lm="kèk"><i>kèk</i><par n="kèk__det"/></e>
     <e lm="kont"><i>kont</i><par n="anpil__det"/></e>
     <e lm="sa"><i>sa</i><par n="sa__det"/></e>
 
@@ -2316,10 +2326,11 @@
     <e lm="ant"><i>ant</i><par n="an__pr"/></e>
     <e lm="anpami"><i>anpami</i><par n="an__pr"/></e>
     <e lm="bò"><i>bò</i><par n="an__pr"/></e>
-    <e lm="apre"><i>apre</i><par n="an__pr"/></e>
-    <e lm="apwè" r="LR"><p><l>apwè</l><r>apre</r></p><par n="an__pr"/></e>
-    <e lm="aprè" r="LR"><p><l>aprè</l><r>apre</r></p><par n="an__pr"/></e>
-    <e lm="èvèk"><i>èvèk</i><par n="an__pr"/></e>
+    <e lm="aprè"><i>aprè</i><par n="an__pr"/></e>
+    <e lm="apwè" r="LR"><p><l>apwè</l><r>aprè</r></p><par n="an__pr"/></e>
+    <e lm="apwe" r="LR"><p><l>apwe</l><r>aprè</r></p><par n="an__pr"/></e>
+    <e lm="apre" r="LR"><p><l>apre</l><r>aprè</r></p><par n="an__pr"/></e>
+    <e lm="èvèk" r="LR"><p><l>èvèk</l><r>avèk</r></p><par n="an__pr"/></e>
     <e lm="avek" r="LR"><p><l>avek</l><r>avèk</r></p><par n="an__pr"/></e>
     <e lm="avèk"><i>avèk</i><par n="an__pr"/></e>
     <e lm="ak"><i>ak</i><par n="an__pr"/></e>

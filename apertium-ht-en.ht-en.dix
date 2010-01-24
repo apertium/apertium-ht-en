@@ -104,6 +104,7 @@
     <e><p><l>lòt<s n="det"/><s n="ind"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>menm<s n="det"/><s n="ind"/></l><r>the<b/>same<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>anpil<s n="det"/><s n="qnt"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/></r></p></e>
+    <e><p><l>kèk<s n="det"/><s n="qnt"/></l><r>a<b/>few<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>kont<s n="det"/><s n="qnt"/></l><r>enough<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>sa<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>yo<s n="postdet"/><s n="def"/><s n="pl"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
@@ -1458,7 +1459,7 @@
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
     <e><p><l>san<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
     <e><p><l>a<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
-    <e><p><l>apre<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
+    <e><p><l>aprè<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
     <e><p><l>anho<s n="pr"/></l><r>above<s n="pr"/></r></p></e>
     <e><p><l>anlè<s n="pr"/></l><r>on<s n="pr"/></r></p></e>
     <e><p><l>nan<s n="pr"/></l><r>in<s n="pr"/></r></p></e> <!-- into -->
@@ -1470,7 +1471,6 @@
     <e><p><l>anpami<s n="pr"/></l><r>among<s n="pr"/></r></p></e>
     <e r="RL"><p><l>bò<s n="pr"/></l><r>by<s n="pr"/></r></p></e>
     <e><p><l>bò<s n="pr"/></l><r>about<s n="pr"/></r></p></e>
-    <e r="LR"><p><l>èvèk<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>avèk<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
     <e><p><l>pandan<s n="pr"/></l><r>during<s n="pr"/></r></p></e>
     <e r="LR"><p><l>ak<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
