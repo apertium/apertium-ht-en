@@ -251,6 +251,14 @@
     </def-macro>
 
     <def-macro n="canvi_postdet1" npar="1">
+      <let>
+        <var n="nbr_chunk"/>
+        <lit v=""/>
+      </let>
+      <let>
+        <var n="determiner"/>
+        <lit v=""/>
+      </let>
       <choose>
         <when>
           <test>
@@ -302,6 +310,14 @@
       </choose>
     </def-macro>
     <def-macro n="canvi_postdet2" npar="2">
+      <let>
+        <var n="nbr_chunk"/>
+        <lit v=""/>
+      </let>
+      <let>
+        <var n="determiner"/>
+        <lit v=""/>
+      </let>
       <choose>
         <when>
           <test>
@@ -374,6 +390,159 @@
           <let>
             <var n="nbr_chunk"/>
             <lit-tag v="ND"/>
+          </let>
+          <let>
+            <var n="determiner"/>
+            <concat>
+              <clip pos="1" side="tl" part="whole"/>
+              <lit v="$ ^"/>
+              <clip pos="2" side="tl" part="whole"/>
+            </concat>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+
+    <def-macro n="canvi_nom_postdet1" npar="2">
+      <let>
+        <var n="nbr_chunk"/>
+        <lit v=""/>
+      </let>
+      <let>
+        <var n="determiner"/>
+        <lit v=""/>
+      </let>
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="lem"/>
+              <lit v="yo"/>
+            </equal>
+          </test>
+          <let>
+            <var n="nbr_chunk"/>
+            <lit-tag v="pl"/>
+          </let>
+          <let>
+            <var n="determiner"/>
+            <concat>
+              <lit v="the"/>
+              <lit-tag v="det.def.2"/>
+            </concat>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="lem"/>
+              <lit v="sa"/>
+            </equal>
+          </test>
+          <let>
+            <var n="nbr_chunk"/>
+            <clip pos="1" side="sl" part="nbr"/>
+          </let>
+          <let>
+            <var n="determiner"/>
+            <clip pos="1" side="tl" part="whole"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="nbr_chunk"/>
+            <clip pos="2" side="tl" part="nbr"/>
+          </let>
+          <let>
+            <var n="determiner"/>
+            <concat>
+              <clip pos="1" side="tl" part="whole"/>
+            </concat>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="canvi_nom_postdet2" npar="3"> <!-- taking number, if available, from the noun --> 
+      <let>
+        <var n="nbr_chunk"/>
+        <lit v=""/>
+      </let>
+      <let>
+        <var n="determiner"/>
+        <lit v=""/>
+      </let>
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="2" side="sl" part="lem"/>
+              <lit v="yo"/>
+            </equal>
+          </test>
+          <let>
+            <var n="nbr_chunk"/>
+            <lit-tag v="pl"/>
+          </let>
+          <let>
+            <var n="determiner"/>
+            <concat>
+              <lit v="the"/>
+              <lit-tag v="det.def.2"/>
+              <lit v="$ ^"/>
+              <clip pos="1" side="tl" part="whole"/>
+            </concat>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="2" side="sl" part="lem"/>
+              <lit v="sa"/>
+            </equal>
+          </test>
+          <let>
+            <var n="nbr_chunk"/>
+            <clip pos="2" side="sl" part="nbr"/>
+          </let>
+          <let>
+            <var n="determiner"/>
+            <concat>
+              <clip pos="1" side="tl" part="whole"/>
+              <lit v="$ ^"/>
+              <clip pos="2" side="tl" part="whole"/>
+            </concat>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="1" side="sl" part="a_det"/>
+                <lit-tag v="det.ord"/>
+              </equal>
+              <equal>
+                <clip pos="2" side="sl" part="a_det"/>
+                <lit-tag v="det.pos"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <var n="nbr_chunk"/>
+            <clip pos="3" side="tl" part="nbr"/>
+          </let>
+          <let>
+            <var n="determiner"/>
+            <concat>
+              <clip pos="2" side="tl" part="whole"/>
+              <lit v="$ ^"/>
+              <clip pos="1" side="tl" part="whole"/>
+            </concat>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="nbr_chunk"/>
+            <clip pos="3" side="tl" part="nbr"/>
           </let>
           <let>
             <var n="determiner"/>
@@ -1098,8 +1267,9 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-        <call-macro n="canvi_postdet1">
+        <call-macro n="canvi_nom_postdet1">
           <with-param pos="2"/>
+          <with-param pos="1"/>
         </call-macro>
         <out>
           <chunk name="det_nom" case="caseFirstWord">
@@ -1119,14 +1289,6 @@
             </lu>
           </chunk>
         </out>
-        <let>
-          <var n="nbr_chunk"/>
-          <lit v=""/>
-        </let>
-        <let>
-          <var n="determiner"/>
-          <lit v=""/>
-        </let>
       </action>
     </rule>
 
@@ -1167,14 +1329,6 @@
             </lu>
           </chunk>
         </out>
-        <let>
-          <var n="nbr_chunk"/>
-          <lit v=""/>
-        </let>
-        <let>
-          <var n="determiner"/>
-          <lit v=""/>
-        </let>
       </action>
     </rule>
 
@@ -1216,14 +1370,6 @@
             </lu>
           </chunk>
         </out>
-        <let>
-          <var n="nbr_chunk"/>
-          <lit v=""/>
-        </let>
-        <let>
-          <var n="determiner"/>
-          <lit v=""/>
-        </let>
       </action>
     </rule>
 
@@ -1260,7 +1406,7 @@
         </out>
       </action>
     </rule>
-    <rule comment="REGLA: DET NOM DET">
+    <rule comment="REGLA: DET NOM POSTDET">
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="nom"/>
@@ -1270,9 +1416,10 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
-        <call-macro n="canvi_postdet2">
+        <call-macro n="canvi_nom_postdet2">
           <with-param pos="1"/>
           <with-param pos="3"/>
+          <with-param pos="2"/>
         </call-macro>
         <out>
           <chunk name="det_nom" case="caseFirstWord">
