@@ -490,7 +490,10 @@
     <e lm="ko-òdinasyon"><i>ko-òdinasyon</i><par n="liv__n"/></e>
     <e lm="konpreyensyon"><i>konpreyensyon</i><par n="liv__n"/></e>
     <e lm="sòlda"><i>sòlda</i><par n="liv__n"/></e>
+    <e lm="solda" r="LR"><p><l>solda</l><r>sòlda</r></p><par n="liv__n"/></e>
     <e lm="bezwen"><i>bezwen</i><par n="liv__n"/></e>
+    <e lm="capital"><i>capital</i><par n="liv__n"/></e>
+    <e lm="lame"><i>lame</i><par n="liv__n"/></e>
     <e lm="sekretè"><i>sekretè</i><par n="liv__n"/></e>
     <e lm="omaj"><i>omaj</i><par n="liv__n"/></e>
     <e lm="avyon"><i>avyon</i><par n="liv__n"/></e>
@@ -709,6 +712,7 @@
     <e lm="vil"><i>vil</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="lib__adj"/></e>
+    <e lm="pwovizwa"><i>pwovizwa</i><par n="lib__adj"/></e>
     <e lm="difisil"><i>difisil</i><par n="lib__adj"/></e>
     <e lm="entènasyonal"><i>entènasyonal</i><par n="lib__adj"/></e>
     <e lm="miltinasyonal"><i>miltinasyonal</i><par n="lib__adj"/></e>
@@ -1990,7 +1994,9 @@
     <e lm="ko-òdone" r="LR"><p><l>ko-òdone</l><r>kowòdone</r></p><par n="chanje__vblex"/></e>
     <e lm="pwoteje"><i>pwoteje</i><par n="chanje__vblex"/></e>
     <e lm="etabli"><i>etabli</i><par n="chanje__vblex"/></e>
+    <e lm="ogmante"><i>ogmante</i><par n="chanje__vblex"/></e>
     <e lm="kòmanse"><i>kòmanse</i><par n="chanje__vblex"/></e>
+    <e lm="komanse" r="LR"><p><l>komanse</l><r>kòmanse</r></p><par n="chanje__vblex"/></e>
     <e lm="fonde"><i>fonde</i><par n="chanje__vblex"/></e>
     <e lm="òganize"><i>òganize</i><par n="chanje__vblex"/></e>
     <e lm="patisipe"><i>patisipe</i><par n="chanje__vblex"/></e>

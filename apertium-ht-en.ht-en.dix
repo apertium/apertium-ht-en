@@ -114,6 +114,8 @@
     <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lame<s n="n"/></l><r>army<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>capital<s n="n"/></l><r>capital<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>papye<s n="n"/></l><r>papers<s n="n"/><s n="pl"/></r></p></e>
     <e><p><l>kòlèg<s n="n"/></l><r>colleague<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>televizyon<s n="n"/></l><r>television<s n="n"/></r></p><par n="ND"/></e>
@@ -360,6 +362,7 @@
     <e r="RL"><p><l>vil<s n="n"/></l><r>town<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="n"/></l><r>american<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
+    <e><p><l>pwovizwa<s n="adj"/></l><r>provisional<s n="adj"/></r></p></e>
     <e><p><l>difisil<s n="adj"/></l><r>difficult<s n="adj"/></r></p></e>
     <e><p><l>entènasyonal<s n="adj"/></l><r>international<s n="adj"/></r></p></e>
     <e><p><l>miltinasyonal<s n="adj"/></l><r>multinational<s n="adj"/></r></p></e>
@@ -1398,6 +1401,7 @@
     <e><p><l>soufri<s n="vblex"/></l><r>suffer<s n="vblex"/></r></p></e>
     <e><p><l>fonde<s n="vblex"/></l><r>found<s n="vblex"/></r></p></e>
     <e><p><l>kòmanse<s n="vblex"/></l><r>start<s n="vblex"/></r></p></e>
+    <e><p><l>ogmante<s n="vblex"/></l><r>increase<s n="vblex"/></r></p></e>
     <e><p><l>òganize<s n="vblex"/></l><r>organise<s n="vblex"/></r></p></e>
     <e><p><l>patisipe<s n="vblex"/></l><r>participate<s n="vblex"/></r></p></e>
     <e><p><l>vini<s n="vblex"/></l><r>come<s n="vblex"/></r></p></e>
