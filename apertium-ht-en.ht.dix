@@ -2259,7 +2259,11 @@
     <e lm="trantyèm"><i>trantyèm</i><par n="premye__det"/></e>
     <e lm="mwen"><i>mwen</i><par n="mwen__det"/></e>
     <e lm="ou"><i>ou</i><par n="mwen__det"/></e>
-    <e lm="w"><i>w</i><par n="mwen__det"/></e>
+    <e lm="w"><p><l>w</l><r>ou</r></p><par n="mwen__det"/></e>
+    <e lm="li"><i>li</i><par n="mwen__det"/></e>
+    <e lm="l"><p><l>l</l><r>li</r></p><par n="mwen__det"/></e>
+    <e lm="nou"><i>nou</i><par n="mwen__det"/></e>
+    <e lm="n"><p><l>n</l><r>nou</r></p><par n="mwen__det"/></e>
     <e lm="yon"><i>yon</i><par n="yon__det"/></e>
     <e lm="yon lòt"><i>yon<b/>lòt</i><par n="yon__det"/></e>
     <e lm="divès"><i>divès</i><par n="divès__det"/></e>
@@ -2478,6 +2482,15 @@
     <e lm="'lan" r="LR"><p><l>'lan</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
     <e lm="'an" r="LR"><p><l>'an</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
     <e lm="'nan" r="LR"><p><l>'nan</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
+
+    <e lm="-mwen" r="LR"><p><l>-mwen</l><r>mwen</r></p><par n="mwen__det"/></e>
+    <e lm="-m" r="LR"><p><l>-m</l><r>mwen</r></p><par n="mwen__det"/></e>
+    <e lm="-ou" r="LR"><p><l>-ou</l><r>ou</r></p><par n="mwen__det"/></e>
+    <e lm="-w" r="LR"><p><l>-w</l><r>ou</r></p><par n="mwen__det"/></e>
+    <e lm="-nou" r="LR"><p><l>-nou</l><r>nou</r></p><par n="mwen__det"/></e>
+    <e lm="-n" r="LR"><p><l>-n</l><r>nou</r></p><par n="mwen__det"/></e>
+    <e lm="-l" r="LR"><p><l>-l</l><r>li</r></p><par n="mwen__det"/></e>
+    <e lm="-li" r="LR"><p><l>-li</l><r>li</r></p><par n="mwen__det"/></e>
 
     <e lm="-yo" r="LR"><p><l>-yo</l><r>yo</r></p><par n="yo__postdet"/></e>
     <e lm="'yo" r="LR"><p><l>'yo</l><r>yo</r></p><par n="yo__postdet"/></e>

@@ -1382,7 +1382,10 @@
     <e><p><l>trantyèm<s n="det"/></l><r>thirtieth<s n="det"/></r></p></e>
     <e><p><l>mwen<s n="det"/></l><r>my<s n="det"/></r></p></e>
     <e><p><l>ou<s n="det"/></l><r>your<s n="det"/></r></p></e>
-    <e r="LR"><p><l>w<s n="det"/></l><r>your<s n="det"/></r></p></e>
+    <e><p><l>nou<s n="det"/></l><r>our<s n="det"/></r></p></e>
+    <e><p><l>li<s n="det"/></l><r>his<s n="det"/></r></p></e>
+    <e r="LR"><p><l>li<s n="det"/></l><r>her<s n="det"/></r></p></e>
+    <e r="LR"><p><l>li<s n="det"/></l><r>its<s n="det"/></r></p></e>
 
     <e><p><l>si<s n="cnjadv"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>lè<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
