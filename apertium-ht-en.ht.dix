@@ -476,6 +476,7 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="soukous"><i>soukous</i><par n="liv__n"/></e>
     <e lm="papye"><i>papye</i><par n="liv__n"/></e>
     <e lm="televizyon"><i>televizyon</i><par n="liv__n"/></e>
     <e lm="ekip"><i>ekip</i><par n="liv__n"/></e>
@@ -1983,6 +1984,7 @@
     <e lm="sèvi"><i>sèvi</i><par n="chanje__vblex"/></e>
     <e lm="soufri"><i>soufri</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
+    <e lm="frape"><i>frape</i><par n="chanje__vblex"/></e>
     <e lm="adore"><i>adore</i><par n="chanje__vblex"/></e>
     <e lm="vwayaje"><i>vwayaje</i><par n="chanje__vblex"/></e>
     <e lm="evalye"><i>evalye</i><par n="chanje__vblex"/></e>
@@ -2129,6 +2131,7 @@
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
     <e lm="dènye"><i>dènye</i><par n="premye__det"/></e>
     <e lm="dezyèm"><i>dezyèm</i><par n="premye__det"/></e>
+    <e lm="dezyem" r="LR"><p><l>dezyem</l><r>dezyèm</r></p><par n="premye__det"/></e>
     <e lm="twazyèm"><i>twazyèm</i><par n="premye__det"/></e>
     <e lm="trwazyèm"><i>trwazyèm</i><par n="premye__det"/></e>
     <e lm="katriyèm"><i>katriyèm</i><par n="premye__det"/></e>
