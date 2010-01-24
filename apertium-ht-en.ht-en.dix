@@ -1229,6 +1229,7 @@
     <e c="AutoCog"><p><l>kondanasyon<s n="n"/></l><r>condemnation<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>doulè<s n="n"/></l><r>pain<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>sèks<s n="n"/></l><r>sex<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>presizyon<s n="n"/></l><r>precision<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>bra<s n="n"/></l><r>arm<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>dyare<s n="n"/></l><r>diarrhoea<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>pwatrin<s n="n"/></l><r>chest<s n="n"/></r></p><par n="ND"/></e>
@@ -1420,6 +1421,7 @@
     <e><p><l>pale<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>parle<s n="vblex"/></l><r>speak<s n="vblex"/></r></p></e>
     <e><p><l>mache<s n="vblex"/></l><r>walk<s n="vblex"/></r></p></e>
+    <e c="or beg, request, require, wonder"><p><l>mande<s n="vblex"/></l><r>ask<s n="vblex"/></r></p></e>
     <e><p><l>mete<s n="vblex"/></l><r>put<b/>on<s n="vblex"/></r></p></e>
     <e><p><l>ede<s n="vblex"/></l><r>help<s n="vblex"/></r></p></e>
     <e><p><l>egzamine<s n="vblex"/></l><r>examine<s n="vblex"/></r></p></e>
@@ -1454,6 +1456,21 @@
     <e><p><l>negosye<s n="vblex"/></l><r>negotiate<s n="vblex"/></r></p></e>
     <e><p><l>garanti<s n="vblex"/></l><r>guarantee<s n="vblex"/></r></p></e>
     <e><p><l>jwenn<s n="vblex"/></l><r>find<s n="vblex"/></r></p></e>
+    <e><p><l>viv<s n="vblex"/></l><r>live<s n="vblex"/></r></p></e>
+    <e><p><l>vyeyi<s n="vblex"/></l><r>age<s n="vblex"/></r></p></e>
+    <e><p><l>voye<b/>ale<s n="vblex"/></l><r>dismiss<s n="vblex"/></r></p></e>
+    <e><p><l>voye<b/>jete<s n="vblex"/></l><r>throw<b/>away<s n="vblex"/></r></p></e>
+    <e><p><l>vwayaj<s n="vblex"/></l><r>travel<s n="vblex"/></r></p></e>
+    <e><p><l>vomi<s n="vblex"/></l><r>vomit<s n="vblex"/></r></p></e>
+    <e><p><l>vyole<s n="vblex"/></l><r>violate<s n="vblex"/></r></p></e>
+    <e><p><l>visite<s n="vblex"/></l><r>visit<s n="vblex"/></r></p></e>
+    <e><p><l>vag<s n="vblex"/></l><r>wave<s n="vblex"/></r></p></e>
+    <e><p><l>vwayaje<s n="vblex"/></l><r>travel<s n="vblex"/></r></p></e>
+    <e><p><l>vaksinen<s n="vblex"/></l><r>vaccinate<s n="vblex"/></r></p></e>
+    <e><p><l>volè<s n="vblex"/></l><r>steal<s n="vblex"/></r></p></e>
+    <e><p><l>vole<s n="vblex"/></l><r>fly<s n="vblex"/></r></p></e>
+    <e><p><l>vote<s n="vblex"/></l><r>vote<s n="vblex"/></r></p></e>
+    <e><p><l>voye<s n="vblex"/></l><r>send<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
@@ -1505,6 +1522,7 @@
     <e><p><l>etranje<s n="adj"/></l><r>foreign<s n="adj"/></r></p></e>
     <e><p><l>moun<s n="adj"/></l><r>human<s n="adj"/></r></p></e>
     <e><p><l>tris<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>mwatye<s n="adj"/></l><r>half<s n="adj"/></r></p></e>
     <e><p><l>gwo<s n="adj"/></l><r>large<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>vivan<s n="adj"/></l><r>living<s n="adj"/></r></p></e>
     <e><p><l>viral<s n="adj"/></l><r>viral<s n="adj"/></r></p></e>
@@ -1673,6 +1691,7 @@
     <e><p><l>rezilta<s n="n"/></l><r>result<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>kolonbyen<s n="n"/></l><r>columbian<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>kolonbyen<s n="adj"/></l><r>columbian<s n="adj"/></r></p></e>
+    <e c="or big"><p><l>gran<s n="adj"/></l><r>great<s n="adj"/></r></p></e>
     <e><p><l>major<s n="adj"/></l><r>major<s n="adj"/></r></p></e>
     <e><p><l>major<b/>jeneral<s n="adj"/></l><r>major<b/>general<s n="adj"/></r></p></e>
     <e c="AutoCog"><p><l>abondans<s n="n"/></l><r>abundance<s n="n"/></r></p><par n="ND"/></e>
@@ -1818,6 +1837,7 @@
     <e><p><l>direkteman<s n="adv"/></l><r>directly<s n="adv"/></r></p></e>
     <e><p><l>nan<b/>apremidi<s n="adv"/></l><r>in<b/>the<b/>afternoon<s n="adv"/></r></p></e>
     <e><p><l>kounye<b/>a<s n="adv"/></l><r>right<b/>now<s n="adv"/></r></p></e>
+    <e><p><l>mwatye<s n="adv"/></l><r>mwatye<s n="adv"/></r></p></e>
     <e><p><l>bokou<b/>pli<s n="adv"/></l><r>much<b/>more<s n="adv"/></r></p></e>
     <e><p><l>pa<s n="adv"/></l><r>not<s n="adv"/></r></p></e>
     <e><p><l>lontan<s n="adv"/></l><r>for<b/>a<b/>long<b/>time<s n="adv"/></r></p></e>

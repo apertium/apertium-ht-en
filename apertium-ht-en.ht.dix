@@ -494,6 +494,7 @@
     <e lm="gwoup"><i>gwoup</i><par n="liv__n"/></e>
     <e lm="populasyon"><i>populasyon</i><par n="liv__n"/></e>
     <e lm="stati"><i>stati</i><par n="liv__n"/></e>
+    <e lm="statu" r="LR"><p><l>statu</l><r>stati</r></p><par n="liv__n"/></e>
     <e lm="entèvyou"><i>entèvyou</i><par n="liv__n"/></e>
     <e lm="palè"><i>palè</i><par n="liv__n"/></e>
     <e lm="lopital"><i>lopital</i><par n="liv__n"/></e>
@@ -1783,6 +1784,7 @@
     <e lm="kote"><i>kote</i><par n="liv__n"/></e>
     <e lm="rezilta"><i>rezilta</i><par n="liv__n"/></e>
     <e lm="kolonbyen"><i>kolonbyen</i><par n="liv__n"/></e>
+    <e lm="presizyon"><i>presizyon</i><par n="liv__n"/></e>
     <e lm="kolonbyen"><i>kolonbyen</i><par n="lib__adj"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
@@ -1948,6 +1950,7 @@
     <e lm="tantativ"><i>tantativ</i><par n="lib__adj"/></e>
     <e lm="vendikatif"><i>vendikatif</i><par n="lib__adj"/></e>
     <e lm="ameriken"><i>ameriken</i><par n="lib__adj"/></e>
+    <e lm="mwatye"><i>mwatye</i><par n="lib__adj"/></e>
 
     <e lm="ki"><i>ki</i><par n="ki__rel"/></e>
     <e lm="kisa"><i>kisa</i><par n="ki__rel"/></e>
@@ -1974,6 +1977,7 @@
     <e lm="bay"><i>bay</i><par n="chanje__vblex"/></e>
     <e lm="fè"><i>fè</i><par n="chanje__vblex"/></e>
     <e lm="fè bak"><i>fè<b/>bak</i><par n="chanje__vblex"/></e>
+    <e lm="fe bak"><p><l>fe<b/>bak</l><r>fè<b/>bak</r></p><par n="chanje__vblex"/></e>
     <e lm="rekile"><i>rekile</i><par n="chanje__vblex"/></e>
     <e lm="reflete"><i>reflete</i><par n="chanje__vblex"/></e>
     <e lm="achte"><i>achte</i><par n="chanje__vblex"/></e>
@@ -2012,6 +2016,7 @@
     <e lm="pale"><i>pale</i><par n="chanje__vblex"/></e>
     <e lm="parle"><i>parle</i><par n="chanje__vblex"/></e>
     <e lm="mache"><i>mache</i><par n="chanje__vblex"/></e>
+    <e lm="mande"><i>mande</i><par n="chanje__vblex"/></e>
     <e lm="wè"><i>wè</i><par n="chanje__vblex"/></e>
     <e lm="mete"><i>mete</i><par n="chanje__vblex"/></e>
     <e lm="egzamine"><i>egzamine</i><par n="chanje__vblex"/></e>
@@ -2045,6 +2050,21 @@
     <e lm="negosye"><i>negosye</i><par n="chanje__vblex"/></e>
     <e lm="garanti"><i>garanti</i><par n="chanje__vblex"/></e>
     <e lm="jwenn"><i>jwenn</i><par n="chanje__vblex"/></e>
+    <e lm="viv"><i>viv</i><par n="chanje__vblex"/></e>
+    <e lm="vyeyi"><i>vyeyi</i><par n="chanje__vblex"/></e>
+    <e lm="voye"><i>voye<b/>ale</i><par n="chanje__vblex"/></e>
+    <e lm="voye"><i>voye<b/>jete</i><par n="chanje__vblex"/></e>
+    <e lm="vwayaj"><i>vwayaj</i><par n="chanje__vblex"/></e>
+    <e lm="vomi"><i>vomi</i><par n="chanje__vblex"/></e>
+    <e lm="vyole"><i>vyole</i><par n="chanje__vblex"/></e>
+    <e lm="visite"><i>visite</i><par n="chanje__vblex"/></e>
+    <e lm="vag"><i>vag</i><par n="chanje__vblex"/></e>
+    <e lm="vwayaje"><i>vwayaje</i><par n="chanje__vblex"/></e>
+    <e lm="vaksinen"><i>vaksinen</i><par n="chanje__vblex"/></e>
+    <e lm="volè"><i>volè</i><par n="chanje__vblex"/></e>
+    <e lm="vole"><i>vole</i><par n="chanje__vblex"/></e>
+    <e lm="vote"><i>vote</i><par n="chanje__vblex"/></e>
+    <e lm="voye"><i>voye</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -2131,6 +2151,7 @@
     <e lm="vèbalman"><i>vèbalman</i><par n="isit__adv"/></e>
     <e lm="vètikalman"><i>vètikalman</i><par n="isit__adv"/></e>
     <e lm="kounye a"><i>kounye<b/>a</i><par n="isit__adv"/></e>
+    <e lm="mwatye"><i>mwatye</i><par n="isit__adv"/></e>
 
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
     <e lm="dènye"><i>dènye</i><par n="premye__det"/></e>
