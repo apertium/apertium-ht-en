@@ -111,6 +111,9 @@
     <e r="LR"><p><l>la<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>teren<s n="n"/></l><r>ground<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>chèf<s n="n"/></l><r>chief<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>asistan<s n="n"/></l><r>assistant<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>listwa<s n="n"/></l><r>history<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>anplwaye<s n="n"/></l><r>employee<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>soukous<s n="n"/></l><r>shock<s n="n"/></r></p><par n="ND"/></e>
@@ -1295,6 +1298,8 @@
     <e><p><l>Noe<s n="np"/></l><r>Noah<s n="np"/></r></p></e>
     <e><p><l>Robert<s n="np"/></l><r>Robert<s n="np"/></r></p></e>
     <e><p><l>Mark<s n="np"/></l><r>Mark<s n="np"/></r></p></e>
+    <e><p><l>Alain<s n="np"/></l><r>Alain<s n="np"/></r></p></e>
+    <e><p><l>Luis<s n="np"/></l><r>Luis<s n="np"/></r></p></e>
     <e><p><l>Barack<s n="np"/></l><r>Barack<s n="np"/></r></p></e>
     <e><p><l>Bondye<s n="np"/></l><r>Yahweh<s n="np"/></r></p></e>
     <e><p><l>Abram<s n="np"/></l><r>Abram<s n="np"/></r></p></e>

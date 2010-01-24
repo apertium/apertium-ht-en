@@ -490,6 +490,9 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="teren"><i>teren</i><par n="liv__n"/></e>
+    <e lm="chèf"><i>chèf</i><par n="liv__n"/></e>
+    <e lm="asistan"><i>asistan</i><par n="liv__n"/></e>
     <e lm="listwa"><i>listwa</i><par n="liv__n"/></e>
     <e lm="anplwaye"><i>anplwaye</i><par n="liv__n"/></e>
     <e lm="soukous"><i>soukous</i><par n="liv__n"/></e>
@@ -2269,6 +2272,8 @@
 
     <e lm="Noe"><i>Noe</i><par n="Noe__np"/></e>
     <e lm="Mark"><i>Mark</i><par n="Noe__np"/></e>
+    <e lm="Alain"><i>Alain</i><par n="Noe__np"/></e>
+    <e lm="Luis"><i>Luis</i><par n="Noe__np"/></e>
     <e lm="Robert"><i>Robert</i><par n="Noe__np"/></e>
     <e lm="Pyè"><i>Pyè</i><par n="Noe__np"/></e>
     <e lm="Pierre"><i>Pierre</i><par n="Noe__np"/></e>
