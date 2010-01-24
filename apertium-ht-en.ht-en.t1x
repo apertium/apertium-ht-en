@@ -33,7 +33,7 @@
     </def-cat>
     <def-cat n="postdet">
       <cat-item tags="postdet"/>
-      <cat-item tags="postdet"/>
+      <cat-item tags="postdet.*"/>
       <cat-item lemma="sa" tags="det.dem.*"/>
     </def-cat>
     <def-cat n="det">

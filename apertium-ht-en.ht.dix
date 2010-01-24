@@ -296,11 +296,41 @@
         </p>
       </e>
     </pardef>
-    <pardef n="la__postdet">
-      <e>
+    <pardef n="/la__postdet">
+      <e r="RL">
         <p>
-          <l></l>
-          <r><s n="postdet"/><s n="ind"/><s n="sp"/></r>
+          <l><a/>la</l>
+          <r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>la</l>
+          <r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>lan</l>
+          <r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>a</l>
+          <r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>an</l>
+          <r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>nan</l>
+          <r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r>
         </p>
       </e>
     </pardef>
@@ -2183,11 +2213,7 @@
     <e lm="kont"><i>kont</i><par n="anpil__det"/></e>
     <e lm="sa"><i>sa</i><par n="sa__det"/></e>
 
-    <e lm="la"><i>la</i><par n="la__postdet"/></e>
-    <e lm="a"><i>a</i><par n="la__postdet"/></e>
-    <e lm="lan"><i>lan</i><par n="la__postdet"/></e>
-    <e lm="an"><i>an</i><par n="la__postdet"/></e>
-    <e lm="nan"><i>nan</i><par n="la__postdet"/></e>
+    <e lm="la"><i></i><par n="/la__postdet"/></e>
     <e lm="yo"><i>yo</i><par n="yo__postdet"/></e>
 
     <e lm="Ayiti"><i>Ayiti</i><par n="Ayiti__np"/></e>
@@ -2373,17 +2399,18 @@
     <e lm="an'"><p><l>an'</l><r>an<s n="pr"/></r></p></e>
   </section>
   <section id="postdets" type="preblank">
-    <e lm="-la" r="LR"><p><l>-la</l><r>la</r></p><par n="la__postdet"/></e>
-    <e lm="-a" r="LR"><p><l>-a</l><r>a</r></p><par n="la__postdet"/></e>
-    <e lm="-lan" r="LR"><p><l>-lan</l><r>lan</r></p><par n="la__postdet"/></e>
-    <e lm="-an" r="LR"><p><l>-an</l><r>an</r></p><par n="la__postdet"/></e>
-    <e lm="-nan" r="LR"><p><l>-nan</l><r>nan</r></p><par n="la__postdet"/></e>
+    <e lm="-la" r="LR"><p><l>-la</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
+    <e lm="-a" r="LR"><p><l>-a</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
+    <e lm="-lan" r="LR"><p><l>-lan</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
+    <e lm="-an" r="LR"><p><l>-an</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
+    <e lm="-nan" r="LR"><p><l>-nan</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
+    <e lm="'la" r="LR"><p><l>'la</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
+    <e lm="'a" r="LR"><p><l>'a</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
+    <e lm="'lan" r="LR"><p><l>'lan</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
+    <e lm="'an" r="LR"><p><l>'an</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
+    <e lm="'nan" r="LR"><p><l>'nan</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
+
     <e lm="-yo" r="LR"><p><l>-yo</l><r>yo</r></p><par n="yo__postdet"/></e>
-    <e lm="'la" r="LR"><p><l>'la</l><r>la</r></p><par n="la__postdet"/></e>
-    <e lm="'a" r="LR"><p><l>'a</l><r>a</r></p><par n="la__postdet"/></e>
-    <e lm="'lan" r="LR"><p><l>'lan</l><r>lan</r></p><par n="la__postdet"/></e>
-    <e lm="'an" r="LR"><p><l>'an</l><r>an</r></p><par n="la__postdet"/></e>
-    <e lm="'nan" r="LR"><p><l>'nan</l><r>nan</r></p><par n="la__postdet"/></e>
     <e lm="'yo" r="LR"><p><l>'yo</l><r>yo</r></p><par n="yo__postdet"/></e>
   </section>
   <section id="punct" type="inconditional">

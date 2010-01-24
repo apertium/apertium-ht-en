@@ -109,10 +109,6 @@
     <e><p><l>sa<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
     <e r="LR"><p><l>yo<s n="postdet"/><s n="def"/><s n="pl"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
     <e r="LR"><p><l>la<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>a<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>lan<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>nan<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
-    <e r="LR"><p><l>an<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>soukous<s n="n"/></l><r>shock<s n="n"/></r></p><par n="ND"/></e>
@@ -205,7 +201,7 @@
     <e><p><l>manje<s n="n"/></l><r>food<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>lanp<s n="n"/></l><r>lamp<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>bank<s n="n"/></l><r>bank<s n="n"/></r></p><par n="ND"/></e>
-    <e><p><l>mi<s n="n"/></l><r>wal<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>mi<s n="n"/></l><r>wall<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>chien<s n="n"/></l><r>dog<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>pon<s n="n"/></l><r>bridge<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>telefòn<s n="n"/></l><r>telephone<s n="n"/></r></p><par n="ND"/></e>

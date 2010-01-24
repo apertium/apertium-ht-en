@@ -1217,7 +1217,7 @@
 
     <pardef n="the__det">
 
-    <e r="LR">
+    <e>
       <p>
         <l></l>
         <r><s n="det"/><s n="def"/><s n="sp"/></r>
