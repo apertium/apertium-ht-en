@@ -488,6 +488,7 @@
     <e lm="komunikasyon"><i>komunikasyon</i><par n="liv__n"/></e>
     <e lm="rotasyon"><i>rotasyon</i><par n="liv__n"/></e>
     <e lm="situyasyon"><i>situyasyon</i><par n="liv__n"/></e>
+    <e lm="sityasyon" r="LR"><p><l>sityasyon</l><r>situyasyon</r></p><par n="liv__n"/></e>
     <e lm="ko-òdinasyon"><i>ko-òdinasyon</i><par n="liv__n"/></e>
     <e lm="konpreyensyon"><i>konpreyensyon</i><par n="liv__n"/></e>
     <e lm="sòlda"><i>sòlda</i><par n="liv__n"/></e>
@@ -1984,6 +1985,7 @@
     <e lm="sèvi"><i>sèvi</i><par n="chanje__vblex"/></e>
     <e lm="soufri"><i>soufri</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
+    <e lm="diskite"><i>diskite</i><par n="chanje__vblex"/></e>
     <e lm="frape"><i>frape</i><par n="chanje__vblex"/></e>
     <e lm="adore"><i>adore</i><par n="chanje__vblex"/></e>
     <e lm="vwayaje"><i>vwayaje</i><par n="chanje__vblex"/></e>
