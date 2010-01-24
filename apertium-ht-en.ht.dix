@@ -1991,6 +1991,7 @@
     <e lm="vwayaje"><i>vwayaje</i><par n="chanje__vblex"/></e>
     <e lm="evalye"><i>evalye</i><par n="chanje__vblex"/></e>
     <e lm="reyuni"><i>reyuni</i><par n="chanje__vblex"/></e>
+    <e lm="reyini" r="LR"><p><l>reyini</l><r>reyuni</r></p><par n="chanje__vblex"/></e>
     <e lm="tradui"><i>tradui</i><par n="chanje__vblex"/></e>
     <e lm="tradwi" r="LR"><p><l>tradwi</l><r>tradui</r></p><par n="chanje__vblex"/></e>
     <e lm="eksplike"><i>eksplike</i><par n="chanje__vblex"/></e>
