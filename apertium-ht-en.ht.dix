@@ -515,6 +515,7 @@
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
     <e lm="dlo"><i>dlo</i><par n="liv__n"/></e>
+    <e lm="tant"><i>tant</i><par n="liv__n"/></e>
     <e lm="madmwazèl"><i>madmwazèl</i><par n="liv__n"/></e>
     <e lm="klas"><i>klas</i><par n="liv__n"/></e>
     <e lm="livrezon"><i>livrezon</i><par n="liv__n"/></e>
@@ -2037,6 +2038,8 @@
     <e lm="si"><i>si</i><par n="si__cnjadv"/></e>
     <e lm="lè"><i>lè</i><par n="si__cnjadv"/></e>
     <e lm="pouri ke"><i>pouri<b/>ke</i><par n="si__cnjadv"/></e>
+    <e lm="paske"><i>paske</i><par n="si__cnjadv"/></e>
+    <e lm="akòz"><i>akòz</i><par n="si__cnjadv"/></e>
 
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
     <e lm="okenn"><i>okenn</i><par n="okenn__prn"/></e>
@@ -2114,6 +2117,7 @@
     <e lm="jwe"><i>jwe</i><par n="chanje__vblex"/></e>
     <e lm="antre"><i>antre</i><par n="chanje__vblex"/></e>
     <e lm="dòmi"><i>dòmi</i><par n="chanje__vblex"/></e>
+    <e lm="kouche"><i>kouche</i><par n="chanje__vblex"/></e>
     <e lm="etidye"><i>etidye</i><par n="chanje__vblex"/></e>
     <e lm="li"><i>li</i><par n="chanje__vblex"/></e>
     <e lm="di"><i>di</i><par n="chanje__vblex"/></e>
@@ -2193,6 +2197,7 @@
     <e lm="trè"><i>trè</i><par n="pi__preadv"/></e>
 
     <e lm="isit"><i>isit</i><par n="isit__adv"/></e>
+    <e lm="soutou"><i>soutou</i><par n="isit__adv"/></e>
     <e lm="tanpri"><i>tanpri</i><par n="isit__adv"/></e>
     <e lm="anba"><i>anba</i><par n="isit__adv"/></e>
     <e lm="grav"><i>grav</i><par n="isit__adv"/></e>

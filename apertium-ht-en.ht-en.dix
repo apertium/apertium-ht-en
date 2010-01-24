@@ -114,6 +114,7 @@
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>dlo<s n="n"/></l><r>water<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>tant<s n="n"/></l><r>tent<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>klas<s n="n"/></l><r>class<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>madmwazèl<s n="n"/></l><r>miss<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>zòn<s n="n"/></l><r>zone<s n="n"/></r></p><par n="ND"/></e>
@@ -1395,6 +1396,8 @@
     <e><p><l>si<s n="cnjadv"/></l><r>if<s n="cnjsub"/></r></p></e>
     <e><p><l>lè<s n="cnjadv"/></l><r>when<s n="cnjadv"/></r></p></e>
     <e><p><l>pouri<b/>ke<s n="cnjadv"/></l><r>provided<b/>that<s n="cnjadv"/></r></p></e>
+    <e><p><l>paske<s n="cnjadv"/></l><r>because<s n="cnjadv"/></r></p></e>
+    <e r="LR"><p><l>akòz<s n="cnjadv"/></l><r>because<s n="cnjadv"/></r></p></e>
 
     <e><p><l>vle<s n="vbmod"/></l><r>want<g><b/>to</g><s n="vbmod"/></r></p></e>
     <e><p><l>ka<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
@@ -1461,6 +1464,7 @@
     <e><p><l>jwe<s n="vblex"/></l><r>play<s n="vblex"/></r></p></e>
     <e><p><l>antre<s n="vblex"/></l><r>enter<s n="vblex"/></r></p></e>
     <e><p><l>dòmi<s n="vblex"/></l><r>sleep<s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>kouche<s n="vblex"/></l><r>sleep<s n="vblex"/></r></p></e>
     <e><p><l>koute<s n="vblex"/></l><r>cost<s n="vblex"/></r></p></e>
     <e><p><l>etidye<s n="vblex"/></l><r>study<s n="vblex"/></r></p></e>
     <e><p><l>li<s n="vblex"/></l><r>read<s n="vblex"/></r></p></e>
@@ -1879,6 +1883,7 @@
     <e><p><l>trè<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
     <e><p><l>isit<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>soutou<s n="adv"/></l><r>above<b/>all<s n="adv"/></r></p></e>
     <e><p><l>tanpri<s n="adv"/></l><r>please<s n="adv"/></r></p></e>
     <e><p><l>anba<s n="adv"/></l><r>down<s n="adv"/></r></p></e>
     <e><p><l>depi<s n="adv"/></l><r>since<s n="adv"/></r></p></e>
