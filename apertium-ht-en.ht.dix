@@ -476,6 +476,7 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="papye"><i>papye</i><par n="liv__n"/></e>
     <e lm="televizyon"><i>televizyon</i><par n="liv__n"/></e>
     <e lm="ekip"><i>ekip</i><par n="liv__n"/></e>
     <e lm="fraz"><i>fraz</i><par n="liv__n"/></e>
@@ -2181,6 +2182,7 @@
     <e lm="Lezetazini" r="LR"><p><l>Lezetazini</l><r>Etazini</r></p><par n="Ayiti__np"/></e>
     <e lm="Lezetazuni" r="LR"><p><l>Lezetazuni</l><r>Etazini</r></p><par n="Ayiti__np"/></e>
     <e lm="Etazuni" r="LR"><p><l>Etazuni</l><r>Etazini</r></p><par n="Ayiti__np"/></e>
+    <e lm="Eztazini" r="LR"><p><l>Eztazini</l><r>Etazini</r></p><par n="Ayiti__np"/></e>
     <e lm="Etazini"><i>Etazini</i><par n="Ayiti__np"/></e>
     <e lm="Lejip"><i>Lejip</i><par n="Ayiti__np"/></e>
     <e lm="Bètleyèm"><i>Bètleyèm</i><par n="Ayiti__np"/></e>
