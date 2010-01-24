@@ -55,27 +55,6 @@
     <sdef n="pres"/>
   </sdefs>
   <pardefs>
-    <pardef n="S__yo">
-      <e>
-        <p>
-          <l>-yo</l>
-          <r><j/>yo<s n="postdet"/><s n="def"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e r="LR">
-        <p>
-          <l>'yo</l>
-          <r><j/>yo<s n="postdet"/><s n="def"/><s n="pl"/></r>
-        </p>
-      </e>
-      <e r="LR">
-        <p>
-          <l><b/>yo</l>
-          <r><j/>yo<s n="postdet"/><s n="def"/><s n="pl"/></r>
-        </p>
-      </e>
-
-    </pardef>   
     <pardef n="e__cnjcoo">
       <e>
         <p>
@@ -100,13 +79,6 @@
           <r><s n="n"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="n"/></r>
-        </p>
-        <par n="S__yo"/>
-      </e>
     </pardef>
     <pardef n="lib__adj">
       <e>
@@ -114,13 +86,6 @@
           <l></l>
           <r><s n="adj"/></r>
         </p>
-      </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="adj"/></r>
-        </p>
-        <par n="S__yo"/> 
       </e>
     </pardef>
     <pardef n="en__num">
@@ -232,13 +197,6 @@
           <r><s n="np"/><s n="top"/></r>
         </p>
       </e>
-      <e>
-        <p>
-          <l></l>
-          <r><s n="np"/><s n="top"/></r>
-        </p>
-        <par n="S__yo"/>
-      </e>
     </pardef>
     <pardef n="Obama__np">
       <e>
@@ -312,6 +270,12 @@
       <e r="LR">
         <p>
           <l>-yo</l>
+          <r><s n="det"/><s n="dem"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>'yo</l>
           <r><s n="det"/><s n="dem"/><s n="pl"/></r>
         </p>
       </e>
@@ -2389,6 +2353,12 @@
     <e lm="-an" r="LR"><p><l>-an</l><r>an</r></p><par n="la__postdet"/></e>
     <e lm="-nan" r="LR"><p><l>-nan</l><r>nan</r></p><par n="la__postdet"/></e>
     <e lm="-yo" r="LR"><p><l>-yo</l><r>yo</r></p><par n="yo__postdet"/></e>
+    <e lm="'la" r="LR"><p><l>'la</l><r>la</r></p><par n="la__postdet"/></e>
+    <e lm="'a" r="LR"><p><l>'a</l><r>a</r></p><par n="la__postdet"/></e>
+    <e lm="'lan" r="LR"><p><l>'lan</l><r>lan</r></p><par n="la__postdet"/></e>
+    <e lm="'an" r="LR"><p><l>'an</l><r>an</r></p><par n="la__postdet"/></e>
+    <e lm="'nan" r="LR"><p><l>'nan</l><r>nan</r></p><par n="la__postdet"/></e>
+    <e lm="'yo" r="LR"><p><l>'yo</l><r>yo</r></p><par n="yo__postdet"/></e>
   </section>
   <section id="punct" type="inconditional">
     <e lm="."><p><l>.</l><r>.<s n="sent"/></r></p></e>
