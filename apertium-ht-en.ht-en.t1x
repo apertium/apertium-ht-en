@@ -89,6 +89,10 @@
       <cat-item lemma="pral" tags="part"/>
       <cat-item lemma="ta" tags="part"/>
     </def-cat>
+    <def-cat n="ka">
+      <!-- should this be in the above (part)? -->
+      <cat-item lemma="ka" tags="vaux"/>
+    </def-cat>
 
 
     <!-- Lexicalised categories -->
@@ -204,10 +208,11 @@
   <section-def-lists>
     <def-list n="stative">
       <!-- alternative: tag in ht.dix; then we could also mark one
-           verb (eg. 'consider') as both stative and dynamic and
+           verb (eg. 'consider', 'speak') as both stative and dynamic and
            disambiguate -->
       <list-item v="consider"/>
       <list-item v="exist"/>
+      <list-item v="speak"/>
       <list-item v="know"/>
       <list-item v="love"/>
     </def-list>
@@ -2214,6 +2219,76 @@
           <var n="adv_adjectiu"/>
           <lit v=""/>
         </let>
+      </action>
+    </rule>
+    <rule comment="REGLA: PA + KA + VERB">
+      <pattern>
+        <pattern-item n="ka"/>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="vfin" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="inf"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_verb"/>
+              <!-- todo: surely not always pres.. -->
+              <lit-tag v="pres"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="2"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: PA + KA + VERB
+                   TODO: probably should use pa_aux, temps_chunk etc.?">
+      <pattern>
+        <pattern-item n="pa"/>
+        <pattern-item n="ka"/>
+        <pattern-item n="verb"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="vfin" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+              <tag><lit-tag v="pres"/></tag>
+            </tags>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_verb"/>
+              <lit-tag v="2"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <lit v="not"/>
+              <lit-tag v="adv"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="3" side="tl" part="lemh"/>
+              <clip pos="3" side="tl" part="a_verb"/>
+              <lit-tag v="inf"/>
+              <clip pos="3" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
       </action>
     </rule>
 
