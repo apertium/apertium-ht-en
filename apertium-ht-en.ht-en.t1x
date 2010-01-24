@@ -180,6 +180,15 @@
     <def-var n="tipusverb"/>
   </section-def-vars>
   <section-def-lists>
+    <def-list n="stative">
+      <!-- alternative: tag in ht.dix; then we could also mark one
+           verb (eg. 'consider') as both stative and dynamic and
+           disambiguate -->
+      <list-item v="consider"/>
+      <list-item v="exist"/>
+      <list-item v="know"/>
+      <list-item v="love"/>
+    </def-list>
     <def-list n="en_majuscules">
       <list-item v="Monday"/>
       <list-item v="Tuesday"/>
@@ -191,6 +200,30 @@
     </def-list>
   </section-def-lists>
   <section-def-macros>
+    <def-macro n="set_temps_chunk" npar="1"
+               c="Guess temps for lone verbs based on stative/dynamic.
+                  In the present non-progressive tense, one just uses the basic verb form for
+                  stative verbs. Note that when the basic form of action verbs is used without any
+                  verb markers, it is generally understood as referring to the past.">
+      <choose>
+        <when>
+          <test>
+            <in><clip pos="1" side="tl" part="lem"/><list n="stative"/></in>
+          </test>
+          <let>
+              <var n="temps_chunk"/>
+              <lit-tag v="pres"/>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+              <var n="temps_chunk"/>
+              <lit-tag v="past"/>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    
     <def-macro n="set_prn_type" npar="1">
 
       <choose>
@@ -1574,11 +1607,14 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="set_temps_chunk">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="verb">
             <tags>
               <tag><lit-tag v="SV"/></tag>
-              <tag><lit-tag v="pres"/></tag>
+              <tag><var n="temps_chunk"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
@@ -1602,11 +1638,14 @@
         <call-macro n="firstWord">
           <with-param pos="1"/>
         </call-macro>
+        <call-macro n="set_temps_chunk">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <chunk name="verb_verb">
             <tags>
               <tag><lit-tag v="SV"/></tag>
-              <tag><lit-tag v="pres"/></tag>
+              <tag><var n="temps_chunk"/></tag>
             </tags>
             <lu>
               <clip pos="1" side="tl" part="lemh"/>
