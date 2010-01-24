@@ -620,7 +620,11 @@
     <e lm="manman"><i>manman</i><par n="liv__n"/></e>
     <e lm="papa"><i>papa</i><par n="liv__n"/></e>
     <e lm="prezidan"><i>prezidan</i><par n="liv__n"/></e>
+    <e lm="pwezidan" r="LR"><p><l>pwezidan</l><r>prezidan</r></p><par n="liv__n"/></e>
+    <e lm="visprezidan"><i>visprezidan</i><par n="liv__n"/></e>
+    <e lm="vispwezidan" r="LR"><p><l>vispwezidan</l><r>visprezidan</r></p><par n="liv__n"/></e>
     <e lm="ansyen prezidan"><i>ansyen<b/>prezidan</i><par n="liv__n"/></e>
+    <e lm="ansyen pwezidan" r="LR"><p><l>ansyen<b/>pwezidan</l><r>ansyen<b/>prezidan</r></p><par n="liv__n"/></e>
     <e lm="repiblik"><i>repiblik</i><par n="liv__n"/></e>
     <e lm="stabilite"><i>stabilite</i><par n="liv__n"/></e>
     <e lm="sekirite"><i>sekirite</i><par n="liv__n"/></e>
