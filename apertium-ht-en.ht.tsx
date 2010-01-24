@@ -60,7 +60,7 @@
     <tags-item tags="np.cog.*"/>
   </def-label>
   <def-label name="TOPONIM">
-    <tags-item tags="np.top.*"/>
+    <tags-item tags="np.top"/>
   </def-label>
   <def-label name="NPALTRES">
     <tags-item tags="np.al.*"/>
@@ -127,8 +127,10 @@
     <label-item label="DETPOS"/>
   </label-sequence>
 </forbid>
+<!--
 <enforce-rules>
 </enforce-rules>
 <preferences>
 </preferences>
+-->
 </tagger>
