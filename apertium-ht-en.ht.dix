@@ -1971,6 +1971,7 @@
     <e lm="kapab"><i>kapab</i><par n="ka__vaux"/></e>
     <e lm="kap"><i>kap</i><par n="ka__vaux"/></e>
     <e lm="dwe"><i>dwe</i><par n="ka__vaux"/></e>
+    <e lm="mèt"><i>mèt</i><par n="ka__vaux"/></e>
 
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
     <e lm="pran"><i>pran</i><par n="chanje__vblex"/></e>
@@ -2299,6 +2300,7 @@
     <e lm="ke"><i>ke</i><par n="e__cnjcoo"/></e>
 
     <e lm="an"><i>an</i><par n="an__pr"/></e>
+    <e lm="alantou"><i>alantou</i><par n="an__pr"/></e>
     <e lm="asou"><i>asou</i><par n="an__pr"/></e>
     <e lm="anho"><i>anho</i><par n="an__pr"/></e>
     <e lm="anlè"><i>anlè</i><par n="an__pr"/></e>

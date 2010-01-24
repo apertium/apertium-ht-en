@@ -1379,6 +1379,7 @@
     <e r="LR"><p><l>kapab<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e r="LR"><p><l>kap<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>dwe<s n="vaux"/></l><r>must<s n="vaux"/></r></p></e>
+    <e><p><l>mèt<s n="vaux"/></l><r>might<s n="vaux"/></r></p></e>
     <e><p><l>gen<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
     <e r="LR"><p><l>genyen<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
 
@@ -1474,6 +1475,7 @@
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
+    <e><p><l>alantou<s n="pr"/></l><r>around<s n="pr"/></r></p></e>
     <e><p><l>san<s n="pr"/></l><r>without<s n="pr"/></r></p></e>
     <e><p><l>a<s n="pr"/></l><r>at<s n="pr"/></r></p></e>
     <e><p><l>aprè<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
