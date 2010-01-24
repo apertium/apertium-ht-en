@@ -539,6 +539,7 @@
     <e lm="idolatri"><i>idolatri</i><par n="liv__n"/></e>
     <e lm="lidolatri" r="LR"><p><l>lidolatri</l><r>idolatri</r></p><par n="liv__n"/></e>
     <e lm="lib"><i>lib</i><par n="liv__n"/></e>
+    <e lm="lwa"><i>lwa</i><par n="liv__n"/></e>
     <e lm="matematik"><i>matematik</i><par n="liv__n"/></e>
     <e lm="fizik"><i>fizik</i><par n="liv__n"/></e>
     <e lm="biyoloji"><i>biyoloji</i><par n="liv__n"/></e>
@@ -1799,10 +1800,18 @@
     <e lm="sòs"><i>sòs</i><par n="liv__n"/></e>
     <e lm="pwason"><i>pwason</i><par n="liv__n"/></e>
     <e lm="jeneral"><i>jeneral</i><par n="liv__n"/></e>
-    <e lm="general"><i>general</i><par n="liv__n"/></e>
+    <e lm="general" r="LR"><p><l>general</l><r>jeneral</r></p><par n="liv__n"/></e>
+    <e lm="kolonèl"><i>kolonèl</i><par n="liv__n"/></e>
+    <e lm="major"><i>major</i><par n="liv__n"/></e>
+    <e lm="major jeneral"><i>major<b/>jeneral</i><par n="liv__n"/></e>
+    <e lm="major general" r="LR"><p><l>major<b/>general</l><r>major<b/>jeneral</r></p><par n="liv__n"/></e>
+    <e lm="komandè"><i>komandè</i><par n="liv__n"/></e>
     <e lm="koloni"><i>koloni</i><par n="liv__n"/></e>
     <e lm="kolizyon"><i>kolizyon</i><par n="liv__n"/></e>
     <e lm="kote"><i>kote</i><par n="liv__n"/></e>
+    <e lm="rezilta"><i>rezilta</i><par n="liv__n"/></e>
+    <e lm="kolonbyen"><i>kolonbyen</i><par n="liv__n"/></e>
+    <e lm="kolonbyen"><i>kolonbyen</i><par n="lib__adj"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
     <e lm="medikal"><i>medikal</i><par n="lib__adj"/></e>
@@ -2191,6 +2200,7 @@
     <e lm="Ewòp"><p><l>Ewòp</l><r>Ewòp</r></p><par n="Ayiti__np"/></e>
     <e lm="Azi"><i>Azi</i><par n="Ayiti__np"/></e>
     <e lm="Kiba"><i>Kiba</i><par n="Ayiti__np"/></e>
+    <e lm="Kiben" r="LR"><p><l>Kiben</l><r>Kiba</r></p><par n="Ayiti__np"/></e>
     <e lm="Edenn"><i>Edenn</i><par n="Ayiti__np"/></e>
     <e lm="Giyon"><i>Giyon</i><par n="Ayiti__np"/></e>
     <e lm="New York"><p><l>New<b/>York</l><r>Nouyòk</r></p><par n="Ayiti__np"/></e>
@@ -2272,6 +2282,10 @@
     <e lm="Gates"><i>Gates</i><par n="Obama__np"/></e>
     <e lm="Marino"><i>Marino</i><par n="Obama__np"/></e>
     <e lm="Ki-moon"><i>Ki-moon</i><par n="Obama__np"/></e>
+    <e lm="Clinton"><i>Clinton</i><par n="Obama__np"/></e>
+    <e lm="Klinntonn" r="LR"><p><l>Klinntonn</l><r>Clinton</r></p><par n="Obama__np"/></e>
+    <e lm="Bush"><i>Bush</i><par n="Obama__np"/></e>
+    <e lm="Cohen"><i>Cohen</i><par n="Obama__np"/></e>
 
     <e lm="Nasyon Zuni"><i>Nasyon<b/>Zuni</i><par n="Linux__np"/></e>
     <e lm="Nasyonzuni" r="LR"><p><l>Nasyonzuni</l><r>Nasyon<b/>Zuni</r></p><par n="Linux__np"/></e>
@@ -2313,6 +2327,7 @@
     <e lm="d"><i>d</i><par n="an__pr"/></e>
     <e lm="pou"><i>pou</i><par n="an__pr"/></e>
     <e lm="sou"><i>sou</i><par n="an__pr"/></e>
+    <e lm="kòm"><i>kòm</i><par n="an__pr"/></e>
 
     <e lm="zewo"><i>zewo</i><par n="en__num"/></e>
     <e lm="en"><i>en</i><par n="en__num"/></e>

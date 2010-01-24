@@ -160,6 +160,7 @@
     <e><p><l>ewo<s n="n"/></l><r>euro<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>dola<s n="n"/></l><r>dollar<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>idolatri<s n="n"/></l><r>idolatry<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>lwa<s n="n"/></l><r>law<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>lib<s n="n"/></l><r>pound<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>matematik<s n="n"/></l><r>mathematics<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>fizik<s n="n"/></l><r>physics<s n="n"/></r></p><par n="ND"/></e>
@@ -391,7 +392,8 @@
     <e><p><l>sòs<s n="n"/></l><r>sauce<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>pwason<s n="n"/></l><r>fish<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>jeneral<s n="n"/></l><r>general<s n="n"/></r></p><par n="ND"/></e>
-    <e r="LR"><p><l>general<s n="n"/></l><r>general<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kolonèl<s n="n"/></l><r>colonel<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>komandè<s n="n"/></l><r>commander<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>koloni<s n="n"/></l><r>colony<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>bwitich<s n="adj"/></l><r>british<s n="adj"/></r></p></e>
     <e><p><l>kolizyon<s n="n"/></l><r>collision<s n="n"/></r></p><par n="ND"/></e>
@@ -1314,6 +1316,9 @@
     <e><p><l>Marino<s n="np"/><s n="cog"/><s n="mf"/></l><r>Marino<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Gates<s n="np"/><s n="cog"/><s n="mf"/></l><r>Gates<s n="np"/><s n="cog"/></r></p></e>
     <e><p><l>Ki-moon<s n="np"/><s n="cog"/><s n="mf"/></l><r>Ki-moon<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Clinton<s n="np"/><s n="cog"/><s n="mf"/></l><r>Clinton<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Bush<s n="np"/><s n="cog"/><s n="mf"/></l><r>Bush<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>Cohen<s n="np"/><s n="cog"/><s n="mf"/></l><r>Cohen<s n="np"/><s n="cog"/></r></p></e>
 
     <e><p><l>Tant<b/>Randevou<s n="np"/></l><r>Tent<b/>of<b/>Meeting<s n="np"/></r></p></e>
     <e><p><l>Bwat<b/>Kontra<s n="np"/></l><r>Tabernacle<b/>of<b/>the<b/>Testimony<s n="np"/></r></p></e>
@@ -1473,6 +1478,7 @@
     <e r="RL"><p><l>pou<s n="pr"/></l><r>in<b/>order<b/>to<s n="pr"/></r></p></e>
     <e><p><l>pou<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
     <e><p><l>sou<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
+    <e><p><l>kòm<s n="pr"/></l><r>like<s n="pr"/></r></p></e>
 
     <e><p><l>lib<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
     <e><p><l>alèjik<s n="adj"/></l><r>allergic<s n="adj"/></r></p></e>
@@ -1664,6 +1670,11 @@
     <e><p><l>nasans<s n="n"/></l><r>birth<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>dat<b/>nasans<s n="n"/></l><r>date<g><b/>of<b/>birth</g><s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>peyi<b/>nasans<s n="n"/></l><r>country<g><b/>of<b/>birth</g><s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>rezilta<s n="n"/></l><r>result<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kolonbyen<s n="n"/></l><r>columbian<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kolonbyen<s n="adj"/></l><r>columbian<s n="adj"/></r></p></e>
+    <e><p><l>major<s n="adj"/></l><r>major<s n="adj"/></r></p></e>
+    <e><p><l>major<b/>jeneral<s n="adj"/></l><r>major<b/>general<s n="adj"/></r></p></e>
     <e c="AutoCog"><p><l>abondans<s n="n"/></l><r>abundance<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>absans<s n="n"/></l><r>absence<s n="n"/></r></p><par n="ND"/></e>
     <e c="AutoCog"><p><l>abstinans<s n="n"/></l><r>abstinence<s n="n"/></r></p><par n="ND"/></e>
