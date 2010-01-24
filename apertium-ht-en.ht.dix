@@ -764,6 +764,7 @@
     <e lm="sekirite"><i>sekirite</i><par n="lib__adj"/></e>
     <e lm="chè"><i>chè</i><par n="lib__adj"/></e>
     <e lm="disponib"><i>disponib</i><par n="lib__adj"/></e>
+    <e lm="veritab"><i>veritab</i><par n="lib__adj"/></e>
     <e lm="teknik"><i>teknik</i><par n="lib__adj"/></e>
     <e lm="sivil"><i>sivil</i><par n="lib__adj"/></e>
     <e lm="pwal"><i>pwal</i><par n="liv__n"/></e>
@@ -2041,6 +2042,7 @@
     <e lm="sèvi"><i>sèvi</i><par n="chanje__vblex"/></e>
     <e lm="soufri"><i>soufri</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
+    <e lm="pèmèt"><i>pèmèt</i><par n="chanje__vblex"/></e>
     <e lm="retire"><i>retire</i><par n="chanje__vblex"/></e>
     <e lm="netwaye"><i>netwaye</i><par n="chanje__vblex"/></e>
     <e lm="bloke"><i>bloke</i><par n="chanje__vblex"/></e>

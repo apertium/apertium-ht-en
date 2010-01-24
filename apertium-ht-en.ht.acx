@@ -9,4 +9,17 @@
   <char value="&#183;">
     <equiv-char value="."/>
   </char>
+
+  <!-- This doesn't make sense in Spanish, because diacritics are used to disambiguate (e.g. el / él),
+         but it might make sense in Haitian Creole... are there any disambiguations with diacritics ? -->
+
+  <char value="ò">
+    <equiv-char value="o"/>
+  </char>
+  <char value="à">
+    <equiv-char value="a"/>
+  </char>
+  <char value="è">
+    <equiv-char value="e"/>
+  </char>
 </analysis-chars>
