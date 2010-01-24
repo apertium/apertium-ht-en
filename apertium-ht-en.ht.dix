@@ -295,6 +295,18 @@
           <r><s n="det"/><s n="dem"/><s n="sg"/></r>
         </p>
       </e>
+      <e>
+        <p>
+          <l><b/>yo</l>
+          <r><s n="det"/><s n="dem"/><s n="pl"/></r>
+        </p>
+      </e>
+      <e r="LR">
+        <p>
+          <l>-yo</l>
+          <r><s n="det"/><s n="dem"/><s n="pl"/></r>
+        </p>
+      </e>
     </pardef>
     <pardef n="yon__det">
       <e>
