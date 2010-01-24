@@ -1096,6 +1096,54 @@
       </action>
     </rule>
 
+    <rule comment="REGLA: NOM ADJ POSTDET">
+      <pattern>
+        <pattern-item n="nom"/>
+        <pattern-item n="adj"/>
+        <pattern-item n="postdet"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="canvi_postdet1">
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="det_adj_nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="nbr_chunk"/></tag>
+            </tags>
+            <lu>
+              <var n="determiner"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_adj"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+            <b pos="2"/>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="nbr" link-to="2"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+        <let>
+          <var n="nbr_chunk"/>
+          <lit v=""/>
+        </let>
+        <let>
+          <var n="determiner"/>
+          <lit v=""/>
+        </let>
+      </action>
+    </rule>
+
     <rule comment="REGLA: NOM NP POSTDET">
       <pattern>
         <pattern-item n="nom"/>
