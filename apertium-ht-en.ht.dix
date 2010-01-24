@@ -490,6 +490,8 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="listwa"><i>listwa</i><par n="liv__n"/></e>
+    <e lm="anplwaye"><i>anplwaye</i><par n="liv__n"/></e>
     <e lm="soukous"><i>soukous</i><par n="liv__n"/></e>
     <e lm="papye"><i>papye</i><par n="liv__n"/></e>
     <e lm="televizyon"><i>televizyon</i><par n="liv__n"/></e>
@@ -708,6 +710,7 @@
     <e lm="je"><i>je</i><par n="liv__n"/></e>
     <e lm="kòlgat"><i>kòlgat</i><par n="liv__n"/></e>
     <e lm="kòlèg"><i>kòlèg</i><par n="liv__n"/></e>
+    <e lm="kòlèg" r="LR"><p><l>kòlèg</l><r>kòlèg</r></p><par n="liv__n"/></e> <!-- We need UTF normalisation -->
     <e lm="pat"><i>pat</i><par n="liv__n"/></e>
     <e lm="jilèt"><i>jilèt</i><par n="liv__n"/></e>
     <e lm="panpèz"><i>panpèz</i><par n="liv__n"/></e>
@@ -737,6 +740,7 @@
     <e lm="vil"><i>vil</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="lib__adj"/></e>
+    <e lm="blese"><i>blese</i><par n="lib__adj"/></e>
     <e lm="pwovizwa"><i>pwovizwa</i><par n="lib__adj"/></e>
     <e lm="difisil"><i>difisil</i><par n="lib__adj"/></e>
     <e lm="entènasyonal"><i>entènasyonal</i><par n="lib__adj"/></e>
@@ -2023,6 +2027,8 @@
     <e lm="sèvi"><i>sèvi</i><par n="chanje__vblex"/></e>
     <e lm="soufri"><i>soufri</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
+    <e lm="delivre"><i>delivre</i><par n="chanje__vblex"/></e>
+    <e lm="deplwaye"><i>deplwaye</i><par n="chanje__vblex"/></e>
     <e lm="diskite"><i>diskite</i><par n="chanje__vblex"/></e>
     <e lm="frape"><i>frape</i><par n="chanje__vblex"/></e>
     <e lm="adore"><i>adore</i><par n="chanje__vblex"/></e>
@@ -2128,6 +2134,7 @@
     <e lm="trè"><i>trè</i><par n="pi__preadv"/></e>
 
     <e lm="isit"><i>isit</i><par n="isit__adv"/></e>
+    <e lm="grav"><i>grav</i><par n="isit__adv"/></e>
     <e lm="pa"><i>pa</i><par n="isit__adv"/></e>
     <e lm="kont"><i>kont</i><par n="isit__adv"/></e>
     <e lm="egzakteman"><i>egzakteman</i><par n="isit__adv"/></e>

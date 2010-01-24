@@ -111,6 +111,8 @@
     <e r="LR"><p><l>la<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>listwa<s n="n"/></l><r>history<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>anplwaye<s n="n"/></l><r>employee<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>soukous<s n="n"/></l><r>shock<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>lame<s n="n"/></l><r>army<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>capital<s n="n"/></l><r>capital<s n="n"/></r></p><par n="ND"/></e>
@@ -363,6 +365,7 @@
     <e r="RL"><p><l>vil<s n="n"/></l><r>town<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="n"/></l><r>american<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>ameriken<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
+    <e><p><l>blese<s n="adj"/></l><r>wounded<s n="adj"/></r></p></e>
     <e><p><l>pwovizwa<s n="adj"/></l><r>provisional<s n="adj"/></r></p></e>
     <e><p><l>difisil<s n="adj"/></l><r>difficult<s n="adj"/></r></p></e>
     <e><p><l>entènasyonal<s n="adj"/></l><r>international<s n="adj"/></r></p></e>
@@ -1392,6 +1395,8 @@
     <e><p><l>manje<s n="vblex"/></l><r>eat<s n="vblex"/></r></p></e>
     <e><p><l>deside<s n="vblex"/></l><r>decide<s n="vblex"/></r></p></e>
     <e><p><l>ale<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
+    <e><p><l>delivre<s n="vblex"/></l><r>deliver<s n="vblex"/></r></p></e>
+    <e><p><l>deplwaye<s n="vblex"/></l><r>deploy<s n="vblex"/></r></p></e>
     <e><p><l>diskite<s n="vblex"/></l><r>discuss<s n="vblex"/></r></p></e>
     <e><p><l>frape<s n="vblex"/></l><r>hit<s n="vblex"/></r></p></e>
     <e><p><l>adore<s n="vblex"/></l><r>love<s n="vblex"/></r></p></e>
@@ -1830,6 +1835,7 @@
     <e><p><l>trè<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
     <e><p><l>isit<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>grav<s n="adv"/></l><r>seriously<s n="adv"/></r></p></e>
     <e><p><l>prese-prese<s n="adv"/></l><r>quickly<s n="adv"/></r></p></e>
     <e><p><l>egzakteman<s n="adv"/></l><r>exactly<s n="adv"/></r></p></e>
     <e><p><l>direkteman<s n="adv"/></l><r>directly<s n="adv"/></r></p></e>
