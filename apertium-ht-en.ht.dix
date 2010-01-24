@@ -1865,6 +1865,7 @@
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
     <e lm="amerikèn"><i>amerikèn</i><par n="lib__adj"/></e>
+    <e lm="ekonomik"><i>ekonomik</i><par n="lib__adj"/></e>
     <e lm="medikal"><i>medikal</i><par n="lib__adj"/></e>
     <e lm="mondyal"><i>mondyal</i><par n="lib__adj"/></e>
     <e lm="rejyonal"><i>rejyonal</i><par n="lib__adj"/></e>
@@ -2050,6 +2051,7 @@
     <e lm="mèt"><i>mèt</i><par n="ka__vaux"/></e>
 
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
+    <e lm="panike"><i>panike</i><par n="chanje__vblex"/></e>
     <e lm="pran"><i>pran</i><par n="chanje__vblex"/></e>
     <e lm="pwan" r="LR"><p><l>pwan</l><r>pran</r></p><par n="chanje__vblex"/></e>
     <e lm="bay"><i>bay</i><par n="chanje__vblex"/></e>
@@ -2194,6 +2196,7 @@
     <e lm="grav"><i>grav</i><par n="isit__adv"/></e>
     <e lm="pa"><i>pa</i><par n="isit__adv"/></e>
     <e lm="kont"><i>kont</i><par n="isit__adv"/></e>
+    <e lm="konsa"><i>konsa</i><par n="isit__adv"/></e>
     <e lm="egzakteman"><i>egzakteman</i><par n="isit__adv"/></e>
     <e lm="prese-prese"><i>prese-prese</i><par n="isit__adv"/></e>
     <e lm="direkteman"><i>direkteman</i><par n="isit__adv"/></e>

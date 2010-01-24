@@ -1498,6 +1498,7 @@
     <e><p><l>vag<s n="vblex"/></l><r>wave<s n="vblex"/></r></p></e>
     <e><p><l>vwayaje<s n="vblex"/></l><r>travel<s n="vblex"/></r></p></e>
     <e><p><l>vaksinen<s n="vblex"/></l><r>vaccinate<s n="vblex"/></r></p></e>
+    <e><p><l>panike<s n="vblex"/></l><r>panic<s n="vblex"/></r></p></e>
     <e><p><l>volè<s n="vblex"/></l><r>steal<s n="vblex"/></r></p></e>
     <e><p><l>vole<s n="vblex"/></l><r>fly<s n="vblex"/></r></p></e>
     <e><p><l>vote<s n="vblex"/></l><r>vote<s n="vblex"/></r></p></e>
@@ -1561,6 +1562,7 @@
     <e><p><l>vivan<s n="adj"/></l><r>living<s n="adj"/></r></p></e>
     <e><p><l>viral<s n="adj"/></l><r>viral<s n="adj"/></r></p></e>
     <e><p><l>amerikèn<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
+    <e><p><l>ekonomik<s n="adj"/></l><r>economic<s n="adj"/></r></p></e>
     <e c="AutoCog"><p><l>atifisyèl<s n="adj"/></l><r>artificial<s n="adj"/></r></p></e>
     <e c="AutoCog"><p><l>biseksyèl<s n="adj"/></l><r>bisexual<s n="adj"/></r></p></e>
     <e c="AutoCog"><p><l>egzistansyèl<s n="adj"/></l><r>existential<s n="adj"/></r></p></e>
@@ -1907,6 +1909,7 @@
     <e><p><l>tou<s n="adv"/></l><r>also<s n="adv"/></r></p></e>
     <e><p><l>sètadi<s n="adv"/></l><r>that<b/>is<b/>to<b/>say<s n="adv"/></r></p></e>
     <e><p><l>kont<s n="adv"/></l><r>enough<s n="adv"/></r></p></e>
+    <e><p><l>konsa<s n="adv"/></l><r>like<b/>that<s n="adv"/></r></p></e>
 
     <e c="AutoCog"><p><l>dyagonalman<s n="adv"/></l><r>diagonally<s n="adv"/></r></p></e>
     <e c="AutoCog"><p><l>egalman<s n="adv"/></l><r>equally<s n="adv"/></r></p></e>
