@@ -43,6 +43,9 @@ $(PREFIX1).autopgen.bin: $(BASENAME).post-$(LANG2).dix
 EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(LANG2).dix \
 	   $(BASENAME).post-$(LANG2).dix \
+	   $(BASENAME).$(LANG1).acx \
+	   ht-en-unsupervised.make \
+	   ht-tagger-data \
            $(PREFIX1).prob \
 	   $(BASENAME).$(PREFIX1).t1x \
 	   $(BASENAME).$(PREFIX1).t2x \
