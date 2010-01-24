@@ -1848,12 +1848,25 @@
     <e><p><l>koumon<s n="adv"/><s n="itg"/></l><r>how<s n="adv"/><s n="itg"/></r></p></e>
     <e><p><l>èske<s n="adv"/><s n="itg"/></l><r>do<s n="vbdo"/></r></p></e>
     <e r="LR"><p><l>èkse<s n="adv"/><s n="itg"/></l><r>do<s n="vbdo"/></r></p></e>
+    <e><p><l>kilè<s n="adv"/><s n="itg"/></l><r>when<s n="adv"/><s n="itg"/></r></p></e>
+
+    <e><p><l>kisa<s n="det"/><s n="itg"/></l><r>what<s n="det"/><s n="itg"/></r></p></e>
+    <e r="LR"><p><l>kilès<s n="det"/><s n="itg"/></l><r>which<s n="det"/><s n="itg"/></r></p></e>
+    <e><p><l>ki<s n="det"/><s n="itg"/></l><r>which<s n="det"/><s n="itg"/></r></p></e>
+
+    <e><p><l>kisa<s n="prn"/><s n="itg"/><s n="mf"/></l><r>what<s n="prn"/><s n="itg"/><s n="m"/></r></p></e>
+    <e r="LR"><p><l>kimoun<s n="prn"/><s n="itg"/><s n="mf"/></l><r>who<s n="prn"/><s n="itg"/><s n="m"/></r></p></e>
+    <e><p><l>kilès<s n="prn"/><s n="itg"/><s n="mf"/></l><r>who<s n="prn"/><s n="itg"/><s n="m"/></r></p></e>
 
     <e r="LR"><p><l>pi<s n="preadv"/></l><r>most<s n="preadv"/></r></p></e>
     <e><p><l>plis<s n="preadv"/></l><r>most<s n="preadv"/></r></p></e>
     <e><p><l>trè<s n="preadv"/></l><r>very<s n="preadv"/></r></p></e>
 
     <e><p><l>isit<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+    <e><p><l>depi<s n="adv"/></l><r>since<s n="adv"/></r></p></e>
+    <e><p><l>depi<s n="pr"/></l><r>since<s n="pr"/></r></p></e>
+    <e r="RL"><p><l>depi<s n="adv"/></l><r>ago<s n="adv"/></r></p></e>
+    <e><p><l>depi<b/>kilè<s n="adv"/></l><r>how<b/>long<s n="adv"/></r></p></e>
     <e><p><l>grav<s n="adv"/></l><r>seriously<s n="adv"/></r></p></e>
     <e><p><l>prese-prese<s n="adv"/></l><r>quickly<s n="adv"/></r></p></e>
     <e><p><l>egzakteman<s n="adv"/></l><r>exactly<s n="adv"/></r></p></e>

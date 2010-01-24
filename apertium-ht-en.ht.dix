@@ -118,6 +118,22 @@
         </p>
       </e>
     </pardef>
+    <pardef n="ki__det">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="det"/><s n="itg"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
+    <pardef n="kisa__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="s/e__vbser">
       <e>
         <p>
@@ -2144,6 +2160,15 @@
     <e lm="koumon"><i>koumon</i><par n="koumon__adv"/></e>
     <e lm="èske"><i>èske</i><par n="koumon__adv"/></e>
     <e lm="èkse" c="typo?"><i>èkse</i><par n="koumon__adv"/></e>
+    <e lm="kilè"><i>kilè</i><par n="koumon__adv"/></e>
+
+    <e lm="ki"><i>ki</i><par n="ki__det"/></e>
+    <e lm="kilès"><i>kilès</i><par n="ki__det"/></e>
+    <e lm="kisa"><i>kisa</i><par n="ki__det"/></e>
+
+    <e lm="kisa"><i>kisa</i><par n="kisa__prn"/></e>
+    <e lm="kilès"><i>kilès</i><par n="kisa__prn"/></e>
+    <e lm="kimoun"><i>kimoun</i><par n="kisa__prn"/></e>
 
     <e lm="pi"><i>pi</i><par n="pi__preadv"/></e>
     <e lm="plis"><i>plis</i><par n="pi__preadv"/></e>
@@ -2208,6 +2233,8 @@
     <e lm="vètikalman"><i>vètikalman</i><par n="isit__adv"/></e>
     <e lm="kounye a"><i>kounye<b/>a</i><par n="isit__adv"/></e>
     <e lm="mwatye"><i>mwatye</i><par n="isit__adv"/></e>
+    <e lm="depi"><i>depi</i><par n="isit__adv"/></e>
+    <e lm="depi kilè"><i>depi<b/>kilè</i><par n="isit__adv"/></e>
 
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
     <e lm="dènye"><i>dènye</i><par n="premye__det"/></e>
@@ -2366,6 +2393,7 @@
     <e lm="akote"><i>akote</i><par n="an__pr"/></e>
     <e lm="dan"><i>dan</i><par n="an__pr"/></e>
     <e lm="dèyè"><i>dèyè</i><par n="an__pr"/></e>
+    <e lm="depi"><i>depi</i><par n="an__pr"/></e>
     <e lm="andidan"><i>andidan</i><par n="an__pr"/></e>
     <e lm="ant"><i>ant</i><par n="an__pr"/></e>
     <e lm="anpami"><i>anpami</i><par n="an__pr"/></e>
