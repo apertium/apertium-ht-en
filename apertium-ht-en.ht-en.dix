@@ -1387,8 +1387,9 @@
     <e><p><l>pran<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
     <e><p><l>bay<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>
     <e><p><l>fè<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
-    <e><p><l>fè<b/>bak<s n="vblex"/></l><r>go<b/>back<s n="vblex"/></r></p></e>
-    <e r="LR"><p><l>rekile<s n="vblex"/></l><r>go<b/>back<s n="vblex"/></r></p></e>
+    <e><p><l>fè<b/>bak<s n="vblex"/></l><r>go<g><b/>back</g><s n="vblex"/></r></p></e>
+    <e><p><l>fè<b/>konnen<s n="vblex"/></l><r>make<g><b/>known</g><s n="vblex"/></r></p></e>
+    <e r="LR"><p><l>rekile<s n="vblex"/></l><r>go<g><b/>back</g><s n="vblex"/></r></p></e>
     <e><p><l>wè<s n="vblex"/></l><r>see<s n="vblex"/></r></p></e>
     <e><p><l>reflete<s n="vblex"/></l><r>reflect<s n="vblex"/></r></p></e>
     <e><p><l>achte<s n="vblex"/></l><r>buy<s n="vblex"/></r></p></e>

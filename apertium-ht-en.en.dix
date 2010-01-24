@@ -42388,6 +42388,7 @@
     <e lm="lunch"><i>lunch</i><par n="approach__vblex"/></e>
     <e lm="make"><i>ma</i><par n="ma/ke__vblex"/></e>
     <e lm="make a mistake"><i>ma</i><par n="ma/ke__vblex"/><p><l><b/>a<b/>mistake</l><r><g><b/>a<b/>mistake</g></r></p></e>
+    <e lm="make known"><i>ma</i><par n="ma/ke__vblex"/><p><l><b/>known</l><r><g><b/>known</g></r></p></e>
     <e lm="maintain"><i>maintain</i><par n="accept__vblex"/></e>
     <e lm="manacle"><i>manacl</i><par n="liv/e__vblex"/></e>
     <e lm="manage"><i>manag</i><par n="liv/e__vblex"/></e>

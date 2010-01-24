@@ -2015,7 +2015,9 @@
     <e lm="fè"><i>fè</i><par n="chanje__vblex"/></e>
     <e lm="fe"><p><l>fe</l><r>fè</r></p><par n="chanje__vblex"/></e>
     <e lm="fè bak"><i>fè<b/>bak</i><par n="chanje__vblex"/></e>
-    <e lm="fe bak"><p><l>fe<b/>bak</l><r>fè<b/>bak</r></p><par n="chanje__vblex"/></e>
+    <e lm="fe bak" r="LR"><p><l>fe<b/>bak</l><r>fè<b/>bak</r></p><par n="chanje__vblex"/></e>
+    <e lm="fè konnen"><i>fè<b/>konnen</i><par n="chanje__vblex"/></e>
+    <e lm="fe konnen" r="LR"><p><l>fe<b/>konnen</l><r>fè<b/>konnen</r></p><par n="chanje__vblex"/></e>
     <e lm="rekile"><i>rekile</i><par n="chanje__vblex"/></e>
     <e lm="reflete"><i>reflete</i><par n="chanje__vblex"/></e>
     <e lm="achte"><i>achte</i><par n="chanje__vblex"/></e>
