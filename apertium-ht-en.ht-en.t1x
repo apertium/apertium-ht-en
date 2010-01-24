@@ -35,6 +35,7 @@
       <cat-item tags="postdet"/>
       <cat-item tags="postdet.*"/>
       <cat-item lemma="sa" tags="det.dem.*"/>
+      <cat-item tags="det.pos.*"/>
     </def-cat>
     <def-cat n="det">
       <cat-item tags="det"/>
@@ -1263,7 +1264,7 @@
       <pattern>
         <pattern-item n="det"/>
         <pattern-item n="nom"/>
-        <pattern-item n="det"/>
+        <pattern-item n="postdet"/>
       </pattern>
       <action>
         <call-macro n="firstWord">
