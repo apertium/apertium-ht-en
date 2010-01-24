@@ -33,7 +33,8 @@
     </def-cat>
     <def-cat n="postdet">
       <cat-item tags="postdet"/>
-      <cat-item tags="postdet.*"/>
+      <cat-item tags="postdet"/>
+      <cat-item lemma="sa" tags="det.dem.*"/>
     </def-cat>
     <def-cat n="det">
       <cat-item tags="det"/>
@@ -233,6 +234,22 @@
               <lit v="the"/>
               <lit-tag v="det.def.2"/>
             </concat>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="1" side="sl" part="lem"/>
+              <lit v="sa"/>
+            </equal>
+          </test>
+          <let>
+            <var n="nbr_chunk"/>
+            <clip pos="1" side="sl" part="nbr"/>
+          </let>
+          <let>
+            <var n="determiner"/>
+            <clip pos="1" side="tl" part="whole"/>
           </let>
         </when>
         <otherwise>
