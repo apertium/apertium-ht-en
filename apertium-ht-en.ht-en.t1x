@@ -131,6 +131,7 @@
       <attr-item tags="det.ind"/>
       <attr-item tags="det.def"/>
       <attr-item tags="det.pos"/>
+      <attr-item tags="det.ord"/>
     </def-attr>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
@@ -255,13 +256,97 @@
         <otherwise>
           <let>
             <var n="nbr_chunk"/>
-            <lit-tag v="sg"/>
+            <lit-tag v="ND"/>
           </let>
           <let>
             <var n="determiner"/>
             <concat>
-              <lit v="a"/>
-              <lit-tag v="det.ind.sg"/>
+              <clip pos="1" side="tl" part="whole"/>
+            </concat>
+          </let>
+        </otherwise>
+      </choose>
+    </def-macro>
+    <def-macro n="canvi_postdet2" npar="2">
+      <choose>
+        <when>
+          <test>
+            <equal>
+              <clip pos="2" side="sl" part="lem"/>
+              <lit v="yo"/>
+            </equal>
+          </test>
+          <let>
+            <var n="nbr_chunk"/>
+            <lit-tag v="pl"/>
+          </let>
+          <let>
+            <var n="determiner"/>
+            <concat>
+              <lit v="the"/>
+              <lit-tag v="det.def.2"/>
+              <lit v="$ ^"/>
+              <clip pos="1" side="tl" part="whole"/>
+            </concat>
+          </let>
+        </when>
+        <when>
+          <test>
+            <equal>
+              <clip pos="2" side="sl" part="lem"/>
+              <lit v="sa"/>
+            </equal>
+          </test>
+          <let>
+            <var n="nbr_chunk"/>
+            <clip pos="2" side="sl" part="nbr"/>
+          </let>
+          <let>
+            <var n="determiner"/>
+            <concat>
+              <clip pos="1" side="tl" part="whole"/>
+              <lit v="$ ^"/>
+              <clip pos="2" side="tl" part="whole"/>
+            </concat>
+          </let>
+        </when>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="1" side="sl" part="a_det"/>
+                <lit-tag v="det.ord"/>
+              </equal>
+              <equal>
+                <clip pos="2" side="sl" part="a_det"/>
+                <lit-tag v="det.pos"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <var n="nbr_chunk"/>
+            <lit-tag v="ND"/>
+          </let>
+          <let>
+            <var n="determiner"/>
+            <concat>
+              <clip pos="2" side="tl" part="whole"/>
+              <lit v="$ ^"/>
+              <clip pos="1" side="tl" part="whole"/>
+            </concat>
+          </let>
+        </when>
+        <otherwise>
+          <let>
+            <var n="nbr_chunk"/>
+            <lit-tag v="ND"/>
+          </let>
+          <let>
+            <var n="determiner"/>
+            <concat>
+              <clip pos="1" side="tl" part="whole"/>
+              <lit v="$ ^"/>
+              <clip pos="2" side="tl" part="whole"/>
             </concat>
           </let>
         </otherwise>
@@ -1081,6 +1166,40 @@
               <clip pos="1" side="tl" part="a_det"/>
               <clip pos="1" side="tl" part="nbr" link-to="2"/>
               <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+            <b pos="1"/>
+            <lu>
+              <clip pos="2" side="tl" part="lemh"/>
+              <clip pos="2" side="tl" part="a_nom"/>
+              <clip pos="2" side="tl" part="nbr" link-to="2"/>
+              <clip pos="2" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+    <rule comment="REGLA: DET NOM DET">
+      <pattern>
+        <pattern-item n="det"/>
+        <pattern-item n="nom"/>
+        <pattern-item n="det"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="canvi_postdet2">
+          <with-param pos="1"/>
+          <with-param pos="3"/>
+        </call-macro>
+        <out>
+          <chunk name="det_nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="nbr_chunk"/></tag>
+            </tags>
+            <lu>
+              <var n="determiner"/>
             </lu>
             <b pos="1"/>
             <lu>
