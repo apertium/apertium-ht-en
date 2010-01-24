@@ -67,6 +67,12 @@
       <cat-item tags="rel.*"/>
     </def-cat>
 
+    <def-cat n="cnj">
+      <cat-item tags="cnjcoo"/>
+      <cat-item tags="cnjsub"/>
+      <cat-item tags="cnjadv"/>
+    </def-cat>
+
     <def-cat n="verb">
       <cat-item tags="vblex"/>
       <cat-item tags="vbmod"/>
@@ -2212,6 +2218,28 @@
     </rule>
 
     <!-- Eliminate default -->
+
+
+ <rule comment="CNJ">
+      <pattern>
+	<pattern-item n="cnj"/>
+      </pattern>
+      <action>
+	<call-macro n="firstWord">
+	  <with-param pos="1"/>
+	</call-macro>	
+	<out>
+	  <chunk name="cnj" case="caseFirstWord">
+	    <tags>
+	      <tag><clip pos="1" side="tl" part="tags"/></tag>		
+	    </tags>
+	    <lu>
+	      <clip pos="1" side="tl" part="whole"/>
+	    </lu>
+	  </chunk>
+	</out>
+      </action>
+    </rule>
 
   <rule comment="REL">
       <pattern>
