@@ -102,6 +102,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="milyon__num">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="num"/></r>
+        </p>
+      </e>
+    </pardef>
     <pardef n="souple__ij">
       <e>
         <p>
@@ -798,6 +806,8 @@
     <e lm="ansyen prezidan ameriken"><i>ansyen<b/>prezidan<b/>ameriken</i><par n="liv__n"/></e>
     <e lm="ansyen prezidan"><i>ansyen<b/>prezidan</i><par n="liv__n"/></e>
     <e lm="ansyen"><i>ansyen</i><par n="lib__adj"/></e>
+    <e lm="tèt"><i>tèt</i><par n="liv__n"/></e>
+    <e lm="zòn"><i>zòn</i><par n="liv__n"/></e>
 
     <e lm="aberasyon"><i>aberasyon</i><par n="liv__n"/></e>
     <e lm="abitasyon"><i>abitasyon</i><par n="liv__n"/></e>
@@ -2446,6 +2456,7 @@
     <e lm="trant"><i>trant</i><par n="en__num"/></e>
     <e lm="san"><i>san</i><par n="en__num"/></e>
     <e lm="swasanndis"><i>swasanndis</i><par n="en__num"/></e>
+    <e lm="milyon"><i>milyon</i><par n="milyon__num"/></e>
 
     <e><p><l>1e</l><r>1<s n="num"/><s n="ord"/></r></p></e>
     <e><re>[0-9]+</re><p><l>èm</l><r><s n="num"/><s n="ord"/></r></p></e>

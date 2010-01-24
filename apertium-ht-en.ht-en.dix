@@ -113,6 +113,8 @@
     <e r="LR"><p><l>la<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>zòn<s n="n"/></l><r>zone<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>tèt<s n="n"/></l><r>head<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>livrezon<s n="n"/></l><r>delivery<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>teren<s n="n"/></l><r>ground<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>pò<s n="n"/></l><r>port<s n="n"/></r></p><par n="ND"/></e>
@@ -1964,6 +1966,7 @@
     <e><p><l>trant</l><r>thirty</r></p><par n="mil"/></e>
     <e><p><l>san</l><r>hundred</r></p><par n="mil"/></e>
     <e><p><l>swasanndis</l><r>seventy</r></p><par n="mil"/></e>
+    <e><p><l>milyon<s n="num"/></l><r>million<s n="num"/></r></p></e>
 
 
     <e><p><l>souple<s n="ij"/></l><r>please<s n="ij"/></r></p></e>
