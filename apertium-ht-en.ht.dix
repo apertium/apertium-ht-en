@@ -491,6 +491,7 @@
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
     <e lm="teren"><i>teren</i><par n="liv__n"/></e>
+    <e lm="poz"><i>poz</i><par n="liv__n"/></e>
     <e lm="chèf"><i>chèf</i><par n="liv__n"/></e>
     <e lm="asistan"><i>asistan</i><par n="liv__n"/></e>
     <e lm="listwa"><i>listwa</i><par n="liv__n"/></e>
