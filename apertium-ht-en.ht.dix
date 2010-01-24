@@ -514,6 +514,8 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="madmwazèl"><i>madmwazèl</i><par n="liv__n"/></e>
+    <e lm="klas"><i>klas</i><par n="liv__n"/></e>
     <e lm="livrezon"><i>livrezon</i><par n="liv__n"/></e>
     <e lm="teren"><i>teren</i><par n="liv__n"/></e>
     <e lm="pò"><i>pò</i><par n="liv__n"/></e>
@@ -2492,6 +2494,14 @@
     <e lm="-n" r="LR"><p><l>-n</l><r>nou</r></p><par n="mwen__det"/></e>
     <e lm="-l" r="LR"><p><l>-l</l><r>li</r></p><par n="mwen__det"/></e>
     <e lm="-li" r="LR"><p><l>-li</l><r>li</r></p><par n="mwen__det"/></e>
+    <e lm="'mwen" r="LR"><p><l>'mwen</l><r>mwen</r></p><par n="mwen__det"/></e>
+    <e lm="'m" r="LR"><p><l>'m</l><r>mwen</r></p><par n="mwen__det"/></e>
+    <e lm="'ou" r="LR"><p><l>'ou</l><r>ou</r></p><par n="mwen__det"/></e>
+    <e lm="'w" r="LR"><p><l>'w</l><r>ou</r></p><par n="mwen__det"/></e>
+    <e lm="'nou" r="LR"><p><l>'nou</l><r>nou</r></p><par n="mwen__det"/></e>
+    <e lm="'n" r="LR"><p><l>'n</l><r>nou</r></p><par n="mwen__det"/></e>
+    <e lm="'l" r="LR"><p><l>'l</l><r>li</r></p><par n="mwen__det"/></e>
+    <e lm="'li" r="LR"><p><l>'li</l><r>li</r></p><par n="mwen__det"/></e>
 
     <e lm="-yo" r="LR"><p><l>-yo</l><r>yo</r></p><par n="yo__postdet"/></e>
     <e lm="'yo" r="LR"><p><l>'yo</l><r>yo</r></p><par n="yo__postdet"/></e>

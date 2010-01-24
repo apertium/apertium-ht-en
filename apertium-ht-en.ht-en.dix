@@ -113,6 +113,8 @@
     <e r="LR"><p><l>la<s n="postdet"/><s n="ind"/><s n="sp"/></l><r>the<s n="det"/><s n="def"/><s n="sp"/></r></p></e>
 
     <e><p><l>liv<s n="n"/></l><r>book<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>klas<s n="n"/></l><r>class<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>madmwazèl<s n="n"/></l><r>miss<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>zòn<s n="n"/></l><r>zone<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>tèt<s n="n"/></l><r>head<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>livrezon<s n="n"/></l><r>delivery<s n="n"/></r></p><par n="ND"/></e>
