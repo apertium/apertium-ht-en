@@ -902,7 +902,7 @@
           <with-param pos="1"/>
         </call-macro>
         <call-macro n="set_prn_type">
-          <with-param pos="2"/>
+          <with-param pos="1"/>
         </call-macro>
         <out>
           <chunk name="prn" case="caseFirstWord">
