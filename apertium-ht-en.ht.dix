@@ -2013,6 +2013,7 @@
     <e lm="pwan" r="LR"><p><l>pwan</l><r>pran</r></p><par n="chanje__vblex"/></e>
     <e lm="bay"><i>bay</i><par n="chanje__vblex"/></e>
     <e lm="fè"><i>fè</i><par n="chanje__vblex"/></e>
+    <e lm="fe"><p><l>fe</l><r>fè</r></p><par n="chanje__vblex"/></e>
     <e lm="fè bak"><i>fè<b/>bak</i><par n="chanje__vblex"/></e>
     <e lm="fe bak"><p><l>fe<b/>bak</l><r>fè<b/>bak</r></p><par n="chanje__vblex"/></e>
     <e lm="rekile"><i>rekile</i><par n="chanje__vblex"/></e>
@@ -2103,6 +2104,7 @@
     <e lm="volè"><i>volè</i><par n="chanje__vblex"/></e>
     <e lm="vole"><i>vole</i><par n="chanje__vblex"/></e>
     <e lm="vote"><i>vote</i><par n="chanje__vblex"/></e>
+    <e lm="kraze"><i>kraze</i><par n="chanje__vblex"/></e>
     <e lm="voye"><i>voye</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
