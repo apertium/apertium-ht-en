@@ -10,6 +10,8 @@
     <sdef n="cnjcoo"/>
     <sdef n="cnjsub"/>
     <sdef n="mf"/>
+    <sdef n="m"/>
+    <sdef n="f"/>
     <sdef n="rel"/>
     <sdef n="an"/>
     <sdef n="cog"/>
