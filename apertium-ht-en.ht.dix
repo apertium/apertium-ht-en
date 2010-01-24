@@ -535,7 +535,9 @@
     <e lm="paj"><i>paj</i><par n="liv__n"/></e>
     <e lm="ewo"><i>ewo</i><par n="liv__n"/></e>
     <e lm="dola"><i>dola</i><par n="liv__n"/></e>
-    <e lm="dolar"><p><l>dolar</l><r>dola</r></p><par n="liv__n"/></e>
+    <e lm="dolar" r="LR"><p><l>dolar</l><r>dola</r></p><par n="liv__n"/></e>
+    <e lm="idolatri"><i>idolatri</i><par n="liv__n"/></e>
+    <e lm="lidolatri" r="LR"><p><l>lidolatri</l><r>idolatri</r></p><par n="liv__n"/></e>
     <e lm="lib"><i>lib</i><par n="liv__n"/></e>
     <e lm="matematik"><i>matematik</i><par n="liv__n"/></e>
     <e lm="fizik"><i>fizik</i><par n="liv__n"/></e>
