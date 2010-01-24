@@ -1,3 +1,13 @@
 (c) 2010 Jimmy O'Regan
 (c) 2010 Francis Tyers
 (c) 2010 Kevin Brubeck Unhammer
+
+Much of the bilingual data was automatically induced from spell checking
+data provided by Kevin Scannell with Jean Came Poulard and logipam.org
+
+The English data is based on data from apertium-en-ca:
+
+(c) 2005--2007, Universitat d'Alacant (Transducens group)
+(c) Universitat Pompeu Fabra
+(c) 2009, Paul "greenbreen" Breen
+(c) 2009--2010, Jimmy O'Regan
