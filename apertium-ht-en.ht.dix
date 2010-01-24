@@ -490,7 +490,10 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="livrezon"><i>livrezon</i><par n="liv__n"/></e>
     <e lm="teren"><i>teren</i><par n="liv__n"/></e>
+    <e lm="pò"><i>pò</i><par n="liv__n"/></e>
+    <e lm="pò" r="LR"><p><l>pò</l><r>pò</r></p><par n="liv__n"/></e> <!-- We need UTF normalisation -->
     <e lm="poz"><i>poz</i><par n="liv__n"/></e>
     <e lm="chèf"><i>chèf</i><par n="liv__n"/></e>
     <e lm="asistan"><i>asistan</i><par n="liv__n"/></e>
@@ -573,6 +576,7 @@
     <e lm="atansyon"><i>atansyon</i><par n="liv__n"/></e>
     <e lm="amou"><i>amou</i><par n="liv__n"/></e>
     <e lm="simèn"><i>simèn</i><par n="liv__n"/></e>
+    <e lm="semen" r="LR"><p><l>semen</l><r>simèn</r></p><par n="liv__n"/></e>
     <e lm="nonm"><i>nonm</i><par n="liv__n"/></e>
     <e lm="fanm"><i>fanm</i><par n="liv__n"/></e>
     <e lm="mwa"><i>mwa</i><par n="liv__n"/></e>
@@ -745,6 +749,7 @@
     <e lm="militè"><i>militè</i><par n="liv__n"/></e>
     <e lm="militè"><i>militè</i><par n="lib__adj"/></e>
     <e lm="blese"><i>blese</i><par n="lib__adj"/></e>
+    <e lm="nesesè"><i>nesesè</i><par n="lib__adj"/></e>
     <e lm="pwovizwa"><i>pwovizwa</i><par n="lib__adj"/></e>
     <e lm="difisil"><i>difisil</i><par n="lib__adj"/></e>
     <e lm="entènasyonal"><i>entènasyonal</i><par n="lib__adj"/></e>
@@ -2036,6 +2041,9 @@
     <e lm="sèvi"><i>sèvi</i><par n="chanje__vblex"/></e>
     <e lm="soufri"><i>soufri</i><par n="chanje__vblex"/></e>
     <e lm="ale"><i>ale</i><par n="chanje__vblex"/></e>
+    <e lm="retire"><i>retire</i><par n="chanje__vblex"/></e>
+    <e lm="netwaye"><i>netwaye</i><par n="chanje__vblex"/></e>
+    <e lm="bloke"><i>bloke</i><par n="chanje__vblex"/></e>
     <e lm="delivre"><i>delivre</i><par n="chanje__vblex"/></e>
     <e lm="deplwaye"><i>deplwaye</i><par n="chanje__vblex"/></e>
     <e lm="diskite"><i>diskite</i><par n="chanje__vblex"/></e>
