@@ -126,6 +126,10 @@
     <label-item label="INTADV"/>
     <label-item label="DETPOS"/>
   </label-sequence>
+  <label-sequence>
+    <label-item label="DETPOS"/>
+    <label-item label="PART"/>
+  </label-sequence>
 </forbid>
 <!--
 <enforce-rules>
