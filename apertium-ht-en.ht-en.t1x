@@ -2221,7 +2221,7 @@
         </let>
       </action>
     </rule>
-    <rule comment="REGLA: PA + KA + VERB">
+    <rule comment="REGLA: KA + VERB">
       <pattern>
         <pattern-item n="ka"/>
         <pattern-item n="verb"/>
