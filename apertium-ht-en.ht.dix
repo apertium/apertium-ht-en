@@ -2470,6 +2470,7 @@
     <e lm="p'"><p><l>p'</l><r>pa<s n="adv"/></r></p></e>
     <e lm="d'"><p><l>d'</l><r>d<s n="pr"/></r></p></e>
     <e lm="an'"><p><l>an'</l><r>an<s n="pr"/></r></p></e>
+    <e lm="k'"><p><l>k'</l><r>ki</r></p><par n="ki__rel"/></e>
   </section>
   <section id="postdets" type="preblank">
     <e lm="-la" r="LR"><p><l>-la</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
