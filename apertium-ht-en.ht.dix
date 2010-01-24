@@ -534,7 +534,8 @@
     <e lm="imaj"><i>imaj</i><par n="liv__n"/></e>
     <e lm="paj"><i>paj</i><par n="liv__n"/></e>
     <e lm="ewo"><i>ewo</i><par n="liv__n"/></e>
-    <e lm="dolar"><i>dolar</i><par n="liv__n"/></e>
+    <e lm="dola"><i>dola</i><par n="liv__n"/></e>
+    <e lm="dolar"><p><l>dolar</l><r>dola</r></p><par n="liv__n"/></e>
     <e lm="lib"><i>lib</i><par n="liv__n"/></e>
     <e lm="matematik"><i>matematik</i><par n="liv__n"/></e>
     <e lm="fizik"><i>fizik</i><par n="liv__n"/></e>
