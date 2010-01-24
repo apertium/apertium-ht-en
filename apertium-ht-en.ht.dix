@@ -836,6 +836,7 @@
     <e lm="distenksyon"><i>distenksyon</i><par n="liv__n"/></e>
     <e lm="distraksyon"><i>distraksyon</i><par n="liv__n"/></e>
     <e lm="distribisyon"><i>distribisyon</i><par n="liv__n"/></e>
+    <e lm="distribusyon" r="LR"><p><l>distribusyon</l><r>distribisyon</r></p><par n="liv__n"/></e>
     <e lm="disètasyon"><i>disètasyon</i><par n="liv__n"/></e>
     <e lm="divèsyon"><i>divèsyon</i><par n="liv__n"/></e>
     <e lm="dokimantasyon"><i>dokimantasyon</i><par n="liv__n"/></e>
