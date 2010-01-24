@@ -1859,9 +1859,12 @@
     <e lm="rezilta"><i>rezilta</i><par n="liv__n"/></e>
     <e lm="kolonbyen"><i>kolonbyen</i><par n="liv__n"/></e>
     <e lm="presizyon"><i>presizyon</i><par n="liv__n"/></e>
+    <e lm="pwosesis"><i>pwosesis</i><par n="liv__n"/></e>
+    <e lm="anbasad"><i>anbasad</i><par n="liv__n"/></e>
     <e lm="kolonbyen"><i>kolonbyen</i><par n="lib__adj"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
+    <e lm="amerikèn"><i>amerikèn</i><par n="lib__adj"/></e>
     <e lm="medikal"><i>medikal</i><par n="lib__adj"/></e>
     <e lm="mondyal"><i>mondyal</i><par n="lib__adj"/></e>
     <e lm="rejyonal"><i>rejyonal</i><par n="lib__adj"/></e>
