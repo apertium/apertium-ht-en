@@ -815,6 +815,7 @@
     <e lm="destinasyon"><i>destinasyon</i><par n="liv__n"/></e>
     <e lm="destitisyon"><i>destitisyon</i><par n="liv__n"/></e>
     <e lm="destriksyon"><i>destriksyon</i><par n="liv__n"/></e>
+    <e lm="destruksyon" r="LR"><p><l>destruksyon</l><r>destriksyon</r></p><par n="liv__n"/></e>
     <e lm="detansyon"><i>detansyon</i><par n="liv__n"/></e>
     <e lm="detonasyon"><i>detonasyon</i><par n="liv__n"/></e>
     <e lm="detèminasyon"><i>detèminasyon</i><par n="liv__n"/></e>
@@ -2201,6 +2202,7 @@
     <e lm="Edenn"><i>Edenn</i><par n="Ayiti__np"/></e>
     <e lm="Giyon"><i>Giyon</i><par n="Ayiti__np"/></e>
     <e lm="New York"><p><l>New<b/>York</l><r>Nouyòk</r></p><par n="Ayiti__np"/></e>
+    <e lm="Nouyok"><p><l>Nouyok</l><r>Nouyòk</r></p><par n="Ayiti__np"/></e>
     <e lm="Nouyòk"><i>Nouyòk</i><par n="Ayiti__np"/></e>
     <e lm="Pòtoprens"><i>Pòtoprens</i><par n="Ayiti__np"/></e>
     <e lm="Potoprens" r="LR"><p><l>Potoprens</l><r>Pòtoprens</r></p><par n="Ayiti__np"/></e>
