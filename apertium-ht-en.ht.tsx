@@ -16,12 +16,37 @@
   <def-label name="ADV">
     <tags-item tags="adv"/>
   </def-label> 
+  <def-label name="PREADV">
+    <tags-item tags="preadv"/>
+  </def-label> 
   <def-label name="ADJ">
     <tags-item tags="adj"/>
   </def-label> 
   <def-label name="NOM">
     <tags-item tags="n"/>
   </def-label> 
+  <def-label name="NUM">
+    <tags-item tags="num"/>
+  </def-label> 
+  <def-label name="SER" closed="true">
+    <tags-item tags="vbser.past"/>
+    <tags-item tags="vbser.pres"/>
+  </def-label>
+  <def-label name="REL" closed="true">
+    <tags-item tags="rel.an.mf.sp"/>
+  </def-label>
+  <def-label name="PART" closed="true">
+    <tags-item tags="part"/>
+  </def-label>
+  <def-label name="AUX" closed="true">
+    <tags-item tags="vaux"/>
+  </def-label>
+  <def-label name="HAVER" closed="true">
+    <tags-item tags="vbhaver"/>
+  </def-label>
+  <def-label name="VBMOD" closed="true">
+    <tags-item tags="vbmod"/>
+  </def-label>
   <def-label name="VBLEX">
     <tags-item tags="vblex"/>
   </def-label> 
@@ -29,19 +54,23 @@
     <tags-item tags="pr"/>
   </def-label> 
   <def-label name="ANTROPONIM">
-    <tags-item tags="np.ant"/>
+    <tags-item tags="np.ant.*"/>
+  </def-label>
+  <def-label name="COGNOMEN">
+    <tags-item tags="np.cog.*"/>
   </def-label>
   <def-label name="TOPONIM">
-    <tags-item tags="np.top"/>
+    <tags-item tags="np.top.*"/>
   </def-label>
   <def-label name="NPALTRES">
-    <tags-item tags="np.al"/>
+    <tags-item tags="np.al.*"/>
   </def-label>
   <def-label name="PREDET" closed="true">
     <tags-item tags="predet.*"/>
   </def-label>
   <def-label name="POSTDET" closed="true">
     <tags-item tags="postdet.*"/>
+    <tags-item lemma="sa" tags="det.dem.*"/>
   </def-label>
   <def-label name="DETPOS" closed="true">
     <tags-item tags="det.pos.*"/>
@@ -55,12 +84,33 @@
   <def-label name="INTADV" closed="true">
     <tags-item tags="adv.itg"/>
   </def-label>
+  <def-label name="ORD" closed="true">
+    <tags-item tags="det.ord.sp"/>
+    <tags-item tags="num.ord"/>
+  </def-label>
   <def-label name="DET" closed="true">
     <tags-item tags="det.dem.*"/>
     <tags-item tags="det.ind.*"/>
+    <tags-item tags="det.qnt.*"/>
     <tags-item tags="det.def.*"/>
     <tags-item tags="det.pos.*"/>
     <tags-item tags="det.itg.*"/> 
+    <tags-item tags="det.ord.*"/> 
+  </def-label>
+  <def-label name="guio" closed="true">
+    <tags-item tags="guio"/>
+  </def-label>
+  <def-label name="lpar" closed="true">
+    <tags-item tags="lpar"/>
+  </def-label>
+  <def-label name="rpar" closed="true">
+    <tags-item tags="rpar"/>
+  </def-label>
+  <def-label name="cm" closed="true">
+    <tags-item tags="cm"/>
+  </def-label>
+  <def-label name="PRNNT" closed="true">
+    <tags-item tags="prn.tn.nt.sg"/>
   </def-label>
 </tagset>
 <forbid>
