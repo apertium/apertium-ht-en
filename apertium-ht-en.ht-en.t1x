@@ -873,6 +873,9 @@
         <pattern-item n="prep"/>
       </pattern>
       <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
         <let>
           <var n="prep_cur_lem"/>
           <clip pos="1" side="sl" part="lem"/>
