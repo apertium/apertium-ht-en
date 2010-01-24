@@ -2473,6 +2473,12 @@
     <e lm="d'"><p><l>d'</l><r>d<s n="pr"/></r></p></e>
     <e lm="an'"><p><l>an'</l><r>an<s n="pr"/></r></p></e>
     <e lm="k'"><p><l>k'</l><r>ki</r></p><par n="ki__rel"/></e>
+
+    <e lm="m'"><p><l>m'</l><r>prpers<s n="prn"/><s n="uns"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="w'"><p><l>w'</l><r>prpers<s n="prn"/><s n="uns"/><s n="p2"/><s n="mf"/><s n="sp"/></r></p></e>
+    <e lm="l'"><p><l>l'</l><r>prpers<s n="prn"/><s n="uns"/><s n="p3"/><s n="mf"/><s n="sg"/></r></p></e>
+    <e lm="n'"><p><l>n'</l><r>prpers<s n="prn"/><s n="uns"/><s n="p1"/><s n="mf"/><s n="pl"/></r></p></e>
+    <e lm="y'"><p><l>y'</l><r>prpers<s n="prn"/><s n="uns"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
   </section>
   <section id="postdets" type="preblank">
     <e lm="-la" r="LR"><p><l>-la</l><r>la<s n="postdet"/><s n="ind"/><s n="sp"/></r></p></e>
