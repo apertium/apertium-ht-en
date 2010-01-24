@@ -2319,6 +2319,9 @@
     <e lm="Bush"><i>Bush</i><par n="Obama__np"/></e>
     <e lm="Cohen"><i>Cohen</i><par n="Obama__np"/></e>
 
+    <e lm="l'ONU"><i>l'ONU</i><par n="Linux__np"/></e>
+    <e lm="l'Onu" r="LR"><p><l>l'Onu</l><r>l'ONU</r></p><par n="Linux__np"/></e>
+    <e lm="LONU" r="LR"><p><l>LONU</l><r>l'ONU</r></p><par n="Linux__np"/></e>
     <e lm="Nasyon Zuni"><i>Nasyon<b/>Zuni</i><par n="Linux__np"/></e>
     <e lm="Nasyonzuni" r="LR"><p><l>Nasyonzuni</l><r>Nasyon<b/>Zuni</r></p><par n="Linux__np"/></e>
     <e lm="Tant Randevou"><i>Tant<b/>Randevou</i><par n="Linux__np"/></e>
