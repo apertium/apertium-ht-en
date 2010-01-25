@@ -1410,6 +1410,9 @@
 
     <e><p><l>chanje<s n="vblex"/></l><r>change<s n="vblex"/></r></p></e>
     <e><p><l>pran<s n="vblex"/></l><r>take<s n="vblex"/></r></p></e>
+    <e><p><l>diminye<s n="vblex"/></l><r>diminish<s n="vblex"/></r></p></e>
+    <e><p><l>kontinye<s n="vblex"/></l><r>continue<s n="vblex"/></r></p></e>
+    <e><p><l>evakye<s n="vblex"/></l><r>evacuate<s n="vblex"/></r></p></e>
     <e><p><l>bay<s n="vblex"/></l><r>give<s n="vblex"/></r></p></e>
     <e><p><l>fè<s n="vblex"/></l><r>make<s n="vblex"/></r></p></e>
     <e r="LR"><p><l>rekile<s n="vblex"/></l><r>go<g><b/>back</g><s n="vblex"/></r></p></e>
@@ -1728,6 +1731,12 @@
     <e><p><l>chantè<s n="n"/></l><r>singer<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>dat<s n="n"/></l><r>date<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>nasans<s n="n"/></l><r>birth<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>malad<s n="n"/></l><r>wounded<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>efò<s n="n"/></l><r>effort<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>resous<s n="n"/></l><r>resource<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>volontè<s n="n"/></l><r>volunteer<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>kouraj<s n="n"/></l><r>courage<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>dezas<s n="n"/></l><r>disaster<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>dat<b/>nasans<s n="n"/></l><r>date<g><b/>of<b/>birth</g><s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>peyi<b/>nasans<s n="n"/></l><r>country<g><b/>of<b/>birth</g><s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>rezilta<s n="n"/></l><r>result<s n="n"/></r></p><par n="ND"/></e>
@@ -1889,6 +1898,7 @@
     <e><p><l>anba<s n="adv"/></l><r>down<s n="adv"/></r></p></e>
     <e><p><l>depi<s n="adv"/></l><r>since<s n="adv"/></r></p></e>
     <e><p><l>depi<s n="pr"/></l><r>since<s n="pr"/></r></p></e>
+    <e><p><l>plis<b/>ke<s n="pr"/></l><r>more<b/>than<s n="pr"/></r></p></e>
     <e r="RL"><p><l>depi<s n="adv"/></l><r>ago<s n="adv"/></r></p></e>
     <e><p><l>depi<b/>kilè<s n="adv"/></l><r>how<b/>long<s n="adv"/></r></p></e>
     <e><p><l>grav<s n="adv"/></l><r>seriously<s n="adv"/></r></p></e>

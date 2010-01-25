@@ -514,6 +514,12 @@
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
+    <e lm="efò"><i>efò</i><par n="liv__n"/></e>
+    <e lm="malad"><i>malad</i><par n="liv__n"/></e>
+    <e lm="resous"><i>resous</i><par n="liv__n"/></e>
+    <e lm="volontè"><i>volontè</i><par n="liv__n"/></e>
+    <e lm="dezas"><i>dezas</i><par n="liv__n"/></e>
+    <e lm="kouraj"><i>kouraj</i><par n="liv__n"/></e>
     <e lm="dlo"><i>dlo</i><par n="liv__n"/></e>
     <e lm="tant"><i>tant</i><par n="liv__n"/></e>
     <e lm="madmwazèl"><i>madmwazèl</i><par n="liv__n"/></e>
@@ -2057,6 +2063,9 @@
 
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
     <e lm="panike"><i>panike</i><par n="chanje__vblex"/></e>
+    <e lm="kontinye"><i>kontinye</i><par n="chanje__vblex"/></e>
+    <e lm="diminye"><i>diminye</i><par n="chanje__vblex"/></e>
+    <e lm="evakye"><i>evakye</i><par n="chanje__vblex"/></e>
     <e lm="pran"><i>pran</i><par n="chanje__vblex"/></e>
     <e lm="pwan" r="LR"><p><l>pwan</l><r>pran</r></p><par n="chanje__vblex"/></e>
     <e lm="bay"><i>bay</i><par n="chanje__vblex"/></e>
@@ -2416,6 +2425,7 @@
 
     <e lm="an"><i>an</i><par n="an__pr"/></e>
     <e lm="alantou"><i>alantou</i><par n="an__pr"/></e>
+    <e lm="plis ke"><i>plis<b/>ke</i><par n="an__pr"/></e>
     <e lm="asou"><i>asou</i><par n="an__pr"/></e>
     <e lm="anho"><i>anho</i><par n="an__pr"/></e>
     <e lm="anlè"><i>anlè</i><par n="an__pr"/></e>
