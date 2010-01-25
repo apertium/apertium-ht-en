@@ -1340,6 +1340,7 @@
     <e lm="tranbleman'd tè" r="LR"><p><l>tranbleman'd<b/>tè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
     <e lm="tranbleman de te" r="LR"><p><l>tranbleman<b/>de<b/>te</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
     <e lm="tranbleman de tè" r="LR"><p><l>tranbleman<b/>de<b/>tè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
+    <e lm="tranblemann tè" r="LR"><p><l>tranblemann<b/>tè</l><r>tranbleman<b/>d<b/>tè</r></p><par n="liv__n"/></e>
     <e lm="tranbleman d tè"><i>tranbleman<b/>d<b/>tè</i><par n="liv__n"/></e>
 
     <e lm="tranbleman"><i>tranbleman</i><par n="liv__n"/></e>
@@ -2197,6 +2198,7 @@
     <e lm="trè"><i>trè</i><par n="pi__preadv"/></e>
 
     <e lm="isit"><i>isit</i><par n="isit__adv"/></e>
+    <e lm="plis pase yon semèn"><i>plis<b/>pase<b/>yon<b/>semèn</i><par n="isit__adv"/></e>
     <e lm="soutou"><i>soutou</i><par n="isit__adv"/></e>
     <e lm="tanpri"><i>tanpri</i><par n="isit__adv"/></e>
     <e lm="anba"><i>anba</i><par n="isit__adv"/></e>
