@@ -43,6 +43,7 @@
     <sdef n="sint"/>
     <sdef n="sent"/>
     <sdef n="cm"/>
+    <sdef n="pp"/>
     <sdef n="lpar"/>
     <sdef n="rpar"/>
     <sdef n="guio"/>
@@ -89,6 +90,7 @@
     <e><p><l>prpers<s n="prn"/></l><r>prpers<s n="prn"/></r></p></e>
 
     <e><p><l>okenn<s n="prn"/></l><r>none<s n="prn"/></r></p></e>
+    <e><p><l>anyen<s n="prn"/></l><r>nothing<s n="prn"/></r></p></e>
 
     <e><p><l>e<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
     <e r="LR"><p><l>ak<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
@@ -105,7 +107,7 @@
     <e><p><l>chak<s n="det"/><s n="ind"/></l><r>each<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>lòt<s n="det"/><s n="ind"/></l><r>other<s n="det"/><s n="ind"/></r></p></e>
     <e><p><l>menm<s n="det"/><s n="ind"/></l><r>the<b/>same<s n="det"/><s n="ind"/></r></p></e>
-    <e><p><l>anpil<s n="det"/><s n="qnt"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/></r></p></e>
+    <e c="'much' also?"><p><l>anpil<s n="det"/><s n="qnt"/></l><r>a<b/>lot<b/>of<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>kèk<s n="det"/><s n="qnt"/></l><r>a<b/>few<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>kont<s n="det"/><s n="qnt"/></l><r>enough<s n="det"/><s n="qnt"/></r></p></e>
     <e><p><l>sa<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/></r></p></e>
@@ -1247,6 +1249,35 @@
     <e><p><l>presizyon<s n="n"/></l><r>precision<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>pwosesis<s n="n"/></l><r>process<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>anbasad<s n="n"/></l><r>embassy<s n="n"/></r></p><par n="ND"/></e>
+    <e><p><l>van<s n="n"/></l><r>wind<s n="n"/></r></p></e>
+    <e><p><l>vant<s n="n"/></l><r>stomach<s n="n"/></r></p></e>
+    <e><p><l>vant-fè-mal<s n="n"/></l><r>stomach<b/>ache<s n="n"/></r></p></e>
+    <e><p><l>abitan<s n="n"/></l><r>farmer<s n="n"/></r></p></e>
+    <e><p><l>zabitan<s n="n"/></l><r>farmer<s n="n"/></r></p></e>
+    <e><p><l>afè<s n="n"/></l><r>business<s n="n"/></r></p></e>
+    <e><p><l>afranchi<s n="n"/></l><r>freedman<s n="n"/></r></p></e>
+    <e><p><l>akasan<s n="n"/></l><r>cornmeal<b/>porridge<s n="n"/></r></p></e>
+    <e><p><l>alimèt<s n="n"/></l><r>match<s n="n"/></r></p></e>
+    <e><p><l>amonika<s n="n"/></l><r>harmonica<s n="n"/></r></p></e>
+    <e><p><l>apranti<s n="n"/></l><r>apprentice<s n="n"/></r></p></e>
+    <e><p><l>aran<s n="n"/></l><r>herring<s n="n"/></r></p></e>
+    <e><p><l>asowosi<s n="n"/></l><r>bitter<b/>melon<s n="n"/></r></p></e>
+    <e><p><l>ason<s n="n"/></l><r>ritual<b/>voodoo<b/>rattle<s n="n"/></r></p></e>
+    <e><p><l>asyèt<s n="n"/></l><r>dish<s n="n"/></r></p></e>
+    <e c="todo"><p><l>atabisyon<s n="n"/></l><r>group<b/>selling<b/>a<b/>day's<b/>work<s n="n"/></r></p></e>
+    <e><p><l>avalwa<s n="n"/></l><r>down payment<s n="n"/></r></p></e>
+    <e><p><l>avni<s n="n"/></l><r>avenue<s n="n"/></r></p></e>
+    <e><p><l>awozwa<s n="n"/></l><r>hose<s n="n"/></r></p></e>
+    <e><p><l>ayopò<s n="n"/></l><r>airport<s n="n"/></r></p></e>
+    <e><p><l>andui<s n="n"/></l><r>chitterlings<s n="n"/></r></p></e>
+    <e><p><l>angrè<s n="n"/></l><r>fertilizer<s n="n"/></r></p></e>
+    <e><p><l>anmizman<s n="n"/></l><r>entertainment<s n="n"/></r></p></e>
+    <e><p><l>anperè<s n="n"/></l><r>emperor<s n="n"/></r></p></e>
+    <e><p><l>ansasen<s n="n"/></l><r>murderer<s n="n"/></r></p></e>
+    <e><p><l>antchoutchout<s n="n"/></l><r>turbulent<s n="n"/></r></p></e>
+    <e><p><l>antyoutyout<s n="n"/></l><r>turbulent<s n="n"/></r></p></e>
+    <e><p><l>antèman<s n="n"/></l><r>funeral<s n="n"/></r></p></e>
+    <e><p><l>antòs<s n="n"/></l><r>sprain<s n="n"/></r></p></e>
     <e><p><l>bra<s n="n"/></l><r>arm<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>dyare<s n="n"/></l><r>diarrhoea<s n="n"/></r></p><par n="ND"/></e>
     <e><p><l>pwatrin<s n="n"/></l><r>chest<s n="n"/></r></p><par n="ND"/></e>
@@ -1398,13 +1429,17 @@
     <e><p><l>pouri<b/>ke<s n="cnjadv"/></l><r>provided<b/>that<s n="cnjadv"/></r></p></e>
     <e><p><l>paske<s n="cnjadv"/></l><r>because<s n="cnjadv"/></r></p></e>
     <e r="LR"><p><l>akòz<s n="cnjadv"/></l><r>because<s n="cnjadv"/></r></p></e>
+    <e><p><l>alò<s n="cnjadv"/></l><r>then<s n="cnjadv"/></r></p></e>
+    <e><p><l>anvan<s n="cnjadv"/></l><r>before<s n="cnjadv"/></r></p></e>
 
     <e><p><l>vle<s n="vbmod"/></l><r>want<g><b/>to</g><s n="vbmod"/></r></p></e>
+    <e><p><l>se<s n="vbser"/></l><r>be<s n="vbser"/></r></p></e>
     <e><p><l>ka<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e r="LR"><p><l>kapab<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e r="LR"><p><l>kap<s n="vaux"/></l><r>can<s n="vaux"/></r></p></e>
     <e><p><l>dwe<s n="vaux"/></l><r>must<s n="vaux"/></r></p></e>
     <e><p><l>mèt<s n="vaux"/></l><r>might<s n="vaux"/></r></p></e>
+    <e c="todo"><p><l>ann<s n="vaux"/></l><r>let's<s n="vbhaver"/></r></p></e>
     <e><p><l>gen<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
     <e r="LR"><p><l>genyen<s n="vbhaver"/></l><r>have<s n="vbhaver"/></r></p></e>
 
@@ -1512,6 +1547,26 @@
     <e><p><l>vote<s n="vblex"/></l><r>vote<s n="vblex"/></r></p></e>
     <e c="wsd todo"><p><l>kraze<s n="vblex"/></l><r>destroy<s n="vblex"/></r></p></e>
     <e><p><l>voye<s n="vblex"/></l><r>send<s n="vblex"/></r></p></e>
+    <e><p><l>ranje<s n="vblex"/></l><r>fix<s n="vblex"/></r></p></e>
+    <e><p><l>vale<s n="vblex"/></l><r>swallow<s n="vblex"/></r></p></e>
+    <e><p><l>vann<s n="vblex"/></l><r>sell<s n="vblex"/></r></p></e>
+    <e><p><l>vanse<s n="vblex"/></l><r>move<b/>forward<s n="vblex"/></r></p></e>
+    <e><p><l>renmen<s n="vblex"/></l><r>like<s n="vblex"/></r></p></e>
+    <e><p><l>abiye<s n="vblex"/></l><r>get<b/>dressed<s n="vblex"/></r></p></e>
+    <e><p><l>abiye bwòdè<s n="vblex"/></l><r>be<b/>well<b/>dressed <s n="vblex"/></r></p></e>
+    <e><p><l>akouche<s n="vblex"/></l><r>give birth<s n="vblex"/></r></p></e>
+    <e><p><l>ame<s n="vblex"/></l><r>arm<s n="vblex"/></r></p></e>
+    <e><p><l>anonse<s n="vblex"/></l><r>announce<s n="vblex"/></r></p></e>
+    <e><p><l>aprann<s n="vblex"/></l><r>learn<s n="vblex"/></r></p></e>
+    <e><p><l>asepte<s n="vblex"/></l><r>accept<s n="vblex"/></r></p></e>
+    <e><p><l>avèti<s n="vblex"/></l><r>warn<s n="vblex"/></r></p></e>
+    <e><p><l>anmize<s n="vblex"/></l><r>have<b/>fun<s n="vblex"/></r></p></e>
+    <e><p><l>anpeche<s n="vblex"/></l><r>prevent<s n="vblex"/></r></p></e>
+    <e><p><l>anrimen<s n="vblex"/></l><r>have<b/>the<b/>flu<s n="vblex"/></r></p></e>
+    <e><p><l>anrimen<s n="vblex"/></l><r>have<b/>a<b/>cold<s n="vblex"/></r></p></e>
+    <e><p><l>ansasinen<s n="vblex"/></l><r>murder<s n="vblex"/></r></p></e>
+    <e><p><l>antann<s n="vblex"/></l><r>get<b/>along<s n="vblex"/></r></p></e>
+    <e><p><l>antrave<s n="vblex"/></l><r>implicate<s n="vblex"/></r></p></e>
 
     <e><p><l>asou<s n="pr"/></l><r>on<b/>top<b/>of<s n="pr"/></r></p></e>
     <e><p><l>an<s n="pr"/></l><r>in<s n="pr"/></r></p></e>
@@ -1539,6 +1594,8 @@
     <e><p><l>pou<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
     <e><p><l>sou<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
     <e><p><l>kòm<s n="pr"/></l><r>like<s n="pr"/></r></p></e>
+    <e><p><l>anba<s n="pr"/></l><r>under<s n="pr"/></r></p></e>
+    <e><p><l>anfas<s n="pr"/></l><r>in<b/>front<b/>of<s n="pr"/></r></p></e>
 
     <e><p><l>lib<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
     <e><p><l>alèjik<s n="adj"/></l><r>allergic<s n="adj"/></r></p></e>
@@ -1567,6 +1624,13 @@
     <e><p><l>tris<s n="adj"/></l><r>sad<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>mwatye<s n="adj"/></l><r>half<s n="adj"/></r></p></e>
     <e><p><l>gwo<s n="adj"/></l><r>large<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>afè<b/>pa<b/>bon<s n="adj"/></l><r>poor<s n="adj"/></r></p></e>
+    <e><p><l>alamòd<s n="adj"/></l><r>fashionable<s n="adj"/></r></p></e>
+    <e><p><l>asfalte<s n="adj"/></l><r>paved<s n="adj"/></r></p></e>
+    <e><p><l>anmè<s n="adj"/></l><r>sour<s n="adj"/></r></p></e>
+    <e><p><l>an<b/>pàn<s n="adj"/></l><r>broken<g><b/>down</g><s n="vblex"/><s n="pp"/></r></p></e>
+    <e><p><l>anplwaye<s n="adj"/></l><r>employed<s n="adj"/></r></p></e>
+    <e><p><l>angòje<s n="adj"/></l><r>water<b/>logged<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>vivan<s n="adj"/></l><r>living<s n="adj"/></r></p></e>
     <e><p><l>viral<s n="adj"/></l><r>viral<s n="adj"/></r></p></e>
     <e><p><l>amerikèn<s n="adj"/></l><r>american<s n="adj"/></r></p></e>
@@ -1959,7 +2023,32 @@
     <e c="AutoCog"><p><l>sosyalman<s n="adv"/></l><r>socially<s n="adv"/></r></p></e>
     <e c="AutoCog"><p><l>totalman<s n="adv"/></l><r>totally<s n="adv"/></r></p></e>
     <e c="AutoCog"><p><l>vèbalman<s n="adv"/></l><r>verbally<s n="adv"/></r></p></e>
-    <e c="AutoCog"><p><l>vètikalman<s n="adv"/></l><r>vertically<s n="adv"/></r></p></e>
+    <e c="AutoCog"><p><l>vètikalmnan<s n="adv"/></l><r>vertically<s n="adv"/></r></p></e>
+    <e><p><l>ajenou<s n="adv"/></l><r>kneeling<s n="adv"/></r></p></e>
+    <e><p><l>a<b/>ki<b/>lè<s n="adv"/></l><r>at<b/>what<b/>time<s n="adv"/></r></p></e>
+    <e><p><l>alèkile<s n="adv"/></l><r>henceforth<s n="adv"/></r></p></e>
+    <e><p><l>alèkile<s n="adv"/></l><r>nowadays<s n="adv"/></r></p></e>
+    <e><p><l>a<b/>midi<s n="adv"/></l><r>lunchtime<s n="adv"/></r></p></e>
+    <e><p><l>apeprè<s n="adv"/></l><r>approximately<s n="adv"/></r></p></e>
+    <e><p><l>apredemen<s n="adv"/></l><r>the<b/>day<b/>after<b/>tomorrow<s n="adv"/></r></p></e>
+    <e><p><l>anvanyè<s n="adv"/></l><r>the<b/>day<b/>before<b/>yesterday<s n="adv"/></r></p></e>
+    <e><p><l>ase<s n="adv"/></l><r>enough<s n="adv"/></r></p></e>
+    <e><p><l>aswè-a<s n="adv"/></l><r>tonight<s n="adv"/></r></p></e>
+    <e><p><l>atè<s n="adv"/></l><r>on<b/>the<b/>floor<s n="adv"/></r></p></e>
+    <e c="after all, so"><p><l>atò<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
+    <e><p><l>anba<b/>chal<s n="adv"/></l><r>secretly<s n="adv"/></r></p></e>
+    <e><p><l>an<b/>chantan<s n="adv"/></l><r>singing<s n="adv"/></r></p></e>
+    <e><p><l>an<b/>detay<s n="adv"/></l><r>retail<b/>sale<s n="adv"/></r></p></e>
+    <e><p><l>andeyò<s n="adv"/></l><r>in<b/>the<b/>country<s n="adv"/></r></p></e>
+    <e><p><l>an<b/>dyagonal<s n="adv"/></l><r>diagonally<s n="adv"/></r></p></e>
+    <e><p><l>anfòm<s n="adv"/></l><r>great<s n="adv"/></r></p></e>
+    <e c="anymore, no longer"><p><l>ankò<s n="adv"/></l><r>again<s n="adv"/></r></p></e>
+    <e><p><l>anlè<s n="adv"/></l><r>up<b/>high<s n="adv"/></r></p></e>
+    <e><p><l>annik<s n="adv"/></l><r>just<s n="adv"/></r></p></e>
+    <e><p><l>an<b/>rapò<s n="adv"/></l><r>in<b/>relation<b/>to<s n="adv"/></r></p></e>
+    <e><p><l>anreta<s n="adv"/></l><r>late<s n="adv"/></r></p></e>
+    <e><p><l>ansamn<s n="adv"/></l><r>together<s n="adv"/></r></p></e>
+    <e><p><l>antouka<s n="adv"/></l><r>at<b/>any<b/>rate<s n="adv"/></r></p></e>
 
     <e><p><l>ki<s n="rel"/><s n="an"/></l><r>who<s n="rel"/><s n="an"/></r></p></e>
     <e><p><l>kisa<s n="rel"/><s n="an"/><s n="mf"/><s n="sp"/></l><r>what<s n="rel"/><s n="nn"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -2006,6 +2095,7 @@
     <e><p><l>bonjou<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
     <e><p><l>bonswa<s n="ij"/></l><r>good<b/>evening<s n="ij"/></r></p></e>
     <e><p><l>byensi<s n="ij"/></l><r>of<b/>course<s n="ij"/></r></p></e>
+    <e><p><l>apa<s n="ij"/></l><r>isn't<b/>it<s n="ij"/></r></p></e>
   </section>
   <section id="punct" type="standard">
     <e><i>.<s n="sent"/></i></e>

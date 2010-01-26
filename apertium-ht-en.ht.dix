@@ -511,6 +511,14 @@
         </p>
       </e>
     </pardef>
+    <pardef n="anyen__prn">
+      <e>
+        <p>
+          <l></l>
+          <r><s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r>
+        </p>
+      </e>
+    </pardef>
   </pardefs>
   <section id="main" type="standard">
     <e lm="liv"><i>liv</i><par n="liv__n"/></e>
@@ -1870,6 +1878,36 @@
     <e lm="presizyon"><i>presizyon</i><par n="liv__n"/></e>
     <e lm="pwosesis"><i>pwosesis</i><par n="liv__n"/></e>
     <e lm="anbasad"><i>anbasad</i><par n="liv__n"/></e>
+    <e lm="van"><i>van</i><par n="liv__n"/></e>
+    <e lm="vant"><i>vant</i><par n="liv__n"/></e>
+    <e lm="vant-fè-mal"><i>vant-fè-mal</i><par n="liv__n"/></e>
+    <e lm="abitan"><i>abitan</i><par n="liv__n"/></e>
+    <e lm="zabitan"><i>zabitan</i><par n="liv__n"/></e>
+    <e lm="afè"><i>afè</i><par n="liv__n"/></e>
+    <e lm="afranchi"><i>afranchi</i><par n="liv__n"/></e>
+    <e lm="akasan"><i>akasan</i><par n="liv__n"/></e>
+    <e lm="alimèt"><i>alimèt</i><par n="liv__n"/></e>
+    <e lm="amonika"><i>amonika</i><par n="liv__n"/></e>
+    <e lm="apranti"><i>apranti</i><par n="liv__n"/></e>
+    <e lm="aran"><i>aran</i><par n="liv__n"/></e>
+    <e lm="asowosi"><i>asowosi</i><par n="liv__n"/></e>
+    <e lm="ason"><i>ason</i><par n="liv__n"/></e>
+    <e lm="asyèt"><i>asyèt</i><par n="liv__n"/></e>
+    <e lm="atabisyon"><i>atabisyon</i><par n="liv__n"/></e>
+    <e lm="avalwa"><i>avalwa</i><par n="liv__n"/></e>
+    <e lm="avni"><i>avni</i><par n="liv__n"/></e>
+    <e lm="awozwa"><i>awozwa</i><par n="liv__n"/></e>
+    <e lm="ayopò"><i>ayopò</i><par n="liv__n"/></e>
+    <e lm="andui"><i>andui</i><par n="liv__n"/></e>
+    <e lm="angrè"><i>angrè</i><par n="liv__n"/></e>
+    <e lm="anmizman"><i>anmizman</i><par n="liv__n"/></e>
+    <e lm="anperè"><i>anperè</i><par n="liv__n"/></e>
+    <e lm="ansasen"><i>ansasen</i><par n="liv__n"/></e>
+    <e lm="antchoutchout"><i>antchoutchout</i><par n="liv__n"/></e>
+    <e lm="antyoutyout"><i>antyoutyout</i><par n="liv__n"/></e>
+    <e lm="antèman"><i>antèman</i><par n="liv__n"/></e>
+    <e lm="antòs"><i>antòs</i><par n="liv__n"/></e>
+
     <e lm="kolonbyen"><i>kolonbyen</i><par n="lib__adj"/></e>
 
     <e lm="viral"><i>viral</i><par n="lib__adj"/></e>
@@ -1913,6 +1951,13 @@
     <e lm="moun"><i>moun</i><par n="lib__adj"/></e>
     <e lm="tris"><i>tris</i><par n="lib__adj"/></e>
     <e lm="gwo"><i>gwo</i><par n="lib__adj"/></e>
+    <e lm="afè pa bon"><i>afè<b/>pa<b/>bon</i><par n="lib__adj"/></e>
+    <e lm="alamòd"><i>alamòd</i><par n="lib__adj"/></e>
+    <e lm="asfalte"><i>asfalte</i><par n="lib__adj"/></e>
+    <e lm="anmè"><i>anmè</i><par n="lib__adj"/></e>
+    <e lm="an pàn"><i>an<b/>pàn</i><par n="lib__adj"/></e>
+    <e lm="anplwaye"><i>anplwaye</i><par n="lib__adj"/></e>
+    <e lm="angòje"><i>angòje</i><par n="lib__adj"/></e>
     <e lm="vivan"><i>vivan</i><par n="lib__adj"/></e>
     <e lm="atifisyèl"><i>atifisyèl</i><par n="lib__adj"/></e>
     <e lm="biseksyèl"><i>biseksyèl</i><par n="lib__adj"/></e>
@@ -2047,9 +2092,12 @@
     <e lm="pouri ke"><i>pouri<b/>ke</i><par n="si__cnjadv"/></e>
     <e lm="paske"><i>paske</i><par n="si__cnjadv"/></e>
     <e lm="akòz"><i>akòz</i><par n="si__cnjadv"/></e>
+    <e lm="alò"><i>alò</i><par n="si__cnjadv"/></e>
+    <e lm="anvan"><i>anvan</i><par n="si__cnjadv"/></e>
 
     <e lm="prpers"><i></i><par n="prpers__prn"/></e>
     <e lm="okenn"><i>okenn</i><par n="okenn__prn"/></e>
+    <e lm="anyen"><i>anyen</i><par n="anyen__prn"/></e>
 
     <e lm="vle"><i>vle</i><par n="vle__vbmod"/></e>
     <e lm="se"><i>s</i><par n="s/e__vbser"/></e>
@@ -2060,6 +2108,8 @@
     <e lm="kap"><i>kap</i><par n="ka__vaux"/></e>
     <e lm="dwe"><i>dwe</i><par n="ka__vaux"/></e>
     <e lm="mèt"><i>mèt</i><par n="ka__vaux"/></e>
+    <e lm="ann"><i>ann</i><par n="ka__vaux"/></e>
+    <e c="fairly sure these are the same.." lm="ann"><p><l>annou</l><r>ann</r></p><par n="ka__vaux"/></e>
 
     <e lm="chanje"><i>chanje</i><par n="chanje__vblex"/></e>
     <e lm="panike"><i>panike</i><par n="chanje__vblex"/></e>
@@ -2168,6 +2218,26 @@
     <e lm="vote"><i>vote</i><par n="chanje__vblex"/></e>
     <e lm="kraze"><i>kraze</i><par n="chanje__vblex"/></e>
     <e lm="voye"><i>voye</i><par n="chanje__vblex"/></e>
+    <e lm="ranje"><i>ranje</i><par n="chanje__vblex"/></e>
+    <e lm="vale"><i>vale</i><par n="chanje__vblex"/></e>
+    <e lm="vann"><i>vann</i><par n="chanje__vblex"/></e>
+    <e lm="vanse"><i>vanse</i><par n="chanje__vblex"/></e>
+    <e lm="renmen"><i>renmen</i><par n="chanje__vblex"/></e>
+    <e lm="abiye"><i>abiye</i><par n="chanje__vblex"/></e>
+    <e lm="abiye bwòdè"><i>abiye<b/>bwòdè</i><par n="chanje__vblex"/></e>
+    <e lm="akouche"><i>akouche</i><par n="chanje__vblex"/></e>
+    <e lm="ame"><i>ame</i><par n="chanje__vblex"/></e>
+    <e lm="anonse"><i>anonse</i><par n="chanje__vblex"/></e>
+    <e lm="aprann"><i>aprann</i><par n="chanje__vblex"/></e>
+    <e lm="asepte"><i>asepte</i><par n="chanje__vblex"/></e>
+    <e lm="avèti"><i>avèti</i><par n="chanje__vblex"/></e>
+    <e lm="anmize"><i>anmize</i><par n="chanje__vblex"/></e>
+    <e lm="anpeche"><i>anpeche</i><par n="chanje__vblex"/></e>
+    <e lm="anrimen"><i>anrimen</i><par n="chanje__vblex"/></e>
+    <e lm="anrimen"><i>anrimen</i><par n="chanje__vblex"/></e>
+    <e lm="ansasinen"><i>ansasinen</i><par n="chanje__vblex"/></e>
+    <e lm="antann"><i>antann</i><par n="chanje__vblex"/></e>
+    <e lm="antrave"><i>antrave</i><par n="chanje__vblex"/></e>
 
     <e lm="te"><i>te</i><par n="te__part"/></e>
     <e lm="a"><i>a</i><par n="te__part"/></e>
@@ -2188,6 +2258,7 @@
     <e lm="bonswa"><i>bonswa</i><par n="souple__ij"/></e>
     <e lm="byensi"><i>byensi</i><par n="souple__ij"/></e>
     <e lm="oke"><i>oke</i><par n="souple__ij"/></e>
+    <e lm="apa"><i>apa</i><par n="souple__ij"/></e>
 
     <e lm="koumon"><i>koumon</i><par n="koumon__adv"/></e>
     <e lm="èske"><i>èske</i><par n="koumon__adv"/></e>
@@ -2272,6 +2343,30 @@
     <e lm="mwatye"><i>mwatye</i><par n="isit__adv"/></e>
     <e lm="depi"><i>depi</i><par n="isit__adv"/></e>
     <e lm="depi kilè"><i>depi<b/>kilè</i><par n="isit__adv"/></e>
+    <e lm="ajenou"><i>ajenou</i><par n="isit__adv"/></e>
+    <e lm="a ki lè"><i>a<b/>ki<b/>lè</i><par n="isit__adv"/></e>
+    <e lm="alèkile"><i>alèkile</i><par n="isit__adv"/></e>
+    <e lm="alèkile"><i>alèkile</i><par n="isit__adv"/></e>
+    <e lm="a midi"><i>a<b/>midi</i><par n="isit__adv"/></e>
+    <e lm="apeprè"><i>apeprè</i><par n="isit__adv"/></e>
+    <e lm="anvanyè"><i>anvanyè</i><par n="isit__adv"/></e>
+    <e lm="ase"><i>ase</i><par n="isit__adv"/></e>
+    <e lm="aswè-a"><i>aswè-a</i><par n="isit__adv"/></e>
+    <e lm="atè"><i>atè</i><par n="isit__adv"/></e>
+    <e lm="atò"><i>atò</i><par n="isit__adv"/></e>
+    <e lm="anba chal"><i>anba<b/>chal</i><par n="isit__adv"/></e>
+    <e lm="an chantan"><i>an<b/>chantan</i><par n="isit__adv"/></e>
+    <e lm="an detay"><i>an<b/>detay</i><par n="isit__adv"/></e>
+    <e lm="andeyò"><i>andeyò</i><par n="isit__adv"/></e>
+    <e lm="an dyagonal"><i>an<b/>dyagonal</i><par n="isit__adv"/></e>
+    <e lm="anfòm"><i>anfòm</i><par n="isit__adv"/></e>
+    <e lm="ankò"><i>ankò</i><par n="isit__adv"/></e>
+    <e lm="anlè"><i>anlè</i><par n="isit__adv"/></e>
+    <e lm="annik"><i>annik</i><par n="isit__adv"/></e>
+    <e lm="an rapò"><i>an<b/>rapò</i><par n="isit__adv"/></e>
+    <e lm="anreta"><i>anreta</i><par n="isit__adv"/></e>
+    <e lm="ansamn"><i>ansamn</i><par n="isit__adv"/></e>
+    <e lm="antouka"><i>antouka</i><par n="isit__adv"/></e>
 
     <e lm="premye"><i>premye</i><par n="premye__det"/></e>
     <e lm="dènye"><i>dènye</i><par n="premye__det"/></e>
@@ -2454,6 +2549,8 @@
     <e lm="pou"><i>pou</i><par n="an__pr"/></e>
     <e lm="sou"><i>sou</i><par n="an__pr"/></e>
     <e lm="kòm"><i>kòm</i><par n="an__pr"/></e>
+    <e lm="anba"><i>anba</i><par n="an__pr"/></e>
+    <e lm="anfas"><i>anfas</i><par n="an__pr"/></e>
 
     <e lm="zewo"><i>zewo</i><par n="en__num"/></e>
     <e lm="en"><i>en</i><par n="en__num"/></e>
