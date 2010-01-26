@@ -5,11 +5,27 @@
     <def-cat n="nom">
       <cat-item name="nom"/>
     </def-cat>
+    <def-cat n="prn">
+      <cat-item name="prn"/>
+    </def-cat>
+    <def-cat n="det_nom">
+      <cat-item name="det_nom"/>
+      <cat-item name="det_nom.*"/>
+    </def-cat>
   </section-def-cats>
 
   <section-def-attrs>
     <def-attr n="a_adj">
       <attr-item tags="adj"/>
+    </def-attr>
+    <def-attr n="a_nom">
+      <attr-item tags="n"/>
+      <attr-item tags="n.acr"/>
+      <attr-item tags="n.unc"/>
+      <attr-item tags="np.top"/>
+      <attr-item tags="np.al"/>
+      <attr-item tags="np.org"/>
+      <attr-item tags="np.ant"/>
     </def-attr>
     <def-attr n="gen">
       <attr-item tags="m"/>
@@ -27,18 +43,56 @@
       <attr-item tags="ind"/>
       <attr-item tags="def"/>
     </def-attr>
+    <def-attr n="pers">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+    </def-attr>
   </section-def-attrs>
 
   <section-def-vars>
     <def-var n="c_defnes"/>
   </section-def-vars>
 
+  <section-def-macros>
+    <def-macro n="clean_prn" npar="1"
+               c="If gender hasn't been set by now, take a guess.">
+      <choose>
+        <when>
+          <test>
+            <and>
+              <equal>
+                <clip pos="1" part="pers"/> 
+                <lit-tag v="p3"/>
+              </equal>
+              <equal>
+                <clip pos="1" part="nbr"/> 
+                <lit-tag v="sg"/>
+              </equal>
+              <equal>
+                <clip pos="1" part="gen"/> 
+                <lit-tag v="mf"/>
+              </equal>
+            </and>
+          </test>
+          <let>
+            <clip pos="1" part="gen"/>
+            <lit-tag v="m"/>
+          </let>
+        </when>
+      </choose>
+    </def-macro>
+  </section-def-macros>
+
   <section-rules>
-    <rule comment="CHUNK: nom">
+    <rule comment="CHUNK: PRN">
       <pattern>
-        <pattern-item n="nom"/>
+        <pattern-item n="prn"/>
       </pattern>
       <action>
+        <call-macro n="clean_prn">
+          <with-param pos="1"/>
+        </call-macro>
         <out>
           <lu>
             <clip pos="1" part="whole"/>
