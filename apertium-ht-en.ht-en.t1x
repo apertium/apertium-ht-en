@@ -1284,6 +1284,36 @@
         </out>
       </action>
     </rule>
+    
+    <rule comment="REGLA: NP POSTDET     Ayiti a => Haiti">
+      <pattern>
+        <pattern-item n="np"/>
+        <pattern-item n="postdet"/>
+      </pattern>
+      <action>
+        <call-macro n="firstWord">
+          <with-param pos="1"/>
+        </call-macro>
+        <call-macro n="canvi_postdet1">
+          <with-param pos="2"/>
+        </call-macro>
+        <out>
+          <chunk name="nom" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><var n="nbr_chunk"/></tag>
+            </tags>
+            <b pos="1"/>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="nbr"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
     <rule comment="REGLA: NOM POSTDET">
       <pattern>
         <pattern-item n="nom"/>
