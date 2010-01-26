@@ -1907,6 +1907,7 @@
     <e lm="antyoutyout"><i>antyoutyout</i><par n="liv__n"/></e>
     <e lm="antèman"><i>antèman</i><par n="liv__n"/></e>
     <e lm="antòs"><i>antòs</i><par n="liv__n"/></e>
+    <e lm="semèn"><i>semèn</i><par n="liv__n"/></e>
 
     <e lm="kolonbyen"><i>kolonbyen</i><par n="lib__adj"/></e>
 
@@ -2278,7 +2279,6 @@
     <e lm="trè"><i>trè</i><par n="pi__preadv"/></e>
 
     <e lm="isit"><i>isit</i><par n="isit__adv"/></e>
-    <e lm="plis pase yon semèn"><i>plis<b/>pase<b/>yon<b/>semèn</i><par n="isit__adv"/></e>
     <e lm="soutou"><i>soutou</i><par n="isit__adv"/></e>
     <e lm="tanpri"><i>tanpri</i><par n="isit__adv"/></e>
     <e lm="anba"><i>anba</i><par n="isit__adv"/></e>
@@ -2551,6 +2551,7 @@
     <e lm="kòm"><i>kòm</i><par n="an__pr"/></e>
     <e lm="anba"><i>anba</i><par n="an__pr"/></e>
     <e lm="anfas"><i>anfas</i><par n="an__pr"/></e>
+    <e lm="plis pase"><i>plis<b/>pase</i><par n="an__pr"/></e>
 
     <e lm="zewo"><i>zewo</i><par n="en__num"/></e>
     <e lm="en"><i>en</i><par n="en__num"/></e>
