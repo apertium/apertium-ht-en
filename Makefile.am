@@ -78,11 +78,11 @@ install-data-local:
 	apertium-gen-modes modes.xml apertium-$(PREFIX1)
 	rm -rf modes
 	mv modes.bak modes
-	test -d $(apertium_ht_modesdir) || mkdir $(apertium_ht_modesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(apertium_ht_modesdir)
+	test -d $(DESTDIR)$(apertium_ht_modesdir) || mkdir $(DESTDIR)$(apertium_ht_modesdir)
+	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_ht_modesdir)
 	rm $(PREFIX1).mode 
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(apertium_ht_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(apertium_ht_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(apertium_ht_endir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_ht_endir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_ht_endir)
+	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_ht_endir)
 
 CLEANFILES = -rf $(TARGETS_COMMON) modes
