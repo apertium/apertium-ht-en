@@ -4,7 +4,7 @@
 AC_PREREQ(2.52)
 
 m4_define([required_apertium_version], [3.0.0])
-m4_define([required_lttolbox_version], [3.1.2])
+m4_define([required_lttoolbox_version], [3.1.2])
 
 AC_INIT([apertium-ht-en], [0.1.0], [jimregan@users.sourceforge.net])
 AM_INIT_AUTOMAKE([apertium-ht-en], [0.1.0], no-define)
