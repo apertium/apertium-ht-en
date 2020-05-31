@@ -1,4 +1,3 @@
-VERSION=0.1.0
 LANG1=ht
 LANG2=en
 PREFIX1=$(LANG1)-$(LANG2)
@@ -8,9 +7,7 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON = $(PREFIX1).automorf.bin $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin $(PREFIX1).autopgen.bin 
 
-modes/$(PREFIX1).mode: modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
+@ap_include@
 
 $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix $(BASENAME).$(LANG1).acx
 	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
@@ -61,7 +58,6 @@ clean-dicts:
 	rm $(BASENAME).post-$(LANG2).dix
 
 apertium_ht_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_ht_modesdir=$(prefix)/share/apertium/modes/
 
 apertium_ht_en_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).autobil.bin \
@@ -70,17 +66,9 @@ apertium_ht_en_DATA=$(PREFIX1).automorf.bin \
                     $(PREFIX1).prob \
 		    $(PREFIX1).t1x.bin \
 		    $(PREFIX1).t2x.bin \
-		    $(PREFIX1).t3x.bin \
-	            modes/$(PREFIX1).mode modes.xml
+		    $(PREFIX1).t3x.bin
 
-install-data-local:
-	mv modes modes.bak
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	rm -rf modes
-	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_ht_modesdir) || mkdir $(DESTDIR)$(apertium_ht_modesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_ht_modesdir)
-	rm $(PREFIX1).mode 
+install-data-local: install-modes
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_ht_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_ht_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_ht_endir)
