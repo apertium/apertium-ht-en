@@ -1,0 +1,110 @@
+[2JlBCbwHmhsw#0] ^Prn<SN><subj><p1><mf><pl>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><pres>$ ^go<vblex><ger>$ ^to<pr>$ ^work<vblex><inf>$}$
+[/2JlBCbwHmhsw]
+[4MkowNULaq4S#0] ^Prn<SN><subj><p1><mf><sg>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><pres>$ ^work<vblex><ger>$}$ ^default<default>{^right now<adv>$}$
+[/4MkowNULaq4S]
+[5eZx55zu3et7#0] ^Prn<SN><subj><p1><mf><sg>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^would<vaux><inf>$ ^come<vblex><inf>$}$ ^cnj<cnjsub>{^if<cnjsub>$}$ ^prn<SN><subj><p1><mf><sg>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^have<vbhaver><2>$}$ ^det_nom<SN><sg>{^a<det><ind><2>$ ^car<n><2>$}$
+[/5eZx55zu3et7]
+[8p1FYvSXCAhs#0] ^Prn<SN><subj><p1><mf><sg>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><past>$ ^work<vblex><ger>$}$
+[/8p1FYvSXCAhs]
+[8pVKS8oT2jYy#0] ^default<default>{^your<det><pos><sg>$}$ ^verb<SV><pres>{^love<vblex><2>$}$
+[/8pVKS8oT2jYy]
+[8ujg2TDr-j90#0] ^Num<SN>{^12<num>$}$ ^det_nom<SN><ND>{^the<det><def><sp>$ ^January<n><2>$}$
+[/8ujg2TDr-j90]
+[9DV_XohPc9hz#0] ^verb<SV><past>{^read<vblex><2>$}$ ^vfin<SV><past>{^work<vblex><2>$}$
+[/9DV_XohPc9hz]
+[BGZmTi21qd9e#0] ^Det_nom<SN><ND>{^the<det><def><sp>$ ^dog<n><2>$}$
+[/BGZmTi21qd9e]
+[Bl4gjof1KHcg#0] ^default<default>{^your<det><pos><sg>$}$ ^verb<SV><past>{^work<vblex><2>$}$
+[/Bl4gjof1KHcg]
+[Bvml02TBBVOs#0] ^Det_nom<SN><ND>{^the<det><def><sp>$ ^house<n><2>$}$
+[/Bvml02TBBVOs]
+[Eh79M8tnnAx1#0] ^Nom<SN><ND>{ ^haiti<np><top><sg>$}$
+[/Eh79M8tnnAx1]
+[H2ItMvhiFnNi#0] ^Nom<SN><ND>{^cat<n><2>$}$ ^default<default>{^Pyè<np><ant><m><sg>$}$ ^default<default>{^the<det><def><sp>$}$
+[/H2ItMvhiFnNi]
+[H7Uv0qdwyVq3#0] ^Prn<SN><subj><p3><mf><pl>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><pres>$ ^go<vblex><ger>$ ^to<pr>$ ^work<vblex><inf>$}$
+[/H7Uv0qdwyVq3]
+[IDQ6bk6HanLb#0] ^Prn<SN><subj><p2><mf><sp>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><past>$ ^work<vblex><ger>$}$
+[/IDQ6bk6HanLb]
+[J87Zy10lal26#0] ^Det_nom<SN><ND>{^the<det><def><sp>$ ^wall<n><2>$}$
+[/J87Zy10lal26]
+[JV7sp8dlxX-N#0] ^Det_nom<SN><ND>{^the<det><def><sp>$ ^bank<n><2>$}$
+[/JV7sp8dlxX-N]
+[Mc1XKrqgqrHR#0] ^Prn<SN><subj><p1><mf><pl>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><past>$ ^work<vblex><ger>$}$
+[/Mc1XKrqgqrHR]
+[Mzxffa2rU8Ma#0] ^default<default>{^Woz<np><ant><f><sg>$}$ ^default<default>{^not<adv>$}$ ^verb_verb<SV><past>{^want<vbmod><2># to$ ^to<pr>$ ^go<vblex><inf>$}$
+[/Mzxffa2rU8Ma]
+[O0Y4KZHlBINZ#0] ^Nom<SN><ND>{^father<n><2>$}$ ^nom<SN><ND>{^neighbour<n><2>$}$ ^det_nom<SN><ND>{^our<det><pos><sg>$ ^friend<n><2>$}$
+[/O0Y4KZHlBINZ]
+[QUTmB3OYHQAu#0] ^Prn<SN><subj><p1><mf><pl>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><pres>$ ^work<vblex><ger>$}$
+[/QUTmB3OYHQAu]
+[R3PsFIp6NQmM#0] ^Det_nom<SN><ND>{^the<det><def><sp>$ ^bridge<n><2>$}$
+[/R3PsFIp6NQmM]
+[RBQtuEY1O0LG#0] ^Det_nom<SN><pl>{^various<det><ind><2>$ ^language<n><2>$}$
+[/RBQtuEY1O0LG]
+[S4nbl6b6Uqg4#0] ^Prn<SN><subj><p2><mf><sp>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^work<vblex><2>$}$
+[/S4nbl6b6Uqg4]
+[T1qOZuylBLuM#0] ^Det_nom<SN><ND>{^the<det><def><sp>$ ^lamp<n><2>$}$
+[/T1qOZuylBLuM]
+[TF7gljSRtTRT#0] ^Prn<SN><subj><p3><mf><pl>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><past>$ ^work<vblex><ger>$}$
+[/TF7gljSRtTRT]
+[Tkh7J2eXl72f#0] ^Prn<SN><subj><p1><mf><sg>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><pres>$ ^go<vblex><ger>$ ^to<pr>$ ^work<vblex><inf>$}$
+[/Tkh7J2eXl72f]
+[UyK6xWawvfxJ#0] ^Prn<SN><subj><p1><mf><sg>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><pres>$ ^work<vblex><ger>$}$
+[/UyK6xWawvfxJ]
+[WavKhmFlB8bl#0] ^Det_nom<SN><sg>{^a<det><ind><2>$ ^tie<n><2>$}$
+[/WavKhmFlB8bl]
+[ZfFj5mc6Wi5h#0] ^Nom<SN><ND>{^chair<n><2>$}$ ^default<default>{^Mari<np><ant><f><sg>$}$ ^default<default>{^the<det><def><sp>$}$
+[/ZfFj5mc6Wi5h]
+[_5flmAVY2lrG#0] ^Prn<SN><subj><p1><mf><pl>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^work<vblex><2>$}$
+[/_5flmAVY2lrG]
+[_88eYfbw3W99#0] ^verb<SV><past>{^read<vblex><2>$}$ ^vfin<SV><past>{^be<vbser><pres>$ ^go<vblex><ger>$ ^to<pr>$ ^work<vblex><inf>$}$
+[/_88eYfbw3W99]
+[_Co-kDhElFUl#0] ^Prn<SN><subj><p3><mf><pl>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^work<vblex><2>$}$
+[/_Co-kDhElFUl]
+[_ruU-rJTwYCs#0] ^Nom<SN><ND>{^car<n><2>$}$ ^nan<PREP>{^in<pr>$}$
+[/_ruU-rJTwYCs]
+[apPIUSYScSTa#0] ^Det_nom<SN><pl>{^the<det><def><2>$ ^car<n><2>$}$
+[/apPIUSYScSTa]
+[b5Y0ITTjmrZ0#0] ^Prn<SN><subj><p3><mf><pl>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^would<vaux><inf>$ ^like<vblex><inf>$}$ ^verb<SV><past>{^play<vblex><2>$}$
+[/b5Y0ITTjmrZ0]
+[cXq3goAkCo9E#0] ^Nom<SN><ND>{^telephone<n><2>$}$ ^nan<PREP>{^in<pr>$}$
+[/cXq3goAkCo9E]
+[i9tVtmdJEzav#0] ^Prn<SN><subj><p2><mf><sp>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><pres>$ ^go<vblex><ger>$ ^to<pr>$ ^work<vblex><inf>$}$
+[/i9tVtmdJEzav]
+[pBUwDhn3MtOj#0] ^Prn<SN><subj><p1><mf><sg>{^prpers<prn><2><3><4><5>$}$ ^default<default>{^@fèk<part>$}$ ^default<default>{^@sòt<part>$}$ ^verb<SV><past>{^enter<vblex><2>$}$ ^det_nom<SN><ND>{^the<det><def><sp>$ ^house<n><2>$}$
+[/pBUwDhn3MtOj]
+[pV7axNfVhMlA#0] ^default<default>{^Woz<np><ant><f><sg>$}$ ^default<default>{^not<adv>$}$ ^unknown<unknown>{^*t$}$ ^verb_verb<SV><past>{^want<vbmod><2># to$ ^to<pr>$ ^go<vblex><inf>$}$
+[/pV7axNfVhMlA]
+[pXkKoqfCXzVy#0] ^Prn<SN><subj><p3><mf><sg>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><pres>$ ^work<vblex><ger>$}$
+[/pXkKoqfCXzVy]
+[ph5pH8-TS-u4#0] ^Det_nom<SN><ND>{^the<det><def><sp>$ ^knife<n><2>$}$
+[/ph5pH8-TS-u4]
+[pmVEAt3oC4Ll#0] ^Det_nom<SN><sg>{^a<det><ind><2>$ ^knife<n><2>$}$
+[/pmVEAt3oC4Ll]
+[pzb1E8nPYbRp#0] ^Prn<SN><subj><p3><mf><pl>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><pres>$ ^work<vblex><ger>$}$
+[/pzb1E8nPYbRp]
+[q80jKQtFCydf#0] ^Det_nom<SN><ND>{^the<det><def><sp>$ ^book<n><2>$}$
+[/q80jKQtFCydf]
+[qvtlw2b6-rLR#0] ^default<default>{^Let's<vbhaver>$}$ ^verb<SV><past>{^ask<vblex><2>$}$ ^default<default>{^a<det><ind><sg>$}$ ^default<default>{^human<adj>$}$
+[/qvtlw2b6-rLR]
+[saxl0CjHLPp-#0] ^Det_nom<SN><ND>{^the<det><def><sp>$ ^tie<n><2>$}$
+[/saxl0CjHLPp-]
+[t9wvmKZvMNga#0] ^Det_nom<SN><sg>{^the same<det><ind><2>$ ^animal<n><2>$}$ ^vfin<SV><pres>{^can<vaux><2>$ ^not<adv>$ ^live<vblex><inf>$}$ ^default<default>{^like that<adv>$}$
+[/t9wvmKZvMNga]
+[tPL_h6TL_ioy#0] ^Det_nom<SN><ND>{^the<det><def><sp>$ ^country<n><2>$}$
+[/tPL_h6TL_ioy]
+[uSm-o063SbqS#0] ^Det_nom<SN><pl>{^the<det><def><2>$ ^book<n><2>$}$
+[/uSm-o063SbqS]
+[v1XcGi2vjbcw#0] ^Det_nom<SN><ND>{^the<det><def><sp>$ ^family<n><2>$}$
+[/v1XcGi2vjbcw]
+[vbFI5L3pCbFw#0] ^verb<SV><past>{^read<vblex><2>$}$ ^vfin<SV><past>{^be<vbser><past>$ ^work<vblex><ger>$}$
+[/vbFI5L3pCbFw]
+[w9nnk298b-AG#0] ^Nom<SN><ND>{^woman<n><2>$}$ ^nan<PREP>{^in<pr>$}$
+[/w9nnk298b-AG]
+[xrj-q6sdBvXd#0] ^Prn<SN><subj><p2><mf><sp>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^be<vbser><pres>$ ^work<vblex><ger>$}$
+[/xrj-q6sdBvXd]
+[y1J-o3J0tQ61#0] ^Prn<SN><subj><p1><mf><sg>{^prpers<prn><2><3><4><5>$}$ ^vfin<SV><past>{^work<vblex><2>$}$
+[/y1J-o3J0tQ61]
+[zx-zZ6pg8LkP#0] ^Nom<SN><ND>{^friend<n><2>$}$ ^nom<SN><ND>{^father<n><2>$}$ ^default<default>{^Jan<np><ant><m><sg>$}$
+[/zx-zZ6pg8LkP]

@@ -19,3 +19,5 @@
 /missing
 /modes
 /stamp-h1
+/test/*-output.txt
+/ap_include.am
